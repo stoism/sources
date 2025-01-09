@@ -47,22 +47,22 @@
     "Wordlist 6"
   ],
   "wordlistsEnabled": false,
-  "words": {"1 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "1 triệuֹֹ"}
-,"2 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "2 triệuֹֹ"}
-,"3 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "3 triệuֹֹ"}
-,"4 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "4 triệuֹֹ"}
-,"5 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "5 triệuֹֹ"}
-,"6 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "6 triệuֹֹ"}
-,"7 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "7 triệuֹֹ"}
-,"8 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "8 triệuֹֹ"}
-,"9 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "9 triệuֹֹ"}
-,"10 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "10 triệuֹֹ"}
-,"11 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "11 triệuֹֹ"}
-,"12 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "12 triệuֹֹ"}
-,"13 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "13 triệuֹֹ"}
-,"14 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "14 triệuֹֹ"}
-,"15 củ": {"case": 0,"lists": [Tu long],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "15 triệuֹֹ"}
-,"ạ": {"case": 1,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "[Dạ]ֹ"}
+  "words": {"1 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "1 triệuֹֹ"}
+,"2 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "2 triệuֹֹ"}
+,"3 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "3 triệuֹֹ"}
+,"4 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "4 triệuֹֹ"}
+,"5 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "5 triệuֹֹ"}
+,"6 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "6 triệuֹֹ"}
+,"7 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "7 triệuֹֹ"}
+,"8 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "8 triệuֹֹ"}
+,"9 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "9 triệuֹֹ"}
+,"10 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "10 triệuֹֹ"}
+,"11 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "11 triệuֹֹ"}
+,"12 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "12 triệuֹֹ"}
+,"13 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "13 triệuֹֹ"}
+,"14 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "14 triệuֹֹ"}
+,"15 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "15 triệuֹֹ"}
+,"ạ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "nhaֹֹ"}
 ,"ắc quy": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "bình trữ điệnֹֹ"}
 ,"biển báo": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "bảng báoֹֹ"}
 ,"biển chỉ dẫn": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "bảng chỉ dẫnֹֹ"}
@@ -140,6 +140,7 @@
 ,"khủng bố việt tân": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Việt Tânֹֹ"}
 ,"kim jong un": {"case": 1,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "KimJongUn☠ֹ"}
 ,"kim jong-un": {"case": 1,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "KimJongUn☠ֹ"}
+,"làm nốt": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "làm luônֹֹ"}
 ,"liên hệ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "liên lạcֹֹ"}
 ,"lính thủy đánh bộ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "lục quânֹֹ"}
 ,"lĩnh lương": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "lãnh lươngֹֹ"}
@@ -166,6 +167,7 @@
 ,"nước dùng": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "nước lèoֹֹ"}
 ,"nốt": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xongֹ;luônֹֹ"}
 ,"nút giao thông": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ngã đườngֹֹ"}
+,"nút giao": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ngã đườngֹֹ"}
 ,"phá cỗ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ăn tiệcֹֹ"}
 ,"phương tiện giao thông": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xeֹֹ"}
 ,"phỉ báng lãnh tụ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "chưởi lãnh đạoֹֹ"}
@@ -240,7 +242,8 @@
 ,"ô tô con": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xe conֹֹ"}
 ,"ô tô tải": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xe tảiֹֹ"}
 ,"ùn tắc": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "kẹt xeֹֹ"}
-,"ùn ứ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "kẹtֹֹ"}},
+,"ùn ứ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "kẹtֹֹ"}
+,"-Cap nhat danh sachֹ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "https://raw.githubusercontent.com/stoism/sources/main/textreplace/AdvancedProfanityFilterList.jsonֹ"}},
   "youTubeAutoMatchCensored": true,
   "youTubeAutoSubsMax": 0,
   "youTubeAutoSubsMin": 0
