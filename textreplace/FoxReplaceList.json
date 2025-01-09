@@ -1,21 +1,6 @@
 {
   "version": "2.6",
-  "groups": [{"name": "", "urls": [], "substitutions": [{"input": "1 củ", "inputType": "wholewords", "outputType": "text", "output": "1 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "2 củ", "inputType": "wholewords", "outputType": "text", "output": "2 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "3 củ", "inputType": "wholewords", "outputType": "text", "output": "3 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "4 củ", "inputType": "wholewords", "outputType": "text", "output": "4 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "5 củ", "inputType": "wholewords", "outputType": "text", "output": "5 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "6 củ", "inputType": "wholewords", "outputType": "text", "output": "6 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "7 củ", "inputType": "wholewords", "outputType": "text", "output": "7 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "8 củ", "inputType": "wholewords", "outputType": "text", "output": "8 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "9 củ", "inputType": "wholewords", "outputType": "text", "output": "9 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "10 củ", "inputType": "wholewords", "outputType": "text", "output": "10 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "11 củ", "inputType": "wholewords", "outputType": "text", "output": "11 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "12 củ", "inputType": "wholewords", "outputType": "text", "output": "12 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "13 củ", "inputType": "wholewords", "outputType": "text", "output": "13 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "14 củ", "inputType": "wholewords", "outputType": "text", "output": "14 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "15 củ", "inputType": "wholewords", "outputType": "text", "output": "15 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "ạ", "inputType": "wholewords", "outputType": "text", "output": "[Dạ]ֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+  "groups": [{"name": "", "urls": [], "substitutions": [{"input": "ạ", "inputType": "wholewords", "outputType": "text", "output": "nhaֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "ắc quy", "inputType": "wholewords", "outputType": "text", "output": "bình trữ điệnֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "biển báo", "inputType": "wholewords", "outputType": "text", "output": "bảng báoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "biển chỉ dẫn", "inputType": "wholewords", "outputType": "text", "output": "bảng chỉ dẫnֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -79,6 +64,7 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "hào môn", "inputType": "wholewords", "outputType": "text", "output": "môn đăng hộ đốiֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "hạ nghị sĩ", "inputType": "wholewords", "outputType": "text", "output": "dân biểuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "keo nước", "inputType": "wholewords", "outputType": "text", "output": "hồ dánֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "làm nốt", "inputType": "wholewords", "outputType": "text", "output": "làm luônֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "liên hệ", "inputType": "wholewords", "outputType": "text", "output": "liên lạcֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "lính thủy đánh bộ", "inputType": "wholewords", "outputType": "text", "output": "lục quânֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "lĩnh lương", "inputType": "wholewords", "outputType": "text", "output": "lãnh lươngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -105,6 +91,7 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "nước dùng", "inputType": "wholewords", "outputType": "text", "output": "nước lèoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "nốt", "inputType": "wholewords", "outputType": "text", "output": "xongֹ;luônֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "nút giao thông", "inputType": "wholewords", "outputType": "text", "output": "ngã đườngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "nút giao", "inputType": "wholewords", "outputType": "text", "output": "ngã đườngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "phá cỗ", "inputType": "wholewords", "outputType": "text", "output": "ăn tiệcֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "phương tiện giao thông", "inputType": "wholewords", "outputType": "text", "output": "xeֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "phỉ báng lãnh tụ", "inputType": "wholewords", "outputType": "text", "output": "chưởi lãnh đạoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -191,4 +178,19 @@
 ,{"input": "giải phóng hoàn toàn miền nam", "inputType": "wholewords", "outputType": "text", "output": "cưỡng chiếm Miền Namֹֹ", "caseSensitive": false}
 ,{"input": "giải phóng miền nam", "inputType": "wholewords", "outputType": "text", "output": "cưỡng chiếm Miền Namֹֹ", "caseSensitive": false}
 ,{"input": "khủng bố việt tân", "inputType": "wholewords", "outputType": "text", "output": "Việt Tânֹֹ", "caseSensitive": false}
-,{"input": "tuyên truyền", "inputType": "wholewords", "outputType": "text", "output": "tuyênֹ truyền⚠ֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}  ]}
+,{"input": "tuyên truyền", "inputType": "wholewords", "outputType": "text", "output": "tuyênֹ truyền⚠ֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"},{"name": "TuLong", "urls": [], "substitutions": [{"input": "1 củ", "inputType": "wholewords", "outputType": "text", "output": "1 triệuֹֹ", "caseSensitive": false}
+,{"input": "2 củ", "inputType": "wholewords", "outputType": "text", "output": "2 triệuֹֹ", "caseSensitive": false}
+,{"input": "3 củ", "inputType": "wholewords", "outputType": "text", "output": "3 triệuֹֹ", "caseSensitive": false}
+,{"input": "4 củ", "inputType": "wholewords", "outputType": "text", "output": "4 triệuֹֹ", "caseSensitive": false}
+,{"input": "5 củ", "inputType": "wholewords", "outputType": "text", "output": "5 triệuֹֹ", "caseSensitive": false}
+,{"input": "6 củ", "inputType": "wholewords", "outputType": "text", "output": "6 triệuֹֹ", "caseSensitive": false}
+,{"input": "7 củ", "inputType": "wholewords", "outputType": "text", "output": "7 triệuֹֹ", "caseSensitive": false}
+,{"input": "8 củ", "inputType": "wholewords", "outputType": "text", "output": "8 triệuֹֹ", "caseSensitive": false}
+,{"input": "9 củ", "inputType": "wholewords", "outputType": "text", "output": "9 triệuֹֹ", "caseSensitive": false}
+,{"input": "10 củ", "inputType": "wholewords", "outputType": "text", "output": "10 triệuֹֹ", "caseSensitive": false}
+,{"input": "11 củ", "inputType": "wholewords", "outputType": "text", "output": "11 triệuֹֹ", "caseSensitive": false}
+,{"input": "12 củ", "inputType": "wholewords", "outputType": "text", "output": "12 triệuֹֹ", "caseSensitive": false}
+,{"input": "13 củ", "inputType": "wholewords", "outputType": "text", "output": "13 triệuֹֹ", "caseSensitive": false}
+,{"input": "14 củ", "inputType": "wholewords", "outputType": "text", "output": "14 triệuֹֹ", "caseSensitive": false}
+,{"input": "15 củ", "inputType": "wholewords", "outputType": "text", "output": "15 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "Cap nhat danh sach", "urls": ["https://raw.githubusercontent.com/stoism/sources/main/textreplace/FoxReplaceList.json"], "substitutions": [{"input": "-/-//--/", "inputType": "wholewords", "outputType": "text", "output": "---ֹ", "caseSensitive": false}],"html": "output", "enabled": false, "mode": "auto&manual"}  ]}
