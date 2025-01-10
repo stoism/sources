@@ -26,7 +26,6 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "bố mày", "inputType": "wholewords", "outputType": "text", "output": "cha màyֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "bố tao", "inputType": "wholewords", "outputType": "text", "output": "cha taoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "bố vợ", "inputType": "wholewords", "outputType": "text", "output": "cha vợֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "", "urls": [], "substitutions": [{"input": "chuẩn vị bắc", "inputType": "wholewords", "outputType": "text", "output": "hương vị Bắc Kỳֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "chụp ảnh", "inputType": "wholewords", "outputType": "text", "output": "chụp hìnhֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "con lợn", "inputType": "wholewords", "outputType": "text", "output": "con heoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "cá quả", "inputType": "wholewords", "outputType": "text", "output": "cá lócֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -42,6 +41,7 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "cơm rang", "inputType": "wholewords", "outputType": "text", "output": "cơm chiênֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "cảng hàng không", "inputType": "wholewords", "outputType": "text", "output": "phi trườngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "cẩu lương", "inputType": "wholewords", "outputType": "text", "output": "xà nẹoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "chuẩn vị bắc", "inputType": "wholewords", "outputType": "text", "output": "hương vị Bắc Kỳֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "đuối nước", "inputType": "wholewords", "outputType": "text", "output": "chết đuốiֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "đá bóng", "inputType": "wholewords", "outputType": "text", "output": "đá banhֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "đáng yêu", "inputType": "wholewords", "outputType": "text", "output": "dễ thươngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -59,11 +59,13 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "đột quỵ", "inputType": "wholewords", "outputType": "text", "output": "chết bất ngờֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "ga tàu thủy", "inputType": "wholewords", "outputType": "text", "output": "bến tàuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "giấy dán tường", "inputType": "wholewords", "outputType": "text", "output": "bích chươngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "gió to", "inputType": "wholewords", "outputType": "text", "output": "gió lớnֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "hành xử như thế", "inputType": "wholewords", "outputType": "text", "output": "hành xử như vậyֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "hành động như thế", "inputType": "wholewords", "outputType": "text", "output": "hành động như vậyֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "hào môn", "inputType": "wholewords", "outputType": "text", "output": "môn đăng hộ đốiֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "hạ nghị sĩ", "inputType": "wholewords", "outputType": "text", "output": "dân biểuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "keo nước", "inputType": "wholewords", "outputType": "text", "output": "hồ dánֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "lắp biển", "inputType": "wholewords", "outputType": "text", "output": "lắp bảngֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "làm nốt", "inputType": "wholewords", "outputType": "text", "output": "làm luônֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "liên hệ", "inputType": "wholewords", "outputType": "text", "output": "liên lạcֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "lính thủy đánh bộ", "inputType": "wholewords", "outputType": "text", "output": "lục quânֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -101,6 +103,7 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "quả cam", "inputType": "wholewords", "outputType": "text", "output": "trái camֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "quả dừa", "inputType": "wholewords", "outputType": "text", "output": "trái dừaֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "quả ngô", "inputType": "wholewords", "outputType": "text", "output": "trái bắpֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "quá cơ", "inputType": "wholewords", "outputType": "text", "output": "quá đi thôiֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "quả táo", "inputType": "wholewords", "outputType": "text", "output": "trái táoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "quả đào", "inputType": "wholewords", "outputType": "text", "output": "trái đàoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "rẽ phải", "inputType": "wholewords", "outputType": "text", "output": "quẹo phảiֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -117,6 +120,7 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "thế nào", "inputType": "wholewords", "outputType": "text", "output": "ra saoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "thế sao", "inputType": "wholewords", "outputType": "text", "output": "vậy saoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "thịt lợn", "inputType": "wholewords", "outputType": "text", "output": "thịt heoֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
+,{"name": "", "urls": [], "substitutions": [{"input": "thổi còi", "inputType": "wholewords", "outputType": "text", "output": "thổi kènֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "thợ nề", "inputType": "wholewords", "outputType": "text", "output": "thợ hồֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "tiêm phòng", "inputType": "wholewords", "outputType": "text", "output": "chích ngừaֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
 ,{"name": "", "urls": [], "substitutions": [{"input": "tiếp viên", "inputType": "wholewords", "outputType": "text", "output": "chiêu đãi viênֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
@@ -157,10 +161,13 @@
 ,{"name": "", "urls": [], "substitutions": [{"input": "ùn ứ", "inputType": "wholewords", "outputType": "text", "output": "kẹtֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"},{"name": "TenTuyBien", "urls": [], "substitutions": [{"input": "đài loan (trung quốc)", "inputType": "wholewords", "outputType": "text", "output": "Đài Loanֹֹ", "caseSensitive": false}
 ,{"input": "đông lào", "inputType": "wholewords", "outputType": "text", "output": "Việt Namֹֹ", "caseSensitive": false}
 ,{"input": "hamas", "inputType": "wholewords", "outputType": "text", "output": "Ha☠masֹ", "caseSensitive": false}
+,{"input": "hoa kì", "inputType": "wholewords", "outputType": "text", "output": "Hoa Kỳֹֹ", "caseSensitive": false}
+,{"input": "hợp chủng quốc", "inputType": "wholewords", "outputType": "text", "output": "Hợp chúng quốcֹֹ", "caseSensitive": false}
 ,{"input": "kim jong un", "inputType": "wholewords", "outputType": "text", "output": "KimJongUn☠ֹ", "caseSensitive": false}
 ,{"input": "kim jong-un", "inputType": "wholewords", "outputType": "text", "output": "KimJongUn☠ֹ", "caseSensitive": false}
 ,{"input": "putin", "inputType": "wholewords", "outputType": "text", "output": "Pu☠tinֹ", "caseSensitive": false}
 ,{"input": "thành phố hồ chí minh", "inputType": "wholewords", "outputType": "text", "output": "Thành phố Sài Gòn (HCM)ֹֹ", "caseSensitive": false}
+,{"input": "Ho Chi Minh City", "inputType": "wholewords", "outputType": "text", "output": "Saigon Cityֹ", "caseSensitive": false}
 ,{"input": "tp hồ chí minh", "inputType": "wholewords", "outputType": "text", "output": "TP Sài Gòn (HCM)ֹֹ", "caseSensitive": false}
 ,{"input": "tp. hcm", "inputType": "wholewords", "outputType": "text", "output": "Sài Gònֹֹ", "caseSensitive": false}
 ,{"input": "tp. hồ chí minh", "inputType": "wholewords", "outputType": "text", "output": "TP. Sài Gòn (HCM)ֹֹ", "caseSensitive": false}
@@ -177,6 +184,7 @@
 ,{"input": "chống phá đất nước", "inputType": "wholewords", "outputType": "text", "output": "phê phán chính quyềnֹ", "caseSensitive": false}
 ,{"input": "giải phóng hoàn toàn miền nam", "inputType": "wholewords", "outputType": "text", "output": "cưỡng chiếm Miền Namֹֹ", "caseSensitive": false}
 ,{"input": "giải phóng miền nam", "inputType": "wholewords", "outputType": "text", "output": "cưỡng chiếm Miền Namֹֹ", "caseSensitive": false}
+,{"input": "hỗ trợ tài chính", "inputType": "wholewords", "outputType": "text", "output": "cho vay nặng lãi⚠ֹ", "caseSensitive": false}
 ,{"input": "khủng bố việt tân", "inputType": "wholewords", "outputType": "text", "output": "Việt Tânֹֹ", "caseSensitive": false}
 ,{"input": "tuyên truyền", "inputType": "wholewords", "outputType": "text", "output": "tuyênֹ truyền⚠ֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"},{"name": "TuLong", "urls": [], "substitutions": [{"input": "1 củ", "inputType": "wholewords", "outputType": "text", "output": "1 triệuֹֹ", "caseSensitive": false}
 ,{"input": "2 củ", "inputType": "wholewords", "outputType": "text", "output": "2 triệuֹֹ", "caseSensitive": false}
@@ -193,4 +201,4 @@
 ,{"input": "13 củ", "inputType": "wholewords", "outputType": "text", "output": "13 triệuֹֹ", "caseSensitive": false}
 ,{"input": "14 củ", "inputType": "wholewords", "outputType": "text", "output": "14 triệuֹֹ", "caseSensitive": false}
 ,{"input": "15 củ", "inputType": "wholewords", "outputType": "text", "output": "15 triệuֹֹ", "caseSensitive": false}],"html": "output", "enabled": true, "mode": "auto&manual"}
-,{"name": "Cap nhat danh sach", "urls": ["https://raw.githubusercontent.com/stoism/sources/main/textreplace/FoxReplaceList.json"], "substitutions": [{"input": "-/-//--/", "inputType": "wholewords", "outputType": "text", "output": "---ֹ", "caseSensitive": false}],"html": "output", "enabled": false, "mode": "auto&manual"}  ]}
+,{"name": "Cap nhat danh sach", "urls": ["https://raw.githubusercontent.com/stoism/sources/main/textreplace/FoxReplaceList.json"], "substitutions": [{"input": "-Create day 2025/01/10", "inputType": "wholewords", "outputType": "text", "output": "---ֹ", "caseSensitive": false}],"html": "output", "enabled": false, "mode": "auto&manual"}  ]}
