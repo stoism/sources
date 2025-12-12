@@ -5,12 +5,14 @@
   "collectStats": true,
   "contextMenu": true,
   "customAudioSites": null,
-  "darkMode": true,
+  "darkMode": null,
   "defaultSubstitution": "censored",
   "defaultWordMatchMethod": 0,
   "defaultWordRepeat": 0,
   "defaultWordSeparators": 0,
-  "domains": {},
+  "domains": {
+  
+  },
   "enabledDomainsOnly": false,
   "enabledFramesOnly": false,
   "fillerAudio": "",
@@ -39,34 +41,382 @@
   "wordSubSeparator": ";;",
   "wordlistId": 1,
   "wordlists": [
-    "Wordlist 1",
-    "Wordlist 2",
-    "Wordlist 3",
+    "Wordlist All",
+    "Wordlist Normal",
+    "Wordlist Translate",
     "Wordlist 4",
     "Wordlist 5",
     "Wordlist 6"
   ],
-  "wordlistsEnabled": false,
-  "words": {"8 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "8 triệuֹֹ"}
-,"9 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "9 triệuֹֹ"}
-,"10 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "10 triệuֹֹ"}
-,"11 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "11 triệuֹֹ"}
-,"12 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "12 triệuֹֹ"}
-,"13 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "13 triệuֹֹ"}
-,"14 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "14 triệuֹֹ"}
-,"15 củ": {"case": 0,"lists": [3],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "15 triệuֹֹ"}
-,"chính quyền nhân dân": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Đảng Cộng Sảnֹֹ"}
-,"chống nhà nước cộng hòa xhcn việt nam": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹֹ"}
-,"chống nhà nước cộng hòa xã hội chủ nghĩa việt nam": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹֹ"}
-,"chống phá nhà nước cộng hòa xã hội chủ nghĩa việt nam": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹֹ"}
-,"chống phá đảng, nhà nước": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "chống Đảng Cộng Sản, chính quyềnֹֹ"}
-,"chống phá đất nước": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "phê phán chính quyềnֹ"}
-,"giải phóng hoàn toàn miền nam": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "cưỡng chiếm Miền Namֹֹ"}
-,"giải phóng miền nam": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "cưỡng chiếm Miền Namֹֹ"}
-,"hỗ trợ tài chính": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "cho vay nặng lãi⚠ֹ"}
-,"khủng bố việt tân": {"case": 1,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Việt Tânֹֹ"}
-,"tuyên truyền": {"case": 0,"lists": [2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "tuyênֹ truyền⚠ֹ"}
-,"-Cap nhat danh sach -Create day 2025/01/12ֹ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "https://raw.githubusercontent.com/stoism/sources/main/textreplace/AdvancedProfanityFilterList.jsonֹ"}},
+  "wordlistsEnabled": true,
+  "words": {" ạ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ֹ nha"}
+,"ắc quy": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bình trữ điệnֹ"}
+,"biển báo": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bảng báoֹ"}
+,"biển chỉ dẫn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bảng chỉ dẫnֹ"}
+,"biển số": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bảng sốֹ"}
+,"bon mồm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ngon miệngֹ"}
+,"buồn nôn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mắc óiֹ"}
+,"bát mì": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tô mìֹ"}
+,"bát phở": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tô phởֹ"}
+,"bóng đá": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đá banhֹ"}
+,"bút": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "viếtֹ"}
+,"băng rôn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "biểu ngữֹ"}
+,"bảo ban nhau": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "biểu nhauֹ"}
+,"bảo hắn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "biểu hắnֹ"}
+,"bảo họ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "biểu họֹ"}
+,"bảo lãnh thanh toán": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đền tiềnֹ"}
+,"bẩn": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "dơֹ"}
+,"bắp rang": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bắp chiênֹ"}
+,"bể bơi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hồ bơiֹ"}
+,"bể cá": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hồ cáֹ"}
+,"bệnh viện": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "nhà thươngֹ"}
+,"bị bỏng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị phỏngֹ"}
+,"bị đổ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị sậpֹ"}
+,"bị đổ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị ngãֹ"}
+,"bị hỏng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị hưֹ"}
+,"xe hỏng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe hưֹ"}
+,"nhà hỏng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "nhà hưֹ"}
+,"bị ốm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị bịnhֹ"}
+,"bỏng da": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phỏng daֹ"}
+,"bố chồng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cha chồngֹ"}
+,"bố mày": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cha màyֹ"}
+,"bố tao": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cha taoֹ"}
+,"bố vợ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cha vợֹ"}
+,"chụp ảnh": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chụp hìnhֹ"}
+,"[ảnh]": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[Hình]ֹ"}
+,"ảnh:": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "hình:ֹ"}
+,"bức ảnh": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bức hìnhֹ"}
+,"con lợn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "con heoֹ"}
+,"cá quả": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cá lócֹ"}
+,"các bác": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "các anh chịֹ"}
+,"các starup": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "các công ty khởi nghiệpֹ"}
+,"cái bát": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cái chénֹ"}
+,"cái chăn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cái mềnֹ"}
+,"cái mũ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cái nónֹ"}
+,"có bố": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "có chaֹ"}
+,"căn hộ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cái nhàֹ"}
+,"căn nhà": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cái nhàֹ"}
+,"cơ bản": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "căn bảnֹ"}
+,"cơ mà": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "nhưng màֹ"}
+,"cơm chó": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xà nẹoֹ"}
+,"cơm rang": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cơm chiênֹ"}
+,"cảng hàng không": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phi trườngֹ"}
+,"cẩu lương": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xà nẹoֹ"}
+,"chuẩn vị bắc": {"case": 1,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hương vị Bắc Kỳֹ"}
+,"chữa lành": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phục hồiֹ"}
+,"đi chữa lành": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đi phục hồi sức khỏeֹ"}
+,"Chữ thập đỏ": {"case": 1,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hồng Thập Tựֹ"}
+,"củ sạc": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cục sạcֹ"}
+,"đuối nước": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chết đuốiֹ"}
+,"đá bóng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đá banhֹ"}
+,"đánh bạc": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cờ bạcֹ"}
+,"đáng yêu": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dễ thươngֹ"}
+,"đã xem": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đã coiֹ"}
+,"đảm bảo": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bảo đảmֹ"}
+,"đậu phụ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tàu hủֹ"}
+,"đấy": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "đóֹ"}
+,"đất hiếm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tinh khoáng hỗn hợp (rare earth)ֹ"}
+,"đỗ cao": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu caoֹ"}
+,"đỗ rồi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu rồiֹ"}
+,"đỗ thạc sĩ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu thạc sĩֹ"}
+,"đỗ tiến sĩ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu tiến sĩֹ"}
+,"đỗ xe": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu xeֹ"}
+,"đỗ đại học": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu đại họcֹ"}
+,"đỗ đen": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu đenֹ"}
+,"đỗ đỏ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu đỏֹ"}
+,"đỗ xanh": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đậu xanhֹ"}
+,"đội bóng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đội banhֹ"}
+,"đội mũ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đội nónֹ"}
+,"đột quỵ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chết bất ngờֹ"}
+,"ga tàu thủy": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bến tàuֹ"}
+,"giấy dán tường": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bích chươngֹ"}
+,"gió to": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "gió lớnֹ"}
+,"hành xử như thế": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hành xử như vậyֹ"}
+,"hành động như thế": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hành động như vậyֹ"}
+,"hào môn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "môn đăng hộ đốiֹ"}
+,"hạ nghị sĩ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dân biểuֹ"}
+,"hoa mai": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bông maiֹ"}
+,"hoa dâm bụt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bông dâm bụtֹ"}
+,"hoa đào": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bông đàoֹ"}
+,"hoa lan": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bông lanֹ"}
+,"hùng biện": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "diễn thuyếtֹ"}
+,"keo nước": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hồ dánֹ"}
+,"lắp biển": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lắp bảngֹ"}
+,"làm thuê": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "làm mướnֹ"}
+,"thuê mướn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mướnֹ"}
+,"làm nốt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "làm luônֹ"}
+,"lập trình viên": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thảo chương viênֹ"}
+,"liên hệ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "liên lạcֹ"}
+,"linh một": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ mộtֹ"}
+,"linh hai": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ haiֹ"}
+,"linh ba": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ baֹ"}
+,"linh bốn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ bốnֹ"}
+,"linh năm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ nămֹ"}
+,"linh sáu": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ sáuֹ"}
+,"linh bảy": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ bảyֹ"}
+,"linh tám": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ támֹ"}
+,"linh chín": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẻ chínֹ"}
+,"lính thủy đánh bộ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lục quânֹ"}
+,"lĩnh lương": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lãnh lươngֹ"}
+,"lĩnh vực": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lãnh vựcֹ"}
+,"lĩnh đạo": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lãnh đạoֹ"}
+,"lốp xe": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "vỏ xeֹ"}
+,"lười quá": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "làm biến quáֹ"}
+,"lười đi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "làm biến điֹ"}
+,"lười làm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "làm biến làmֹ"}
+,"đang lười": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đang làm biếnֹ"}
+,"mua nhà đắt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mua nhà mắcֹ"}
+,"giá nhà đắt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "giá nhà mắcֹ"}
+,"mua vàng đắt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mua vàng mắcֹ"}
+,"giá vàng đắt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "giá nhà mắcֹ"}
+,"gia vị đắt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "gia vị mắcֹ"}
+,"miễn nhiệm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cắt chứcֹ"}
+,"muộn": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "trễֹ"}
+,"máy bay": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phi cơֹ"}
+,"máy bay lên thẳng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trực thăngֹ"}
+,"mì tôm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mì góiֹ"}
+,"mẽo": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "mỹֹ"}
+,"mồn": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "miệngֹ"}
+,"người trẻ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thanh niênֹ"}
+,"nghìn": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ngànֹ"}
+,"ngoại hình": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dáng vẻֹ"}
+,"ngõ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "hẻmֹ"}
+,"nhặt": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "lượmֹ"}
+,"như này": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "như vầyֹ"}
+,"như thế nào": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ra làm saoֹ"}
+,"như thế này": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "như vầyֹ"}
+,"nhất việt nam": {"case": 1,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ở Việt Namֹ"}
+,"nhầm lẫn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lẫn lộnֹ"}
+,"nhầm": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "lộnֹ"}
+,"nôn ra": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ói raֹ"}
+,"nước dùng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "nước lèoֹ"}
+,"nốt": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xong (luôn)ֹ"}
+,"nút giao thông": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "giao lộֹ"}
+,"nút giao": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "giao lộֹ"}
+,"phanh": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "thắngֹ"}
+,"phá cỗ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ăn tiệcֹ"}
+,"phần mềm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "nhu liệuֹ"}
+,"phần cứng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cương liệuֹ"}
+,"phỉ báng lãnh tụ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chưởi lãnh đạoֹ"}
+,"phích cắm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chuôi điệnֹ"}
+,"phố đi bộ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đường đi bộֹ"}
+,"phố vải": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chợ vảiֹ"}
+,"phở Hà Hội": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phởֹ"}
+,"phở bò Hà Hội": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phởֹ"}
+,"quả bưởi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái bưởiֹ"}
+,"quả cam": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái camֹ"}
+,"quả dừa": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái dừaֹ"}
+,"quả ngô": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái dừaֹ"}
+,"quá cơ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "quá đi thôiֹ"}
+,"quả táo": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái táoֹ"}
+,"quả đào": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trái đàoֹ"}
+,"quan hệ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "liên hệֹ"}
+,"rẽ phải": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "quẹo phảiֹ"}
+,"rẽ trái": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "quẹo tráiֹ"}
+,"rốn lũ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tâm lũֹ"}
+,"sao kê": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "kê khai (công bố)ֹ"}
+,"sáng lạng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xán lạnֹ"}
+,"sân bay": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phi trườngֹ"}
+,"showbiz": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "show business (giới giải trí)ֹ"}
+,"tham nhũng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ăn cắp tiền thuế của nhân dânֹ"}
+,"tài khoản": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "trương mụcֹ"}
+,"thi trượt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thi rớtֹ"}
+,"thế là": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "vậy làֹ"}
+,"thế lực thù địch": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phe đối lậpֹ"}
+,"thế nhưng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tuy vậyֹ"}
+,"thế nhỉ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "vậy taֹ"}
+,"thế nào": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ra saoֹ"}
+,"thế sao": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "vậy saoֹ"}
+,"thịt lợn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thịt heoֹ"}
+,"thối": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "thúiֹ"}
+,"thổi còi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thổi kènֹ"}
+,"thợ nề": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thợ hồֹ"}
+,"tiêm phòng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chích ngừaֹ"}
+,"tiếp viên": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chiêu đãi viênֹ"}
+,"tiền lãi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tiền lờiֹ"}
+,"to lắm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "lớn lắmֹ"}
+,"trung bình 1": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] mộtֹ"}
+,"trung bình bài hát": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] bài hátֹ"}
+,"trung bình các": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] cácֹ"}
+,"trung bình một": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] mộtֹ"}
+,"trung bình ngày": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] ngàyֹ"}
+,"trung bình tụi": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] tụiֹ"}
+,"trung bình ở": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] ởֹ"}
+,"trunh bình 2k": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "[nói chung] 2kֹ"}
+,"trộm vía": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "thấy ghétֹ"}
+,"trứng gà": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hột gàֹ"}
+,"trứng vịt": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hột vịtֹ"}
+,"tuyến đường": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đườngֹ"}
+,"tàu bay": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phi cơֹ"}
+,"tàu chiến": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chiến hạmֹ"}
+,"tàu đổ bộ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dương vận hạmֹ"}
+,"tàu ngầm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tiềm thủy đĩnhֹ"}
+,"tàu sân bay": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hàng không mẫu hạmֹ"}
+,"tên lửa": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hỏa tiễnֹ"}
+,"tông xe": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đụng xeֹ"}
+,"tắc đường": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "kẹt xeֹ"}
+,"việt nam vô địch": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Việt Nam quán quânֹ"}
+,"vâng": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "dạֹ"}
+,"vòng xuyến": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bùng binhֹ"}
+,"xe lửa": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "hỏa xaֹ"}
+,"xe ô tô con": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe conֹ"}
+,"xe ô tô tải": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe tảiֹ"}
+,"xẻ gỗ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cưa câyֹ"}
+,"xem sau": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "coi sauֹ"}
+,"xinh quá": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đẹp quáֹ"}
+,"xà phòng": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xà bôngֹ"}
+,"ô tô": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe hơiֹ"}
+,"ô tô con": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe conֹ"}
+,"ô tô tải": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe tảiֹ"}
+,"ùn tắc": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "kẹt xeֹ"}
+,"ùn ứ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "kẹtֹ"}
+,"dừng, đỗ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ngừng, đậuֹ"}
+,"phương tiện giao thông đường bộ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xeֹ"}
+,"phương tiện giao thông": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xeֹ"}
+,"xe cơ giới": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe có động cơ (cơ giới)ֹ"}
+,"xe ô tô": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xe hơiֹ"}
+,"1 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "1 triệuֹ"}
+,"2 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "2 triệuֹ"}
+,"3 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "3 triệuֹ"}
+,"4 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "4 triệuֹ"}
+,"5 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "5 triệuֹ"}
+,"6 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "6 triệuֹ"}
+,"7 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "7 triệuֹ"}
+,"8 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "8 triệuֹ"}
+,"9 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "9 triệuֹ"}
+,"10 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "10 triệuֹ"}
+,"11 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "11 triệuֹ"}
+,"12 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "12 triệuֹ"}
+,"13 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "13 triệuֹ"}
+,"14 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "14 triệuֹ"}
+,"15 củ": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "15 triệuֹ"}
+,"đông lào": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Việt Namֹ"}
+,"\"bùng nổ\"": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "bị thổi giáֹ"}
+,"'bùng nổ'": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "bị thổi giáֹ"}
+,"bùng nổ": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bị thổi giáֹ"}
+,"cán bộ công an vì dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cán bộ công anֹ"}
+,"\"cất cánh\"": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "phát triểnֹ"}
+,"'cất cánh'": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "phát triểnֹ"}
+,"chuyên gia cảnh báo": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cֹhuyên giaꜝ cảnh báo [kiểm lại chuyên môn]"}
+,"chuyên gia phân tích": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cֹhuyên giaꜝ phân tích [kiểm lại chuyên môn]"}
+,"chuyên gia": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cֹhuyên giaꜝ [kiểm lại chuyên môn]"}
+,"đăng ký mua": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "đֹăng ký muaꜝ (≠thực mua)"}
+,"\"gom\" thêm": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "mua thêmֹ"}
+,"'gom' thêm": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "mua thêmֹ"}
+,"gom thêm": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "mua thêmֹ"}
+,"hỗ trợ tài chính": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cho vay nặng lãiֹ"}
+,"luận điệu xuyên tạc": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phát biểu khác biệtֹ"}
+,"luận điệu sai trái": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phát biểu khác biệtֹ"}
+,"\"nút thắt\"": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "khó khănֹ"}
+,"'nút thắt'": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "khó khănֹ"}
+,"người dân viết thư cảm ơn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "có người viết thư cảm ơnֹ"}
+,"'tê liệt' sóng": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "mất sóngֹ"}
+,"đường 'tê liệt'": {"case": 0,"lists": [1,2],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "đường tắc nghẽnֹ"}
+,"undocumented immigrants": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "illegal immigrantsֹ"}
+,"vận hành điều tiết qua tràn xả sâu": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "xả lũֹ"}
+,"xuất khẩu lao động": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bỏ xứ đi làm công nước ngoàiֹ"}
+,"Bộ chiến tranh": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Bộ Quốc Chiếnֹ"}
+,"Bộ hiệu quả chính phủ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Văn phòng Hiệu suất Chính phủֹ"}
+,"Bộ hiệu suất chính phủ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Văn phòng Hiệu suất Chính phủֹ"}
+,"tập đoàn Alibaba": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tֹập đoàn Alibabaᶜᶰ"}
+,"BYD": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "BֹYDᶜᶰ"}
+,"Bydance": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Bֹydanceᶜᶰ"}
+,"CHAGEE": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "CֹHAGEEᶜᶰ"}
+,"Dâu Tây Nhỏ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Dֹâu Tây Nhỏᶜᶰ"}
+,"Đậu Hũ Thối": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Đֹậu Hũ Thốiᶜᶰ"}
+,"EZVIZ": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "EֹZVIZᶜᶰ"}
+,"Hikvision": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hֹikvisionᶜᶰ"}
+,"Huawei": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hֹuaweiᶜᶰ"}
+,"ICBC": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "IֹCBCᶜᶰ"}
+,"Imou": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Iֹmouᶜᶰ"}
+,"Lenovo": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Lֹenovoᶜᶰ"}
+,"MG": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "MֹGᶜᶰ"}
+,"ô tô MG": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ôֹ tô MGᶜᶰ"}
+,"xe MG": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "xֹe MGᶜᶰ"}
+,"POCO": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "PֹOCOᶜᶰ"}
+,"RedNote": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "RֹedNoteᶜᶰ"}
+,"Tencent": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Tֹencentᶜᶰ"}
+,"Tiểu Màn Thầu": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Tֹiểu Màn Thầuᶜᶰ"}
+,"TikTok": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "TֹikTokᶜᶰ"}
+,"Tifosi": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Tֹifosiᶜᶰ"}
+,"Tplink": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Tֹplinkᶜᶰ"}
+,"Vivo": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Vֹivoᶜᶰ"}
+,"WeChat": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "WֹeChatᶜᶰ"}
+,"Ugreen": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Uֹgreenᶜᶰ"}
+,"Xiaomi": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Xֹiaomiᶜᶰ"}
+,"Yoosee": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Yֹooseeᶜᶰ"}
+,"ZTE": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "ZֹTEᶜᶰ"}
+,"chinese new year": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Lunar New Yearֹ"}
+,"Chernigov": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Chernihivֹ"}
+,"Chernobyl": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Chornobyֹ"}
+,"coronavirus": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Wuhan virusֹ"}
+,"covid-19": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "virus Vũ Hánֹ"}
+,"dịch covid-19": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dịch virus Vũ Hánֹ"}
+,"dịch covid": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dịch virus Vũ Hánֹ"}
+,"virus corona": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "virus Vũ Hánֹ"}
+,"vi-rút covid-19": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "virus Vũ Hánֹ"}
+,"virút covid-19": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "virus Vũ Hánֹ"}
+,"đài loan (trung quốc)": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Đài Loanֹ"}
+,"hoa kì": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hoa Kỳֹ"}
+,"tại mỹ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tại Hoa Kỳֹ"}
+,"cờ mỹ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "cờ Hoa Kỳֹ"}
+,"ở mỹ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ở Hoa Kỳֹ"}
+,"người mỹ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "người Hoa Kỳֹ"}
+,"tại mỹ": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tại Hoa Kỳֹ"}
+,"hợp chủng quốc": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hợp chúng quốcֹ"}
+,"ông kim jong-un": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tên độc tài Kim Jong-Unֹ"}
+,"Kiev": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Kyivֹ"}
+,"Kharkov": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "Kharkivֹ"}
+,"ông Donal Trump": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ngài Donal Trumpֹ"}
+,"ông Trump": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "ngài Trumpֹ"}
+,"tổng thống Maduro": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Maduro"}
+,"ông Maduro": {"case": 0,"lists": [1],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Maduro"}
+,"tổng thống putin": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Pֹutin"}
+,"ông putin": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Pֹutin"}
+,"ông tập cận bình": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Tập Cận Bình"}
+,"ông tập": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "tֹên độc tài Tập"}
+,"thành phố hồ chí minh": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Thành phố Sài Gòn (HCM)ֹ"}
+,"Ho Chi Minh City": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Saigon Cityֹ"}
+,"tp hồ chí minh": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "TP Sài Gòn (HCM)ֹ"}
+,"tp. hồ chí minh": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "TP. Sài Gòn (HCM)ֹ"}
+,"tp. hcm": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Sài Gònֹ"}
+,"tp.hcm": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Sài Gònֹ"}
+,"tphcm": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Sài Gònֹ"}
+,"Ngô Minh Hiếu": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Nֹgô Minh Hiếuꜝ"}
+,"Hiếu PC": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Hֹiếu PCꜝ"}
+,"Ngân hàng Trách nhiệm hữu hạn Một thành viên Việt Nam Hiện Đại": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Nֹgân hàng Trách nhiệm hữu hạn Một thành viên Việt Nam Hiện Đại (OceanBankꜝ)"}
+,"(MBV)": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "(ֹMBV) (OceanBankꜝ)"}
+,"GPBank": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "GֹPBankꜝ"}
+,"VCBNeo": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "VֹCBNeo (CBBankꜝ)"}
+,"Vikki Bank": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Vֹikki Bank (DongA Bankꜝ)"}
+,"Ngân hàng số Vikki": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Nֹgân hàng số Vikki (Đông Áꜝ)"}
+,"Ngân hàng Vikki": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Nֹgân hàng Vikki (Đông Áꜝ)"}
+,"Vikki": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Vֹikki (Đông Áꜝ)"}
+,"công ty cổ phần phát triển trạm sạc toàn cầu V-Green": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Cֹông ty Cổ phần Phát triển Trạm sạc Toàn cầu V-Green (∈Vin)"}
+,"V-Green": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Vֹ-Green (∈Vin)"}
+,"tỷ phú Nguyễn Phương Thảo": {"case": 0,"lists": [1],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "bà Nguyễn Phương Thảoֹ"}
+,"an ninh nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "an ninhֹ"}
+,"biểu hiện lệt chuẩn": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "biểu hiện khác biệtֹ"}
+,"chính quyền nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chính quyềnֹ"}
+,"chống nhà nước cộng hòa xhcn việt nam": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹ"}
+,"chống nhà nước cộng hòa xã hội chủ nghĩa việt nam": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹ"}
+,"chống phá nhà nước cộng hòa xã hội chủ nghĩa việt nam": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chống chính quyềnֹ"}
+,"chống phá đảng, nhà nước": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "chống Đảng Cộng Sản, chính quyềnֹ"}
+,"chống phá đất nước": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "phê phán chính quyềnֹ"}
+,"công an nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Công anֹ"}
+,"diễn biến hòa bình": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "dֹiễn biến hòa bình (ý kiến khác biệt)"}
+,"đề xuất": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "đֹề xuất (dò ý)"}
+,"khủng bố việt tân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Việt Tânֹ"}
+,"quân đội nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Quân độiֹ"}
+,"quan điểm sai trái": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "quan điểm khác biệtֹ"}
+,"tòa án nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Tòa ánֹ"}
+,"ủy ban nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Ủy banֹ"}
+,"viện kiểm sát nhân dân": {"case": 0,"lists": [1,2],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Viện Kiểm Sátֹ"}
+,"president": {"case": 1,"lists": [3],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "presidenֹt [Tổng thống]"}
+,"representative": {"case": 1,"lists": [3],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "representativֹe [dân biểu]"}
+,"senator": {"case": 1,"lists": [3],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "senatoֹr [thượng nghị sĩ]"}
+,"Where Winds Meet": {"case": 1,"lists": [3],"matchMethod": 1,"repeat": 0,"separators": 0,"sub": "Where Winds Meeֹt [Yến Vân Thập Lục Thanh]"}
+,"-Cap nhat danh sach -Create day 2025/12/12ֹ": {"case": 0,"lists": [],"matchMethod": 0,"repeat": 0,"separators": 0,"sub": "https://raw.githubusercontent.com/stoism/sources/main/textreplace/AdvancedProfanityFilterList.jsonֹ"}},
   "youTubeAutoMatchCensored": true,
   "youTubeAutoSubsMax": 0,
   "youTubeAutoSubsMin": 0
