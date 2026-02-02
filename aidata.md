@@ -4,7 +4,7 @@ description: This is a .md file compiling all notes from my Obsidian vault. Each
 created: [File creation date: 2026-02-02]
 source: Obsidian Vault [vXXX]
 total_notes: [Number of notes compiled: 164]
-tags: List of main tags: #culture #health #knowledge #law #life #politics #showbiz #tech #work #writer
+tags: [List of main tags: #culture #health #knowledge #law #life #politics #showbiz #tech #work #writer]
 ---
 
 ## Table of Contents
