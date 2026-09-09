@@ -1,9 +1,9 @@
 ---
 title: Collection of Notes From My Obsidian Vault
 description: This is a .md file compiling all notes from my Obsidian vault. Each original note retains its content, but is separated by level 1 headings (#) with the title being the original note name. Internal links [[link]] are preserved, but may not be clickable outside of Obsidian. This file is used as input for AI to analyze, summarize, or query the entire knowledge base.
-created: [File creation date: 2026-05-17]
+created: [File creation date: 2026-09-09]
 source: Obsidian Vault [vXXX]
-total_notes: [Number of notes compiled: 347]
+total_notes: [Number of notes compiled: 364]
 tags: [List of main tags: #culture #finance #health #knowledge #law #life #politics #showbiz #tech #work #writer]
 ---
 
@@ -197,164 +197,181 @@ tags: [List of main tags: #culture #finance #health #knowledge #law #life #polit
 - [Note 187: Đồ hộp Hạ Long dùng lợn nhiễm bệnh.md]
 - [Note 188: Giao Thông và Lưu Thông.md]
 - [Note 189: Người Miền Nam chỉ 'dạ', không xài từ 'ạ'.md]
-- [Note 190: Phương Ngữ Miền Nam tổng hợp.md]
-- [Note 191: Phần Mềm và Nhu Liệu - Chữ Nghĩa Không Chỉ Là Kỹ Thuật, Mà Là Bổn Sắc Nam Kỳ.md]
-- [Note 192: Thói quen ăn ngọt của người Miền Nam.md]
-- [Note 193: Văn phong miền Nam trước 75.md]
-- [Note 194: Xa lộ.md]
-- [Note 195: _Phương Ngữ Miền Nam.md]
-- [Note 196: phản bác - phản biện.md]
-- [Note 197: thảo chương viên.md]
-- [Note 198: Danh sách các công ty sở hữu nhà nước Việt Nam.md]
-- [Note 199: Danh sách các ngân hàng hậu thuẫn (hoặc liên kết chặt chẽ) với các tập đoàn bất động sản Việt Nam.md]
-- [Note 200: Dữ liệu 100 triệu người dùng Zalo bị lộ Giới trẻ quá lo lắng!.md]
-- [Note 201: Exclusive Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm​.md]
-- [Note 202: Giảm 50% dự trữ bắt buộc cho 4 ngân hàng.md]
-- [Note 203: Novaland có lừa đảo không Cạm bẫy pháp lý và dòng tiền ẩn khuất.md]
-- [Note 204: Playbook Người sáng lập cứu rỗi.md]
-- [Note 205: Playbook xử lý ngân hàng yếu kém.md]
-- [Note 206: Thế lực nào đứng đằng sau Tuấn Mượt.md]
-- [Note 207: Trái phiếu SCB quy mô và chiêu thức của vụ lừa đảo thế kỷ.md]
-- [Note 208: Tập đoàn Amper.md]
-- [Note 209: Vượt qua Trung Nam, Tập đoàn Đức, Vinenergo của tỷ phú Phạm Nhật Vượng trúng thầu siêu dự án điện gió 48.000 tỷ đồng.md]
-- [Note 210: Vụ án Việt Á Nâng khống giá kit test, gây thiệt hại hơn 400 tỷ đồng của Nhà nước.md]
-- [Note 211: f1 Chủ tịch FLC Trịnh Văn Quyết bị bắt vì thao túng chứng khoán.md]
-- [Note 212: f2 Ông Trịnh Văn Quyết FLC bệnh nặng, nguy cơ tử vong cao, xin xét xử vắng mặt.md]
-- [Note 213: f3 Cựu Chủ tịch FLC Trịnh Văn Quyết tái xuất.md]
-- [Note 214: plx140303 Quy chuẩn phối trộn xăng sinh học E5.md]
-- [Note 215: plx17018 Petrolimex linh hoạt nguồn cung nhiên liệu cho phối trộn xăng E5 RON 92.md]
-- [Note 216: plx260203 Petrolimex giới thiệu nhận diện thương hiệu mới.md]
-- [Note 217: plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO.md]
-- [Note 218: plxp2 Bắt 2 cựu Tổng giám đốc PJICO tội nhận hối lộ.md]
-- [Note 219: vh251213 Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường.md]
-- [Note 220: vh260514 Hà Nội dự kiến cho thuê vỉa hè tại một số tuyến phố ở phường Hoàn Kiếm, Cửa Nam.md]
-- [Note 221: vin260424 CẢNH BÁO HỢP ĐỒNG THUÊ ĐẶT TỦ SẠC-ĐỔI PIN XE MÁY ĐIỆN..md]
-- [Note 222: vin260514 Lãnh đạo VinFast nói về nghi vấn ve sầu thoát xác để rút khỏi ngành ô tô và quyền lợi của khách mua xe.md]
-- [Note 223: Charoen Pokphand – Wikipedia tiếng Việt.md]
-- [Note 224: Các quỹ đầu tư ra nước ngoài của Trung Quốc.md]
-- [Note 225: VNG lần đầu hé lộ Tencent, Ant Group là cổ đông.md]
-- [Note 226: _Định nghĩa hashtag politics_define.md]
-- [Note 227: 171225 Hơn 10.000 người trong 'Lực lượng 47' đấu tranh trên mạng.md]
-- [Note 228: 260505 Ba cựu cán bộ chiếm đoạt số tiền ảo trị giá hàng chục tỷ của con bạc.md]
-- [Note 229: Chỉnh trang chợ Bến Thành, hồ Con Rùa Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh.md]
-- [Note 230: Căn cước công dân gắn chíp và tài khoản định danh điện tử Những điều cần biết….md]
-- [Note 231: Cận vệ của Chủ tịch nước Lương Cường bị bắt ở Chile vì cáo buộc xâm hại tình dục.md]
-- [Note 232: Dòng điện không ổn định ảnh hưởng rất lớn đến sự vận hành sản xuất chip ..hèn chi Intel chạy xa VN.md]
-- [Note 233: Gia tộc Nguyễn Tấn Dũng trỗi dậy khi hai con trai trúng ủy viên Trung ương.md]
-- [Note 234: Hai Huân chương Sao Vàng và một dấu hỏi.md]
-- [Note 235: MINH TUỆ.md]
-- [Note 236: Nợ công Việt Nam 35–36% GDP, Chính phủ định vay 969.796 tỷ năm 2026.md]
-- [Note 237: Phái đoàn Phạm Minh Chính tấn công tình dục ở New Zealand.md]
-- [Note 238: Playbook- Cái cũ không đi, cái mới làm sao tới.md]
-- [Note 239: Playbook- Làm đại, hư thì sửa theo ý Việt cộng.md]
-- [Note 240: Playbook- Thúc đẩy xe điện Vinfast, pin từ Trung Quốc.md]
-- [Note 241: Rò rỉ thông tin Tô Lâm có 194 tỷ gửi ngân hàng BIDV.md]
-- [Note 242: Sáp nhập tỉnh, thành Việt Nam 2025.md]
-- [Note 243: Tem in cờ Trung Quốc.md]
-- [Note 244: Triển khai Nghị quyết số 79-NQTW về phát triển kinh tế nhà nước Lấy hiệu quả làm thước đo.md]
-- [Note 245: Tương lai của IoT Chip không cần dùng pin, lấy năng lượng điện từ sóng radio xung quanh.md]
-- [Note 246: Vụ Nổ Quân Khu 7 Tệ Nạn Trộm Cắp Chất Nổ Trong Quân Đội.md]
-- [Note 247: Xác minh vụ 3 công an “bắn nhầm” dê của người dân ở Hà Nội.md]
-- [Note 248: a1 MobiFone - Chuyển giao Tổng công ty Viễn thông MobiFone về Bộ Công an Bước tiến chiến lược mở ra kỷ nguyên mới.md]
-- [Note 249: a2 8 lãnh đạo chủ chốt của MobiFone được phong cấp bậc hàm.md]
-- [Note 250: a3 Bộ trưởng Nguyễn Mạnh Hùng Bây giờ thay vì cạnh tranh hạ tầng, đã đến lúc phải chia sẻ, VNPT, Viettel phải chia sẻ hạ tầng cho MobiFone.md]
-- [Note 251: lt1 Sân bay Long Thành và những câu hỏi của Tổng Bí thư.md]
-- [Note 252: lt2 Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật ngay sau quyết định của Bộ Tài chính.md]
-- [Note 253: lt3 VKSND tối cao phê chuẩn khởi tố, bắt tạm giam Chủ tịch ACV.md]
-- [Note 254: t1 húc đẩy thanh toán không tiền mặt sáng tạo, an toàn.md]
-- [Note 255: t2 Cơ quan thuế hướng dẫn hộ kinh doanh quy định mới về chính sách thuế để không bị phạt.md]
-- [Note 256: v1 Đánh thức nguồn lực vàng trong dân.md]
-- [Note 257: v2 Mua bán vàng trái phép sẽ bị phạt 400 triệu đồng và tịch thu.md]
-- [Note 258: v3 Thủ tướng Nghiên cứu giải pháp huy động nguồn ngoại tệ, vàng miếng trong dân.md]
-- [Note 259: x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero.md]
-- [Note 260: x2 Xe xăng sắp bị hạn chế tại Hà Nội Đây là những mẫu ô tô điện đô thị giá chỉ từ 200 triệu, đi xa lên tới 400kmlần sạc.md]
-- [Note 261: x3 Quy định mới về đăng kiểm ô tô từ 1.3.2026, chủ xe cần biết.md]
-- [Note 262: Đăng facebook xuyên tạc Công lý ở Việt Nam chỉ là nghệ sĩ hài.md]
-- [Note 263: 260103 Venezuela- President Trump releases first image of Nicolás Maduro in U.S. custody after capture in Venezuela..md]
-- [Note 264: 260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran.md]
-- [Note 265: 260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ.md]
-- [Note 266: 260314 Cuba- TMP- chính thức đàm phán với Mỹ, hay chính thức nhượng bộ Tổng thống Trump.md]
-- [Note 267: 260314 Iran- Trump đặt bẫy khi mời các nước cùng bảo vệ eo biển, đặc biệt là Trung Quốc.md]
-- [Note 268: 260315 Iran- Israel hack camera giao thông Iran để theo dõi Khamenei.md]
-- [Note 269: Hình chụp Trump bị bắn bởi @evanvucci.md]
-- [Note 270: Israeli spyware company Paragon posted their surveillance software's control panel by mistake.md]
-- [Note 271: President Trump releases a letter from legendary New York Yankees owner George Steinbrenner calling on Trump to run for President dated 1989.md]
-- [Note 272: m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide.md]
-- [Note 273: m2 THEY DIDN’T JUST KILL A DRUG LORD. THEY KILLED A DEEP STATE GENERAL.md]
-- [Note 274: m3 Cuộc chiến chống băng đảng đẩm máu ở Mexico, lại phá vỡ hệ thống ở Mỹ.md]
-- [Note 275: m4 El Mencho laptop.md]
-- [Note 276: Bill Gates Ex-Wife Turns Against Him After Confirmation Of International Pedophile Ring.md]
-- [Note 277: Bill Gates was revealed in the recent Epstein file.md]
-- [Note 278: Epstein had a trapdoor in his house.md]
-- [Note 279: Epstein trained as a spy under Israeli Prime Minister.md]
-- [Note 280: Mexican Model Who Run From Epstein Party in 2009.md]
-- [Note 281: Prison Officer Who Witnessed Epstein Extraction Identified THEY SWITCHED HIM OUT.md]
-- [Note 282: Thread by @serdaremsc.md]
-- [Note 283: WMDs…in Epstein’s hands.md]
-- [Note 284: Wayfair receipt for an $8K item is included in the Epstein files.md]
-- [Note 285: N10tv-180602 Đại Hoạ Nếu Việt Nam Cho Trung Quôc Thuê Đất 99 Năm - Trương Quôc Huy.md]
-- [Note 286: N10tv-180904 Quốc Hội Việt Nam Tiết lộ, Quan Tham cấp cao đã chuẩn bị trốn đi tỵ Nạn từ hơn chục năm trước.md]
-- [Note 287: N10tv-180921 Bình Luận Đặc Biệt, Trần Đại Quang Cái Chết Đầy Bí Ẩn Phía Sau.md]
-- [Note 288: N10tv-181027 Phong Trào Bỏ Đảng Đang Lan Nhanh. Quản Lý Đất Nước Kiểu Tự Sướng Của Cộng Sản.md]
-- [Note 289: N10tv-181201  Đàm Vình Hưng Nói Việt Nam Sướng Hơn Nước Ngoài Nhiều, Sự Thật Hay Cố Tình Nịnh Chính Quyền.md]
-- [Note 290: N10tv-190114 Bí Thư Nguyễn Thiện Nhân Vừa Ăn Cướp Vừa La Làng Khi Cướp Đất Lộc Hưng TpHCm.md]
-- [Note 291: N10tv-190203 Ở Việt Nam Ban Tuyên Giáo Là Ai Và Làm Gì Tại Sao Làm Tuyên Giáo Phải Biết Nói Xuôi Nói Ngược.md]
-- [Note 292: N10tv-190214 Kiểm Duyệt Ngăn Cấm Âm Nhạc Trước 1975 Sự Thất Bại Của Tuyên Giáo Cộng Sản.md]
-- [Note 293: N10tv-190215  Tháo Rõ mõm Nói Về Chiến Tranh Biên Giới Việt Trung 79 Tuyên Giáo VC Và Ngành Kinh Doanh Mê Tín.md]
-- [Note 294: N10tv-190219 Quận 1 Bứng Lư Hương Trần Hưng Đạo Và Cái Lư Hương Hồ Chí Minh, Tại Sao là Ngày 17-02.md]
-- [Note 295: N10tv-190228  Tìm hiểu Sao Hãng Máy Bay VietJet và Bambo air Mua Hơn 100 máy bay của Mỹ, Thật Hư.md]
-- [Note 296: N10tv-190305  Gọi Hồn KuHo Ghê Gớm Hơn KumaThong, Việt Nam Kinh Doanh KuHo Siêu Lợi Nhuận Của Cán Bộ.md]
-- [Note 297: N10tv-190306 Tuyên Truyền Chụp Mũ Người Phản Đối Bất Công Trong Xã Hội Của Cơ Quang Đảng CSVN Như Thế Nào.md]
-- [Note 298: N10tv-190308 Xã Hội Chủ Nghĩa Ở Việt Nam Chỉ Là Hình Thức , Thất bại Tuyên Truyền Của Nhà cầm Quyền.md]
-- [Note 299: N10tv-190313 Tại Sao Nhiều Người Ở Mỹ Vẫn Than Khổ, Giàu Ở Việt Nam Thiệt Hay Giả.md]
-- [Note 300: N10tv-190315  Việt Nam Cấm Xe Máy & Văn Hóa Các Cứ Xứ Quân, Các Cơ Quan Ngày Cán bộ Càng Nhiều.md]
-- [Note 301: N10tv-190316 Khổng, Cộng, Nho Là Thứ Văn Hóa Hại Người Việt Nam Không Cất Đầu lên Nổi.md]
-- [Note 302: N10tv-190318 PVN Làm Mất Hơn 500 Triệu Đô La Ở Venezuela như thế nào, Tiền Lại Quả hay Thua Lỗ.md]
-- [Note 303: N10tv-190319  Đếm Lại Những Dự Án Thua Lỗ Hàng Chục Tỷ Đô Tại Việt Nam, Yếu kém Hay Cố Tình, Chia Chác.md]
-- [Note 304: N10tv-190322 Giải Nghiệp Chùa Ba Vàng, Hệ Thống Tôn Giáo Quốc Doanh Đánh Nhau Dành Phần.md]
-- [Note 305: N10tv-190429 Ngày 30 Tháng 04 Nghĩ Về Cộng Sản Đã Lừa Đảo Và Tàn Ác Với Dân Việt Nam Ra Sao.md]
-- [Note 306: N10tv-190507 TBT Nguyễn Phú Trọng Vắng Mặt. TT Trump Đánh Trung Cộng Và Con Bài Việt Nam.md]
-- [Note 307: N10tv-190709 Chuyện Tù Chính Trị, CS Việt Nam Đàn Áp Tra Tấn Bằng Nhiều Thủ Đoạn.md]
-- [Note 308: N10tv-200928 Trương Quốc Huy Kể Chuyện bác Hồ Có Đạo Đức Và Giản Dị Như Đảng Nói Hay Không.md]
-- [Note 309: N10tv-210525 Chuyện Việt Nam Nhìn Qua Chuyện 13 Tỷ Của Hoài Linh Và Bà Phưong Hằng Live Stream.md]
-- [Note 310: N10tv-210531 Bà Phương Hằng Khóc Trên Live Stream Đòi Bỏ Đi Nước Ngoài - Chúng Ta Thấy Gì Ở Việt Nam.md]
-- [Note 311: N10tv-210531 Hoài Linh Vì Sao Đảng Giải Cứu Hoài Linh Khi Bị Bà Nguyễn Phương Hằng Đấu Tố.md]
-- [Note 312: N10tv-210716 Dân Nghèo Sài Gòn Kiệt Quệ, Miền Nam Thiếu Đói Lương Thực Là Do Dịch Hay Do Chính Sách Ngu.md]
-- [Note 313: N10tv-210726 Đảng CS Có Mượn Chị Phương Hằng Để Dập tắt Tiếng Nói Phản Biện Sự Thật.md]
-- [Note 314: N10tv-210728 Sài Gòn Cho VinGroup Mượn Vaccine Mỹ, Sẽ Trả Lại bằng Vaccine Gì.md]
-- [Note 315: N10tv-210813 Trương Quốc Huy Là Ai, Tại Sao Phản Động Chống Cộng mà Hãnh Diện Còn Khoe Khi Đến Mỹ.md]
-- [Note 316: N10tv-210825 PTT Mỹ Kêu Gọi Chủ Tịch Nguyễn Xuân Phúc Chống Trung Quốc Bắt Nạt.md]
-- [Note 317: N10tv-211006 File Ghi Âm Đại Tá Đinh Văn Nơi, Ai Là Người Ghi Âm, Chấn Động Đến Lạ Kì.md]
-- [Note 318: N10tv-211117 Bà Nguyễn Phương Hằng Xứng Đáng Làm Đại Biểu Quốc Hội Và Thẩm Phán Ở VN.md]
-- [Note 319: N10tv-211203 Nhà Cầm Quyền CS Việt Nam Đã Đánh Sập Facebook Của Những Người Họ Cho Là Phản Động Như Thế Nào.md]
-- [Note 320: N10tv-221012 Vụ Vạn Thịnh Phát 2 Nhân Sự SCB Có Phải Bị Diệt Khẩu, Ông Trọng Đi Nước Cờ Gì Với Lê Thanh Hải.md]
-- [Note 321: N10tv-230117 Ông 7 Phúc Vì Sao Đảng Cho Về Vườn Sớm Trước Tết - Cuộc Thanh Trừng Chưa Hồi Kết.md]
-- [Note 322: N10tv-230928 Trương Quốc Huy Người Việt Học Lại Tiếng Việt , Dấu Hỏi Dấu Ngã Viết Sao Cho Đúng Đây.md]
-- [Note 323: N10tv-241117 Giấc Mơ Mỹ Ca, Nghệ Sĩ Đi Mỹ Vì Sao Hay Than, Cách nào Để Đi Mỹ Mà Con Cán Bộ Đi Quá Trời.md]
-- [Note 324: N10tv-241208 Cảnh báo Mr Pips Tiktok Đại Gia Bịp Lừa Đảo Bị Bắt Với 5000 Tỷ Bạn Đã Bị Lừa Như Thế nào.md]
-- [Note 325: N10tv-241212 Cán Bộ Nhà Nước Người Nhà Có Dẹp Được Không Việt Nam hết Đường Lập Lờ Thương Mại Với Mỹ.md]
-- [Note 326: N10tv-250117 Việt Nam Có Học Và Làm Được Như Singapore Hay Lãnh Đạo Nói Cho Vui Mồm Dùng Nghệ Thuật Mị Dân.md]
-- [Note 327: N10tv-250914 Trương Quốc Huy Chiêu Thức Kiểm Soát Tư Tưởng Và Tẩy Não Dân Chúng Của Cộng Sản Việt Nam.md]
-- [Note 328: N10tv-260205 Cảnh Báo Sàn Giao Dịch Vàng Coi Chừng Vỡ Mộng Việt Nam, Nghị Định 46 Thiệt Hại Phá Sản Ai Đền.md]
-- [Note 329: N10tv-260208 Sốc Phu Nhân Cựu Chủ Tịch Nước Nguyễn Xuân Phúc Ngoại Tình, Đ.M Công An Giảm Án CB Dấu Dân.md]
-- [Note 330: N10tv-260209 Hiểu Cho Rõ Về Ô Trump Cấm Gửi Tiền Về Việt Nam Hay Sẽ Bị Tịch Thu, Cồng Đồng Cần biết.md]
-- [Note 331: N10tv-260214 Tết Tô Lâm Xuất Hành Đi Mỹ, Cứu Cuba 250 tấn gạo, Xây Cái Mã Mẹ Hố Chí Minh, VN Xui Lớn.md]
-- [Note 332: N10tv-260222 Tô Lâm Công Du Mỹ, Việt Nam Lợi Gì, Mất Gì, Tốt Cho Đảng Viên Cán Bộ Hay Cho Việt Nam.md]
-- [Note 333: N10tv-260226 Tô Lâm Hé Lộ Điềm Không Lành Họa Tai , Pháp Sư KuMaHuy Gia Cát Dự Quẻ Đầu Năm, Việt Nam Nghèo.md]
-- [Note 334: N10tv-260227 Tại Sao Người Việt Nam Học Lại Tiếng Việt, Cách Bỏ Dấu Hỏi Ngã Không Bao Giờ Sai Chính Tả.md]
-- [Note 335: N10tv-260228 Mỹ và Isreal Tấn Công Iran, tổng thống Trump Ra Lệnh Đánh Là Chắc, Iran Đáp Trả Khắp Trung Đông.md]
-- [Note 336: N10tv-260301 Israel Tấn Công - Lebanon, Pháp, Đức, Anh Tham Chiến. Việt Nam Ảnh Hưởng Gì.md]
-- [Note 337: N10tv-260303 Tổng thống Trump, Hải Quân Mỹ Sẽ Hộ Tống Tàu Dầu Qua Biển Hormuz, cơ sở Hạt Nhân Iran Bị Diệt.md]
-- [Note 338: N10tv-260305 Iran Bị Nga Và Trung Quốc Bỏ Rơi, Israel Tấn Công hỗ Trợ Cho Quần Chúng Nổi Dậy.md]
-- [Note 339: N10tv-260305 Tổng thống Trump nói Sau Iran Là Cuba Kế Tiếp, Mỹ tấn Công Cấn Cứ Ngầm Hạt Nhân Damavand.md]
-- [Note 340: N10tv-260306 Tổng thống Trump Đánh Tới Khi Iran Phải Đầu Hàng Vô Điều Kiện, Tăng Khí Tài Lên Gấp 4 Lần.md]
-- [Note 341: N10tv-260308 Tổng thống Trump Xóa Sổ Niềm Kiêu hãnh Của Iran Hôm nay, Giá Dầu Sẽ Giảm Nhanh.md]
-- [Note 342: N10tv-260313 Cuba Chịu Đàm Phán Với Mỹ, Thưởng 10 Triệu Đô la Thông Tin Lãnh Đạo IRGC Iran.md]
-- [Note 343: N10tv-260314 Cuba Dân Chúng Xuống Đường Đốt Trụ Sở Đảng Cộng Sản, Iran Còn Trụ Bao Lâu.md]
-- [Note 344: N10tv-260327 Họp Kín trung ương, TÔ LÂM KIÊM CHỦ TỊCH NƯỚC, CSVN Lấy Luôn VTV, VOV, Dân Bị Tam Tai Khổ.md]
-- [Note 345: N10tv-260407 Tô Lâm Chủ Tịch Nước Việt Nam Công An Trị, Dân Cần Biết Gì Thời Gạo Châu Củi Quế.md]
-- [Note 346: 2026-03-15.md]
-- [Note 347: lSân bay Long Thành và những câu hỏi của Tổng Bí thư.md]
+- [Note 190: Người Miền Nam chỉ có thập niên, không có thập kỷ.md]
+- [Note 191: Phương Ngữ Miền Nam tổng hợp.md]
+- [Note 192: Phần Mềm và Nhu Liệu - Chữ Nghĩa Không Chỉ Là Kỹ Thuật, Mà Là Bổn Sắc Nam Kỳ.md]
+- [Note 193: Thói quen ăn ngọt của người Miền Nam.md]
+- [Note 194: Văn phong miền Nam trước 75.md]
+- [Note 195: Xa lộ.md]
+- [Note 196: _Phương Ngữ Miền Nam.md]
+- [Note 197: phản bác - phản biện.md]
+- [Note 198: thảo chương viên.md]
+- [Note 199: Danh sách các công ty sở hữu nhà nước Việt Nam.md]
+- [Note 200: Danh sách các ngân hàng hậu thuẫn (hoặc liên kết chặt chẽ) với các tập đoàn bất động sản Việt Nam.md]
+- [Note 201: Dữ liệu 100 triệu người dùng Zalo bị lộ Giới trẻ quá lo lắng!.md]
+- [Note 202: Exclusive Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm​.md]
+- [Note 203: Giảm 50% dự trữ bắt buộc cho 4 ngân hàng.md]
+- [Note 204: Novaland có lừa đảo không Cạm bẫy pháp lý và dòng tiền ẩn khuất.md]
+- [Note 205: Playbook Người sáng lập cứu rỗi.md]
+- [Note 206: Playbook xử lý ngân hàng yếu kém.md]
+- [Note 207: Thế lực nào đứng đằng sau Tuấn Mượt.md]
+- [Note 208: Trái phiếu SCB quy mô và chiêu thức của vụ lừa đảo thế kỷ.md]
+- [Note 209: Tập đoàn Amper.md]
+- [Note 210: Vượt qua Trung Nam, Tập đoàn Đức, Vinenergo của tỷ phú Phạm Nhật Vượng trúng thầu siêu dự án điện gió 48.000 tỷ đồng.md]
+- [Note 211: Vụ án Việt Á Nâng khống giá kit test, gây thiệt hại hơn 400 tỷ đồng của Nhà nước.md]
+- [Note 212: f1 Chủ tịch FLC Trịnh Văn Quyết bị bắt vì thao túng chứng khoán.md]
+- [Note 213: f2 Ông Trịnh Văn Quyết FLC bệnh nặng, nguy cơ tử vong cao, xin xét xử vắng mặt.md]
+- [Note 214: f3 Cựu Chủ tịch FLC Trịnh Văn Quyết tái xuất.md]
+- [Note 215: plx140303 Quy chuẩn phối trộn xăng sinh học E5.md]
+- [Note 216: plx17018 Petrolimex linh hoạt nguồn cung nhiên liệu cho phối trộn xăng E5 RON 92.md]
+- [Note 217: plx260203 Petrolimex giới thiệu nhận diện thương hiệu mới.md]
+- [Note 218: plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO.md]
+- [Note 219: plxp2 Bắt 2 cựu Tổng giám đốc PJICO tội nhận hối lộ.md]
+- [Note 220: vh251213 Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường.md]
+- [Note 221: vh260514 Hà Nội dự kiến cho thuê vỉa hè tại một số tuyến phố ở phường Hoàn Kiếm, Cửa Nam.md]
+- [Note 222: vin260424 CẢNH BÁO HỢP ĐỒNG THUÊ ĐẶT TỦ SẠC-ĐỔI PIN XE MÁY ĐIỆN..md]
+- [Note 223: vin260514 Lãnh đạo VinFast nói về nghi vấn ve sầu thoát xác để rút khỏi ngành ô tô và quyền lợi của khách mua xe.md]
+- [Note 224: Charoen Pokphand – Wikipedia tiếng Việt.md]
+- [Note 225: Các quỹ đầu tư ra nước ngoài của Trung Quốc.md]
+- [Note 226: VNG lần đầu hé lộ Tencent, Ant Group là cổ đông.md]
+- [Note 227: _Định nghĩa hashtag politics_define.md]
+- [Note 228: 171225 Hơn 10.000 người trong 'Lực lượng 47' đấu tranh trên mạng.md]
+- [Note 229: 260505 Ba cựu cán bộ chiếm đoạt số tiền ảo trị giá hàng chục tỷ của con bạc.md]
+- [Note 230: 260529 Đề xuất di dời ga Hà Nội ra Ngọc Hồi trong năm 2026.md]
+- [Note 231: Chỉnh trang chợ Bến Thành, hồ Con Rùa Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh.md]
+- [Note 232: Căn cước công dân gắn chíp và tài khoản định danh điện tử Những điều cần biết….md]
+- [Note 233: Cận vệ của Chủ tịch nước Lương Cường bị bắt ở Chile vì cáo buộc xâm hại tình dục.md]
+- [Note 234: Dòng điện không ổn định ảnh hưởng rất lớn đến sự vận hành sản xuất chip ..hèn chi Intel chạy xa VN.md]
+- [Note 235: Gia tộc Nguyễn Tấn Dũng trỗi dậy khi hai con trai trúng ủy viên Trung ương.md]
+- [Note 236: Hai Huân chương Sao Vàng và một dấu hỏi.md]
+- [Note 237: HĐC 260809 Playbook cô đơn và cách chia để trị.md]
+- [Note 238: MINH TUỆ.md]
+- [Note 239: NUC 260522 Playbook chiếm đất, nhà bằng chênh lệt giá nhà nước và thị trường.md]
+- [Note 240: NUC 260524 Playbook dùng một sự thật A (UFO) để che đậy một sự thật B (ngân sách quốc phòng).md]
+- [Note 241: NUC 260528 Playbook cái bẫy lấy vàng đổi nhà.md]
+- [Note 242: NUC 260531 Playbook ma trận logistics để đem vũ khí bị cấm vào Thành phố Sài Gòn.md]
+- [Note 243: NUC 260604 Playbook Trung Quốc mượn đất Việt Nam né thuế xuất khẩu, Việt Nam không hưởng lợi gì từ vốn FDI.md]
+- [Note 244: NUC 260606 Playbook cách người nước ngoài (Trung Quốc) thâu tóm đất tại Việt Nam (Bắc Ninh).md]
+- [Note 245: NUC 260606 Playbook di dời tài sản công chiếm đất, thay đổi dòng tiền.md]
+- [Note 246: NUC 260723 Giải thích việc sở hữu Ải Nam Quan và Thác Bản Gốc.md]
+- [Note 247: NUC 260723 Playbook tăng cường quản lý bán vàng nhưng cá mập vẫn lọt lưới, cá con mắc kẹt hết.md]
+- [Note 248: NUC 260729 Playbook dùng nghề hoa hậu, đấu giá hàng giả để kiềm tiền.md]
+- [Note 249: NUC 260729 Playbook dùng sự sợ hãi của người dân để họ tự giao nộp vàng.md]
+- [Note 250: NUC 260802 Nhân tài tại Việt Nam bị xâu xé mỗi lần xuất hiện.md]
+- [Note 251: NUC 260820 Playbook kinh doanh vé số.md]
+- [Note 252: Nợ công Việt Nam 35–36% GDP, Chính phủ định vay 969.796 tỷ năm 2026.md]
+- [Note 253: Phái đoàn Phạm Minh Chính tấn công tình dục ở New Zealand.md]
+- [Note 254: Playbook- Cái cũ không đi, cái mới làm sao tới.md]
+- [Note 255: Playbook- Làm đại, hư thì sửa theo ý Việt cộng.md]
+- [Note 256: Playbook- Thúc đẩy xe điện Vinfast, pin từ Trung Quốc.md]
+- [Note 257: Rò rỉ thông tin Tô Lâm có 194 tỷ gửi ngân hàng BIDV.md]
+- [Note 258: Sáp nhập tỉnh, thành Việt Nam 2025.md]
+- [Note 259: Tem in cờ Trung Quốc.md]
+- [Note 260: Triển khai Nghị quyết số 79-NQTW về phát triển kinh tế nhà nước Lấy hiệu quả làm thước đo.md]
+- [Note 261: Tương lai của IoT Chip không cần dùng pin, lấy năng lượng điện từ sóng radio xung quanh.md]
+- [Note 262: Vụ Nổ Quân Khu 7 Tệ Nạn Trộm Cắp Chất Nổ Trong Quân Đội.md]
+- [Note 263: Xác minh vụ 3 công an “bắn nhầm” dê của người dân ở Hà Nội.md]
+- [Note 264: a1 MobiFone - Chuyển giao Tổng công ty Viễn thông MobiFone về Bộ Công an Bước tiến chiến lược mở ra kỷ nguyên mới.md]
+- [Note 265: a2 8 lãnh đạo chủ chốt của MobiFone được phong cấp bậc hàm.md]
+- [Note 266: a3 Bộ trưởng Nguyễn Mạnh Hùng Bây giờ thay vì cạnh tranh hạ tầng, đã đến lúc phải chia sẻ, VNPT, Viettel phải chia sẻ hạ tầng cho MobiFone.md]
+- [Note 267: lt1 Sân bay Long Thành và những câu hỏi của Tổng Bí thư.md]
+- [Note 268: lt2 Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật ngay sau quyết định của Bộ Tài chính.md]
+- [Note 269: lt3 VKSND tối cao phê chuẩn khởi tố, bắt tạm giam Chủ tịch ACV.md]
+- [Note 270: t1 húc đẩy thanh toán không tiền mặt sáng tạo, an toàn.md]
+- [Note 271: t2 Cơ quan thuế hướng dẫn hộ kinh doanh quy định mới về chính sách thuế để không bị phạt.md]
+- [Note 272: v1 Đánh thức nguồn lực vàng trong dân.md]
+- [Note 273: v2 Mua bán vàng trái phép sẽ bị phạt 400 triệu đồng và tịch thu.md]
+- [Note 274: v3 Thủ tướng Nghiên cứu giải pháp huy động nguồn ngoại tệ, vàng miếng trong dân.md]
+- [Note 275: x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero.md]
+- [Note 276: x2 Xe xăng sắp bị hạn chế tại Hà Nội Đây là những mẫu ô tô điện đô thị giá chỉ từ 200 triệu, đi xa lên tới 400kmlần sạc.md]
+- [Note 277: x3 Quy định mới về đăng kiểm ô tô từ 1.3.2026, chủ xe cần biết.md]
+- [Note 278: Đăng facebook xuyên tạc Công lý ở Việt Nam chỉ là nghệ sĩ hài.md]
+- [Note 279: 260103 Venezuela- President Trump releases first image of Nicolás Maduro in U.S. custody after capture in Venezuela..md]
+- [Note 280: 260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran.md]
+- [Note 281: 260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ.md]
+- [Note 282: 260314 Cuba- TMP- chính thức đàm phán với Mỹ, hay chính thức nhượng bộ Tổng thống Trump.md]
+- [Note 283: 260314 Iran- Trump đặt bẫy khi mời các nước cùng bảo vệ eo biển, đặc biệt là Trung Quốc.md]
+- [Note 284: 260315 Iran- Israel hack camera giao thông Iran để theo dõi Khamenei.md]
+- [Note 285: Hình chụp Trump bị bắn bởi @evanvucci.md]
+- [Note 286: Israeli spyware company Paragon posted their surveillance software's control panel by mistake.md]
+- [Note 287: President Trump releases a letter from legendary New York Yankees owner George Steinbrenner calling on Trump to run for President dated 1989.md]
+- [Note 288: m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide.md]
+- [Note 289: m2 THEY DIDN’T JUST KILL A DRUG LORD. THEY KILLED A DEEP STATE GENERAL.md]
+- [Note 290: m3 Cuộc chiến chống băng đảng đẩm máu ở Mexico, lại phá vỡ hệ thống ở Mỹ.md]
+- [Note 291: m4 El Mencho laptop.md]
+- [Note 292: Bill Gates Ex-Wife Turns Against Him After Confirmation Of International Pedophile Ring.md]
+- [Note 293: Bill Gates was revealed in the recent Epstein file.md]
+- [Note 294: Epstein had a trapdoor in his house.md]
+- [Note 295: Epstein trained as a spy under Israeli Prime Minister.md]
+- [Note 296: Mexican Model Who Run From Epstein Party in 2009.md]
+- [Note 297: Prison Officer Who Witnessed Epstein Extraction Identified THEY SWITCHED HIM OUT.md]
+- [Note 298: Thread by @serdaremsc.md]
+- [Note 299: WMDs…in Epstein’s hands.md]
+- [Note 300: Wayfair receipt for an $8K item is included in the Epstein files.md]
+- [Note 301: N10tv-180602 Đại Hoạ Nếu Việt Nam Cho Trung Quôc Thuê Đất 99 Năm - Trương Quôc Huy.md]
+- [Note 302: N10tv-180904 Quốc Hội Việt Nam Tiết lộ, Quan Tham cấp cao đã chuẩn bị trốn đi tỵ Nạn từ hơn chục năm trước.md]
+- [Note 303: N10tv-180921 Bình Luận Đặc Biệt, Trần Đại Quang Cái Chết Đầy Bí Ẩn Phía Sau.md]
+- [Note 304: N10tv-181027 Phong Trào Bỏ Đảng Đang Lan Nhanh. Quản Lý Đất Nước Kiểu Tự Sướng Của Cộng Sản.md]
+- [Note 305: N10tv-181201  Đàm Vình Hưng Nói Việt Nam Sướng Hơn Nước Ngoài Nhiều, Sự Thật Hay Cố Tình Nịnh Chính Quyền.md]
+- [Note 306: N10tv-190114 Bí Thư Nguyễn Thiện Nhân Vừa Ăn Cướp Vừa La Làng Khi Cướp Đất Lộc Hưng TpHCm.md]
+- [Note 307: N10tv-190203 Ở Việt Nam Ban Tuyên Giáo Là Ai Và Làm Gì Tại Sao Làm Tuyên Giáo Phải Biết Nói Xuôi Nói Ngược.md]
+- [Note 308: N10tv-190214 Kiểm Duyệt Ngăn Cấm Âm Nhạc Trước 1975 Sự Thất Bại Của Tuyên Giáo Cộng Sản.md]
+- [Note 309: N10tv-190215  Tháo Rõ mõm Nói Về Chiến Tranh Biên Giới Việt Trung 79 Tuyên Giáo VC Và Ngành Kinh Doanh Mê Tín.md]
+- [Note 310: N10tv-190219 Quận 1 Bứng Lư Hương Trần Hưng Đạo Và Cái Lư Hương Hồ Chí Minh, Tại Sao là Ngày 17-02.md]
+- [Note 311: N10tv-190228  Tìm hiểu Sao Hãng Máy Bay VietJet và Bambo air Mua Hơn 100 máy bay của Mỹ, Thật Hư.md]
+- [Note 312: N10tv-190305  Gọi Hồn KuHo Ghê Gớm Hơn KumaThong, Việt Nam Kinh Doanh KuHo Siêu Lợi Nhuận Của Cán Bộ.md]
+- [Note 313: N10tv-190306 Tuyên Truyền Chụp Mũ Người Phản Đối Bất Công Trong Xã Hội Của Cơ Quang Đảng CSVN Như Thế Nào.md]
+- [Note 314: N10tv-190308 Xã Hội Chủ Nghĩa Ở Việt Nam Chỉ Là Hình Thức , Thất bại Tuyên Truyền Của Nhà cầm Quyền.md]
+- [Note 315: N10tv-190313 Tại Sao Nhiều Người Ở Mỹ Vẫn Than Khổ, Giàu Ở Việt Nam Thiệt Hay Giả.md]
+- [Note 316: N10tv-190315  Việt Nam Cấm Xe Máy & Văn Hóa Các Cứ Xứ Quân, Các Cơ Quan Ngày Cán bộ Càng Nhiều.md]
+- [Note 317: N10tv-190316 Khổng, Cộng, Nho Là Thứ Văn Hóa Hại Người Việt Nam Không Cất Đầu lên Nổi.md]
+- [Note 318: N10tv-190318 PVN Làm Mất Hơn 500 Triệu Đô La Ở Venezuela như thế nào, Tiền Lại Quả hay Thua Lỗ.md]
+- [Note 319: N10tv-190319  Đếm Lại Những Dự Án Thua Lỗ Hàng Chục Tỷ Đô Tại Việt Nam, Yếu kém Hay Cố Tình, Chia Chác.md]
+- [Note 320: N10tv-190322 Giải Nghiệp Chùa Ba Vàng, Hệ Thống Tôn Giáo Quốc Doanh Đánh Nhau Dành Phần.md]
+- [Note 321: N10tv-190429 Ngày 30 Tháng 04 Nghĩ Về Cộng Sản Đã Lừa Đảo Và Tàn Ác Với Dân Việt Nam Ra Sao.md]
+- [Note 322: N10tv-190507 TBT Nguyễn Phú Trọng Vắng Mặt. TT Trump Đánh Trung Cộng Và Con Bài Việt Nam.md]
+- [Note 323: N10tv-190709 Chuyện Tù Chính Trị, CS Việt Nam Đàn Áp Tra Tấn Bằng Nhiều Thủ Đoạn.md]
+- [Note 324: N10tv-200928 Trương Quốc Huy Kể Chuyện bác Hồ Có Đạo Đức Và Giản Dị Như Đảng Nói Hay Không.md]
+- [Note 325: N10tv-210525 Chuyện Việt Nam Nhìn Qua Chuyện 13 Tỷ Của Hoài Linh Và Bà Phưong Hằng Live Stream.md]
+- [Note 326: N10tv-210531 Bà Phương Hằng Khóc Trên Live Stream Đòi Bỏ Đi Nước Ngoài - Chúng Ta Thấy Gì Ở Việt Nam.md]
+- [Note 327: N10tv-210531 Hoài Linh Vì Sao Đảng Giải Cứu Hoài Linh Khi Bị Bà Nguyễn Phương Hằng Đấu Tố.md]
+- [Note 328: N10tv-210716 Dân Nghèo Sài Gòn Kiệt Quệ, Miền Nam Thiếu Đói Lương Thực Là Do Dịch Hay Do Chính Sách Ngu.md]
+- [Note 329: N10tv-210726 Đảng CS Có Mượn Chị Phương Hằng Để Dập tắt Tiếng Nói Phản Biện Sự Thật.md]
+- [Note 330: N10tv-210728 Sài Gòn Cho VinGroup Mượn Vaccine Mỹ, Sẽ Trả Lại bằng Vaccine Gì.md]
+- [Note 331: N10tv-210813 Trương Quốc Huy Là Ai, Tại Sao Phản Động Chống Cộng mà Hãnh Diện Còn Khoe Khi Đến Mỹ.md]
+- [Note 332: N10tv-210825 PTT Mỹ Kêu Gọi Chủ Tịch Nguyễn Xuân Phúc Chống Trung Quốc Bắt Nạt.md]
+- [Note 333: N10tv-211006 File Ghi Âm Đại Tá Đinh Văn Nơi, Ai Là Người Ghi Âm, Chấn Động Đến Lạ Kì.md]
+- [Note 334: N10tv-211117 Bà Nguyễn Phương Hằng Xứng Đáng Làm Đại Biểu Quốc Hội Và Thẩm Phán Ở VN.md]
+- [Note 335: N10tv-211203 Nhà Cầm Quyền CS Việt Nam Đã Đánh Sập Facebook Của Những Người Họ Cho Là Phản Động Như Thế Nào.md]
+- [Note 336: N10tv-221012 Vụ Vạn Thịnh Phát 2 Nhân Sự SCB Có Phải Bị Diệt Khẩu, Ông Trọng Đi Nước Cờ Gì Với Lê Thanh Hải.md]
+- [Note 337: N10tv-230117 Ông 7 Phúc Vì Sao Đảng Cho Về Vườn Sớm Trước Tết - Cuộc Thanh Trừng Chưa Hồi Kết.md]
+- [Note 338: N10tv-230928 Trương Quốc Huy Người Việt Học Lại Tiếng Việt , Dấu Hỏi Dấu Ngã Viết Sao Cho Đúng Đây.md]
+- [Note 339: N10tv-241117 Giấc Mơ Mỹ Ca, Nghệ Sĩ Đi Mỹ Vì Sao Hay Than, Cách nào Để Đi Mỹ Mà Con Cán Bộ Đi Quá Trời.md]
+- [Note 340: N10tv-241208 Cảnh báo Mr Pips Tiktok Đại Gia Bịp Lừa Đảo Bị Bắt Với 5000 Tỷ Bạn Đã Bị Lừa Như Thế nào.md]
+- [Note 341: N10tv-241212 Cán Bộ Nhà Nước Người Nhà Có Dẹp Được Không Việt Nam hết Đường Lập Lờ Thương Mại Với Mỹ.md]
+- [Note 342: N10tv-250117 Việt Nam Có Học Và Làm Được Như Singapore Hay Lãnh Đạo Nói Cho Vui Mồm Dùng Nghệ Thuật Mị Dân.md]
+- [Note 343: N10tv-250914 Trương Quốc Huy Chiêu Thức Kiểm Soát Tư Tưởng Và Tẩy Não Dân Chúng Của Cộng Sản Việt Nam.md]
+- [Note 344: N10tv-260205 Cảnh Báo Sàn Giao Dịch Vàng Coi Chừng Vỡ Mộng Việt Nam, Nghị Định 46 Thiệt Hại Phá Sản Ai Đền.md]
+- [Note 345: N10tv-260208 Sốc Phu Nhân Cựu Chủ Tịch Nước Nguyễn Xuân Phúc Ngoại Tình, Đ.M Công An Giảm Án CB Dấu Dân.md]
+- [Note 346: N10tv-260209 Hiểu Cho Rõ Về Ô Trump Cấm Gửi Tiền Về Việt Nam Hay Sẽ Bị Tịch Thu, Cồng Đồng Cần biết.md]
+- [Note 347: N10tv-260214 Tết Tô Lâm Xuất Hành Đi Mỹ, Cứu Cuba 250 tấn gạo, Xây Cái Mã Mẹ Hố Chí Minh, VN Xui Lớn.md]
+- [Note 348: N10tv-260222 Tô Lâm Công Du Mỹ, Việt Nam Lợi Gì, Mất Gì, Tốt Cho Đảng Viên Cán Bộ Hay Cho Việt Nam.md]
+- [Note 349: N10tv-260226 Tô Lâm Hé Lộ Điềm Không Lành Họa Tai , Pháp Sư KuMaHuy Gia Cát Dự Quẻ Đầu Năm, Việt Nam Nghèo.md]
+- [Note 350: N10tv-260227 Tại Sao Người Việt Nam Học Lại Tiếng Việt, Cách Bỏ Dấu Hỏi Ngã Không Bao Giờ Sai Chính Tả.md]
+- [Note 351: N10tv-260228 Mỹ và Isreal Tấn Công Iran, tổng thống Trump Ra Lệnh Đánh Là Chắc, Iran Đáp Trả Khắp Trung Đông.md]
+- [Note 352: N10tv-260301 Israel Tấn Công - Lebanon, Pháp, Đức, Anh Tham Chiến. Việt Nam Ảnh Hưởng Gì.md]
+- [Note 353: N10tv-260303 Tổng thống Trump, Hải Quân Mỹ Sẽ Hộ Tống Tàu Dầu Qua Biển Hormuz, cơ sở Hạt Nhân Iran Bị Diệt.md]
+- [Note 354: N10tv-260305 Iran Bị Nga Và Trung Quốc Bỏ Rơi, Israel Tấn Công hỗ Trợ Cho Quần Chúng Nổi Dậy.md]
+- [Note 355: N10tv-260305 Tổng thống Trump nói Sau Iran Là Cuba Kế Tiếp, Mỹ tấn Công Cấn Cứ Ngầm Hạt Nhân Damavand.md]
+- [Note 356: N10tv-260306 Tổng thống Trump Đánh Tới Khi Iran Phải Đầu Hàng Vô Điều Kiện, Tăng Khí Tài Lên Gấp 4 Lần.md]
+- [Note 357: N10tv-260308 Tổng thống Trump Xóa Sổ Niềm Kiêu hãnh Của Iran Hôm nay, Giá Dầu Sẽ Giảm Nhanh.md]
+- [Note 358: N10tv-260313 Cuba Chịu Đàm Phán Với Mỹ, Thưởng 10 Triệu Đô la Thông Tin Lãnh Đạo IRGC Iran.md]
+- [Note 359: N10tv-260314 Cuba Dân Chúng Xuống Đường Đốt Trụ Sở Đảng Cộng Sản, Iran Còn Trụ Bao Lâu.md]
+- [Note 360: N10tv-260327 Họp Kín trung ương, TÔ LÂM KIÊM CHỦ TỊCH NƯỚC, CSVN Lấy Luôn VTV, VOV, Dân Bị Tam Tai Khổ.md]
+- [Note 361: N10tv-260407 Tô Lâm Chủ Tịch Nước Việt Nam Công An Trị, Dân Cần Biết Gì Thời Gạo Châu Củi Quế.md]
+- [Note 362: 2026-03-15.md]
+- [Note 363: NUC 260223 Playbook Bản chất cuộc dịch chuyển Ga Hà Nội.md]
+- [Note 364: lSân bay Long Thành và những câu hỏi của Tổng Bí thư.md]
 
 # Reading Guide for AI
 - Each note starts with a heading # Note N: [Original Note Name], followed by the full content (including hastag, internal links, source, sub-headings, lists, code blocks, etc.).
@@ -558,6 +575,41 @@ Nhìn chung, mọi sinh vật sống tồn tại đến ngày hôm nay phải c�
 # Stoism review (đánh giá)
 
 
+## Về tài khoản Facebook Hoa Kỳ (Mỹ)
+created: 2026-07-23  
+Điều cần lưu ý:
+- Tạo bằng email alias lạ sẽ bị đòi xác minh người thật ngay. Nên dùng email lớn như google.com, outlook.com, icloud.com.
+- Không nên tự khai nhiều thông tin cho FB như số điện thoại, khi FB check "sự hợp lý" thì rủi ro là thông tin không khớp, sẽ bị đòi xác minh người thật. Chú ý thông tin trên máy tạo tài khoản phải khớp như: IP, múi giờ, ngôn ngữ bàn phím, ngôn ngữ máy.
+- Tạo bằng trình duyệt sẽ ít bị FB thu thập "dấu vân tay thiết bị" hơn là qua ứng dụng.
+- Tạo thành không, không nên tương tác, kết bạn, follow nhanh, FB sẽ phát hiện là spam. Cố gắn hành động chậm rãi khoảng 1 tháng.
+
+
+## Về tài khoản Google Hoa Kỳ (Mỹ)
+created: 2026-07-13  
+1. TẠO TÀI KHOẢN GOOGLE HOA KỲ (CÁCH 1)
+Chuẩn bị:  
+- Điện thoại android xách tay có "Model Number" từ Hoa Kỳ. Chưa thử loại từ Việt Nam.   
+- Trên điện thoại không gắn sim, bật chế độ máy bay. Nếu không, máy sẽ dò ra được cột sóng điện thoại từ Việt Nam.    
+- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ:
++ Dùng một máy tính Windows phát Wifi (Hotspot), trên máy cài VPN kết nối dạng UDP để chia sẽ cho Hotspot. Dùng điện thoại kết nối đến Hotspot đó và kiểm tra xem có chuyển IP được chưa.
++ Không nên dùng app VPN trên máy vì kết nối sẽ bị ngắt lúc tạo tài khoản.
+- Không cần dùng số điện thoại. Nhưng nếu Google nghi ngờ và đòi cung cấp số điện thoại, đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.
+Khi tạo tài khoản, cần dùng VPN Hoa Kỳ đăng ký trên điện thoại android sạch. Google rất dễ nhận diện điện thoại đã dùng để tạo tài khoản trước đó thông qua vài giải pháp kỹ thuật (bất kể có factory reset).
+Sau khi tạo thành công, không nên đăng nhập tài khoản trên nhiều thiết bị. 
+
+2. TẠO TÀI KHOẢN GOOGLE HOA KỲ (CÁCH 2)
+- Tạo tài khoản Google mới bằng dịch vụ trung gian DistrictDroid.com, nó cho ta điều khiển một chiếc điện thoại vật lý từ xa ở Texas, Hoa Kỳ. Vì là điện thoại vật lý thật ở Texas, nên từ mạng 5G T-Mobile, GPS, timezone đều như người thật nên tạo tài khoản được dễ dàng. Chi phí thuê máy khá cao, có các gói $20/1ngày, $50/tuần, $110/tháng. Thuê 1 tuần để tài khoản hoạt động giống thật chút, rồi khi hết thuê bao thì thoát tài khoản ra (phải thoát để tránh phát sinh 2 session ở 2 nơi cùng lúc dễ bị nghi ngờ), đăng nhập máy vật lý ở Việt Nam nhưng dùng IP Mỹ cho an toàn.
+
+
+3. NẠP TIỀN PLAY STORE
+- Phương pháp nạp bằng Gift card khi máy vật lý ở Việt Nam không hiệu quả, code chỉ có thể nhập khi (về vật lý) điện thoại đang ở Hoa Kỳ. VPN không giúp được gì. Nếu thử nhập code, Google Play sẽ có cảnh báo, tôi cố thử nhiều cách (đổi VPN, tắt định vị, nhập qua web, nhập qua Play Store) nhưng sau 5 lần thử, Google đòi 4 số cuối của SSN để xác minh danh tính, nếu không xác minh thì không thanh toán được gì, dù sau 1 ngày tài khoản vẫn xài các chức năng khác được. Tới bước này thì thôi nên từ bỏ, tránh nhập đại SSN, Google sẽ biết được và đưa thiết bị vào danh sách đen.
+- Nạp tiền Gift card bằng máy vật lý thuê qua DistrictDroid.com thành công. Redeem qua trình duyệt (play.google.com/redeem), redeem qua app sẽ bị cơ chế bảo mật của android làm đen màng hình để bảo mật, bạn sẽ không thấy gì để thao tác. Nhưng không thanh toán trên Play store được do cơ chế bảo mật làm đen màng hình khi cần nhập mật mã. Khi chuyển về máy vật lý ở Việt Nam sẽ thanh toán được.
+- Phương pháp bằng debit card thử thành công. Nhưng trên một tài khoản đăng ký khoảng 10 năm ở Việt Nam, có store vùng Việt Nam. Sau đó tạo thêm tài khoản store vùng Hoa Kỳ, liên kết Bybit card ảo sử dụng nguồn tiền USDT. Khi thanh toán, Goole sẽ đòi xác minh chính chủ thẻ bằng cách tạo một giao dịch qua thẻ với giá trị $1, nội dung giao dịch là mã OTP (nó sẽ lẫn lộn với vài nội dung khác trong giao dịch). Mở app Bybit xem lịch sử giao dịch, điền số OTP vào tài khoản Google Play là được. Chắc do tài khoản có thâm niên, xài mạng thật ở Việt Nam, mua hàng ở store Hoa Kỳ vẫn được. 
+
+
+
+
+
 ## Đánh giá thùng Giữ Nhiệt Coleman 45L - 3000033007
 created: 2026-05-17  
 - Thùng Giữ Nhiệt Coleman 45L - 3000033007(4852). Thử nghiệm với 35000 đồng đá cục (khoảng một bao thức ăn), đổ đầy thùng, để trong nhà, nhiệt độ phòng trung bình 29 độ C. Sau 51 giờ không mở thùng, lượng đá còn lại gồm nước là 1/2 thùng, nếu đổ hết nước lạnh ra thì còn lại 1/4 thùng chỉ đá lạnh.  
@@ -601,9 +653,13 @@ created: 2026-01-01
 Chuẩn bị:  
 - Điện thoại iPhone xách tay có "Model Number" từ Hoa Kỳ (...LL/A). Chưa thử loại iPhone từ Việt Nam.   
 - Trên iPhone không gắn sim, bật chế độ máy bay. Nếu không, máy sẽ dò ra được cột sóng điện thoại từ Việt Nam.    
-- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ.  
-- Đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.  
-Thực hiện: đăng ký như bình thường. Sau đó hạn chế đăng nhập lung tung, dùng VPN thường xuyên, tải ít ứng dụng ban đầu thôi, phương thức thanh toán không liên kết cũng được. Nạp tiền App Store bằng Gift Card Hoa Kỳ mua qua mygiftcardsupply.com, phí khoảng 20%, ở Việt Nam vẫn nạp được.  
+- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ. Có 2 cách:
++ 1. Dùng một máy tính Windows phát Wifi (Hotspot), trên máy cài VPN kết nối dạng UDP để chia sẽ cho Hotspot. Dùng iPhone kết nối đến Hotspot đó và kiểm tra xem có chuyển IP được chưa.
++ 2. Máy iPhone đã đăng nhập một tài khoản iCloud A, đã cài VPN, sau đó thoát iCloud A. Bật VPN kết nối thành công thì bắt đầu tạo mới iCloud B. Cách này tạo thành công nhưng rủi ro máy phát hiện được đang dùng VPN.
+- Đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.
+- Cần 2 Yubico key để làm phương thức xác thực 2 bước, như vậy máy sẽ hạn chế gửi sms để xác thực. Ta chỉ có thể dùng số điện thoại ảo xác thực một lần lúc đăng ký, nên các lần sau nếu đăng nhập máy khác thì cần Yubico key để đăng nhập. Nên mua loại Yubico key có NFC và cổng USB Type C để tương thích được nhiều loại máy hơn.
+Thực hiện: đăng ký như bình thường. Sau đó hạn chế đăng nhập lung tung, dùng VPN thường xuyên, tải ít ứng dụng ban đầu thôi, phương thức thanh toán không liên kết cũng được. Nạp tiền App Store bằng Gift Card Hoa Kỳ mua qua mygiftcardsupply.com, phí khoảng 20%, ở Việt Nam vẫn nạp được. Theo kinh nghiệm mỗi máy chỉ tạo không quá 3 iCloud một năm.
+- Sau khi đăng ký thành công phải thêm 2 Yubico key làm phương thức xác thực 2 bước.
 
 
 ## Cách tạo thẻ ảo debit thanh toán bằng USD
@@ -20529,7 +20585,57 @@ Khám phá cách dùng từ “dạ” tại miền Nam Việt Nam, từ lễ ph
 Keywords: cách nói từ dạ miền Nam,ý nghĩa của chữ dạ,dùng từ dạ trong giao tiếp,văn hóa giao tiếp miền Nam,từ ngữ lễ phép trong tiếng Việt,sử dụng từ dạ trong công việc,lễ nghĩa trong cách nói,ngôn ngữ miền Nam,tác dụng của từ dạ,phong cách sống miền Nam    
   
   
-# Note 190: Phương Ngữ Miền Nam tổng hợp.md  
+# Note 190: Người Miền Nam chỉ có thập niên, không có thập kỷ.md  
+source: "https://www.facebook.com/share/18PTMLEszV"
+
+Người Miền Nam chỉ có thập niên, không có thập kỷ  
+  
+Một bạn hỏi, chữ thập niên và thập kỷ có nghĩa như nhau phải không? Xin trả lời là không, thập kỷ là chữ giả sau 1975.  
+  
+Trước 1975 tài liệu sách vở, sách giáo khoa, thư tịch...tất cả đều xử dụng thập niên, không hề có "thập kỷ".  
+  
+Chữ thập niên trong sách trước 1975 thường xuất hiện dưới dạng có dấu gạch nối (thập-niên).  
+  
+Tôi nhớ rất rõ, năm 1998 khi học đại học, ông thầy của tôi nói đi nói lại chữ này, thầy ghét chữ "thập kỷ" tự bịa ra, với thầy chỉ có thập niên là chính danh.  
+  
+Thập niên có nghĩa, thập là mười, niên là năm, thập niên có nghĩa là mười năm. Người Miền Nam có chữ niên rất nhiều, thí dụ Gò Công xưa có làng Tân Niên, học sinh có niên khoá, tất niên, tân niên…  
+  
+Ca khúc Ba Tháng Tạ Từ rất nổi tiếng của nhạc sĩ Thanh Sơn có câu:  
+  
+"Người ơi! Thắm thoát niên học hết rồi  
+Chúc nhau cạn lời giây phút ly bôi  
+Ngày mai tan trường mình không chung lối  
+Thương nhau nhiều biết gửi về mô."  
+  
+Thư tịch viết thập niên là 10 năm, thập niên 60 của thế kỷ trước là từ 1960 tới hết 1969.  
+  
+Thập kỷ là chữ không có nghĩa, do nguỵ tạo sau 1975 mà ra.  
+  
+Trong tiếng Hán Việt, chữ năm không phải là chữ kỷ, tức chữ kỷ không thể thay thế cho chữ niên (năm) được. Người ta cố gắng lèo lái nguỵ tạo và dán chữ kỷ có nghĩa là năm.  
+  
+Trong thư tịch xưa chữ “thập kỷ” là 10 năm không có.  
+  
+Do thói quen xử dụng chữ sau 1975 phải khác Việt Nam Cộng Hoà, người cs từ Miền Bắc đã tự ý đẻ ra chữ "thập kỷ" để thay chữ thập niên của Miền Nam. "Thập kỷ" được tạo ra do thói quen ngôn ngữ của người cs sau 1975.  
+  
+Sau 1975 ngôn ngữ Tiếng Việt bị xáo trộn và uốn éo nhiều do thói quen từ phía Bắc về thành. Thí dụ tỉnh Darlac bị đổi thành Đắk Lắk cho giống kách mệnh, Bắc Kạn trong khi âm chữ C và K khác nhau, trong Tiếng Việt không có âm K.  
+  
+Nhiều chữ bị đảo ngược chữ, như bảo đảm bị đổi thành "đảm bảo", đơn giản thành "giản đơn"...  
+  
+Có những chữ rất vô duyên xuất hiện, thí dụ "đuối nước", "đái tháo đường"...  
+  
+Sau 1975 có nhiều chữ Hán Việt giả xuất hiện kiểu nguỵ tạo, kiểu cắt dán vô nghĩa, thí dụ "triều cường", "chuyên cơ", "đại trà", "da liễu", "đột tử", "tử vong",' "kinh điển"," diễu binh", "tư duy", "giáo trình", "siêu mẫu", "kích cầu", "kích hoạt, "giao hợp", "lễ tân", "bảo quản", "bảo lưu", "tích hợp"...  
+  
+Cái văn hoá Tiếng Việt ở hai miền Nam Bắc khác nhau lắm. Thí dụ Miền Nam chỉ có tàu chạy dưới nước thì Miền Bắc có tàu chạy ...trên trời, Miền Nam bịnh thì Miền Bắc bệnh. Miền Nam có Bình Dã, vô ép cho thành Bình Giã.  
+  
+Nói bệnh chưa đủ, Bắc Kỳ còn chêm chữ "ốm" là đau bịnh vô, trong khi ở Miền Nam chữ ốm có nghĩa ốm nhom. Miền Bắc kêu nấu cơm là thổi cơm, trong khi Miền Nam thổi cơm là thổi hơi cho cơm nguội.  
+  
+"Thập kỷ" là chữ nằm trong số những chữ giả sau 1975.  
+  
+  
+    
+  
+  
+# Note 191: Phương Ngữ Miền Nam tổng hợp.md  
 @tag #PhuongNguMienNam 
 
 
@@ -20904,7 +21010,7 @@ Keywords: cách nói từ dạ miền Nam,ý nghĩa của chữ dạ,dùng từ 
     
   
   
-# Note 191: Phần Mềm và Nhu Liệu - Chữ Nghĩa Không Chỉ Là Kỹ Thuật, Mà Là Bổn Sắc Nam Kỳ.md  
+# Note 192: Phần Mềm và Nhu Liệu - Chữ Nghĩa Không Chỉ Là Kỹ Thuật, Mà Là Bổn Sắc Nam Kỳ.md  
 @tag #PhuongNguMienNam
 Nguồn: [https://www.facebook.com/share/1a2z3MkW9b/?mibextid=wwXIfr](https://www.facebook.com/share/p/1A3v7BeLh7/)
 # “Phần Mềm” và “Nhu Liệu” — Chữ Nghĩa Không Chỉ Là Kỹ Thuật, Mà Là Bổn Sắc Nam Kỳ
@@ -21000,7 +21106,7 @@ Một chữ đúng là giữ lại cả một thời đại.
     
   
   
-# Note 192: Thói quen ăn ngọt của người Miền Nam.md  
+# Note 193: Thói quen ăn ngọt của người Miền Nam.md  
 @tag #PhuongNguMienNam
 Nguồn: https://www.facebook.com/share/14KVHT8Q4V8/?mibextid=wwXIfr
 
@@ -21051,7 +21157,7 @@ Biết người Miền Nam hoài vọng, thành ra chục năm trước có hệ
     
   
   
-# Note 193: Văn phong miền Nam trước 75.md  
+# Note 194: Văn phong miền Nam trước 75.md  
 @tag #PhuongNguMienNam
 Nguồn: [https://www.facebook.com/share/14KVHT8Q4V8/?mibextid=wwXIfr](https://www.facebook.com/share/17xz9eU1ey/?mibextid=wwXIfr)
 
@@ -21081,7 +21187,7 @@ Nguồn: Phan Anh Hiếu.
     
   
   
-# Note 194: Xa lộ.md  
+# Note 195: Xa lộ.md  
 @tag #PhuongNguMienNam
 Nguồn: https://www.facebook.com/share/p/16jxWjzAro/
 
@@ -21129,7 +21235,7 @@ Giữ đúng chữ — tiếng còn lâu bền.
     
   
   
-# Note 195: _Phương Ngữ Miền Nam.md  
+# Note 196: _Phương Ngữ Miền Nam.md  
 @tag #culture #PhuongNguMienNam 
 
 
@@ -21427,7 +21533,7 @@ Giữ đúng chữ — tiếng còn lâu bền.
 | xe hơi                           | car                          |                             |    
   
   
-# Note 196: phản bác - phản biện.md  
+# Note 197: phản bác - phản biện.md  
 @tag #PhuongNguMienNam
 Nguồn: https://www.facebook.com/share/1a2z3MkW9b/?mibextid=wwXIfr
 
@@ -21517,7 +21623,7 @@ Giữ đúng chữ, là giữ lại căn gốc của tiếng Nam Kỳ
     
   
   
-# Note 197: thảo chương viên.md  
+# Note 198: thảo chương viên.md  
 @tag #PhuongNguMienNam
 Nguồn: https://www.facebook.com/share/p/1D9AjsNuYn/
 
@@ -21576,7 +21682,7 @@ Một gốc rễ giữ lại cả linh hồn của một vùng đất.
     
   
   
-# Note 198: Danh sách các công ty sở hữu nhà nước Việt Nam.md  
+# Note 199: Danh sách các công ty sở hữu nhà nước Việt Nam.md  
 @tag #financeVN 
 @il
 published: 2026-02-03
@@ -21654,7 +21760,7 @@ Nhà nước nắm cổ phần chi phối (thường trên 64%) tại các ngân
 Bạn có muốn tôi tra cứu chi tiết về danh sách các công ty con thuộc một tập đoàn cụ thể nào trong số này không?    
   
   
-# Note 199: Danh sách các ngân hàng hậu thuẫn (hoặc liên kết chặt chẽ) với các tập đoàn bất động sản Việt Nam.md  
+# Note 200: Danh sách các ngân hàng hậu thuẫn (hoặc liên kết chặt chẽ) với các tập đoàn bất động sản Việt Nam.md  
 @tag #financeVN
 @il
 Techcombank đứng sau Vingroup & Masterise
@@ -21692,7 +21798,7 @@ Link: https://vir.com.vn/novaland-receives-40-million-loan-from-credit-suisse-52
     
   
   
-# Note 200: Dữ liệu 100 triệu người dùng Zalo bị lộ Giới trẻ quá lo lắng!.md  
+# Note 201: Dữ liệu 100 triệu người dùng Zalo bị lộ Giới trẻ quá lo lắng!.md  
 @tag #financeVN #VNG
 @il [[VNG lần đầu hé lộ Tencent, Ant Group là cổ đông]]
 source: https://thanhnien.vn/du-lieu-100-trieu-nguoi-dung-zalo-bi-lo-gioi-tre-qua-lo-lang-185241113124429223.htm
@@ -21745,7 +21851,7 @@ Theo cֹhuyên giaꜝ \[kiểm lại chuyên môn\] Nguyễn Tuấn Anh, ngườ
     
   
   
-# Note 201: Exclusive Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm​.md  
+# Note 202: Exclusive Huawei, ZTE seal 5G deals in Vietnam after US tariffs, as ties with China warm​.md  
 @tag #financeVN #Viettel #financeCN 
 source: "https://www.reuters.com/world/china/huawei-zte-seal-5g-deals-vietnam-after-us-tariffs-ties-with-china-warm-2025-11-28/"
 author:
@@ -21798,7 +21904,7 @@ But suppliers of antennas and equipment could still gain access to network data,
 Reporting by Francesco Guarascio; Additional reporting by Phuong Nguyen and Khanh Vu in Hanoi, Che Pan in Beijing; Editing by Kate Mayberry and Louise Heavens    
   
   
-# Note 202: Giảm 50% dự trữ bắt buộc cho 4 ngân hàng.md  
+# Note 203: Giảm 50% dự trữ bắt buộc cho 4 ngân hàng.md  
 @tag #financeVN 
 @il
 
@@ -21841,7 +21947,7 @@ Trong bối cảnh mặt bằng lãi suất và cạnh tranh huy động vốn v
 Tiền phong    
   
   
-# Note 203: Novaland có lừa đảo không Cạm bẫy pháp lý và dòng tiền ẩn khuất.md  
+# Note 204: Novaland có lừa đảo không Cạm bẫy pháp lý và dòng tiền ẩn khuất.md  
 @tag #financeVN #Novaland #VPBank 
 @il [[Danh sách các ngân hàng hậu thuẫn (hoặc liên kết chặt chẽ) với các tập đoàn bất động sản Việt Nam]]
 source: "https://quynhquantu.vn/phan-tich/novaland-co-lua-dao-khong-cam-bay-phap-ly-va-dong-tien-an-khuat"
@@ -22007,7 +22113,7 @@ Mọi thông tin trên website được tổng hợp từ nguồn công khai và
     
   
   
-# Note 204: Playbook Người sáng lập cứu rỗi.md  
+# Note 205: Playbook Người sáng lập cứu rỗi.md  
 @tag
 @il [[vin260514 Lãnh đạo VinFast nói về nghi vấn ve sầu thoát xác để rút khỏi ngành ô tô và quyền lợi của khách mua xe]]
 
@@ -22025,7 +22131,7 @@ Mục tiêu: Giúp VinFast “nhẹ ký” hơn, tập trung bán hàng toàn c�
 Dù VinFast lỗ, nhưng tiền mua không phải từ lợi nhuận VinFast, mà từ ví cá nhân + hệ sinh thái Vượng/Vingroup. Đây là cách founder “tự cứu” công ty mình.    
   
   
-# Note 205: Playbook xử lý ngân hàng yếu kém.md  
+# Note 206: Playbook xử lý ngân hàng yếu kém.md  
 @tag
 @il [[Giảm 50% dự trữ bắt buộc cho 4 ngân hàng]]
 
@@ -22054,7 +22160,7 @@ Nhược điểm thì mấy nguồn quốc tế cũng ngầm nhắc: Nợ xấu 
 Tóm lại, đây không phải quyết định đột xuất mà là bước tiếp theo trong kịch bản tái cơ cấu đã chạy từ 2015 tới nay, chỉ khác là lần này dùng giảm dự trữ để bù đắp thay vì chỉ vay ưu đãi.    
   
   
-# Note 206: Thế lực nào đứng đằng sau Tuấn Mượt.md  
+# Note 207: Thế lực nào đứng đằng sau Tuấn Mượt.md  
 @tag #financeVN #EVN #Gelex 
 source: "https://x.com/nguoibuon_gio/status/1856664505654161889"
 author:
@@ -22100,7 +22206,7 @@ Nếu tiền tham nhũng, tiền lậu khai thác tài nguyên khoáng sản c�
     
   
   
-# Note 207: Trái phiếu SCB quy mô và chiêu thức của vụ lừa đảo thế kỷ.md  
+# Note 208: Trái phiếu SCB quy mô và chiêu thức của vụ lừa đảo thế kỷ.md  
 @tag #financeVN #SCB
 @il 
 source: "https://www.bbc.com/vietnamese/articles/cd11kp499p5o"
@@ -22245,7 +22351,7 @@ Những video bà Ngọc cho BBC xem đều cho thấy mọi giao dịch đều 
     
   
   
-# Note 208: Tập đoàn Amper.md  
+# Note 209: Tập đoàn Amper.md  
 @tag #financeVN #EVN #Gelex
 
 ---
@@ -22293,7 +22399,7 @@ Tập đoàn Amper hay Gelex đều chung một thế lực đứng đằng sau,
     
   
   
-# Note 209: Vượt qua Trung Nam, Tập đoàn Đức, Vinenergo của tỷ phú Phạm Nhật Vượng trúng thầu siêu dự án điện gió 48.000 tỷ đồng.md  
+# Note 210: Vượt qua Trung Nam, Tập đoàn Đức, Vinenergo của tỷ phú Phạm Nhật Vượng trúng thầu siêu dự án điện gió 48.000 tỷ đồng.md  
 @tag #Vingroup 
 
 title: "Vượt qua Trung Nam, Tập đoàn Đức, Vinenergo của tỷ phú Phạm Nhật Vượng trúng thầu siêu dự án điện gió 48.000 tỷ đồng"
@@ -22366,7 +22472,7 @@ Link bài gốc https://antt.nguoiduatin.vn/vuot-qua-trung-nam-tap-doan-duc-vine
     
   
   
-# Note 210: Vụ án Việt Á Nâng khống giá kit test, gây thiệt hại hơn 400 tỷ đồng của Nhà nước.md  
+# Note 211: Vụ án Việt Á Nâng khống giá kit test, gây thiệt hại hơn 400 tỷ đồng của Nhà nước.md  
 @tag #financeVN 
 source: "https://nhandan.vn/vu-an-viet-a-nang-khong-gia-kit-test-gay-thiet-hai-hon-400-ty-dong-cua-nha-nuoc-post790504.html"
 author:
@@ -22424,7 +22530,7 @@ TTXVN
     
   
   
-# Note 211: f1 Chủ tịch FLC Trịnh Văn Quyết bị bắt vì thao túng chứng khoán.md  
+# Note 212: f1 Chủ tịch FLC Trịnh Văn Quyết bị bắt vì thao túng chứng khoán.md  
 @tag #financeVN #FLC
 @il
 source: https://tuoitre.vn/chu-tich-flc-trinh-van-quyet-bi-bat-vi-thao-tung-chung-khoan-20220328004526775.htm
@@ -22495,7 +22601,7 @@ Cũng trong năm 2017, Công ty CP xây dựng FLC Faros (ROS) do ông Trịnh V
     
   
   
-# Note 212: f2 Ông Trịnh Văn Quyết FLC bệnh nặng, nguy cơ tử vong cao, xin xét xử vắng mặt.md  
+# Note 213: f2 Ông Trịnh Văn Quyết FLC bệnh nặng, nguy cơ tử vong cao, xin xét xử vắng mặt.md  
 @tag 
 @il [[f1 Chủ tịch FLC Trịnh Văn Quyết bị bắt vì thao túng chứng khoán]]
 source: https://baophapluat.vn/ong-trinh-van-quyet-benh-nang-nguy-co-tu-vong-cao-xin-xet-xu-vang-mat-post551993.html
@@ -22540,7 +22646,7 @@ Cùng với việc nộp tiền, bà Diệp cũng gửi đơn đến HĐXX phúc
 Hồng Mây    
   
   
-# Note 213: f3 Cựu Chủ tịch FLC Trịnh Văn Quyết tái xuất.md  
+# Note 214: f3 Cựu Chủ tịch FLC Trịnh Văn Quyết tái xuất.md  
 @tag
 @il [[f2 Ông Trịnh Văn Quyết FLC bệnh nặng, nguy cơ tử vong cao, xin xét xử vắng mặt]]
 source: "https://vnexpress.net/cuu-chu-tich-flc-trinh-van-quyet-tai-xuat-5010229.html"
@@ -22581,7 +22687,7 @@ Hiện tại, Chủ tịch HĐQT FLC là ông Vũ Anh Tuân, bà Bùi Hải Huy�
     
   
   
-# Note 214: plx140303 Quy chuẩn phối trộn xăng sinh học E5.md  
+# Note 215: plx140303 Quy chuẩn phối trộn xăng sinh học E5.md  
 @tag #Petrolimex 
 @il
 source: "https://www.hiephoixangdau.org/nd/kien-thuc/phat-trien-nhien-lieu-sinh-hoc-va-ung-dung-xang-e5-tai-viet-nam-quy-chuan-phoi-tron-xang-sinh-hoc.html"
@@ -22619,7 +22725,7 @@ Nguồn:[Petrotimes](https://petrotimes.vn/news/vn/xang-sinh-hoc-e5/quy-chuan-ph
     
   
   
-# Note 215: plx17018 Petrolimex linh hoạt nguồn cung nhiên liệu cho phối trộn xăng E5 RON 92.md  
+# Note 216: plx17018 Petrolimex linh hoạt nguồn cung nhiên liệu cho phối trộn xăng E5 RON 92.md  
 @tag #Petrolimex 
 source: "https://www.petrolimex.com.vn/nd/bao-chi-viet-ve-petrolimex-va-xang-dau/petrolimex-linh-hoat-nguon-cung-nhien-lieu-cho-phoi-tron-xang-e5ron92.html"
 author:
@@ -22693,7 +22799,7 @@ Cam kết nỗ lực không ngừng để tiến xa hơn trên con đường ph�
     
   
   
-# Note 216: plx260203 Petrolimex giới thiệu nhận diện thương hiệu mới.md  
+# Note 217: plx260203 Petrolimex giới thiệu nhận diện thương hiệu mới.md  
 @tag #Petrolimex 
 
 ---
@@ -22759,7 +22865,7 @@ Trong giai đoạn tiếp theo, nhận diện thương hiệu mới sẽ đượ
     
   
   
-# Note 217: plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO.md  
+# Note 218: plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO.md  
 @tag #Petrolimex 
 @il 
 title: "Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO"
@@ -22787,7 +22893,7 @@ VOV.VN - Bộ Tài chính vừa ra quyết định tạm đình chỉ chức v�
     
   
   
-# Note 218: plxp2 Bắt 2 cựu Tổng giám đốc PJICO tội nhận hối lộ.md  
+# Note 219: plxp2 Bắt 2 cựu Tổng giám đốc PJICO tội nhận hối lộ.md  
 @tag
 @il [[plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO]]
 [[plxp1 Khởi tố cựu Tổng Giám đốc Petrolimex Đào Nam Hải liên quan sai phạm ở PJICO]]
@@ -22820,7 +22926,7 @@ Ngoài bà Giang, HĐQT PJICO cũng ra nghị quyết miễn nhiệm chức vụ
     
   
   
-# Note 219: vh251213 Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường.md  
+# Note 220: vh251213 Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường.md  
 @tag #financeVN 
 @il
 
@@ -22937,7 +23043,7 @@ Công tác này được Hà Nội yêu cầu các đơn vị duy trì thường
     
   
   
-# Note 220: vh260514 Hà Nội dự kiến cho thuê vỉa hè tại một số tuyến phố ở phường Hoàn Kiếm, Cửa Nam.md  
+# Note 221: vh260514 Hà Nội dự kiến cho thuê vỉa hè tại một số tuyến phố ở phường Hoàn Kiếm, Cửa Nam.md  
 @tag
 @il [[vh251213 Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường]]
 source: "https://cafef.vn/ha-noi-du-kien-cho-thue-via-he-tai-mot-so-tuyen-pho-o-phuong-hoan-kiem-cua-nam-188260514073337494.chn"
@@ -22986,7 +23092,7 @@ Theo VTC News 05/13/2026 22:32 (GMT +7)
     
   
   
-# Note 221: vin260424 CẢNH BÁO HỢP ĐỒNG THUÊ ĐẶT TỦ SẠC-ĐỔI PIN XE MÁY ĐIỆN..md  
+# Note 222: vin260424 CẢNH BÁO HỢP ĐỒNG THUÊ ĐẶT TỦ SẠC-ĐỔI PIN XE MÁY ĐIỆN..md  
 @tag #Vingroup 
 @il
 
@@ -23026,7 +23132,7 @@ Ok?
 Đọc cảnh báo khác ở bài kế tiếp.    
   
   
-# Note 222: vin260514 Lãnh đạo VinFast nói về nghi vấn ve sầu thoát xác để rút khỏi ngành ô tô và quyền lợi của khách mua xe.md  
+# Note 223: vin260514 Lãnh đạo VinFast nói về nghi vấn ve sầu thoát xác để rút khỏi ngành ô tô và quyền lợi của khách mua xe.md  
 @tag #Vingroup 
 @il
 
@@ -23079,7 +23185,7 @@ Link bài gốc https://markettimes.vn/lanh-dao-vinfast-noi-ve-nghi-van-ve-sau-t
     
   
   
-# Note 223: Charoen Pokphand – Wikipedia tiếng Việt.md  
+# Note 224: Charoen Pokphand – Wikipedia tiếng Việt.md  
 @tag #financeCN #CPgroup 
 @il
 [[Các quỹ đầu tư ra nước ngoài của Trung Quốc]]
@@ -23134,7 +23240,7 @@ CP Land quản lý một số tài sản ở Băng Cốc, bao gồm CP Tower 1 &
 [^9]: **[^](https://vi.wikipedia.org/wiki/#cite_ref-9)** ["Our Company - CP Lotus Corporate Website"](http://www.cplotuscorp.com/eng/about.php). *www.cplotuscorp.com*.    
   
   
-# Note 224: Các quỹ đầu tư ra nước ngoài của Trung Quốc.md  
+# Note 225: Các quỹ đầu tư ra nước ngoài của Trung Quốc.md  
 @tag #financeCN
 @il
 theo như tôi tổng hợp từ các nguồn trung lập, đây là danh sách chính các quỹ đầu tư ra nước ngoài của Trung Quốc, chủ yếu là quỹ chủ quyền (sovereign wealth funds) và quỹ chuyên biệt. Tôi ưu tiên các quỹ có hoạt động đầu tư quốc tế rõ rệt, như đầu tư vào cổ phiếu, trái phiếu, bất động sản, hạ tầng, và tài nguyên ở nước ngoài. Danh sách không đầy đủ hết vì một số quỹ có thể thay đổi theo thời gian, nhưng đây là những cái nổi bật nhất:
@@ -23149,7 +23255,7 @@ theo như tôi tổng hợp từ các nguồn trung lập, đây là danh sách 
 Lưu ý là một số quỹ khác như National Social Security Fund (NSSF) có phần đầu tư ra ngoài nhưng chủ yếu tập trung nội địa, nên tôi không liệt kê chính    
   
   
-# Note 225: VNG lần đầu hé lộ Tencent, Ant Group là cổ đông.md  
+# Note 226: VNG lần đầu hé lộ Tencent, Ant Group là cổ đông.md  
 @tag #VNG #financeCN #financeVN 
 @il
 source: "https://vnexpress.net/vng-lan-dau-he-lo-tencent-ant-group-la-co-dong-4645477.html"
@@ -23196,7 +23302,7 @@ Mảng hoạt động mang lại nhiều doanh thu nhất cho VNG là dịch v�
     
   
   
-# Note 226: _Định nghĩa hashtag politics_define.md  
+# Note 227: _Định nghĩa hashtag politics_define.md  
 @tag #politics #politics_define 
 
 Các quốc gia theo chủ nghĩa cộng sản như: Trung Quốc, Việt Nam, Cuba
@@ -23208,7 +23314,7 @@ Nguồn báo chí tiếng Việt uy tín là: N10Tv, Người Buôn Gió. N10tv 
 Nguồn báo chí có đăng ký trên thế giới định nghĩa là báo chí cánh tả (the left), thiếu trung thực là: BBC, CNN, ABC News, Associated Press, Axios, CBS News, KTLA, MSNBC, NBC News, New Jersey Monitor, Politico, The Boston Globe, The Daily Beast, The Hill, The Independent, The Los Angeles Times, The New York Times ,The Wall Street Journal, The Washington Post, USA Today.    
   
   
-# Note 227: 171225 Hơn 10.000 người trong 'Lực lượng 47' đấu tranh trên mạng.md  
+# Note 228: 171225 Hơn 10.000 người trong 'Lực lượng 47' đấu tranh trên mạng.md  
 @tag #politicsVN 
 @il
 source: "https://tuoitre.vn/hon-10-000-nguoi-trong-luc-luong-47-dau-tranh-tren-mang-20171225150602912.htm"
@@ -23219,7 +23325,6 @@ description: "TTO - Hiện nhân sự Lực lượng 47 đã có hơn 10.000 ng�
 
 25/12/2017 14:53 GMT+7
 
-[![news google](https://static-tuoitre.tuoitre.vn/tuoitre/web_images/banner_gg_news_v2.png)](https://news.google.com/publications/CAAqBwgKMKXAxAswyNvbAw?hl=vi&gl=VN&ceid=VN:vi "news google")
 
 ## TTO - Hiện nhân sự Lực lượng 47 đã có hơn 10.000 người là hạt nhân đấu tranh trên không gian mạng, "vừa hồng vừa chuyên", kiên định lập trường, có trình độ, kỹ năng xàiֹ công nghệ cao.
 
@@ -23282,7 +23387,7 @@ Theo ông Nhân, SÀI GÒNֹ có một Đảng bộ với hơn 220.000 đảng v
 MAI HOA    
   
   
-# Note 228: 260505 Ba cựu cán bộ chiếm đoạt số tiền ảo trị giá hàng chục tỷ của con bạc.md  
+# Note 229: 260505 Ba cựu cán bộ chiếm đoạt số tiền ảo trị giá hàng chục tỷ của con bạc.md  
 @tag #politicsVN 
 @il
 
@@ -23339,7 +23444,49 @@ Cách phát hành cổ phiếu ‘ảo’, chiếm đoạt hơn 32 tỷ đồng 
 Sắp xử phúc thẩm Cựu Viện trưởng Viện Y dược học dân tộc nhận hối lộ 47 tỷ đồng    
   
   
-# Note 229: Chỉnh trang chợ Bến Thành, hồ Con Rùa Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh.md  
+# Note 230: 260529 Đề xuất di dời ga Hà Nội ra Ngọc Hồi trong năm 2026.md  
+@tag #politicsVN 
+@il
+source: "https://youtu.be/iy9vYCktB8M?si=Ap6Kr7GPsDOrwU5q"
+
+source: https://thanhnien.vn/de-xuat-di-doi-ga-ha-noi-ra-ngoc-hoi-trong-nam-2026-185260529233447823.htm
+author:
+  - "[[thanhnien.vn]]"
+published: 2026-05-29
+created: 2026-06-13
+description: Vingroup đề xuất di dời đoạn đường sắt hiện hữu ga Hà Nội đến ga Ngọc Hồi để mở rộng QL1 ngay trong năm 2026.
+
+
+
+## Vingroup đề xuất di dời đoạn đường sắt hiện hữu ga Hà Nội đến ga Ngọc Hồi để mở rộng QL1 ngay trong năm 2026.
+
+Tập đoàn Vingroup vừa có văn bản gửi Chính phủ, Bộ Xây dựng, UBND TP.Hà Nội kiến nghị xem xét chỉ đạo cơ quan chức năng di dời đoạn đường sắt và hạ tầng [ga Hà Nội.](https://thanhnien.vn/noi-thong-toan-bo-ham-ngam-tuyen-metro-nhon-ga-ha-noi-185260413211819923.htm " ga Hà Nội.")
+
+Theo đó, Vingroup đề xuất di dời ga Hà Nội đến ga Ngọc Hồi hoặc vị trí phù hợp do Bộ Xây dựng và UBND TP.Hà Nội xác định, nhằm bàn giao mặt bằng thi công dự án mở rộng QL1 trong năm 2026.
+
+![Đề xuất di dời ga Hà Nội ra Ngọc Hồi trong năm 2026- Ảnh 1.](https://images2.thanhnien.vn/528068263637045248/2026/5/29/anh-chup-man-hinh-2026-05-29-luc-233214-178007234575838858517.png)
+
+Vingroup đề xuất di dời ga Hà Nội ra ga Ngọc Hồi trong năm 2026 để mở rộng QL1
+
+Vingroup cũng đề xuất được tham gia đầu tư hàng loạt dự án hạ tầng đường sắt theo hình thức PPP, hợp đồng BT, trong đó có dự án xây dựng ga hàng hóa và ga hành khách tạm tại Ngọc Hồi để phục vụ hành khách, thay thế ga Hà Nội. Đồng thời, doanh nghiệp kiến nghị cải dịch tuyến đường sắt khổ 1.000 mm đoạn Ngọc Hồi - Phú Xuyên theo hành lang đi chung với đường sắt tốc độ cao, bàn giao mặt bằng tuyến đường sắt Bắc - Nam hiện hữu để phục vụ dự án mở rộng QL1.
+
+Cụ thể, tập đoàn này đề xuất xây dựng tuyến đường sắt vành đai phía đông Hà Nội đoạn Ngọc Hồi - Kim Sơn với khổ 1.435 mm và 1.000 mm, nhằm kết nối đường sắt Bắc - Nam với mạng lưới đường sắt khu vực phía bắc. Tuyến mới này sẽ thay thế tuyến Ngọc Hồi - Yên Viên hiện hữu, qua đó chuyển đoạn đường sắt khổ 1.000 mm hiện tại cho Hà Nội để triển khai tuyến đường sắt đô thị số 1.
+
+Để bảo đảm việc tổ chức hệ thống đường sắt nội đô không ảnh hưởng đến người dân trong thời gian thực hiện các dự án, Vingroup cam kết bố trí xe buýt miễn phí đưa đón hành khách từ ga Ngọc Hồi vào trung tâm thành phố và ngược lại.
+
+Ga Hà Nội hiện là ga trung tâm của tuyến đường sắt Bắc - Nam, từ đây hành khách sẽ đến và đi tới các ga dọc tuyến miền Trung và miền Nam. Đường sắt Bắc - Nam chạy song song với QL1, đoạn ga Hà Nội tới ga Ngọc Hồi nằm trong khu vực dự án mở rộng QL1 lên 16 làn xe.
+
+Vị trí ga Ngọc Hồi cách ga Hà Nội hiện nay khoảng 14 km. Nếu triển khai di dời, hành khách đi các tỉnh phía nam sẽ phải di chuyển ra ga Ngọc Hồi, tàu hàng hoạt động ga Thường Tín, Ngọc Hồi đi theo tuyến vành đai phía đông Ngọc Hồi - Kim Sơn.
+
+Theo quy hoạch sau năm 2030, ga Hà Nội sẽ trở thành ga đường sắt đô thị trung tâm của Hà Nội. Trước đó, ngày 19.5, Vingroup đã khởi công dự án trục không gian QL1 gắn với chỉnh trang và tái thiết đô thị theo hình thức PPP, hợp đồng BT.
+
+Tuyến đường dài 36,3 km, đi qua 18 phường, xã của Hà Nội, điểm đầu kết nối Vành đai 1 tại khu vực nút giao hầm Kim Liên và điểm cuối kết nối Cầu Giẽ, thuộc xã Chuyên Mỹ. Mặt cắt ngang đường rộng 90 m, gồm 10 làn xe trên trục chính và 6 làn xe song hành hai bên với tổng mức đầu tư 162.000 tỉ đồng, dự kiến hoàn thành trong năm 2027.
+
+Chia sẻ
+    
+  
+  
+# Note 231: Chỉnh trang chợ Bến Thành, hồ Con Rùa Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh.md  
 @tag #politicsVN 
 @il
 
@@ -23510,7 +23657,7 @@ Nam Bộ xuất hiện mưa trái mùa Mưa trái mùa trong những ngày này 
 [Chỉnh trang chợ Bến Thành, hồ Con Rùa: Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh](https://tcdulichtphcm.vn/chuyen-dong/chinh-trang-cho-ben-thanh-ho-con-rua-can-nhin-trong-tong-the-va-cho-cong-trinh-hoan-chinh-c2a109729.html "Chỉnh trang chợ Bến Thành, hồ Con Rùa: Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh")    
   
   
-# Note 230: Căn cước công dân gắn chíp và tài khoản định danh điện tử Những điều cần biết….md  
+# Note 232: Căn cước công dân gắn chíp và tài khoản định danh điện tử Những điều cần biết….md  
 @tag #politicsVN 
 @il
 source: "https://congan.hungyen.gov.vn/can-cuoc-cong-dan-gan-chip-va-tai-khoan-dinh-danh-dien-tu-nhung-dieu-can-biet-c217693.html"
@@ -23567,7 +23714,7 @@ Do đó, để bảo đảmֹ quyền lợi hợp pháp của công dân trong t
                                                                       **Minh Phương**    
   
   
-# Note 231: Cận vệ của Chủ tịch nước Lương Cường bị bắt ở Chile vì cáo buộc xâm hại tình dục.md  
+# Note 233: Cận vệ của Chủ tịch nước Lương Cường bị bắt ở Chile vì cáo buộc xâm hại tình dục.md  
 @tag #politicsVN 
 @il
 source: https://www.rfa.org/vietnamese/news/vietnamnews/luong-cuong-bodyguard-arrested-in-chile-with-se-abuse-alleged-11122024000814.html
@@ -23627,7 +23774,7 @@ Tổng thống Chile lưu ý, chuyến đi của Lương Cường và phái đo�
 Việt Nam là đối tác thương mại đầu tiên của Chile trong số các thành viên Hiệp hội các quốc gia Đông Nam Á (ASEAN) và chỉ tính riêng nửa đầu năm 2024, thương mại giữa hai nước đạt 803,6 triệu USD.    
   
   
-# Note 232: Dòng điện không ổn định ảnh hưởng rất lớn đến sự vận hành sản xuất chip ..hèn chi Intel chạy xa VN.md  
+# Note 234: Dòng điện không ổn định ảnh hưởng rất lớn đến sự vận hành sản xuất chip ..hèn chi Intel chạy xa VN.md  
 @tag #politicsVN
 source: https://x.com/admvhv/status/1855766520498110661?s=12
 
@@ -23648,7 +23795,7 @@ Nguồn :Chu Vĩnh Hải.- Cre: Tran Quang Anh
     
   
   
-# Note 233: Gia tộc Nguyễn Tấn Dũng trỗi dậy khi hai con trai trúng ủy viên Trung ương.md  
+# Note 235: Gia tộc Nguyễn Tấn Dũng trỗi dậy khi hai con trai trúng ủy viên Trung ương.md  
 @tag #politicsVN 
 @il [[Hai Huân chương Sao Vàng và một dấu hỏi]]
 
@@ -23819,7 +23966,7 @@ Người nhỏ nhất trong ba anh em là ông Mai Chí Thọ thì được bầ
 - ![Tỷ phú Phạm Nhật Vượng](https://ichef.bbci.co.uk/ace/ws/400/cpsprodpb/984a/live/ecd91cc0-e16a-11f0-b67b-690eb873de1b.jpg.webp)    
   
   
-# Note 234: Hai Huân chương Sao Vàng và một dấu hỏi.md  
+# Note 236: Hai Huân chương Sao Vàng và một dấu hỏi.md  
 @tag #politicsVN 
 @il
 
@@ -23918,7 +24065,131 @@ Từng có một thời gian dài, công chúng Việt Nam gọi ông Nguyễn T
     
   
   
-# Note 235: MINH TUỆ.md  
+# Note 237: HĐC 260809 Playbook cô đơn và cách chia để trị.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/L5xjpLy-Dl4"
+author: "Nước Úc Channel"
+published: 2026-08-09
+created: 2026-08-09
+description: "GEN Z, CÔ ĐƠN, VÀ TOÀN TRỊ: MỘT GÓC NHÌN TỪ HANNAH ARENDT | HỘI ĐỒNG CỪU"
+
+**[0:00 – 0:49]** Xin chào các bạn, chào mừng quay trở lại với Hội Đồng Cừu.
+
+Video hôm nay sẽ không giải thích hiện tượng, không áp dụng những lý thuyết khoa học hay triết học lớn lao để phân tích, chỉ ra xu hướng như một số video trước đây của tui.
+
+Hôm nay tui chỉ kể lại hai câu chuyện thật, một số quan sát của tui về Gen Z và một số phong trào xã hội đang diễn ra ở Việt Nam, rồi mượn khung tư tưởng của Hannah Arendt để cùng suy nghĩ và cẩn trọng.
+
+Đây vừa là lời cảnh báo dành cho người trẻ, vừa là lời tự nhắc của chính Hội Đồng Cừu.
+
+**[0:49 – 7:11] Kể chuyện đêm khuya**
+
+Trước hết, tui muốn giới thiệu Google Scholar của tui cho những bạn chưa biết. Nhiều người hay hỏi tại sao đi du học rồi mà vẫn chỉ nói chuyện với người Việt, không nói tiếng Anh với độc giả quốc tế. Thực ra tui có nhiều kênh khác, Hội Đồng Cừu chỉ là một trong số đó thôi.
+
+Câu chuyện thứ nhất.
+
+Khoảng một đến hai năm trước, có một nhóm nghiên cứu của Đại học Warwick (Anh) liên hệ tui. Họ quan tâm đến bài viết của tui về “Human Rights Concerns in Vietnam’s Cybersecurity Law”. Bài này không phải là nghiên cứu được trích dẫn nhiều, nhưng họ đã đọc và muốn tìm hiểu thêm về khung pháp lý Việt Nam, đặc biệt liên quan đến cộng đồng người nhiễm HIV và không gian mạng.
+
+Ban đầu mọi thứ diễn ra khá suôn sẻ. Tui trình bày thông tin pháp lý, trả lời các câu hỏi về sự tương tác giữa Luật An ninh mạng với Bộ luật Hình sự, các quy định xử phạt hành chính trên môi trường mạng…
+
+Nhưng khoảng 20–30 phút cuối, khi cuộc trò chuyện trở nên tự do hơn giữa nhóm nghiên cứu Anh và các nhà hoạt động xã hội trẻ ở Việt Nam, câu hỏi bất ngờ chuyển hướng.
+
+Các bạn trẻ hỏi: “Luật An ninh mạng có thể dùng để khởi tố những người nói xấu cộng đồng người nhiễm HIV không? Khi nào nên dùng luật hình sự, khi nào có thể dùng Luật An ninh mạng để xử lý? Cụ thể hơn, hậu quả pháp lý của việc phỉ báng hay xúc phạm người nhiễm HIV trên mạng xã hội là gì?”
+
+Lúc đó tui hơi bất ngờ. Vì trong gần mười năm theo dõi và tham gia một số hoạt động xã hội ở Việt Nam, đây là lần đầu tiên tui nghe một nhóm thiểu số không chủ trương bảo vệ không gian tự do ngôn luận còn lại trên mạng, mà lại muốn **dùng quyền lực nhà nước** như một công cụ để bảo vệ chính mình.
+
+Tui không muốn nói việc này đúng hay sai. Mỗi cộng đồng nhỏ, bị cô lập đều có trải nghiệm và ưu tiên riêng của họ. Nhưng tui thấy rõ một sự thay đổi lớn so với tinh thần của phong trào dân sự Việt Nam giai 2007–2019. Lúc đó, bảo vệ quyền của nhóm thiểu số thường được hiểu là hạn chế sự can thiệp và mở rộng quyền lực của nhà nước.
+
+Câu chuyện thứ hai gần đây hơn.
+
+Đó là vụ giải tỏa Làng Vân dưới chân đèo Hải Vân, liên quan đến các dự án bất động sản lớn, trong đó có Vingroup. Có rất nhiều cáo buộc về quy trình thu hồi đất, nhưng tui không phân tích chi tiết ở đây.
+
+Điều tui muốn nói là: trước một câu chuyện rõ ràng mang tính sở hữu công và quản lý nhà nước rất đặc thù của Việt Nam, phản ứng phổ biến trên mạng của nhiều bạn trẻ lại là:
+
+**“Đây là vấn đề của chủ nghĩa tư bản.”**
+
+Trong khi Hội Đồng Cừu từng làm nhiều video phản biện tư bản, tui cũng từng viết bài chỉ trích Vingroup và bị tấn công khá nặng. Nhưng trong bối cảnh sở hữu đất đai Việt Nam, với những yếu tố chính trị – đảng – pháp lý cụ thể như vậy, việc quy hết mọi thứ cho “tư bản” là cách tiếp cận kỳ lạ nhất, cũng thú vị nhất mà tui từng gặp trong hơn mười năm nghiên cứu.
+
+**[7:11 – 11:50] Từ Cô đơn…**
+
+Hai câu chuyện trên không phải là hiện tượng lớn hay xu hướng rõ ràng. Chúng chỉ gợi cho tui nhớ đến khung lý thuyết của Hannah Arendt.
+
+Hannah Arendt là một trong những nhà triết học và tư tưởng chính trị vĩ đại nhất thế kỷ 20. Bà dành gần 20 năm để trả lời một câu hỏi ám ảnh:
+
+Tại sao một xã hội giàu văn hóa, có truyền thống sâu sắc, hệ thống pháp lý vững chắc và di sản triết học lâu đời như nước Đức lại có thể trượt vào chủ nghĩa toàn trị?
+
+Câu trả lời của bà nằm trong cuốn _The Origins of Totalitarianism_ (Nguồn gốc của chủ nghĩa toàn trị) xuất bản năm 1951.
+
+Nó không nằm ở nhà độc tài, không nằm ở bản chất độc đoán của cộng đồng, không nằm ở bộ máy cảnh sát, thậm chí không nằm ở bản thân các ý thức hệ tả hay hữu.
+
+Nó nằm ở một thứ nghe rất riêng tư, rất vô hại, thậm chí rất đời thường, nhưng lại có liên hệ sâu sắc với người trẻ ngày nay. Đó chính là **cô đơn**.
+
+Arendt phân biệt rất tinh tế ba trạng thái:
+
+1. **Solitude** (cô tĩnh) Là khi ở một mình nhưng vẫn có thể tìm thấy sự đồng hành trong chính mình. Bà mô tả rất đẹp: “Trong trạng thái đó, tôi là hai trong một.” Tôi có thể đối thoại thầm lặng với chính mình. Và cuộc đối thoại thầm lặng ấy chính là bản chất của tư duy. Solitude không phải là thiếu thốn. Nó là điều kiện để con người có thể suy nghĩ.
+    
+2. **Isolation** (cô lập) Là khi một người bị cắt đứt khỏi đời sống công cộng, khỏi không gian chính trị – nơi mọi người cùng nói và cùng hành động. Nhưng người bị cô lập vẫn còn đời sống riêng của mình: vẫn còn công việc, vẫn còn thành quả, vẫn có thể sáng tạo. Isolation vẫn chỉ là trạng thái tiền độc tài (pre-totalitarian). Nó chưa phải là toàn trị.
+    
+3. **Loneliness** (cô đơn) Đây mới là trạng thái nguy hiểm nhất. Nó không còn là chuyện ở một mình, mà là bị bỏ rơi hoàn toàn, bị từ chối triệt để. Mất cảm giác thuộc về bất kỳ thế giới nào, không còn ai để kết nối, không còn công việc, không còn cả chính mình để trò chuyện.
+    
+    Arendt viết một câu tui cho là quan trọng nhất: **“Loneliness is the experience of not belonging to the world at all, which is among the most radical and desperate experiences of man.”** (Cô đơn là trải nghiệm không còn thuộc về thế giới này – một trong những trải nghiệm tuyệt vọng nhất của con người.)
+    
+    Và chính **cô đơn**, chứ không phải solitude hay isolation, mới là nền tảng để chủ nghĩa toàn trị nảy sinh.
+    
+
+**[11:50 – 17:08] … đến Toàn trị**
+
+Tại sao Arendt lại cho rằng cô đơn, chứ không phải nghèo đói hay oán hận giai cấp, mới là mảnh đất màu mỡ cho toàn trị?
+
+Vì cô đơn ở đây không phải là cô đơn thông thường. Nó là một **thảm họa nhận thức** (epistemological disaster).
+
+Làm sao tôi biết một cái gì đó là thật? Arendt trả lời: Tôi biết nó thật vì không chỉ một mình tôi nhìn thấy nó. Một cái ghế là thật vì nhiều người, dù là người lạ hay người thân, nhìn từ các góc khác nhau vẫn nhận ra nó là cái ghế.
+
+Những mối liên kết ấy – dù là người thân, bạn bè, đồng nghiệp, hay thậm chí người lạ trong đời thực – giúp neo giữ chúng ta vào một thế giới chung (common world). Chúng tạo ra cái gọi là **common sense** – không phải vì nhiều người nghĩ giống nhau, mà vì các giác quan của từng cá nhân được nối với một thực tại chung.
+
+Khi một người bị đứt hết mọi mối liên kết đó, họ mất luôn khả năng phân biệt thật – giả. Không còn ai để so sánh, để tranh luận, để cùng kiểm chứng.
+
+Lúc đó, họ bắt đầu khao khát một thứ khác: **tính nhất quán** (consistency).
+
+Họ không còn tin vào bằng chứng, vào sự thật rời rạc ngoài kia nữa. Họ tin vào một hệ thống ý hệ khép kín, trơn tru, trong đó mọi thứ đều khớp với nhau, mọi thứ đều có thể suy ra từ một ý tưởng duy nhất.
+
+**[17:08 – 23:20] Những tham vọng của cô đơn**
+
+Arendt chỉ ra ba con đường dẫn đến toàn trị từ những cá nhân đã bị nguyên tử hóa và cô lập:
+
+1. **Tham vọng giải thích mọi thứ** Ý hệ không chỉ giải thích những gì đã xảy ra, mà còn tuyên bố nắm được chìa khóa duy nhất để giải thích toàn bộ tiến trình lịch sử – quá khứ, hiện tại và tương lai.
+2. **Giải phóng khỏi trải nghiệm thực tế** Một khi đã có “chìa khóa vạn năng”, người ta không còn cần nhìn vào thực tế nữa. Nếu thực tế mâu thuẫn với lý thuyết, thì thực tế mới là thứ sai. Ví dụ kinh điển: “Chúng tôi đại diện cho giai cấp công nhân. Nếu công nhân nào không đồng ý với chúng tôi, thì họ chưa có ý thức giai cấp, hoặc tệ hơn là thuộc về tầng lớp lưu manh vô sản.”
+3. **Sự chuyên chế của logic** (tyranny of logic) Một khi chấp nhận tiền đề A là đúng tuyệt đối, thì mọi thứ tiếp theo sẽ được suy diễn một cách lạnh lùng, khoa học: có A thì phải có B, có B thì tất yếu dẫn đến C… Dù kết luận cuối cùng có trái với lương tâm, với lẽ thường đến mức nào đi nữa, người ta vẫn bị logic ấy buộc phải chấp nhận.
+
+Đây là trái tim của toàn bộ lý thuyết: Khi mất thế giới chung, mất những người thân yêu để kiểm chứng thực tại, thứ duy nhất còn lại mà người ta có thể bám víu chính là sự “tự thân đúng đắn” của chuỗi suy luận logic trong ý hệ.
+
+Ý hệ sẽ nói với bạn: “Đừng lo, mọi thứ sẽ hợp lý thôi. Mọi thứ sẽ khớp với nhau. Tôi sẽ chỉ cho bạn thấy tất cả vận hành như thế nào.”
+
+**[23:20 – hết] Thời đại của cô đơn**
+
+Bây giờ các bạn có thể hiểu vì sao tui kể hai câu chuyện đầu video.
+
+Một câu chuyện rối rắm, phức tạp về đất đai, quyền lực, lợi ích chồng chéo ở Việt Nam, bị nhiều bạn trẻ quy về một khái niệm duy nhất, một kẻ thù duy nhất: “tư bản”.
+
+Đó chính là sức hấp dẫn của một lời giải thích toàn diện, trơn tru, gọn gàng. Nó giúp ta khỏi phải tháo từng mắt xích ra để tìm hiểu vấn đề.
+
+Tương tự, khi một nhóm người quan tâm đến người yếu thế, thay vì tập trung bảo vệ không gian tự do còn lại, lại nghĩ rằng quyền lực nhà nước mới là câu trả lời… thì đó cũng là một dạng khao khát về một xã hội “sạch sẽ”, nơi mọi phát ngôn lệch chuẩn đều bị triệt tiêu.
+
+Điều đáng nói là đời sống số ngày nay mang lại cảm giác kết nối chưa từng có trong lịch sử loài người. Nhưng đồng thời, loại cô đơn mà Arendt mô tả lại đang gia tăng ở rất nhiều người trong chúng ta.
+
+Giữa hàng ngàn tương tác mỗi ngày, nhiều người vẫn không biết mình thuộc về đâu. Ít bạn thân, ít kết nối đời thực, ít người sẵn sàng vừa quan tâm vừa dám phản biện những niềm tin cực đoan đang nảy nầm trong đầu mình.
+
+Và chính trong khoảng trống ấy, chiếc điện thoại trên tay luôn sẵn sàng đưa ra những lời giải thích rất mượt, rất khép kín, rất ngắn gọn, kèm theo một phe để thuộc về và một kẻ thù để canh giữ.
+
+Với Arendt, cô đơn là mảnh đất màu mỡ của chủ nghĩa toàn trị. Còn thực tế sẽ diễn ra như thế nào ở Việt Nam thì chúng ta cần tiếp tục quan sát.
+
+Điều duy nhất tui chắc chắn trong video này là: không gian dân sự và không gian hoạt động xã hội mà tui từng chứng kiến đang có những tín hiệu đáng để suy nghĩ theo khung lý thuyết vừa giới thiệu.
+
+Tui hy vọng lý thuyết này cũng sẽ cho các bạn vài điểm xuất phát để suy nghĩ.    
+  
+  
+# Note 238: MINH TUỆ.md  
 @tag #politicsVN 
 source: "https://www.minhtuepath.org/thay-minh-tue"
 created: 2026-02-04
@@ -24009,7 +24280,1863 @@ Còn nhiều câu nói khác nữa. Mọi người có thể cập nhật vào f
 ![](https://www.youtube.com/watch?v=G7dGcg_j1zA)    
   
   
-# Note 236: Nợ công Việt Nam 35–36% GDP, Chính phủ định vay 969.796 tỷ năm 2026.md  
+# Note 239: NUC 260522 Playbook chiếm đất, nhà bằng chênh lệt giá nhà nước và thị trường.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/HAuTnQrKquc"
+author: "Nước Úc Channel"
+published: 2026-05-22
+created: 2026-05-22
+description: "Giải tỏa Hà Nội: GIÁ NHÀ NƯỚC, NGÂN HÀNG HAY THỊ TRƯỜNG ?"
+
+00:00:01
+Xin chào tất cả các bạn. Mấy ngày qua trên mạng xã hội tràn ngập những hình ảnh người dân Hà Nội khóc rồng khi nhận quyết định giải tỏa mặt bằng. Có người uất ức vì cả đời tích cóp giành giật mua được bốn năm căn nhà. Đùng một cái bỗng chốc đối diện với nguy cơ mất trắng. Nhưng trên các diễn đàn dư luận lại chia làm hai phe rõ rệt. Người thì xót thương cho bi kịch của đồng bào. Kẻ thì lại lạnh lùng nói đức đai là sở hữu toàn dân. Nhà nước thu hồi làm hạ tần thì phải chấp nhận thôi. Vậy thì sự thực nằm
+
+00:00:33
+ở đâu? Chúng ta sẽ nhìn thẳng vào một bài toán kinh tế sợ phẳn. Ở đời thuận mua thì vừa bán. Bạn đi mua một cái bánh, bạn phải trả đúng số tiền tương ứng với giá trị cái bánh đó. Vậy thì tại sao khi lấy đi tài sản sinh kế cả đời của một con người thì người ta lại dùng một cái giá trên trời rơi xuống mà chính người nhận không tài nào xây nổi một mái nhà mới? Cái biến cố giải tỏa đang diễn ra ở Hà Nội hôm nay vô tình là mình nhớ đến một câu nói mà chính người dân thủ đô thường hay tự hào. Người miền Bắc là
+
+00:01:08
+10 ăn hai để dành tám xây nhà phòng thân. Còn người miền Nam thì làm 10 ăn tới 12 chẳng dành dụng gì hết. Đã bao đời nay người ta xem khối gạch đá cố định, miếng đất mặt phố là tấm khiêng an toàn tuyệt đối để che chở cho cuộc đời. Thế nhưng trước những biến số nghiệt ngã của quy hoạch và những chiếc cân định giá đầy mâu thuẫn, liệu cái thân đó có thật sự được phòng thủ an toàn hay chính tư duy thắt lưng một bụ để tích lũy bằng mọi giá lại biến người ta thành những nạn nhân chịu tổn thương sâu sắc nhất khi cuộc đời đổi thay. Bây
+
+00:01:47
+giờ chúng ta hãy cùng nhau bóc trần ma trần tài chính này ngay sau đây. Để hiểu tại sao những giọt nước mắt ở Hà Nội lại rơi nhiều và cay đắng đến như vậy, chúng ta phải lột trừng được cái gọi là lớp si mạ hào nhoáng của tư duy tích lũy bất động sản cố định. Giống như câu thành ngữ mà chúng ta vừa nhắc ở phần đầu. Người miền Bắc làm 10 ăn hai để dành tám xây nhà phòng thân. Đây không đơn thuần là một thói quen về tiêu xài mà nó là một hằng số văn hóa, một thứ triết lý sống đã ăn sâu vào máu thịt
+
+00:02:36
+của biết bao thế hệ. Ở miền Bắc, một người được xem là thành công là có chỗ đứng trong xã hội. Việc đầu tiên và tối thượng là phải có một cái nhà. Ngôi nhà bằng gạch đá kiên cố không chỉ là nơi che mưa che nắng mà nó là bộ mặt là thể diện cả một dòng họ và là cái góc để con người ta bám lấy. Vì cái góc đó người ta sẵn sàng thắt lưng buộc bụng, nhịn ăn, nhịn mặc, không dám đi du lịch, không dám hưởng thụ. Có bao nhiêu tiền đều đổ hết vào gạch vào cát. Đối với họ, đất đai là thứ vĩnh cửu, gạch đá là thứ bất
+
+00:03:14
+biến. Càng sở hữu nhiều nhà đất, tấm khiêng phòng thân cho tương lai và cả cho con cháu ngày càng vững chắc. Bây giờ mình lấy một ví dụ thực tế cực kỳ điển hình mà chắc chắn ai cũng đã từng thấy. Hãy nhìn vào những gia đình sống những khu phố cổ hay các trục đường lớn tại Hà Nội. Có những căn nhà diện tích chỉ vọn vẹn mười mấy 20 m²ông. Cả ba thế hệ chen chúc nhau trong một không gian chật chội, ẩm thấp, sinh hoạt thì vô cùng bất tiện. Thế nhưng nếu nói họ bán đi để chuyển sang một căn chung cư rộng
+
+00:03:47
+rãi, tiện nghi ở vùng ven, họ sẽ lập tức gạt phát đi. Tại sao lại như vậy? Bởi vì cái tư duy bám mặt đường đã biến thành một loại đức tin. Họ chấp nhận hy sinh chất lượng cuộc sống của bản thân và gia đình trong suốt mấy chục năm trời chỉ để nắm giữ một khối tài sản mà họ tin rằng có giá trị hàng chục tỷ đồng. Họ tự hào mình là Triệu Phú đô thị ngồi trên đống vàng và sở hữu một pháo đài an toàn tuyệt đối. Thế nhưng cái lớp x mà an toàn đó có thực sự lấp lánh như người ta tưởng tượng không? Khi bước sang thế kỷ 21, đặc biệt là
+
+00:04:25
+trong giai đoạn đô thị hóa thần tốc như hiện nay, cổ máy quy hoạch bắt đầu tăng tốc. những siêu thị dự án hạ tầng, những tuyến đường vành đai, những đại lộ cảnh quang buộc phải vạch ra để mở rộng không gian thành phố. Và đùng một cái, những pháo đài an toàn cả đời người chắp bóp bỗng nhiên nằm gọn trong diện giải tỏa. Lúc này một biến số nghiệt ngã xuất hiện, đập tan toàn bộ niềm tin vĩnh cửu của người dân. Tính thanh khoản và giá trị tự do của khối tài sản đó lập tức trở về con số không. Toàn bộ mồ hôi,
+
+00:05:00
+nước mắt, tuổi thanh xuân và sự hy sinh của ba thế hệ bỗng chóc bị tức bỏ quyền tự quyết, phụ thuộc hoàn toàn vào một quyết định áp giá hành chính mang tên khung giá nhà nước. Bây giờ các bạn hãy nhìn vào một ví dụ đau lòng khác đang diễn ra ngay trong làng sóng giải tỏa này. Một cụ già tuổi đã ngoài 70, suốt cả cuộc đời làm lụng, ăn không dám ăn, mặc cũng không dám mặc, tích cóp được từng đồng. Tích C được bốn năm căn nhà diện tích nhỏ để cho thuê và xem đó là nguồn dưỡng già và là tài sản thừa kế
+
+00:05:36
+cho con cháu sau này. Cụ nghĩ rằng mình đã phòng thủ quá nghiêm ngặc cho cuộc đời mình nhưng khi lệnh giải tỏa ban xuống thì toàn bộ căn nhà đó nằm trong diện thu hồi. Vì đất cũ không đủ giấy tờ hoàn chỉnh theo quy định mới hoặc bị áp mức giá đền bù rẻ mặt. Tổng số tiền cụ nhận về chỉ tương đương với giá trị của một căn hộ nhỏ ở vùng ven. Bốn căn nhà lại biến thành một căn chung cư thô. Sự sụp đổ ở đây không chỉ là sự sục giảm về mặt con số tài chính mà nó là sự gãy đổ hoàn toàn về mặt tâm lý. Người ta bàn
+
+00:06:12
+hoàn nhận ra rằng cái thứ mà mình gọi là lẽ sống đó là sự an toàn đó suốt 50 năm qua hóa ra lại là thứ mong manh nhất trước một quyết định hành chính. Bây giờ chúng ta hãy thử đặt một chiếc cân so sánh với triết lý sống của người miền Nam. Làm 10 ăn tới 12 họ không giành dụm gì hết. Người miền Nam có thực sự hoan phí và nông nổi như cái mát mà người ta áp cho họ không? Thật chất đó là một tư duy kinh tế rất cởi mở và linh hoạt. Thay vì chôn vùi toàn bộ dòng tiền và những viên gạch cố định rồi sống một cuộc đời thắc lưng
+
+00:06:51
+buộc bụng. Người miền Nam họ chọn cách đa dạng hóa trải nghiệm, đầu tư vào năng lực tạo ra tiền của bản thân và luân chuyển dòng tiền liên tục vào các hoạt động kinh doanh dịch vụ. Họ không thần thánh hóa một mảnh đất truyền đời. Họ sẵn sàng thuê nhà ở chung cư cao cấp để tận hưởng cuộc sống tiện nghi. Dùng tiền vốn để đẻ ra tiền thay vì cố sống chết mua được một mảnh đất mặt tiền rồi chịu đựng một chất lượng cuộc sống tội tạc. Và khi biến số thời cuộc hoặc quy hoạch ập đến, ai sẽ là người dễ thích ứng hơn?
+
+00:07:26
+Người miền Nam với tư duy dòng tiền linh hoạt và không bị ràn buộc tâm lý vào cái góc gạch đá, họ sẽ dễ dàng dịch chuyển, tìm cơ hội mới và không bị rơi vào trạng thái hoảng loạn, uất ức. Trong khi đó, người miền Bắc vì đã đổ 100% sinh mạng và niềm tin vào khối bất động sản cố định nên khi cái góc đó bị nhổ bỏ, họ cảm thấy như bầu trời sụp đổ. Họ khóc không chỉ vì mất đức, họ khóc vì nhận ra ván bài phòng thân mà họ đánh đổi cả tuổi thanh xuân để đặt cược. Hóa ra lại có một luật chơi hoàn toàn khác mà họ
+
+00:08:04
+không hề hay biết. Vậy cái luật chơi đó nghiệt ngã đến mức nào? Bản chất của ma trận tài chính đằng sau những con số đền bù khiến người dân phải gánh nợ ngân hàng là gì? Bây giờ để bốc trừng một cái hố đen đang nuốt chẩn tài sản của người dân, đó chính là ma trận tài chính đằng sau khoảng cách mênh mông giữa giá nhà nước và giá thị trường, nơi mà hệ thống ngân hàng vô tình trở thành một cái bẫy siết cổ người đi vay khi quy hoạch đi qua. Bây giờ để mình lấy một ví dụ thực tế mà rất nhiều hộ gia đình tại Hà Nội đang
+
+00:08:42
+phải đối mặt với nó. Giả sử bạn sở hữu một căn nhà mặt tiền trung tâm, vị trí đắc địa buôn bán sầm uất. Trên thị trường tự do, căn nhà đó được giao dịch sòng phẳn với tỷ giá 14 tỷ đồng. Bạn cần vốn để làm ăn. Bạn mang căn nhà này đi đến một ngân hàng thương mại để thế chấp. Ngân hàng là gì? Họ là các tổ chức tài chính chuyên nghiệp, quản trị rủi ro cực kỳ nghiêm ngặc. Họ cử các chuyên gia thẩm định giá xuống đến tận nơi đo đạt khảo sát giá thị trường xung quanh và họ công nhận đúng rồi căn nhà này giá trị
+
+00:09:18
+đúng là 14 tỷ. Dựa trên nguyên tắc an toàn ngân hàng đồng ý giải ngân cho bạn vay 70% giá trị tài sản tức là khoảng 10 tỷ đồng. Bạn cầm tiền đi làm ăn, mỗi tháng đều đặng trả cả gốc lẫn lợi. Mọi thứ vận hành hoàn hảo dưới sự bảo hộ của pháp luật và hệ thống tài chính quốc gia. Đùng một cái, hai năm sau, một quyết định giải tỏa mặt bằng được ban xuống, tuyến đường quai nhà của bạn được mở rộng, căn nhà của bạn nằm trọn trong vùng giải tỏa. Lúc này bạn nghĩ rằng thôi thì vì lợi ích công cộng, mình chấp
+
+00:09:54
+nhận hy sinh. Nhà nước thu hồi thì đền bù sồng phẳn. Mình cầm số tiền đó trả nợ ngân hàng rồi đi chỗ khác làm lại cuộc đời. Nhưng khi cầm tờ quyết định áp giá đền bù trên tay bạn chết đứng. Cơ quan chức năng thì giải thích, "Chúng tôi không quan tâm ngoài thị trường các vị mua bán bao nhiêu, chúng tôi cũng không quan tâm ngân hàng định giá thế nào. Chúng tôi chỉ làm việc theo đúng khung giá Đức và bản giá quy định của Ủy ban nhân dân tỉnh thành phố ban xuống. Và theo cái khung hành chính đó, căn nhà
+
+00:10:29
+14 tỷ của bạn được định giá đền bù võn vẹn 6 tỷ đồng. Bạn hãy nhìn kỹ vào phép tính nghiệt ngã này xem. Bạn cầm toàn bộ 6 tỷ tiền đền bù của nhà nước đem nộp thẳng cho ngân hàng nhưng bạn vẫn còn nợ lại ngân hàng 4 tỷ đồng tiền gấp. Kết quả sau một quyết định hành chính là gì? Nhà của bạn mất, đất của bạn mất, sinh kế kinh doanh, mặt tiền nuôi sống cả gia đình đều biến mất. Bạn bỗng chốc trở thành một kẻ vô gia cư đúng nghĩa, nhưng trên vai lại gánh thêm một khoảng nợ treo 4 tỷ đồng mà không còn tài sản nào để thế
+
+00:11:06
+chấp. Chỉ sau một đêm, từ một người có tài sản hàng chục tỷ, bạn bị đẩy xuống đáy của xã hội, tài khoản bị phong tỏa, lịch sử tín dụng bị xếp vào nợ sáu nhóm năm. Nhóm này là nhóm nợ có khả năng mất vốn, đồng nghĩa với việc toàn bộ con đường làm ăn, vay mượn của bạn và con cái sau này bị chặt đứt hoàn toàn. Lúc này, một câu hỏi cần phải được đặt ra cho các nhà quản lý. Trong cùng một nền kinh tế, tại sao lại tồn tại hai chiếc cân định giá mâu thuẫn đến mức triệt tiêu lẫn nhau như vậy? Ngân hàng thương
+
+00:11:43
+mại là mạch máu của nền kinh tế, hoạt động với sự quản lý trực tiếp của ngân hàng nhà nước khi ngân hàng định giá 14 tỷ đồng. Nghĩa là họ đang đại diện cho thức đo dòng tiền thực tế của xã hội. Nhưng khi cơ quan thu hồi Đức áp giá 6 tỷ, họ lại đang dùng một thức đo hoàn toàn ly khai khỏi thực tế. Ai là người phải gánh chịu sự chênh lệch nhau của hai hệ thống định giá này nếu không phải là người dân thấp cổ bé hồng. Nếu nhà nước phủ nhận giá trị thị trường của mảnh đất, nghĩa là nhà nước đang gián
+
+00:12:17
+tiếp phủ nhận luôn toàn bộ hệ thống thẩm định rủi ro của ngành ngân hàng, hệ quả là tài sản của công dân bị bốc hơi một cách hợp pháp trên giấy tờ, biến những khoản vay an toàn thành những cục nợ xấu khổng lồ đe dọa hệ thống tài chính. Chính cái hổ đen lòng tin này là câu trả lời rõ ràng nhất cho câu hỏi tại sao người dân phải khóc, tại sao người dân phải căng băng roll? Tại sao các video than vãn lại tràn lan trên mạng xã hội? Người Việt Nam và sẵn sàng đồng lòng vì đại cuộc. Nếu chiếc bánh được mua đúng
+
+00:12:52
+giá, nếu tài sản bị lấy đi được bồi thường sông phẳn để người ta trả nợ ngân hàng và ổn định cuộc sống thì ai mà rảnh rỗi đi khóc lóc đi làm clip kêu trời để chuốt lấy những rủi ro pháp lý cho bản thân. Người dân khóc vì họ rơi vào đường cùng, vì luật chơi kinh tế quá bất hợp lý đã biến họ từ triệu phú thành một con nợ vô gia cư chỉ sau một cái nháy mắt của một cổ máy quy hoạch. Nghịch lý giá đình bù này không dừng lại ở câu chuyện của ngành ngân hàng. Sự mâu thuẫn trong tư duy khung giá nhà nước sẽ còn bộc lộ một
+
+00:13:31
+cách nực cười và cay đắng hơn nữa. Chúng ta sẽ cùng lực mở những khóc quốc này ngay trong phần tiếp theo. Để chứng minh cho cái lập luận thuận mua vừa bán của một nền kinh tế sòng phẳn, bây giờ chúng ta hãy cùng nhìn vào hai mảnh ghép tạo nên một cổ máy đang bị lỗi nhịp hoàn toàn trong tư duy quản lý. Mảnh ghép thứ nhất là câu chuyện về những khối bê tông sắt thép. Và mảnh ghép thứ hai là cơn ác mộng mang tên tái định cư, nơi biến những ông chủ bà chủ mặt đất thành những kẻ đi thuê trọ. Bây giờ hãy bắt đầu bằng một câu hỏi hết sức
+
+00:14:08
+đơn giản. Khi nhà nước triển khai các siêu dự án, mở đường, xây cầu, nhà nước cần hàng triệu tấn xi măng, hàng vạn tấn thép, hàng khối tấn bê tông. Vậy thì cơ quan quản lý có thể đến gặp các tập đoàn Hòa Phát, các doanh nghiệp cung ứng bê tông để nói rằng các anh phải bán sắc thép cho tôi theo đúng giá quy định của nhà nước. Còn giá trị thị trường hay là giá thế giới tăng giảm thế nào tôi không quan tâm. Có được hay không? Câu trả lời chắc chắn là không. Không một doanh nghiệp nào ngu ngốc đến mức bán tài sản
+
+00:14:43
+của họ dưới giá vốn. Nhà nước vẫn phải tổ chức đấu thầu, vẫn phải chấp nhận sồng phẳn, móc hầu bao chi trả theo đúng biến động của giá thị trường tại thời điểm đó để mua vật liệu. Nếu giá thép lên, tổng mức đầu tư dự án sẽ tăng lên, ngân sách sẽ phải bù vào. Vậy thì cái lỗi nhịp ở đây là gì? Tại sao khi đi mua sắt, mua đá, mua xi măng của các doanh nghiệp để làm cầu, nhà nước phải chấp nhận sồng phẳn theo luật chơi của thị trường. Nhưng khi lấy đi mảnh đứt dưới chân cây cầu đó là thứ tài sản thiêng
+
+00:15:18
+liêng nhất là sinh kế, là máu thịt cả đời của người dân thì người ta lại quay quắc 180 độ ép người dân phải nhận một cái giá khung rẻ mạc. Phải chăng viên gạch tấng sắc của doanh nghiệp thì nó có giá trị thực còn mảnh đức và lòng tin của người dân thì chỉ là những con số nằm trên giấy tờ hành chính. Sự bất dứt này chính là lý do vì sao người dân cảm thấy uất ức. Họ không chống lại sự phát triển của xã hội. Họ chỉ chống lại sự bất công khi quyền lợi của họ bị bốc tách khỏi quy luật sông phẳn của thị
+
+00:15:52
+trường. Nhưng bi kịch chưa dừng lại ở đó. Bây giờ hãy nhìn vào mảnh ghép thứ hai. Cái bẫy mang tên tái định cư. Khẩu hiệu lúc nào thì cũng rất nhân văn, bảo đảm cho người dân có nơi ở mới bằng hoặc tốt hơn nơi ở cũ. Nhưng thực tế đang diễn ra như thế nào tại các khu tái định cư ở Hà Nội? Hãy nhìn vào một ví dụ thực tế như thế này. Một gia đình bị thu hồi căn nhà mặt đường cũ nhận được khoảng tiền đền bù áp giá khung là 3 tỷ đồng. Họ được nhà nước đền đáp lại bằng một xuất đất nền tại khu tái định cư ở vùng ven.
+
+00:16:30
+Nhưng hởi ôi, khi họ cầm 3 tỷ đó đến nhận Đức, cơ quan quản lý lại nói rằng mảnh đất tái định cư này nằm trong khu quy hoạch mới, hạ từng đồng bộ nên giá của nó được tính theo giá thương mại của thị trường hiện tại, tức là đúng 3 tỷ đồng. Bạn có nhìn ra cái bẫy kinh tế nghiệt ngã này không? Người dân giao mảnh đất cũ đổi lấy 3 tỷ rồi dùng đúng 3 tỷ đó để mua lại một mảnh đất mới trống trơn. Sau khi ký xong giấy tờ, trong tay của họ chỉ còn là một mảnh đất nền cắm cộng. Tài khoản ngân hàng lập tức trở về
+
+00:17:06
+số không. Họ hoàn toàn sạch túi, không còn một đồng cách nào để mua cát, mua gạch, thuê thợ xây lại một máy nhà kiên cố để che mưa, che nắng. Và kết cục là gì? Từ những ông chủ, bà chủ có nhà mặt tiền ở trung tâm, có cửa hàng buôn bán ra dòng tiền mỗi ngày. Sau khi đi tái định cư, họ bỗng chốc biến thành những người vô gia cư đúng nghĩa trên mảnh đất mới của mình. Họ phải dắt giíu nhau, mang theo đồ đạt đi thuê những căn phòng trọ trực hẹp xung quanh khu tái định cư để ở tạm. Cồng lưng đi làm thuê kiếm
+
+00:17:41
+sống qua ngày để tích lũy tiền xây nhà. Căn nhà tốt hơn nơi ở cũ đâu không thấy, chỉ thấy trước mắt là một cuộc ly hương đầy nước mắt và sinh kế bị chặt đứt hoàn toàn. Cái xác nhà cũ đã mất mà cái hồn của cuộc sống an cư ở nơi mới thì quá xa vời. Đây chính là cứ đánh chí mạng vào tư duy làm 10 để dành tám để xây nhà phòng thân của người miền Bắc. Người ta cứ nghĩ xây cái nhà thật to, giữ cái móng thật chắc là đời mình đã an toàn. Nhưng họ quên mất rằng trong cái ma trận định giá đầy mâu thuẫn này, bạn giữ đứt
+
+00:18:18
+giữ nhà càng chặt thì khi cổ máy quy hoạch đi qua, bạn không có khả năng tự vệ. Khối gạch đá đó không có đôi chân để tự dịch chuyển và dòng vốn của bạn bị chôn chặt dưới nền đất không thể rút ra để ứng phó với biến cố cuộc đời. Thế nhưng trò chơi kinh tế này vẫn chưa hạ màng ở đây. Sẽ ra sao nếu vài năm sau chính cái mảnh đất mà người dân bị thu hồi với giá rẻ mạc ngày hôm nay lại mọc lên những tòa tháp chung cư cao cấp thuộc sở hữu của những ông chủ đầu tư có quyền lực nhất. Lúc đó luật chơi về giá
+
+00:18:55
+trị sẽ được lật ngửa như thế nào? Chúng ta sẽ vạch trừng một sự thật trừng trụi của bức tranh này vào phần kế tiếp. Bây giờ chúng ta hãy cùng chơi một trò chơi giả định. Một tình huống giả định nhưng lại chân thực và trần trụi đến mức lột tả toàn bộ bản chất của cái gọi là luật chơi đất đai. Bây giờ các bạn hãy tua bánh xe thời gian lên vài năm sau. Tính từ cái ngày mà những giọt nước mắt giải tỏa rơi xuống tại Hà Nội, khu đất vàng ngày xưa nơi từng là những căn nhà mặt tiền của bà con, sau khi được nhà
+
+00:19:33
+nước thu hồi với danh nghĩa chỉnh trang đô thị này đã được giao lại cho một ông cán bộ nào đó đã thoát vốn lập công ty hoặc một tập đoàn bất động sản khổng lồ. Và trên chính mảnh đất thấm đẫm mồ hôi nước mắt của người dân năm xưa, một siêu thị dự án chung cư cao cấp Mộc lên. Lúc này chủ đầu tư bắt đầu chia nhỏ từng mét vuông sàn trên không trung để bán ra ngoài. Giá bán được niêm yết công khai hàng chục thậm chí hàng trăm triệu đồng cho 1 m²uông. Mọi thứ được định giá theo đúng giá đỉnh của thị trường bám sát vào
+
+00:20:10
+cái hạ tầng đường xá tuyệt đẹp vừa được hoàn thiện. Bây giờ chúng ta hãy hình dung cảnh người dân năm xưa. Những người đã từng bị tước đi sinh kế, bị đẩy ra cái vùng ven tác định cư. Nay vô tình họ đi ngang qua chốn cũ. Nhìn thấy mảnh đất của ông bà tổ tiên nay đã trở thành khu đô thị xa hoa. Họ chắt bóp tiền bạc, bước vào khu nhà mẫu và đặt vấn đề với ông chủ đầu tư. Họ chìa ra tờ quyết định đền bù năm xưa và nói: "Chào ông, cách đây vài năm trước, nhà nước quy hoạch khu này áp giá đền bù thu hồi đức của tôi theo đúng
+
+00:20:48
+khung giá mà nhà nước quy định chỉ có bấy nhiêu tiền thôi. Tôi chấp nhận giao đất. Bây giờ ông xây nhà trên đất của tôi, tôi yêu cầu ông cũng phải bán lại căn hộ này cho tôi theo đúng giá khung quy định của nhà nước được không? Xin hỏi các bạn, ông cán bộ làm chủ đầu tư đó có bán không? Chắc chắn là không. Ông ta sẽ bực cười và thẳng thần từ chối. Giá của tập đoàn chúng tôi là giá thương mại, thuận mua vừa bán, còn giá nhà nước quy định là việc của nhà nước lúc thu hồi. Còn bây giờ đây là dự án
+
+00:21:26
+của tôi, anh không đủ tiền thì xin mời đi ra cho người khác mua. Vậy thì người dân có đâm đơn đi kiện ông ta được không? có đòi lại được sự công bằng pháp luật không? Câu trả lời là không bao giờ kiện được bởi vì về mặt pháp lý khi khu Đức đã được chuyển đổi mục đích sử dụng thành dự án nhà ở thương mại, luật pháp bảo hộ hoàn toàn quyền tự định giá của doanh nghiệp. Họ có quyền tính phí xây dựng, chi phí cơ hội và cộng thêm biên độ lợi nhuận khổng lồ để bán ra theo giá thị trường. Đến đây, một thứ nghịch lý tàn nhẫn nhất
+
+00:22:04
+của nền kinh tế đã phơi bày rõ ràng trước mắt chúng ta. Nghịch lý 1 m²uông 24 cách pháp lý. Tại sao cùng một tòa đồ địa lý, cùng một mảnh đất dưới chân chúng ta đang đứng, nhưng khi nó nằm trong sổ đỏ của người dân, nhà nước nhân danh lợi ích công cộng để áp cho nó thành một cái giá hành chính rẻ mạc, tức đoạt quyền mặt cả của người sở hữu. Nhưng chỉ vài năm sau, khi mảnh đất đó lọt vào tay chủ đầu tư, nó lập tức được khoác lên mình tư cách pháp lý thương mại được quyền đòi hỏi toàn xã hội phải trả cho nó cái giá đắt đỏ nhất
+
+00:22:43
+của thị trường tự do. Sự giàu có, nức đố đổ vách của những đại gia bất động sản, của những dự án nghìn tỷ thực chức từ đâu mà ra. Nó không đến từ việc họ phát minh ra công nghệ lỗi, cũng không phải vì họ xây viên gạch tốt hơn phần còn lại của thế giới. Sự giàu có đó chính là thứ mà kinh tế gọi là chuyển dịch địa tô. Họ lấy nguồn lực đất đai với giá cực rẻ của người dân thông qua công cụ hành chính rồi bán ra với giá cực đắc thông qua công cụ thị trường. Khoảng trống chên lệch khổng lồ ở giữa chính là siêu lợi
+
+00:23:21
+nhuận chảy vào túi của họ. Và ai là người phải gánh chịu toàn bộ chi phí cho sự giàu có đó? Chính là những người dân đã khóc hết nước mắt kia. Họ phải chịu thiệt hại kép. Những nhát chém chí mạng vào cuộc đời. Vừa bị tước đi sinh kế mặt đất bằng giá rẻ mạc, lại vừa phải cồng lưng đi làm thuê mấy kiếp người nữa mới mong đủ tiền để mua lại một góc nhỏ trên không trung của chính mảnh đất nhà mình. Kẻ ly hương nay trở thành kẻ đứng ngoài lề sự phát triển của chính quê hương. Nhìn lại toàn bộ bức tranh này, các bạn nghĩ sao về tư
+
+00:23:59
+duy làm 10 để dành tám xây nhà phòng thân? Họ đã gom góp chắt bóp từng đồng ăn không dám ăn ngon, mặc cũng không dám mặc đẹp, dồn hết 100% tài sản, mồ hôi và sinh mạng của mình vào khối gạch đá đó. Họ nghe thơ tin rằng đó là thành trì bất khả xâm phạm. Nhưng qua trò chơi địa tô trên lệch này, chúng ta nhận ra cái thành trì đó thực chất là một canh bạc chứa đầy rủi ro nhất. Bởi vì luật chơi và quyền định giá hoàn toàn không nằm trong tay của họ. Khi luật chơi thay đổi, toàn bộ sự tích lũy cả đời lập tức
+
+00:24:38
+bốc hơi, biến họ thành những nạn nhân trắng tay bất lực nhất. Những giọt nước mắt rơi xuống ở Hà Nội hôm nay không chỉ là nỗi đau riêng của những hộ gia đình bị giải tỏa. Nó là một bài học xương máu, một cố tác tỉnh thức về cái gọi là tư duy tài sản trong thời đại mới. Mua một cái bánh phải trả đúng tiền cái bánh. Nhưng luật chơi của bất động sản đôi khi lại không vận hành theo lẽ công bằng đơn giản đó. Sau tất cả những nghịch lý về định giá mà kênh vừa phân tích, mình không đưa ra kết luận thay các bạn, nhưng mình muốn để lại một
+
+00:25:14
+câu hỏi. Khi luật chơi kinh tế luôn vận hành theo cách bốc tách giá trị khóc liệt như câu chuyện ông cán bộ bán chung cư cao cấp. Sau này khi giao dịch nhà đất, chúng ta phải nhìn vào đâu để tự nói rằng giá của nhà nước, giá của ngân hàng hay giá của thị trường cái nào là đúng?
+
+    
+  
+  
+# Note 240: NUC 260524 Playbook dùng một sự thật A (UFO) để che đậy một sự thật B (ngân sách quốc phòng).md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/Ed3fsRmqUak"
+author: "Nước Úc Channel"
+published: 2026-05-24
+created: 2026-05-24
+description: "TỔNG THỐNG TRUMP GIẢI MẬT UFO: CÚ LỪA THẾ KỶ ?"
+
+00:00:01
+Xin chào tất cả các bạn. Mấy ngày qua, câu bộ thế giới đang quay cuồng với những thứ thông tin từng bị xem là điên rồi nhất lịch sử nhân loại. Tổng thống Donald Trump ngay trên trang cá nhân của mình vừa tung ra một cú nổ truyền thông lớn khi thúc đẩy tòa bạch ốc giải mật hàng loạt hồ sơ tối mật về vật thể bay không xác định dio. Tự dưng những thức phim quay từ biển Hoa Đông từ Trung Đông cho tới những báo cáo của các phi hành gia từ thế kỷ trước lại được phê bày ra ánh sáng. Người ta bàn tán, người ta reo
+
+00:00:33
+hò vì nghĩ rằng cuối cùng chính phủ Mỹ cũng đã chịu thành thực. Nhưng các bạn hãy ngẫm lại xem, có một nghịch lý đang phơi bàn ngay trước mắt suốt gần 80 năm qua, hễ ai mở miệng nói về để bay, về người ngoài hành tinh thì liền bị hệ thống gắn cái mát là kẻ hoàng tưởng, là những tay thuyết âm mưu rẻ tiền. Vậy mà bây giờ chính những cơ quan quyền lực và nghiêm túc nhất hành tinh lại chủ động dâng cái sự thật đó lên bằng ăn cho dư luận thưởng thức. Tại sao lại có sự quay xe đột ngột này? Có cái gì đang ẩn giấu
+
+00:01:08
+đằng sau bức màn minh bạch đầy chủ ý đó không? Giữa làng sóng hỗn loạn đó, những cái đầu lạnh của giới phân tích quốc tế lại bất ngờ lực ngược dòng thời gian. tìm về một tập tài liệu dày hàng trăm tràng đã xuất bản lặn lẽ từ năm 2008 mang tên là Alien Interview dịch là cuộc phỏng vấn người ngoài hành tinh. Đây là những lời tự sự đầy chấn động của một nữ y tá quân đội Mỹ tên là Ma Tiêu Đà, người từng tuyên bố mình là người duy nhất dùng thần giao cách cảm để đối thoại trực tiếp với sinh vật sống sót
+
+00:01:43
+trong vụ rơi đĩa bay Roswell kinh điển vào năm 1947. >> Tổng thống Donald Trump vừa công bố các hồ sơ về UFO. Đây là những hiện tượng dị thường mà con người không xác định được. Và vào ngày 08 tháng 0 năm 2026, chính phủ Trump đã công bố 162 tài liệu mặt từ cuối thập niên 1940 cho đến nay, cũng hơn 80 năm rồi. Và các hồ sơ này đến từ nhiều cơ quan như Lầu Năm Gốc, FBI, NASA và Bộ ngộ giao Mỹ. Nó chứa những video hồng ngoại quân sự, báo cáo của phi hành gia, dữ liệu radar, lời khai của phi
+
+00:02:13
+công, hình ảnh và biên bản điều tra. Và trong những tài liệu này bao gồm những vật thể kỳ lạ được mô tả là quả cầu phát sáng, phi thuyền hình bào dục, ánh sáng trôi nổi và các chuyển động trên không thể giải thích. Tuy nhiên, chuyên gia cho biết các hồ sơ này không cung cấp bằng chứng xác thực về người ngoài hành tinh hay công nghệ ngoài trái đất. Tới giờ hiện tại thì nhiều vụ việc vẫn chưa có lời giải. Tuy nhiên, tổng thống Trong muốn sự minh bạch và đáp lại sự tò mò kéo dài nhiều thập kỷ qua của công chúng
+
+00:02:37
+về việc liệu chính phủ Mỹ có che giấu thông tin về các vật thể bí ẩn hay không. Cho nên tổng thống Trump và các quan chức Làu Năm Gốc cho biết đây chỉ là đợt đầu tiên và sẽ còn thêm nhiều tài liệu được giải mặt trong những tuần và tháng tới. Và tổng thống Trong muốn mọi người dân tự ra quyết định riêng cho mình về việc người ngoài hành tinh có tồn tại hay không qua những hồ sơ được công bố này. >> Bây giờ mình nói thẳng ngay từ đầu. Trong chuỗi video này kênh của mình sẽ không ở đây để tung tin nhảm cũng không
+
+00:03:02
+khẳng định cuốn sách của bà y tá kia là chân lý 100%. Bản chất của kênh từ trước đến nay luôn là một người quan sát độc lập. không đưa các bạn tin vào những điều mê tín diện đoan nhưng sẽ cùng các bạn đặt hai dữ liệu này lên một bàn cân logic. Mình sẽ phân tích xem những gì tổng thống Trump cho giải mực về mặt vật lý kỹ thuật liệu có cái khớp nào với những lời cảnh báo mang tính triết học vũ trụ về một trái đức ngục tù trong cuốn sách cũ kia hay không? Nếu các bạn đã sẵn sàng cùng mình phân tích để chạm
+
+00:03:37
+vào cái cốt lõi lạnh lùng của ma trận thông tin này, liệu cái vật thể bay kia mà người ta đang cố tình cho các bạn thấy là bằng chứng của một nền văn minh mới đang đến gần hay nói chỉ là một món đồ chơi được ném ra để đánh lạc hướng các tù nhân sống trong một cái lòng kính khổng lồ. Câu trả lời sẽ bắt đầu hé lộ ngay trong phần tiếp theo. khi bị tổng thống quyền lực bước lên truyền thông công bố dãy mực rồi phía Mỹ tung ra liền một lúc 162 hồ sơ tuyệt mực kèm theo mớ video chất lượng cao quay cảnh những đốm sáng bay lượng vèo vèo
+
+00:04:28
+với vận tốc kinh hoàng ở trùng đồng hay là biển Hoa Đông. Đám đông người kia rừng rừng lên, họ hồ hởi, họ nói với nhau là, "Thấy chưa cuối cùng thì thế lực tối cao cũng phải chịu khai thật rồi. Thế giới bă minh có khác, cái gì cũng minh bạch. Nhưng cái gọi là minh bạch, họ cho các bạn thấy những thông số kỹ thuật khô khan. Vật thể này hình cái đĩa, vật thể kia là hình điếu thuốc, vận tốc bay nhanh gấp mấy mươi lần âm thanh. công nghệ vượt trội không giống của Nga hay là của Trung Quốc. Họ biến câu
+
+00:05:04
+chuyện người ngoài hành tinh thành một bài toán an ninh quốc gia thuận túy. Nghĩa là họ cố tình định vị vào đầu dân chúng một cái suy nghĩ. Có một mối đe dọa vô hình từ không gian và chính phủ đang rất nỗ lực, rất thành thực để bảo vệ các bạn. Cái chiêu bài này nó rất ngộ nghĩnh ở chỗ này. Khi người ta chủ động cho các bạn thấy một phần của sự thật thì mục đích tối thượng không phải là để khai sáng cho các bạn đâu mà là để các bạn không còn tò mò đi tìm phần sự thật khủng khiếp hơn đang bị giấu nhẹt ở phía
+
+00:05:37
+sau. Họ dùng một sự thật nhỏ để che đậy một cái hố đen sự thật bự chà bá lửa. Các bạn thấy khó hiểu quá đúng không? Bây giờ để mình đưa các bạn một cái ví dụ thực tế trong đời sống các bạn cứ tưởng tượng y chang như một câu chuyện của một nhà hàng danh tiếng ở trong vùng đi. Tự dưng một ngày nọ trên mạng rộ lên cái tin đồn là cái nhà hàng này xài thịt lọc, thịt hết hạng sử dụng để nấu đồ ăn cho khách. Người dân thì bắt đầu hoang mang đòi tẩy chay cái nhà hàng đó. Ông chủ nhà hàng này ổng khôn lắm. ổng đâu
+
+00:06:13
+có đứng ra cãi tay đôi làm chi cho mệt. Thay vào đó ổng chơi một cú cực kỳ đẹp mắt. Ổng cho đập toàn bộ bức tường phía trước thay bằng một tấm kính cường lực trong suốt. Rồi ổng gắn đèn sáng chân cho thịch khách đứng ngoài nhìn thẳng vô chỗ mấy anh đầu bếp mặc đồ trắng muốt, đeo bao tay thái rau củ rôm rốp, biểu diễn múa chảo lèo xèo. Khách cứa đi ngang qua nhìn vô thấy rất sạch sẽ, cũng rất chuyên nghiệp, liền vỗ tay rừng rừng. Trời ơi! Nhà hàng này làm ăn uy tín quá, minh bạch quá trời quá đất. Vậy
+
+00:06:46
+mà có đứa nào đó đồn bậy đồn bạ. Nhưng mà các bạn quên mất một điều cốt lỗi. Cái tấm kính trong suốt đó nó chỉ cho các bạn thấy đúng cái công đoạn bày biện đẹp đẽ ở cái bếp ngoài mà thôi. Còn cái kho lạnh nằm sâu dưới tầng hầm nơi chứa những thùng thịt đông lạnh quá đát bốc mùi từ mấy tháng trước thì cái cửa cuốn bằng sắt nó vẫn khóa chạch. Nội bất xuất ngoại bất nhập. Tấm kính hào nhoáng phía trước sinh ra là để các bạn thỏa mãn cái sự tò mò bề nổi và để các bạn tự động thôi, không còn thắc mắc về cái kho lạnh dưới hầm
+
+00:07:22
+nữa. Cái mớ hồ sơ giải mực của tòa bạch ốc bữa này nó y chang như tấm kính cường lực của ông chủ nhà hàng kia vậy đó. Họ dâng lên cho các bạn xem mấy cái video đĩa bay lượng tới lượng lui cho các bạn bàn tán xôn xao để làm chi? để các bạn chú ý vô những cái đống công nghệ vật lý đó rồi tự khách quên đi cái câu hỏi quan trọng nhất. Bản chất của những sinh mệnh ngồi trong cái đĩa bay đó là gì? Họ đến đây làm cái gì? Và tại sao suốt bao nhiêu năm qua cái kho lạnh chứa bí mật về sự tương tác giữa chính phủ với nền
+
+00:07:58
+văn minh đó lại chưa bao giờ được mở ra. Trong khi cái xác của bay rơi ở Roswell từ năm 1947 và những lời khai chứng động của sinh vật ngoài hành tinh trong cuốn sách Allen Interview thì vẫn đang bị khóa chặt trong bóng tối. Vậy thì sự thực về mặt tài chính và những dòng tiền ngầm đứng sau tấm kính minh bạch này khủng khiếp tới mức nào? Bây giờ chúng ta sẽ cùng lột trừng nó ngay trong phần tiếp theo. Để hiểu được tại sao cái chuyện người ngoài hành tinh một thứ vốn dĩ thuộc về khoa học vũ trụ hay tâm linh lại liên
+
+00:08:39
+quan mật thiết tới túi tiền của các bạn. Mình cần phải nhìn thẳng vô một cái thực tế lạnh lùng. Ở trên đời này, cái gì không giải thích được bằng logic thông thường thì hãy dùng tiền để giải mã nó. Khi tòa bạch Ốc hay các cơ quan quốc phòng của Mỹ chủ động vén bức mạng cho các bạn xem mấy cái đĩa bay có thực. Họ không có rảnh để làm chuyện bao đồng đâu. Đằng sau những thức phim đầy kịch tính đó là cả một ma trận lợi ích tài chính khổng lồ. là một cái hố đen giải ngưng bự chà bá lửa. Để cho hiểu và dễ
+
+00:09:13
+hình dung nhất cái ma trận này nó vận hành tinh vi ra sao. Mình sẽ kể cho các bạn nghe một câu chuyện ngụ ngôn thời hiện đại mang tên là ông trưởng thôn và bày xói dữ. Ở một ngôi làng nọ nằm sát bìa rừng. Trong rừng sâu thực sự có một bầy sói dữ chuyên rình rập ăn thịt người. Chuyện bầy sói này là có thật 100% không ai bằng cãi hết. Nhân ngặt một nổi. Bay lầu này, ông trưởng thôn ổng cứ giấu nhẹm đi. Ở trong làng có ai bị mất tích hay là ai nghe tiếng sói hú ban đêm mà chạy tới báo thì ổng đều gạt phắt đi. Ổng nói
+
+00:09:49
+rằng làm gì có sói. Mấy người hoan tưởng quá lo lòng ăn đi. Người dân thì nghe vậy cũng thôi không thắc mắc nữa. Tư dân đùng một cái. Năm nay tình hình kinh tế trong làng sa súc thảm hại, ngân khố thì trống rỗng, lòng dân thì hoang mang. Bắt đầu họ cằn nhằn và đòi phế xuất cái ghế trưởng thôn của ổng. Thấy cái ghế của mình lung lay căn hóa, ông trưởng thôn ổng bèn chơi một chiêu rất độc chiêu để lựt ngược thế cờ. Ổng chủ động triệu tập toàn bộ dân làng gia đình, mở một cuốn băm thu âm tiếng sói rõ mồm một
+
+00:10:25
+rồi đưa ra mấy cái dấu chân sói thật, bờm lông sói thật cho mọi người tận mắt chứng kiến. ổng giõng dạc tuyên bố bay lầu này tôi giấu là vì sợ bà con hoang mang nhưng bây giờ tôi quyết định minh bạch hoàn toàn sói dữ là có thật tụi nó cực kỳ hung hãn và đang áp sát bờ rào nhà mình rồi đó dân làng nghe xong sợ xanh mặt hồn phiêu phách lạc trong đầu họ lúc này chỉ còn nỗi sợ bị sói ăn thịt lập tức quên sạch bách mấy cái chuyện kinh tế yếu kém cũng chẳng còn ai rảnh rỗi mà đòi phế trước ông trưởng thôn
+
+00:11:01
+nữa. Thế dân làng sập bẫy tâm lý, ông trưởng thôn ổng mới từ từ đưa ra giải pháp giải cứu. Bây giờ để bảo vệ tính mạng của bà con, tôi cần thu thêm mỗi nhà một khoản thuế thiệt là to để lập ra một đội dân binh đặc nhiệm chuyên trách và ký hợp đồng xây dựng một cái hàng rào kiên cố bao quanh khu làng này. Dân làng vì quá sợ hãi nên ai cũng móc tiền túi ra đóng rần rừng. còn cảm ơn ông trưởng thồn rối rích vì đã lo lắng cho sự an nguy của họ. Nhưng mà các bạn biết cái kết cục đằng sau là gì không? Bay sói
+
+00:11:38
+ngoài rừng kia là có thực. Nhưng cái đội dân binh đặt nhiệm chuyên trách kia thực ra là toàn con cháu, người nhà của ông trưởng thù được đưa vô để nhận lương cao chót phót. Còn cái hợp đồng thầu xây cái hàng rào sắc bự chà bá lửa kia, ổng cũng âm thầm giao thẳng cho công ty đứa em ruột đứng phía sau. Kết quả là bầy sói thì vẫn ở ngoài rừng, người dân làng thì vừa tốn tiền vừa nơm nớp lo sợ. Còn dòng tiền thuế của người dân thì cứ thế chảy một cách hợp pháp êm xuôi, vô thẳng túi phe cánh của ông trưởng thôn mà không
+
+00:12:15
+một ai dám hoài nghi hay là kiểm toán. Bởi vì hễ ai đòi kiểm tra sổ sách tài chính, ổng liền gạt ngang. Đây là bí mật phòng thủ của làng bộ tính làm giáng điệp cho bày sói hả? Bây giờ mình áp dụng thực tế vào nước Mỹ năm 2026. Câu chuyện ngụ ngôn đó nó khớp y chang không lệch một ly nào với cái ma trận tài chính mà tòa bạch ốc và giới tài phiệt quân sự Mỹ đang bày ra cho thế giới xem bữa nay. Hợp thức hóa ngân sách khổng lồ cho lực lượng không gian. Các bạn cần biết là ngân sách quốc phòng của Mỹ mỗi năm lên tới cả ngàn tỷ đô la
+
+00:12:57
+nhưng việc giải ngân cho các dự án thông thường như tàu bò, súng đạn, máy bay thì luôn bị Quốc hội kiểm soát từng cách. Nhưng một khi dân chúng đã tin rằng có một mối đe dọa ngoài hành tinh đang lơ lửng trên đầu thì việc xin duyệt hàng trăm tỷ đô la cho các dự án không gian sẽ dễ như trở bằng tay. Không một ai dám bỏ phiếu chống cho một ngân sách bảo vệ trái đất hết. Khi thu được tiền thuế của dân, số tiền khổng lồ đó sẽ được rót thẳng vào các tập đoàn công nghệ quốc phòng tư nhân siêu quyền lực như là
+
+00:13:32
+Locking Marketing, Ron hay là Boin. Lý do đưa ra thì rất hợp lý. Chúng tôi cần tiền để nghiên cứu và bẻ khóa các công nghệ thu được từ xác tàu đĩa bay rơi để phòng thủ. Cái hay nhất của ma trận này là gì? Toàn bộ các khoản chi tiêu này đều được xếp vào dạng ngân sách đen. Nghĩa là nó được đóng dấu tối mực vì an ninh quốc gia. Các cơ quan kiểm toán thông thường hoàn toàn không có quyền đụng vô, không được phép hỏi số tiền đó đã mua cái gì và chi cho ai. Tiền thuế của người dân cứ thế bốc hơi vào một cái
+
+00:14:10
+hố đen không đấy. Bởi vậy mới nói cái sự giả tạo ở đây không phải là cái đĩa bay nó giả mà là cái vỏ bọc minh bạch vì an ninh kia kìa. Họ dùng một sự thật có thực là người ngoài hành tinh để kích hoạt nỗi sợ hãi của đám đông. Họ cho bạn xem cái đĩa bay bay lượng trên trời để bạn mãi miết nhìn lên cao rồi tự nguyện dâng nộp tiền bạc quyền lực cho họ ở dưới đất. Nhưng mà cái ma trận tài chính này dù nó có bự cỡ nào thì nó cũng chỉ mới giải thích được cái lòng tham của con người ở từng vật chất mà thôi. Nếu
+
+00:14:45
+mình lật lại hồ sơ tài liệu Alien Interview dày hàng trăm trang kia, cái thực tế nó còn tàn nhẫn và lạnh lùng hơn gấp vạn lần. Cái đĩa bay rơi ở Roswell vào năm 1947 không phải là một chiếc tàu do thám thông thường và những sinh vật ngoài hành tinh do Aro tiết lộ không phải là chuyện công nghệ mà là bản chất của một nhà tù tâm linh. Cái xác không hồn của chiếc để bay đó ẩn chứa bí mật gì về nguồn gốc loài người? Chúng ta sẽ cùng phân tích màn sâu thẩm này trong phần tiếp theo. Ở phần trước chúng ta đã nói về ma trận
+
+00:15:26
+tài chính khổng lồ của giới tài phiệt quân sự thì đó cũng chỉ mới là lòng tham của con người ở từng vật chất. Câu chuyện sẽ không có gì đáng nói nếu như những hồ sơ tòa bạch óc và quân đội Mỹ tung ra dạo gần đây không vô tình trùng khớp một cách rùng rợn với một sự kiện đã bị giấu kính từ năm 1947. Và để hiểu được cái sự thực lạnh lùng nhất, chúng ta buộc phải lật mở từng trang đầu tiên của tập tài liệu tối mật mang tên Alen Interview, cuộc phỏng vấn người ngoài hành tinh. Mình xin nhấn mạnh ở đây tập tài liệu
+
+00:15:59
+này nó dày cả trăm trang chứa đựng những kiến thức triết học và vũ trụ học có thể làm đảo lộn hoàn toàn nhân sinh quan của một con người. Cho nên trong video hôm nay mình sẽ không kể hết toàn bộ nội dung của cuốn sách những bí mật kinh thiên động địa nhất mình sẽ dành riêng để phân tích chuyên sâu trong các tập tiếp theo của chuỗi series này. Hôm nay chúng ta chỉ dừng lại ở đúng chương đầu tiên. Khoảng khắc quân đội Mỹ giáp mặt với sinh vật đó để xem thử cái thứ mà họ tìm thấy thực chất là gì và tại sao nó
+
+00:16:32
+lại khiến những bộ óc quyền lực nhất nước Mỹ thời bấy giờ phải khiếp sợ. Không cảnh diễn ra tại căn cứ không quân Rosevell vào năm 1947. Sau khi chiếc đĩa bay gặp nạn, quân đội Mỹ đã phong tỏa hiện trường và đưa về căn cứ một sinh vật sống sót duy nhất. sau này được đặt tên là Ero. Với tinh hoa quân sự lúc đó đã làm gì? Họ bẩn nguyên một vàng chuyên gia ngôn ngữ học, chuyên gia giải mã, rồi mấy ông tướng lãnh đeo sao đầy vai bước vô phòng thẩm vấng. Tâm thế của họ lúc đó y chang như việc bắt được một tên điệp viên của phe
+
+00:17:10
+địch. Họ chuẩn bị sẵn máy móc, súng ống, máy phát hiện nói dối và chỉa đèn vô mặt sinh vật đó để tra khảo. Mày từ đâu tới? Công nghệ vũ khí của mày là gì? Điểm yếu của phi thuyền nằm ở đâu? Nhưng kết quả thì sao? Suốt nhiều ngày liền, sinh vật đó không hề mở miệng nói một lời nào. Không có một chuyên gia ngôn ngữ nào của Mỹ cậy được miệng nó. Mấy ông tướng quân đội điên tiếc lên vì nghĩ rằng sinh vật này đang ngoan cố chống cự. Nhưng họ đã lầm to. Họ lầm vì họ đang dùng cái tư duy của con người phàm trừng để đo lường
+
+00:17:48
+một sinh mệnh vượt tầm vũ trụ. Mình nghĩ chỗ này các bạn nghe hơi trù tượng đúng không? Bây giờ để mình lấy một cái ví dụ thực tế để cho các bạn dễ hình dung sự bất lực của quân đội Mỹ lúc đó nghen. Các bạn hãy tưởng tượng có một bộ lạc thổi dân sống biệt lậc trong rừng sâu thời đồ đá chưa từng biết tới văn minh hiện đại. Một ngày nọ một chiếc fly cam máy bay điều khiển từ xa. Nó gắn camera bay lạc vô khu rừng đó rồi rớt xuống. Mấy người thổi dân súng lại bắt được chiếc play cam đó. Họ thấy nó biết bay,
+
+00:18:23
+biết chớp đèn nên họ nghĩ đây là một con chim thần bằng sắt. Thế là ông tù trưởng Bồ Lạc mới đem chiếc lai cam đó trói lại rồi cầm giáo mát đứng chỉ vô cái ống kính camera quát tháo tra khảo, "Mày là con gì? Sao mày bay được? Ai xây mày tới đây?" Ông tù trưởng cứ quát, còn chiếc Fly Cam thì cứ nằm im re vì nó làm gì có miệng mà trả lời. Ông tù trưởng đâu có biết rằng cái thứ ông ta đang tra khảo chỉ là một cổ máy vô hồn, một cái lớp vỏ nhựa và kim loại. Còn cái người thực sự sống, người thực sự đang điều khiển cái máy đó
+
+00:18:59
+là một chàng thanh niên đang cầm bộ điều khiển ngồi uống cà phê cách đó cả chục cây số. Câu chuyện trong phòng thẩm vấn Rosquell năm đó khớp y chang như cái vụ chiếc fly cam này. Mấy ông tướng lãnh quân đội Mỹ chính là các ông tù trưởng thổi dân, còn sinh vật Aro ngồi trước mặt của họ thực chất không phải là một cơ thể sinh học có máu thịt, có dây thanh quản để nói chuyện như con người. Theo lời kể trong những trang đầu tiên của cuốn sách, nữ y tá tên Mati Đàa, người được cử vào phòng để chăm sóc y tế
+
+00:19:34
+cho sinh vật đã bất ngờ phát hiện ra một sự thật chứng động. Cô không nghe sinh vật nói bằng tay mà những suy nghĩ, những hình ảnh động truyền thẳng vô trong đầu của cô, đó là hiện tượng thần giao cách cảm. Mati Đà là người duy nhất vô tình bắt đúng từng số wifi của sinh vật đó. Qua kênh giao tiếp này, Ero đã ném thẳng vào giới tinh hoa của Mỹ một sự thật tàn nhẫn. Cái thân xác nhỏ bé, mắt to không có tóc mà quân đội Mỹ đang giam giữ kia thực chất chỉ là một bộ đồ bằng vật liệu tổng hợp là một dạng búp
+
+00:20:10
+bê sinh học. Nó được thiết kế để chịu được áp suất của vũ trụ. Còn bản thể thực sự của ERO giống như anh chàng thanh niên cầm bộ điều khiển chiếc fly cam là một thực thể tâm linh. bất tử. Một dạng năng lượng ý thức không có bắt đầu và cũng không có kết thúc. Cuốn sách gọi khái niệm này là ISB, nghĩa là sinh mệnh tâm linh bất tử. Aro không thèm trả lời mấy ông tướng lãnh vì dưới góc nhìn của một sinh mệt tâm linh bất tử sống hàng triệu năm. Việc mấy ông tướng loài người cầm súng đe dọa cái lớp vỏ búp bê của E, nó nực cười và vô nghĩa
+
+00:20:49
+y như việc ông tù trưởng thổ dưng cầm giáo đe dọa chiếc fly cam vậy. Ero chỉ chọn giao tiếp với cô y tá Matià vì cô ta là người duy nhất dùng sự chân thành và không mang tâm lý chiếm đoạt. Chỉ qua một cuộc trạm trán đầu tiên đó thôi, các bạn đã thấy sự kiêu ngạo của con người bị đánh sập hoàn toàn. Tòa bạch óc và quân đội cứ nghĩ rằng họ có thể bắt nạt, có thể mổ sẻ, lấy cấp công nghệ từ một cái xác phi thuyền rơi, nhưng họ không ngờ rằng thứ họ đang đối mặt không phải là một mối đe dọa vật lý mà là một thực
+
+00:21:25
+thể nắm giữ sự thật về nguồn gốc của chính loài người chúng ta. Sinh vật Ero đã tiết lộ điều gì cho Mail Đà sau sự bàn hoàng đó? Tại sao một thực thể bất tử lại gọi trái đất chúng ta bằng hai chữ lạnh gáy? Hành tinh ngục tù. Chuyện gì thực sự xảy ra sau khi một con người nhắm mắt xuôi tay? Tất cả những bí mật cốt lỗi đó, toàn bộ những chương hấp dẫn của tập tài liệu này mình xin phép được lật mở và phân tích chuyên sau trong tập hai của chuỗi video này. Còn bây giờ chúng ta phải quay lại thực tại của năm 2026, đặt cái
+
+00:22:04
+sự kiện Rosquell của năm 1947 lên bàn cư với những gì tổng thống Trump vừa cho công bố hôm nay. Liệu có sự đối chọi hay ăn khớp nào không? Chúng ta sẽ bước sang phần khi giả thuyết đụng độ với thực tại. Bây giờ mình gác lại câu chuyện năm 1947 qua một bên và quay trở lại cái thực tại đầy biến động của năm 2026 này. Khi tôi đặt hai nguồn dữ liệu được tòa bạch ốc giải mật theo lệnh của tổng thống Trầm và một bên là những trang đầu tiên của tập tài liệu Allen Interview lên cùng một bàn cư thì có một sự đối chọi gây
+
+00:22:44
+gắt lộ ra. Nhưng sự đối chọi này không làm cho câu chuyện trở nên vô lý mà ngược lại nó giải thích hoàn hảo cho cái trò chơi tâm lý mà giới tinh hoa đang điều khiển. Những gì tòa bạch ốc và quân đội Mỹ công bố cho các bạn thấy bữa nay toàn là hiện tượng vật lý và công nghệ. Nào là vật thể bay hình nón, nào là vận tốc M 20, nào là camera hồng ngoại quay được nhiệt độ bất thường. Họ dẫn dắt tâm lý đám đông hướng hoàn toàn vào những thứ bằng kim loại, những thứ có thể cầm nắm đo đếm được. Nhưng tập tài liệu của
+
+00:23:21
+bà y tá Matiêu Đà thì lại chỉ thẳng vô một cái cốt lõi hoàn toàn khác. Bản chất tâm linh và ý thức. Sinh vật ero không thèm bàn về cấu tạo cái đĩa bay mà lại nói về cái linh hồn bất tử. Nói về việc cái thân xác của con người chỉ là một lớp vỏ bọc tạm bợ. Và trái đất này thực chất là một khu vực bị cô lập, bị quản thúc trong vũ trụ. Chỗ này các bạn nghe có vẻ mâu thuẫn đúng không? Một bên thì ráng khoe về công nghệ, một bên thì lại nói chuyện tâm linh vũ trụ. Tại sao lại có sự lệch pha này? Bây giờ
+
+00:23:58
+để mình đưa ra một cái ví dụ thực tế như thế này để cho các bạn dễ hiểu. Tưởng tượng các bạn đang sống trong một cái trại giam khổng lồ. Nhưng cái trại giam này được thiết kế giống y chang một khu nghỉ dưỡng cao cấp, có đầy đủ tiện nghi, siêu thị, chỗ làm việc. Những người sống trong đó bị xóa trí nhớ từ nhỏ nên ai cũng đinh ninh đây là thế giới duy nhất của mình. cứ cắm đầu đi làm, kiếm tiền, tranh giành quyền lực với nhau mà không hề biết xung quanh khu nghỉ dưỡng đó là những bức tường rào cao chót vóc. Rồi có
+
+00:24:33
+một ngày nọ, tự dân có một cái máy bay trực thăng từ thế giới tự do bên ngoài bị trục trặc và rất đùng ngay giữa khu nghỉ dưỡng. Người dân tình thì Bu lại xem bắt đầu xôn xao hoảng loạn. Mấy cái ông cai ngục tức là những người cai quản khu nghỉ dưỡng thấy giấu không được nữa mới lực lực chạy ra xoa dịu người dân. Mấy ổng gom dân lại rồi chỉ vô cái xác trực thăng và phân tích rất nhiệt tình. Bà con coi nè, cái cánh quạt này làm bằng hộp kim lạ quá ha. Cái động cơ này xài sang gì mà cháy dữ dội vậy ta? Công
+
+00:25:09
+nghệ này nguy hiểm lắm bà con phải cẩn thận nha. đưa tiền đây để tôi lập cái đội bảo vệ đi nghiên cứu cái động cơ này xem bà con súng lại xem ai cũng bị cuốn vô cái cánh quạt cái động cơ bàn tán xây xưa về công nghệ mới. Nhưng các bạn có nhận ra cái điều tin vi nhất mà mấy ông cai ngục vừa làm là gì không? Họ chủ động đem cái xác trực thăng ra mổ sẻ để đánh lạc hướng đám đông khỏi một câu hỏi chết người nhất. Cái trực thăng này từ đâu bay vô đây? Có phải bên ngoài bất tượng kia còn một thế giới khác tự do
+
+00:25:45
+hơn không? Và nếu vậy, chúng ta thực chất là ai mà lại bị nhốt ở trong này? Cái ví dụ trực thăng rớt vô khu nghỉ dưỡng đó, nó lột tả chính xác 100% cái lăn kính đối chiếu giữa sự kiện giải mật hồ sơ năm 2026 và cuốn sách Interview. Tòa bạch ốc hay là giới tinh hoa tài phiệt. Họ chính là những người cai ngục. Những hồ sơ về đĩa bay, những video hồng ngoại mà họ tung ra chính là việc họ đang chỉ cho các bạn xem cái cánh quạt và cái động cơ của chiếc trực thăng. Họ sẵn sàng thừa nhận có người ngoài hành tinh sẵn sàng minh bạch
+
+00:26:28
+về mặt vật lý. Bởi vì cái đó chỉ kích thích sự tò mò và dễ dàng biến thành cớ để xin giải ngưng ngưng sách quốc phòng như mình đã nói ở phần trên. Nhưng cái họ sống để chết tuyệt đối không bao giờ dám hé nửa lời. Đó chính là sự thực về mặt tâm linh và ý thức. Thứ mà sinh vật ngoài hành tinh Ero đã tiết lộ. Bởi vì nếu con người nhận ra mình thực chất là những sinh mệnh bất tử, nhận ra cái cõi đời này chỉ là một trò chơi trải nghiệm hoặc một sự giam lỏng thì toàn bộ cái hệ thống cai trị của giới cầm quyền sẽ sụp
+
+00:27:09
+đổ ngay lập tức. Lúc này người ta sẽ không còn sợ hãi cái chết nữa. Không sợ chết thì mấy cái trò hù dọa bằng chiến tranh, bằng dịch bệnh, bằng vũ khí hạt nhân sẽ trở nên vô tác dụng, không còn sợ hãi, không còn bị cuốn vào cái nguồn quay vật chất thì mấy cái ma trận tài chính, thuế má, nợ công sẽ chẳng còn trói buộc được ai. Đó mới là cái nỗi khiếp sợ thật sự của những người đang làm chủ cuộc chơi trên trái đất này. Vậy thì sau khi đã phân tích lớp mạ hào nhoáng bên ngoài đi qua cái hố đen tài
+
+00:27:44
+chính ngầm và cuối cùng là đụng độ với bản chất tâm linh bị dấu kính, chúng ta động lại được gì? Từ lớp xi mạ minh bạch bên ngoài đi xuyên qua cái hố đen tài chính quốc phòng khổng lồ và đụng trực tiếp tới cái cốt lõi tâm linh bị giấu nhẹm từ năm 1947. Cái bức tranh toàn cảnh về sự kiện tổng thống trong giải mật hồ sơ USO nó đã phơi bày trước mắt các bạn. Rõ ràng cái trò chơi quyền lực ở đây không phải là việc họ có giấu đĩa bay hay không mà là họ đang chọn lọc sự thật để cho các bạn xem. Họ quăng ra một mớ video hồng ngoại
+
+00:28:25
+mấy cái vật thể bay vèo vèo trên bầu trời để thỏa mãn sự tò mò vật lý của đám đông. Họ muốn các bạn cứ ngức cổ lên trời mà trầm trồ để rồi cúi đầu xuống tự nguyện chấp nhận những khoản thuế khổng lồ đổ vô cái ma trận công nghệ quốc phòng dưới danh nghĩa bảo vệ an ninh trái đức. Nhưng cái thứ làm cho hệ thống cai trị đó thực sự run sợ. Cái kho lạnh chứa bí mật kinh hoàng nhất về bản chất của những sinh mệnh ngoài không gian kia và cũng là nguồn gốc của chính loài người thì tòa bạch ốc vẫn khóa chặt lại
+
+00:29:01
+trong bóng tối. Mình đứng ở đây với tư cách là một người quan sát độc lập. Mình không hề ép các bạn phải tin vào cuốn sách Allen Interview của bà y tá Miluda. Cũng không suối các bạn đi phản đối những hồ sơ mà chính phủ Mỹ vừa tung ra. Mục đích của kênh mình từ trước đến nay luôn là mổ sẻ vấn đề. Phân tích lớp võ hào nhoáng bên ngoài để đi tìm ra cái cốt lõi lạnh lùng bên trong. Sự thật thì luôn nằm ở giữa, bị kẹt lại bởi lòng tham của con người và những quy luật vượt tầm hiểu biết của nhân loại. Trong
+
+00:29:37
+tập hai sắp tới của chuỗi video này, mình sẽ dẫn các bạn đi thẳng vô những trang sách chứng động nhất của tập tài liệu năm 1947. Mình sẽ cùng nhau xem thử sinh vật Ero đã nói những gì về trái đất và tại sao nhân loại cứ lửng quẩn trong chiến tranh đau khổ và luân hồi mà không tài nào nhớ được mình thực sự là ai? Còn bây giờ để khép lại video tập 1 hôm nay mình muốn để lại một câu hỏi. Sau khi nhìn thấu rõ cái ma trận tài chính tinh vi lẫn những bí mật bị giấu kính ngót nghét 80 năm qua, các bạn chọn tin vào điều gì? Bạn
+
+00:30:14
+tin rằng mình là những sinh mệnh đang tự do tiến hóa trên một hành tinh đầy hy vọng. Hay bạn bắt đầu lờ mờ nhận ra rằng nhân loại từ trước tới nay mãi mê trầm trồ trước vài công nghệ hào nhoáng được quăng ra mà không hề biết mình chỉ là những tù nhân tự huyễn hoặc về một bầu trời tự do đằng sau những sông sắc vô hình. Và hãy đón xem video tập hai của chuỗi series trái đất là ngục tu. Oh
+
+    
+  
+  
+# Note 241: NUC 260528 Playbook cái bẫy lấy vàng đổi nhà.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/dI4_7UzosBQ"
+author: "Nước Úc Channel"
+published: 2026-05-28
+created: 2026-05-28
+description: "Vinhomes ĐỔI VÀNG LẤY NHÀ : SỰ THẬT LÀ GÌ ?"
+
+00:00:02
+ Các bạn nhìn vô thẳng cái văn bản chánh thức của Vinhom xem cái câu chữ đập thẳng vô mắt người ta đầu tiên là gì? Đổi vàng lấy nhà, nghe hoành tráng, nghe tiện lợi quá đúng không? Nhưng thực tế người ta bắt bạn làm cái gì? Người ta bắt các bạn xách vàng ra cái tiệm do họ chỉ định, bán cái đống vàng đó đi để lấy một cục tiền mặt rồi xách cái cục tiền mặt đó quay lại mua cái nhà của họ. Ủa vậy thì có cái chỗ nào là đổi vàng lấy nhà ở đây không các bạn? Hay là bản chất ngay từ cái câu chữ đầu tiên người
+
+00:00:36
+ ta đã dùng một cú đánh tráo khái niệm để gieo vô đầu các bạn cái ảo tưởng là cứ giao vàng nhận nhà rồi 5 năm sau thông thả nhận lại giá trị 110% băng vang. Nếu bản chất cuối cùng vẫn là các bạn mang tiền mặt đi mua nhà giống như người ta vẫn làm từ xưa tới giờ thì tại sao trong các chiến dịch quảng cáo họ không nói thẳng một câu bình thường là bán nhà thu tiền mà lại cứ phải cố sống cố chết giật cái chữ đổi vàng lấy nhà lên làm cái mặt tiền cho bằng được. Vậy thì cái ý đồ thăm sâu ở đây là cái gì?
+
+00:01:28
+ Trên khắp trang mạng xã hội và báo chí chánh quyền, người ta đang dùng những mỹ từ hào nhoáng nhất để tôi vẽ cho một kịch bản đổi vàng lấy nhà kèm theo lời hứa xin lời lên tới 110% giá trị sau 5 năm. >> Viên gia chính sách là gì? đổi nhà lấy vàng kinh khủng. Tức là các bạn mang vàng đến đấy các bạn đổi lấy nhà của Vin trả Vin bằng vàng nhá. Và đặc biệt nữa là Vin còn cam kết là gì? Sau 5 năm trả lại bằng 110%. Tức là nếu các bạn mua cái căn nhà đấy 100 cây vàng sau 5 năm thì người ta sẽ trả các bạn là 110 cây
+
+00:02:05
+ vàng. Đấy. Thứ hai nữa là các bạn thấy giá nhà tăng thì các bạn giữ nhà. Các bạn thấy giá nhà giảm thì các bạn giữ vàng. Các bạn đến đòi vàng. Phải nói là đây là một cái chính sách mà sắp tới sẽ tạo sóng đấy các bạn ạ. >> Thoạt nghe đây có vẻ như là một giải pháp vẹn cả đôi đường. Một cứu bắt tay mang tầm vốc quốc tế nhằm giúp người dân giải phóng nguồn lực đang đóng băng trong két sắt để sở hữu những dự án bất động sản biển đảo nguy nga. Những lời mời trào đầy mực ngọt xuất hiện dày đặc vẽ nên một tương lai nơi
+
+00:02:39
+ các bạn vừa có nhà để ở, vừa có dòng tiền sinh sôi mà không phải chịu rủi ro làm phát. Nhưng đứng dưới góc nhìn kinh tế độc lập, liệu đây có thực sự là một món hời vô tiền khoảng hậu dành cho người dân ở đầu hẻm hay không? hay lại là một màn ma trận tài chính tinh vi được thiết kế để chuyển dịch rủi ro từ vai người khổng lồ sang vai những nhà đầu tư nhỏ lẽ. Chúng ta không phê phán, cũng không kết luận thay cho ai, nhưng chúng ta có quyền đặt ra những câu hỏi hoài nghi hợp lý đằng sau lớp vỏ bọc bóng bẫy của các
+
+00:03:20
+ dự án đại đô thị và những cam kết lợi nhuận chắc nịch này, bản chất dòng tiền đang vận hành như thế nào? Khi một doanh nghiệp lớn quyết định chạm vào mỏ vàng trong dân, đó không bao giờ là một hành động ngẫu nhiên mà là một chiến lược sinh tồn đã được tính toán chi ly đến từng con số. Bây giờ chúng ta sẽ cùng nhau bước vào cái phần cốt lõi khi các bạn đi xem nhà, lướt trên mạng hay nghe các anh chị nhân viên tư vấn bất động sản rót mật vào tay. Cái câu cửa miệng của họ luôn là các bạn cứ yên tâm xài vàng mua nhà đi.
+
+00:04:01
+ Sau 5 năm nếu không thích nữa thì chủ đầu tư sẽ trả lại giá trị tương đương 110%. Nhiều người đang ném đá chính sách đổi vàng lấy nhà của Vinhes vì nghĩ đây là chiêu trò lùa gà. Nhưng sự thật bản chất của chính sách này là gì và vì sao nó lại hot đến như vậy? Hãy cùng hưởng tìm hiểu ngay. Đầu tiên anh chị cần hiểu rõ Vinhomes không thu vàng trực tiếp của anh chị. Quy trình chuẩn là anh chị bán vàng cho một đối tác được chỉ định lấy tiền đồng để thanh toán tiền mua nhà Vinhomes. Cái hay và độc nhất ở đây là
+
+00:04:31
+ Vinhomes đang neo cam kết theo lượng vàng chứ không neo theo tiền đồng. Ví dụ anh chị bán 80 cây vàng để mua nhà sau 5 năm. Nếu anh chị không muốn giữ căn nhà này nữa, Vinhes cam kết mua lại và trả cho anh chị số tiền đủ để mua lại đúng 88 cây vàng. Nghĩa là anh chị được bảo toàn lượng vàng ban đầu và lời thêm 10% lượng vàng sau 5 năm. Nhưng nếu sau 5 năm căn nhà đó tăng giá mạnh vượt qua giá trị của 88 cây vàng, anh chị có quyền giữ lại nhà hoặc tự bán ra thị trường để hưởng chọn tiền lời. Đây chính
+
+00:05:01
+ là một bài toán mua nhà có đường lui. 110% lượng vàng là mức phòng thủ chứ không phải là trần lợi nhuận của anh chị. Nghe qua thấy êm tài quá đúng không? để vàng trong két sắt nhà mình ở đầu hẻm thì 5 năm sau nó cũng chỉ là 100 cây vàng đó thôi, đâu có đẻ thêm được phân nào. Đằng này mang đi đổi vừa có cái nhà để ở, 5 năm sau lại cầm về 110% lời quá xả lời rồi còn gì nữa. Nhưng các bạn ơi, nếu phân tích thử xem cái chữ tương đương nó nằm trong cái văn bản chính thức kia nó có nghĩa là gì? trong
+
+00:05:40
+ giới tài chính chuyên nghiệp. một chữ này thôi nó đáng giá cả một gia tài. Và đó cũng chính là cái ranh giới giữa việc các bạn giữ được tài sản hay các bạn bị lột sạch sành xanh sau 5 năm mà không biết kêu khóc với ai. Cái câu hỏi đầu tiên mà các bạn phải lực ngược lại hỏi họ là tương đương này là tương đương bằng lượng vàng hiện vật hay là tương đương bằng số tiền mặt quy đổi tại ngày ký hợp đồng? Đây mới là đoàn chí mạng. Nếu trong văn bản ghi rõ ràng rành mạch là 5 năm sau trả lại đúng 100 cây vàng vật chất, tức
+
+00:06:21
+ là trả bằng hiện vật thì câu chuyện đó lại đi theo một hướng khác. Nhưng các bạn nhìn kỹ lại xem, đời nào một tập đoàn đang khác dòng tiền mặt lại chịu ôm cái rủi ro biến động giá vàng thế giới vào người của họ. Bản chất ở đây chữ tương đương 110% hầu hết đều được thiết kế dưới dạng giá trị tiền mặt quy đổi ngay tại thời điểm các bạn xuống tay ký hợp đồng. Để mình làm một bài toán nhỏ cho các bạn dễ hình dung. Giả sử ngày hôm nay các bạn đem 100 cây vàng ra quy đổi. Giá trị thị trường lúc này mình ví dụ là 10 tỷ đồng.
+
+00:07:04
+ Các bạn giao vàng nhận căn nhà, doanh nghiệp cam kết 5 năm sau trả lại 110% giá trị tương đương, tức là 11 tỷ đồng tiền mặt. Nhìn con số 11 tỷ thấy lớn hơn 10 tỷ đúng không? Ai cũng nghĩ mình lời được 1 tỷ bạc ngon ơ nhưng kịch bản kinh tế 5 năm sau sẽ như thế nào? vàng từ thỏa khai thiên lập địa đến bây giờ ở cái xứ sở này hay bất kỳ đâu trên thế giới nó luôn là cái thước đo giá trị trường tồn là cái hàm trú ẩn cuối cùng khi hộ khẩu tiền mặt gặp biến động còn tiền mặt thì sao tiền mặt chỉ là những
+
+00:07:47
+ con số danh nghĩa nó chạy theo lạm phát chạy theo sức mua của thị trường nếu 5 năm tới tình hình kinh tế vĩ mô có biến động giá vàng thế giới và Giá vàng trong nước bay cao lên gấp đôi, gấp ba do đồng tiền mất giá. Lúc đó 100 cây vàng của các bạn nếu giữ trong két sắt nó sẽ có giá trị tương đương với 20 tỷ hoặc 30 tỷ đồng. Nhưng vì các bạn đã lỡ ký vào cái hợp đồng tương đương bằng tiền mặt kia rồi nên 5 năm sau cái số tiền các bạn nhận về chỉ vẻn vẹn là 11 tỷ đồng danh nghĩa đó thôi. Với 11 tỷ đồng tiền mặt
+
+00:08:30
+ lúc bấy giờ các bạn xách ra cửa hàng vàng đầu hẻm liệu có mua nổi 50 cây vàng hay không chứ đừng nói tới chuyện cầm về 110 cây như người ta hứa hẹn. Đây chính là cái bảy giá trị danh nghĩa mà những kẻ thiết kế cuộc chơi tài chính này họ thừa hiểu nhưng họ lại dùng cái vẻ hào nhoáng của căn nhà để che mắt các bạn. Bản chất của cái nghịch lý này là gì? là các bạn đang đem một loại tài sản thực có tính thanh khoản tuyệt đối không bao giờ mất giá trị nội tại là vàng để đổi lấy một lời hứa trả bằng tiền mặt trong
+
+00:09:10
+ tương lai. Cái thứ mà chánh quyền có thể in thêm hoặc bị làm phát bào mòn sức mua mỗi ngày. Doanh nghiệp họ khôn lắm chứ. Họ dùng tiền của các bạn để thanh toán các khoản nợ đến hàng hoặc đầu tư vào các dự án khác để đẻ ra tiền. Họ xài tiền của các bạn để nuôi sống bộ máy của họ. Còn các bạn thì ôm một cái hợp đồng với lời hứa 5 năm sau nhận về một đống tiền mặt đã bị giảm sức mua một cách nghiêm trọng. Trong suốt 5 năm đó, các bạn ở trong căn nhà đó, các bạn nghĩ là mình được xài miễn phí nhưng không có
+
+00:09:49
+ cái gì trên đời này là miễn phí cả. Các bạn đang trả tiền thuê căn nhà đó bằng chính cái chi phí cơ hội của số vàng các bạn đã mất đi. Nếu giá vàng đứng yên thì không nói. Cái phần giá trị tăng lên đó chính là cái giá các bạn phải trả cho việc được ở trong căn nhà tồn kho của họ. Chưa kể bất động sản tại Việt Nam hiện tại đang ở trong giai đoạn đóng banh. Tính thanh khoản cực kỳ kém. Các bạn cầm căn nhà đó 5 năm sau, nếu thị trường sục giảm, các bạn muốn bán căn nhà đó đi để lấy lại tiền cũng không
+
+00:10:27
+ được vì không có ai mua. Trong khi đó, nếu các bạn giữ vàng, bất cứ khi nào các bạn cần xài tiền, cần lo cho con cái nhà cửa, các bạn chỉ cần xách một vài chỉ vàng ra đầu hẻm là có tiền mặt ngay trong vòng một nốt dẹp. Đằng này các bạn bị chôn chân vào một khối bê tông, tài sản thực sự biến thành tài sản giấy và quyền tự quyết tài chính của các bạn hoàn toàn rơi vào tay của người khác. Các bạn thấy ở đây chưa? Người ta nói là bảo đảm lợi ích cho các bạn nhưng thực chất là họ đang thu giữ cái lõi giá trị
+
+00:11:06
+ thực là vàng và trả lại cho các bạn cái võ danh nghĩa là tiền mặt kèm cam kết. Đó là lý do tại sao mình nói cái chữ tương đương này nó mơ hồ một cách đáng sợ. Khi bạn ký tên vào, các bạn nghĩ mình đang đi đầu tư thông minh nhưng thực chất các bạn có đang tự mình bước vào một cái thế trận mà ở đó phần thắng đã được định đoạt ngay từ ngày đầu tiên dành cho người đưa ra luật chơi này. Mình không khuyên các bạn phải làm cái này hay cái kia. Tài sản là của các bạn. Các bạn có toàn quyền xài tiền, xài vàng
+
+00:11:44
+ theo ý của mình. Nhưng một khi các bạn đã là khán giả của kênh, chúng ta phải nhìn thấu qua cái lớp sương mù hào nhoáng đó để thấy cái nghịch lý trừng trụi bên trong. Sau 5 năm, 110% cái con số tiền mặt trên giấy hay là các bạn muốn giữ nguyên vẹn 100 cây vàng phòng thân trong két sắt của mình. Bây giờ mình và các bạn sẽ cùng nhìn vô cái bàn cờ vĩ mô để thấy cái ma trận tài chính này nó tin vi tới mức nào. Khi một tập đoàn bất động sản lớn như Vinh Hôn tung ra cái chiêu thức đổi vàng lấy nhà này, người ta lên tivi lên mạng giải
+
+00:12:25
+ thích nghe có vẻ nhân văn lắm. Họ nói đây là giải pháp khơi thông nguồn lực trong dân, là cách để giúp người dân có nhà ở, giúp thị trường bất động sản, bớt đóng băng. Nhưng bây giờ thử gõ vô một phát xem cái bản chất thực sự nằm sau lớp vỏ bọc nhân văn đó là gì. Nói một cách sòng phẳn và trần trụi nhất, đây chính là một hình thức huy động vốn vay mược tài sản của người dân với cái giá quá rẻ mạc mà doanh nghiệp không cần phải thông qua hệ thống ngân hàng truyền thống. Các bạn thử nghĩ xem ở cái xương mình hiện tại nếu một doanh
+
+00:13:04
+ nghiệp muốn đi vay một số vốn khổng lồ lên tới hàng ngàn tỷ đồng để vận hành bộ máy để xây dựng dự án hay để đảo những khoản nợ đến hẹn họ phải đi đâu? Con đường chánh thống và duy nhất của họ là gõ cửa các ngân hàng lớn. Nhưng ngân hàng đâu có phải là cái chợ mà muốn vô mượn tiền là mượn dễ ăn như vậy. Ngân hàng họ có cả một hệ thống thẩm định rủi ro cực kỳ khắc khe. Họ phải nhìn vô báo cáo tài chính, nhìn vô nợ xấu, nhìn vô cái khả năng thanh khoản thực tế của doanh nghiệp rồi họ mới quyết định có
+
+00:13:40
+ cho vay hay không. Chưa kể chính quyền và ngân hàng nhà nước lúc nào cũng có những cái rào cản pháp lý, những cái hạng mức tín dụng để siết chặt dòng tiền đổ vô bất động sản nhằm bảo đảm an toàn cho hệ thống tài chính quốc gia. Và cái điều quan trọng nhất là cái gì? Lãi suất. Lãi suất mà ngân hàng áp cho các doanh nghiệp bất động sản trong bối cảnh thị trường khang hiếm vốn như hiện tại không bao giờ là có cái giá rẻ. Nó có thể lên tới 12 15% thậm chí là cao hơn nữa tùy theo mức độ rủi ro của dự án. Đã
+
+00:14:20
+ vậy doanh nghiệp còn phải đem những cái tài sản bừng chà bá lửa ra để thế chấp để làm vật bảo chứng cho khoảng vầy đó. Vậy thì các bạn hãy lật ngược lại cái logic này xem. Thay vì đi vay ngân hàng với một đống thủ tục nhức đầu, bị giám sát trầy da tróc vẫy lại phải trả cái mức lãi suất cao ngất ngưỡng mười mấy phần trăm mỗi năm. Tại sao Vinh Hi đường vòng? Một nước đi cực kỳ tài tình, huy động thẳng cái nguồn lực vàng đang nằm im thinh thích trong két sắt của người dân ở đầu hẻm bằng cách đưa ra cái cam
+
+00:14:56
+ kết 110% sau 5 năm. Tính ra trung bình mỗi năm doanh nghiệp chỉ trả cái mức lãi suất danh nghĩa đầu đó khoảng 2%. Các bạn thấy con số này nó khủng khiếp chưa? Đây là một nguồn vốn rẻ mạc đến mức không có một tổ chức tài chính hay một ngân hàng nào trên thế giới có thể cho doanh nghiệp vay trong bối cảnh 5 năm. Thay vì trả lãi 15% cho ngân hàng. Bây giờ họ chỉ cần trả một mức lãi siêu thấp cho các bạn mà tài sản thế chấp lại chính là những căn nhà, những căn hội chung cư, những lô bất động sản tồn kho
+
+00:15:38
+ đang bị đóng băng chưa biết khi nào mới bán được. Đây chính là một mũi tên trúng hai đích. Mũi tên thứ nhất, họ giải phóng được cái lượng hàng tồn kho đang đè nặt lên báo cáo tài chính. Những căn nhà xây sẵn nằm phơi xương phơi nắng để không thì cũng tốn chi phí bảo trị quản lý mà không đẻ ra được một đồng cắt nào. Bây giờ đem cái đống bê tông cốt thép đó giao cho các bạn để đổi lấy vàng thực. Mũi tên thứ hai hồi lập tức có ngay một nguồn tài sản có tính thanh khoản cao nhất, giá trị nhất là vàng. Họ dùng số
+
+00:16:17
+ vàng đó để quy đổi ra tiền mặt để thanh toán các khoản nợ trái phiếu, nợ ngân hàng đang dí sát sạc sau lưng hoặc nuôi sống các mãng kinh doanh khác đang đốt tiền như điên của tập đoàn. Trong cái cuộc chơi này, các bạn tưởng các bạn là người đi mua nhà, là khách hàng VIP được săn đón, được cung phục. Nhưng dưới lăn kính của tài chính, vị thế của các bạn đã hoàn toàn bị hoán đổi. Từ một người mua nhà, các bạn đã vô tình biến thành một chủ nợ bất đắc dĩ của doanh nghiệp. Các bạn đem tài sản xương mốt của mình cho họ mượn xài
+
+00:16:56
+ trước. Đổi lại các bạn cầm một cái hợp đồng dân sự và một căn nhà chưa rõ tương lai thanh khoản ra sao. Cái rủi ro lớn nhất ở đây là cái sự bất đối xứng về thông tin và quyền lực tài chính. Một ngân hàng khi cho doanh nghiệp vay tiền, họ có đủ quyền lực pháp lý, có đủ đội ngũ luật sư, có đủ biện pháp để phong tỏa tài sản, để siết nợ nếu doanh nghiệp đó có mệnh hệ gì. Còn các bạn thì sao? Lấy cái gì để bảo đảm cho cái khoản cho vay bằng vàng này? Các bạn chỉ có một tờ giấy cam kết. Nếu 5 năm sau tình hình
+
+00:17:35
+ kinh tế có những biến động không lường trước được, doanh nghiệp họ gặp khó khăn về dòng tiền, họ tuyên bố mức khả năng thanh khoản hoặc họ tìm cách kéo dài thời gian trả thì các bạn biết đi đội ai. Lúc đó các bạn xách tờ giấy hợp đồng ra tòa, các bạn xếp hàng chung với hàng ngàn hàng vạn chủ nợ khác để chờ phân chia tài sản theo luật phá sản. Cái căn nhà các bạn đang ở liệu các bạn có thực sự sở hữu toàn vẹn cái quyền sử dụng Đức và quyền sở hữu nhà hợp pháp với cái sổ đỏ cầm tay hay chưa? Hay nó
+
+00:18:12
+ vẫn đang nằm trong cái gói thế chấp chung của đại dự án tại một ngân hàng nào đó. Các bạn thấy cái ma trận này nó đáng sợ không? Các bạn đem một tài sản thật chắc chắn 100% là vàng của mình ra để nhận về một rủi ro cực kỳ lớn. Mà đáng lý ra các rủi ro đó phải thuộc về các tổ chức ngân hàng chuyên nghiệp. Mình muốn các bạn nhìn sâu mua cái bản chất này để tự hỏi tại sao một cơ hội đầu tư mà người ta quảng cáo là quá ngon ăn, vừa có nhà xài, vừa có nhà để ở, vừa có tiền cầm về, lại không thấy các quỹ
+
+00:18:52
+ đầu tư lớn, các ngân hàng, các đại gia tài chính nhảy vô ôm trọn gói để kiếm lời. Tại sao họ lại phải chia nhỏ nó ra đem đi gõ cửa từng nhà, mời gọi từng người dân bình thường mang cây vàng ra, vài chục cây vàng ra để đổi nhà. Câu trả lời đơn giản vì các tổ chức tài chính chuyên nghiệp họ quá khôn. Họ nhìn thấy rõ ràng cái rủi ro đằng sau cái mức lãi suất rẻ mặt đó và họ không dạy gì làm người hùng gánh nạn cho doanh nghiệp. Chỉ có người dân nhẹ dạ bị lóa mắt bởi cái vẻ hào nhoáng bên ngoài mới dễ dàng
+
+00:19:34
+ tự nguyện biến mình thành những cái ngân hàng bất đắc dĩ để người ta huy động vốn với cái giá rẻ mạc mà thôi. Bây giờ mình và các bạn cùng nhau lực tới cái phần mà mình nghĩ là quan trọng nhất đó là chúng ta phải soi cái lớp pháp lý thực tế của cái chương trình huy động vàng này. Khi các bạn đi nghe người ta quảng cáo, xem những clip ngắn trên mạng, có rất nhiều người có thể do họ vô tình hoặc cố ý nhập chạn. Họ nói với các bạn rằng, "Các bạn cứ đem vàng ra đổi đi, cái này có ngân hàng bự đứng sau
+
+00:20:10
+ lưng bảo chứng, bảo đảm an toàn 100% không lo mất mắt đâu mà sợ. >> Thì ví dụ như các anh chị mua căn nhà đó 10 tỷ thì các anh chị thanh toán bằng vàng 80% giá trị căn nhà đó, còn 20% thì các anh chị trả bằng tiền mặt. Và số bàn này sẽ thông qua liên kết giữa Vinh và ngân hàng và đơn vị vàng các anh chị nha. Thì Việt ngân hàng là Việt bank nên các chị yên tâm đây là một ngân hàng lớn tại nhà nước. >> Nghe tới hai chữ ngân hàng là thấy cái bụng mình nó nhẹ nhõm, nó yên tâm ngang xương liền đúng không? Vì ở trong cái tư
+
+00:20:42
+ duy của người dân, ngân hàng là cái nơi linh thiên có chánh quyền quản lý, có luật pháp bảo hộ. Ngân hàng mà đứng ra bảo đảm thì còn có cái gì để mà lo nghĩ? Nhưng các bạn ơi, mình phải nhìn vô cái gì? Nhìn vô cái văn bản giấy trắng mực đen chánh thức chứ không có nghe lời nói gió bay của mấy người làm mô giới. Bây giờ các bạn hãy cùng mình đọc thật kỹ, soi thật sâu vô cái văn bản thông báo chánh thức của Vinh để xem có cái chữ nào ghi là ngân hàng đứng sau bảo lãnh thanh toán hay không. Mình xin khẳng định với các bạn, không
+
+00:21:21
+ hề có một chữ nào, không hề có một tên ngân hàng nào đứng ra chịu trách nhiệm, bảo lãnh cho cái cam kết 110% này hết. Vậy thì cái sự thật nó nằm ở đâu? Trong văn bản chánh thức Vinhom họ chỉ ghi là họ liên kết hợp tác với các công ty vàng bạc đá quý uy tín để thực hiện cái nghiệp vụ quy đổi tài sản cho các bạn mà thôi. Nghĩa là sao? Quy trình thực tế là các bạn xách vàng của mình ra cái cửa hàng vàng bạc đó. Người ta cân đo đông đếm kiểm tra xem vàng thực hay là vàng giả, độ tuổi ra sao, rồi người ta định
+
+00:22:03
+ giá theo thị trường tại cái thời điểm đó để chốt lại cho các bạn một số tiền mặt. Sau đó các bạn cầm cái số tiền mặt đó qua bên bất động sản để ký cái hợp đồng mua nhà của Vinhom. Các bạn thấy cái nút thắt pháp lý nó nằm ngay chỗ này chưa? Đây hoàn toàn là một chuỗi các giao dịch dân sự giữa các đơn vị tư nhân với nhau. Công ty kinh doanh vàng bạc đá quý dù họ có bự tới đâu, họ cũng chỉ là một doanh nghiệp thương mại bình thường chứ họ không phải là một tổ chức tín dụng hay một định chế tài chính
+
+00:22:41
+ quốc gia. Họ không có chức năng, cũng không có quyền lực pháp lý để đứng ra bảo lãnh thanh toán cho một khoảng nợ dài hạn lên tới 5 năm. của một tập đoàn khác. Trong ngành tài chính, cái chữ ngân hàng bảo lãnh nó nặng ký lắm. Khi một ngân hàng ký cái biên lai bảo lãnh cho một dự án hay là một khoản vây. Nghĩa là ngân hàng đó phải chịu trách nhiệm liên đới về mặt pháp lý. Nếu ngày mai doanh nghiệp mất khả năng thanh khoản, ngân hàng phải có nghĩa vụ móc tiền túi của mình ra để trả nợ thay cho doanh nghiệp đó. Và để được ngân hàng
+
+00:23:20
+ đứng ra bảo lãnh như vậy, doanh nghiệp phải bị kiểm tra chày da chóc vẫy, phải đóng một khoản phí bảo lãnh cực kỳ cao và phải có tài sản sạch để thế chấp cho ngân hàng. Còn ở đây trong cái ma trận đồ huy động vàng này hoàn toàn vắn bóng cái dấu đỏ bảo lãnh của ngân hàng trung ương hay là bất kỳ ngân hàng thương mại nào. Điều này có nghĩa là cái lời hứa 5 năm sau trở lại 110% giá trị hoàn toàn dựa dẫm vô cái gọi là uy tín thương hiệu của chủ đầu tư và cái công ty vàng bạc trung gian kia mà thôi.
+
+00:24:00
+ Bây giờ mình đặt một cái giả định kinh tế, một cái câu hỏi thực tế để các bạn suy ngẫm. Trong 5 năm tới, cuộc sống đâu có ai biết trước được chữ ngờ. Nếu các công ty vàng bạc đá quý mà các bạn tới đổi vàng ngay hôm nay vì một lý do nào đó, họ thay đổi chiến lược kinh doanh, họ thu hẹp mặt bằng hoặc tệ hơn là họ tuyên bố giải thể phá sản. Lúc đó các bạn cầm cái tờ giấy cam kết tương đương 110% đó đi kiếm ai để đòi lại 100 cây vàng của mình. Các bạn chạy tới bên Hồ, chủ đầu tư họ sẽ lật hợp đồng ra nói
+
+00:24:39
+ sao? Họ nói ủa tụi tôi bán nhà cho các bạn là tụi tôi nhận bằng tiền mặt đàn hoàng nha. Còn cái chuyện các bạn giao dịch đổi vàng nhận cam kết là các bạn làm việc với cái công ty vàng bạc kia đó là hợp đồng dân sự giữa các bạn với họ. Tụi tôi đâu có giữ vàng của các bạn đâu mà tụi tôi trả. Rồi nếu các bạn chạy tới cái cửa hàng vàng người ta đóng cửa cài then các bạn xách đơn đi kiện một pháp nhân tư nhân đã giải thể thì cái hành trình đi đòi lại công lý của các bạn nó sẽ kéo dài bao nhiêu năm. Lúc đó cái tài sản phòng
+
+00:25:21
+ thân thực tế cái thứ duy nhất có thể bảo vệ gia đình các bạn lúc ngặt nghèo là mấy chục cây vàng. mấy trăm cây vạt đó nó đã biến thành một tờ giấy nợ lộn xộn nằm trong cái đống hồ sơ chờ tòa án giải quyết. Các bạn nhìn lại lịch sử tài chính ở mình đi, đâu có thiếu những cái bài học nhãn tiền, bao nhiêu vụ án lớn liên quan tới các tập đoàn, các ngân hàng bự chà bá lửa đã xảy ra rồi. Ngay cả khi có những dự án người dân có tiền gửi hợp đồng hẳn hoi với những cái tên nghe rất kêu. dừng. Khi cái bộ máy đó
+
+00:25:57
+ gặp sự cố, người dân phải chịu cảnh xếp hàng rong rã tháng này qua năm nọ, mệt mỏi, tổn thương, tinh thần biết bao nhiêu mà nói. Huống chi là trong cái sự việc này, tấm khiêng bảo vệ pháp lý cốt lỗi nhất là cái hợp đồng bảo lãnh của ngân hàng còn không có sự xuất hiện ngay từ đầu. Các bạn phải hiểu rằng cái ranh giới pháp lý giữa các thỏa thuận dân sự nó mỏng manh lắm. Khi mọi thứ tốt đẹp, ai cũng cười nói vui vẻ, ai cũng hứa hẹn những điều hào nhoáng. Nhưng khi dòng tiền bị tắc nghẽn, khi doanh nghiệp khác
+
+00:26:33
+ vốn tới mức phải tìm mọi cách len lõi vô két sắc của người dân để huy động từng chỉ vàng thì đó chính là cái tín hiệu mà các bạn cần phải để ý. Mình đặt ra những chi tiết này không phải để làm các bạn hoang mang, cũng không phải để công kích một cá nhân theo một doanh nghiệp nào hết. doanh nghiệp, họ có quyền đưa ra những chiến lược kinh doanh để cứu vãn thanh khoản cho doanh nghiệp, đó là chuyện hợp pháp. Nhưng các bạn, với tư cách là những người chủ thực sự của số tiền, số vàng, xương máu của mình, các
+
+00:27:06
+ bạn có quyền đặt câu hỏi trước khi đặt bút ký tên. Tại sao người ta lại phải cứ mập mờ, cứ phải nhắc tới hai chữ ngân hàng trong các bài truyền thông ngoài kia để làm cái gì? Có phải vì họ biết thừa? Nếu nói thẳng đây chỉ là một cái hợp đồng dân sự ba bên không có ai bảo lãnh thì người dân sẽ tỉnh táo giữ chặt lấy két sắt của mình. Không tới đây sẽ có người nghĩ rằng vậy thì tập đoàn Vinh cái đích đến cuối cùng của họ khi tung ra cái chiêu thức này là cái gì? Không lẽ một tập đoàn bự như vậy lại đi làm
+
+00:27:44
+ một cái chuyện không có tính toán? Có chứ các bạn tính kỹ là đằng khác. trong kinh doanh, đặc biệt là ở cái ngành bất động sản đang gặp bế tắc như hiện tại, cái nước đi này được ví như một chiêu cờ hoáng đổi càn khôn để đạt được ba cái mục đích cốt lõi mà nếu không nhìn kỹ thì các bạn sẽ không bao giờ thấy. Cái đích đến đầu tiên ở đây chính là việc mua thời gian để đảo nợ. Đối với một tập đoàn bất động sản khổng lồ, cái đáng sợ nhất không phải là việc họ không có tài sản mà là việc họ bị nghẽn dòng tiền. Tài sản của họ có thể
+
+00:28:25
+ lên tới hàng trăm ngàn tỷ đồng, nằm ở các khu đại đô thị, các tòa nhà chọc trời, các dự án biệt thự biển đảo xa hoa. Nhưng tất cả những cái đó nếu đang bị đóng băng dưới dạng bê tông cốt thép không thể đem ra để thanh toán các khoản nợ trái phiếu, nợ ngân hàng hay là trả lương cho công nhân mỗi ngày đường. Khi các khoản nợ lớn đến hàng mà thị trường không có người mua nhà, ngân hàng lại siết chặt tín dục, doanh nghiệp sẽ rơi vào cái tình thế vô cùng nguy kịch về thanh khoản. Bằng cách tung ra cái
+
+00:29:01
+ chương trình huy động vàng này, họ đã khéo léo tìm ra một cái phao cứu sinh ngay trong két sắt của người dân. Họ thu vàng của các bạn thông qua các công ty trung gian lập tức đem bán ra thị trường để lấy tiền mặt đút túi liền. Khi có cái số tiền mặt lớn này rồi, họ sẽ đem đi đập vô những cái lỗ hỏng dòng tiền đang bị rò rỉ, trả nợ cho các chủ nợ đang dí sát rạt hoặc nuôi sóng bộ máy. Cái cam kết 110% kia nó nằm ở mãi tích 5 năm sau lận các bạn. Nghĩa là sao? Nghĩa là doanh nghiệp đã thành công mua được 5
+
+00:29:39
+ năm thời gian yên ổn để thở, để xoay sở, để chờ đợi thị trường phục hồi với một cái giá vốn lãi suất rẻ mạc như mình đã phân tích ở trên. Nếu nền kinh tế 5 năm sau ấm lên, họ bán được các dự án khác, họ có tiền trả lại cho các bạn thì quá tốt. Còn nếu 5 năm sau thị trường vẫn tệ thì cái khoảng nợ đó đã được kéo dài ra một khoảng thời gian quá dài rồi. Họ lại có những phương án khác để hoảng nợ. Các bạn thấy họ có khôn ngoan chưa? Họ đang lấy chính cái tài sản an toàn của các bạn để làm cái khiê đỡ đàn cho cái sự
+
+00:30:19
+ rủi ro thanh khoản của họ ngay trong thời điểm hiện tại. Cái lợi thứ hai của nước đi này là giúp doanh nghiệp giữ giá thị trường để bảo vệ cho toàn bộ hệ thống. Các bạn thử đặt mình vào vị trí của một nhà làm chiến lược bất động sản đi. Khi thị trường đóng bằng hàng tồn kho quá nhiều mà không có ai mua. Cái cách thông thường nhất để kích cầu là cái gì? Là phải giảm giá bán chiết khấu sâu 20%, 30% thậm chí là 50% để người ta nhảy vô mua nhằm thu tiền về gấp. Nhưng đối với một tập đoàn ở phân khúc cao cấp như Vinh Hồm, việc
+
+00:31:00
+ giảm giá bán trực tiếp là một vết giao tự sát. Nếu họ giảm giá căn hộ từ 10 tỷ xuống còn 7 tỷ để bán tháo, chuyện gì sẽ xảy ra? Thứ nhất, hàng vạn khách hàng cũ đã lỡ mua giá 10 tỷ trước đó, họ sẽ nổi điên lên. Họ tới quậy banh chành vì tài sản của họ bị bốc hơi 30% chỉ sau một đêm. Uy tín thương hiệu của tập đoàn sẽ đổ sông đổ biển. Thứ hai, khi giá nhà sục giảm trên giấy tờ, tổng giá trị tài sản rồng của doanh nghiệp trên báo cáo tài chính gửi cho các cổ đông và các quỹ đầu tư quốc tế sẽ bị sục giảm nghiêm trọng.
+
+00:31:43
+ Điều này sẽ kích hoạt một làn sóng bán tháo cổ phiếu khiến doanh nghiệp tổn thương nặng nề hơn nữa. Cho nên cái chính sách đổi vàng lấy nhà cam kết mua lại 110% này thực chất là một cái chiêu thức giảm giá ngầm nhưng giữ nguyên giá trị trên bề nổi. Trên hợp đồng giá căn nhà vẫn giữ nguyên là 10 tỷ không có giảm một đồng cắt nào hết. Bộ mặt thương hiệu vẫn bóng bẫy, báo cáo tài chính gửi cho quốc tế nó vẫn đẹp đẽ nhưng doanh nghiệp lại ngầm bù đắp cho các bạn bằng cái lời hứa trả thêm 10% và cho các bạn
+
+00:32:22
+ ở miễn phí trong 5 năm. Đây là cách họ bảo vệ cái mặt bằng giá của toàn bộ các dự án không cho thị trường bất động sản của họ bị sụp đổ dây chuyền. Trong khi vẫn đạt được mục tiêu là đẩy được cái đóng hàng tồn kho đi và thu về nguồn lực thực chức từ người dân. Doanh nghiệp họ không có lỗ đâu các bạn. Trong một cuộc chơi tài chính, khi một bên đạt được quá nhiều cái lời từ việc có vốn rẻ để đảo nợ, giải phóng được hàng tồn cho đến việc giữ vững được giá trị thương hiệu và giá trị cổ phiếu trên thị trường thì
+
+00:32:58
+ cái chi phí, cái rủi ro của những cái lợi đó nó không tự nhiên mất đi. Nó được chuyển dịch một cách êm ái, ngọt ngào sang vai của người dân ở đầu hẻm. Những người đang tự nguyện mang vàng ra đổi kìa. Các bạn đem một tài sản thật có giá trị trường tồn ra để đổi lấy một căn nhà đang bị đóng băng và một lời hứa danh nghĩa trong tương lai. Các bạn đang đánh cược cái tài sản của mình và các kịch bản là tập đoàn này sẽ sống sót và phát triển rực rỡ trong 5 năm tới để thực hiện lời hứa với các bạn. Nhưng các bạn
+
+00:33:34
+ hãy tự hỏi mình xem, nếu ngay cả hệ thống ngân hàng chánh thống còn phải e dè, còn phải thắt chặt dòng vốn đối với họ thì cái lý do gì? Những nhà đầu tư cá nhân nhỏ lẽ lại dũng cảm đứng ra làm người gánh đỡ cái rủi ro vĩ mô đó thay cho cả hệ thống tài chính. Doanh nghiệp họ đã tính toán trọn gói cái lợi về phần họ rồi. Còn cái phần rủi ro các bạn có tự tính nổi cho bản thân mình hay không? Nếu các bạn đã nghe tới đây thì có nghĩa là các bạn muốn xem thật kỹ những chi tiết mà mình phân tích sau đây. Nếu các
+
+00:34:12
+ bạn đọc báo chí ngoài kia, người ta sẽ nói rằng bỏ vô 100 cây vàng, 5 năm sau nhận về 110 cây. Các bạn nghĩ đây sẽ là một giao dịch bằng vàng sòng phẳn. Nhưng khi cầm cái văn bản thông báo chánh thức của Vinh Hom lên, nhìn kỹ vô từng cái dấu chấm, dấu phẩy, cái câu chữ chánh xác mà tập đoàn này xài là cái gì? Đó là nhận lại số tiền tương đương 110% số vàng đã chuyển đổi để mua bất động sản. Mình nhấn mạnh ở đây đã chuyển đổi. Các bạn ở đầu hẻm nghe kỹ cái cụm từ này chưa? Cái chữ này bự chà bá lửa đã
+
+00:35:00
+ chuyển đổi trong thuật ngữ pháp lý và tài chính. Cái chữ đã chuyển đổi này nó đang mang một độ lùi về thời gian và nó đóng băng cái giá trị tài sản của các bạn ngay tại cái thời điểm quá khứ đó. Tại sao họ lại phải dùng cái cấu trúc chữ nghĩa phức tạp và lắc léo này để làm cái gì? Để hiểu được cái ngầm ý phía sau, mình và các bạn phải nhìn vô cái khung pháp lý của chính quyền Việt Nam hiện tại. Theo quy định của pháp luật Việt Nam, việc sử dụng vàng làm phương tiện thanh toán, định giá hay là giao
+
+00:35:38
+ dịch trực tiếp trong các hợp đồng mua bán bất động sản là hoàn toàn phạm luật. Chánh quyền siết rất chặt cái chuyện này để chống tình trạng vàng hóa nền kinh tế. Nếu Vinh Hom trực tiếp nhận 100 cây vàng của các bạn rồi ký hợp đồng mua bán nhà thì cả doanh nghiệp lẫn các bạn đều đang vi phạm pháp luật rất nghiêm trọng. hợp đồng đó sẽ bị tuyên bố vô hiệu và tài sản có thể bị tịch thu. Chính vì cái rào cản luật pháp cứng rắn này, họ mới phải thiết kế ra cái vòng xoáy ba bên thông qua các cửa hàng vàng bạc mà mình
+
+00:36:18
+ đã nói ở phần trên. Mục đích là để làm cái gì? Là để hợp thức hóa dòng tiền. Các bạn đem vàng tới cửa hàng, cửa hàng chuyển đổi cái đống vàng đó thành tiền mặt ngay tại ngày hôm nay. Rồi các bạn xài số tiền mặt đó để đi mua cái nhà của Vinh. Vậy thì cái chữ số vàng đã chuyển đổi trong văn bản nó mang một cái sự thật trần trụi lạ. Số vàng của các bạn chỉ tồn tại trong vòng đúng một nốt nhạc tại thời điểm các bạn ký hợp đồng mà thôi. Ngay sau cái nốt nhạc đó, vàng của các bạn đã chính thức bị khai tử về mặt pháp
+
+00:37:01
+ lý và biến thành một con số tiền mặt cố định. Bây giờ mình sẽ gõ vô cái bài toán thực tế này để cho các bạn thấy cái sự thiệt thòi khủng khiếp của người dân trong tương lai nếu không biết cái điều này. Ví dụ ngày hôm nay các bạn xách 100 cây vàng ra cửa hàng được liên kết. Tại thời điểm này giá vàng thị trường quê đổi ra tiền mặt là 10 tỷ đồng. Cái chữ số vàng đã chuyển đổi để mua bất động sản. Lúc này chính thức được định nghĩa bằng con số 10 tỷ đồng tiền mặt. Các bạn ký hợp đồng giao tiền, nhận nhà. Vinh cam kết 5
+
+00:37:45
+ năm sau trả lại 110% của cái con số vàng đã chuyển đổi đó. Nhiều người xem báo chí mập mờ cứ tưởng tượng là 5 năm sau giá vàng lên bao nhiêu thì doanh nghiệp sẽ tính 100% trên cái giá vàng của 5 năm sau. Không hề có đâu. Các bạn đọc kỹ luật đi. Luật đã cấm giao dịch bằng vàng thì làm sao doanh nghiệp được quyền theo dõi và chi trả biến động theo giá vàng cho các bạn 5 năm sau. Cho nên cái 110% này bắt buộc phải tính trên cái con số đã chuyển đổi của 5 năm trước. Tức là tính trên con số 10 tỷ đồng ban đầu, 110%
+
+00:38:33
+ của 10 tỷ là 11 tỷ đồng tiền mặt. Doanh nghiệp họ chỉ có nghĩa vụ và họ cũng chỉ có thể trả lại cho các bạn đúng 11 tỷ đồng tiền mặt đó sau 5 năm mà thôi. Vì luật pháp đâu có cho phép họ trả bằng vàng vật chất. Bây giờ chúng ta nhìn vô cái kịch bản tương lai 5 năm sau để thấy cái bẫy này nó bào mòn tài sản của các bạn như thế nào. Nếu trong 5 năm đó kinh tế biến động làm phát tăng cao, giá vàng thế giới bay lên vù vù cái 100 cây vàng ban đầu của các bạn nếu để im trong két sắt nhà của mình 5 năm sau, giá trị của
+
+00:39:12
+ nó có thể nhảy vọt lên thành 20 tỷ hoặc cao hơn 25 tỷ. Nhưng lúc này các bạn xách cái hợp đồng tới doanh nghiệp để thanh lý. Các bạn không muốn ở căn nhà đó nữa. Các bạn muốn đòi lại tài sản để đi lo cho con cái. Người ta lật giấy tờ ra và thông thả đếm cho các bạn đúng 11 tỷ đồng tiền mặt. Các bạn cầm 11 tỷ đồng đực mặt ra đó, mặt mày ngơ ngác bước ra khỏi văn phòng của họ, đi thẳng tới tiệm vàng, mua lại vàng phòng thân. Với cái mức giá vàng đã tăng gấp đôi của n năm sau. 11 tỷ đồng tiền mặt lúc này liệu có mua đổi
+
+00:39:50
+ được 50 cây vạn không? Từ một người có 100 cây vạn trắc ăn trong tay, 5 năm sau xài cái dịch vụ hào nhoáng của họ, tài sản thực tế của các bạn bị bốc hơi mất một nửa. Các bạn từ người khá giả bỗng nhiên bị nghèo đi một cách hợp pháp dưới sự bảo chứng của hợp đồng. Các bạn thấy cái sự đánh tráo khái niệm giữa văn bản chánh thức và bề báo truyền thống chưa? Báo chí người kia cố tình giật tích lập lờ để gieo vô đầu các bạn. Cái ảo tưởng là các bạn đang gửi vàng tích lũy có lãi. Họ dùng cái từ hoa mỹ để các bạn
+
+00:40:26
+ nghĩ rằng mình ăn được bảo toàn giá trị bằng vàng. Nhưng cái văn bản pháp lý của Vinhom thì họ viết cho đúng luật để bảo vệ chính họ trước chánh quyền. Họ ghi rất rõ là trả tiền mặt tương đương giá trị đã chuyển đổi. Họ đã gài sẵn cái chốt hạ pháp lý để 5 năm sau họ có toàn quyền ép các bạn phải nhận tiền mặt tính theo giá trị chết cứng của 5 năm trước. Họ thừa biết luật Việt Nam cắm giao dịch vàng nên họ dùng chính cái lệnh cấm của chánh quyền làm cái tấm khiêng hoàn hảo để từ chối trả vàng vật chất cho các bạn
+
+00:41:03
+ trong tương lai. Họ thu vàng thực của các bạn ở hiện tại để xài, để trả nợ, để cứu thanh khoản cho cái đống bê tông tồn kho. Còn tương lai họ trả lại cho các bạn một mớ tiền mặt đã bị lạm phát gậm nhắm sạch sẽ cái sức mua thực tế. doanh nghiệp họ vừa đúng luật của chánh quyền, họ thu được nguồn lực giá rẻ lại vừa đẩy hết cái rủi ro trượt giá, rủi ro lạm phát lên trên đầu của các bạn. Vậy thì mình đặt ra cái nghịch lý trần trụi này để các bạn nghĩ lại xem. Một cuộc chơi mà ngay từ cái câu chữ trong
+
+00:41:38
+ văn bản đã được gài bẫy một cách tinh vi để đóng băng giá trị tài sản của các bạn ở quá khứ. Trong khi bắt các bạn phải gánh chịu toàn bộ cái biến động lạm phát của tương lai thì đó có phải là một cơ hội đầu tư thông minh không? Các bạn đem cái thứ không bao giờ là mức giá là vàng để đổi lấy một cái cam kết nhận lại là tiền mặt cố định sau 5 năm. Liệu cái sự đánh đổi đó nó có xứng đáng với cái mồ hôi nước mắt mà các bạn đã tích cóp cả đời hay không? Tài sản là trong tay của các bạn, quyền xài tiền xài vàng cũng là
+
+00:42:12
+ của các bạn. Nhưng một khi đã nhìn thấu cái chữ đã chuyển đổi này rồi, các bạn cũng còn thấy cái bức tranh ngoài kia nó có màu hồng như người ta quảng cáo trên tivi hay không? Tới đây vẫn còn chưa hết. Tại sao lại phải quy định? Các bạn có nhìn kỹ những chữ này không? Sở hữu vàng trước ngày 25 tháng. Tại sao lại phải quy định thời gian mua vàng? Có vàng đem tới quy đổi lấy nhà thì thôi chứ mắt mớ gì đòi hỏi phải có trước ngày 25 tháng. Ý của họ ở đây là gì? Thứ nhất, chặn đứng dâng lướt sóng ăn trên lệch. Nếu
+
+00:42:56
+ Vinh không cài cái ngày vô thì ngày mai có hàng ngàn người tiền mặt rảnh rỗi sẽ chạy ra tiệm vàng mua vàng. Xong rồi họ xách cái đống vàng đó chạy thẳng qua pin mua nhà để ăn chắt cái lợi nhuận 10% 5 năm sau nó ngon hơn lãi suất ngân hàng. Họ khôn lắm. Họ không muốn làm kẻ chịu xào cho dân đầu cơ. Họ không muốn tạo ra một cái chên lệch để người ta xài tiền mặt mua vàng. Rồi Edvin phải gánh nợ. Thứ hai, mục tiêu thực sự là móc cái vàng chết trong két sắt. Họ chỉ nhắm tới một đối tượng duy nhất là những người
+
+00:43:36
+ dân ở đầu hiểm đang có tâm lý thủ thân cất vàng giấu kính với đế tủ từ năm này qua năm khác. Đó mới là cái dòng vốn đặt, vốn chết mà họ muốn khơi thông để đổ vô dự án của họ. Và thứ ba, làm khó về giấy tờ. Làm sao để chứng minh bạn sở hữu vàng trước ngày 25 tháng? Nghĩa là bắt buộc bạn phải có hóa đơn mua bán. Bạn nghĩ xem, người dân của mình mua vàng phòng thân cứt két sắt từ 5 năm tới 10 năm trước, thậm chí còn lâu hơn, mấy ai còn giữ lại được tờ hóa đơn của cái tiệm vàng ở xóm trên. Cái điều kiện này nó cho phép họ và các
+
+00:44:19
+ công ty vàng bạc đối tác có toàn quyền duyệt hoặc loại bất kỳ ai hoặc là ép giá thẩm định vàng của những người không đủ giấy tờ. Cái quyền sinh xát nó nằm gọn trong tay của họ. Còn điều này nữa, phải có tối thiểu 80% căn nhà. Đây nghĩa là gì? Đây nghĩa là vét sạch két sắt. Chỗ này mới thấy cái sự khác vốn nó lên tới đỉnh điểm. Thông thường người ta mua căn nhà trả góp người ta chỉ bỏ ra 20 đến 30% vốn tự có. Phần còn lại đi vay ngân hàng. Nếu thực sự Vinh muốn hỗ trợ họ chỉ cần cho người dân đổi một ít vàng,
+
+00:45:01
+ ví dụ như 30% giá trị căn nhà để làm vốn đối ứng. Nhưng không, họ đòi tối thiểu 80%. Nghĩa là một căn nhà 10 tỷ, bạn phải nôn ra số vàng trị giá ít nhất là 8 tỷ. Ở đây các bạn thấy không? Ý của họ rất rõ ràng. Tôi không cần khách hàng đi vay ngân hàng. Tôi cần những khách hàng xách toàn bộ tài sản thực là vàng của các bạn ra nộp cho tôi. Điều này chứng minh cái luận điểm ở phần trên là chính xác 100%. Doanh nghiệp họ đang cực kỳ khác cái dòng vốn thực và rẻ từ chính người dân để đảo nợ hoặc thanh khoản dự
+
+00:45:43
+ án tới mức họ muốn vét một lần cho sạch cái két sắt của khách hàng chứ không muốn lắc nhắc vài cây vàng lẻ. Tới đây thì toàn bộ bức tranh nó đã hiện ra quá rõ ràng rồi. Từ cái vỏ bọc hào nhoáng của lãi suất sinh lời 110% trên truyền thông cho tới cái sự vắn bóng hoàn toàn của một ngân hàng đứng ra bảo lãnh thanh toán. Và kinh khủng nhất, tình vị nhất chính là cái bẫy chữ nghĩa số vàng đã chuyển đổi cộng với cái lệnh phải vét sạch tối thiểu 80% giá trị căn nhà bằng vàng từ trong cát sắt của các bạn. Tất cả những cái bánh vẽ đó đều
+
+00:46:23
+ được thiết kế quá kính kẽ để bảo vệ dòng tiền cho doanh nghiệp, đẩy cái rủi ro làm phát tiền đồng về phía người dân. Lời khuyên của kênh dành cho các bạn không phải là nói các bạn đừng xài tiền hay là đừng đi đầu tư. Tài sản là của các bạn, mình đã nói rồi, quyền quyết định cũng nằm trong tay các bạn. Nhưng các bạn hãy nhớ một điều, trong cái thời buổi chánh quyền đang siết chặt dòng tiền này, cứt vàng vô két sắc là thứ duy nhất không bao giờ biết nói dối. Các bạn cứ thử ngẫm nghĩ đi.
+
+    
+  
+  
+# Note 242: NUC 260531 Playbook ma trận logistics để đem vũ khí bị cấm vào Thành phố Sài Gòn.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/0gvcukqzgVI"
+author: "Nước Úc Channel"
+published: 2026-05-31
+created: 2026-05-31
+description: "LÀM THẾ NÀO SÚNG TUỒN VÀO SÀI GÒN ? MA TRẬN LOGISTICS"
+
+00:00:00
+Xin chào tất cả các bạn. Trước khi đi thẳng vào những lập luận hôm nay, mình có một nguyên tắc cần nói trước để bảo đảm sự an toàn pháp lý tuyệt đối cho tất cả các bên. Toàn bộ nội dung trong video này hoàn toàn đứng trên góc độ khoa học về tội phạm học quốc tế và bài toán quản trị rủi ro an ninh logistic mỹ 1. Những quy luật được phân tích chính là sự đúc kết khách quan từ các phương thức vận hành chung của thị trường trợ đen toàn cầu. Dựa trên các tài liệu nghiên cứu an ninh đã công khai, video hoàn toàn không nhằm
+
+00:00:34
+mục đích công kích, định kiến hay chỉ trích các biện pháp an ninh của bất kỳ quốc gia nào và tuyệt đối không phải là một chỉ dẫn hành vi lách luật. Kênh của mình luôn giữ vị thế độc lập, tôn trọng chính sách pháp luật sở tại. Nếu các bạn tìm kiếm những lời giải thích thời hợt hay những câu từ móm sẵn để run ngủ, video này có lẽ không phù hợp. Nhưng nếu các bạn sẵn sàng để phân tích, lật mở những lỗ hỏng vận hành thực tế, ẩn sau những tiếng súng nội đô thì hãy cùng mình bắt đầu phân tích ngay sau đây. Các
+
+00:01:10
+bạn thử ngẫm lại mà xem. Sau khi xem xong tập trước và lật tẩy được câu chuyện ai mới là người thực sự cộng tay hai tên sát thủ? Có một câu hỏi, một nghịch lý cực kỳ vô lý, không ai dám phân tích sau. Câu hỏi đó là súng ở đâu ra? Ai cũng biết quy định pháp luật quản lý vũ khí vật liệu nổ tại Việt Nam nó rất khắc khe thuộc hàng top của thế giới. Các bạn sống trong nước dư sức biết điều này. Một người dân bình thường đi lùng mua một cây súng hơi, súng bắn chim thôi đã là một bài toán rất khó, thậm chí là đối mặt với rắc rối pháp lý
+
+00:01:48
+ngay lập tức. Vậy mà hai tên sát thủ người Xa chân ước chân ráo bước xuống phi trường Tân Sư Nhất. Tụi nó nhập cảnh thông dong đi lại xài tiền rủng rỉnh ăn ở tại khách sạn trung tâm Sài Gòn. Và chỉ vài ngày sau, đùng một cái, tụi nó rút được súng quân dụng bóp cò thanh trần nhau ngay giữa Thanh Thiên Bạch Nhật tại quận Nhất. Súng đạn đâu phải là mớ rau con cá mà ra chợ mua là có. Tôi nói lại càng không thể nào nhét súng quân dụng vô hành lý xách tay mà bước qua hệ thống máy soi chiếu an ninh quốc
+
+00:02:23
+tế ở phi trường. Đây chính là lúc cần phải phân tích điều này. Luật pháp nghiêm khắc thì tội phạm không thể có súng. Nhưng các bạn cần phải rạch rồi ở chỗ này. Các ban đảng thế giới ngầm không bao giờ hoạt động dựa trên văn bản pháp luật của bất kỳ quốc gia nào. Tụi nó vận hành dựa trên lỗ hỏng của hệ thống logistic bỉ mô. Sự thật trần trụi là có một thị trường chợ đen ngầm, một chuỗi cung ứng vũ khí lọc xuyên biên giới vẫn đang âm thầm chảy bên dưới cái vỏ bọc an ninh tỉnh lặng đó. Vũ khí quân
+
+00:02:58
+dục không tự nhiên bay vô nội đô Sài Gòn. Nó là một loại hàng hóa đặc biệt được vận chuyển theo những quy trình tin vi nhất để phục vụ cho những dịch vụ mà giới chó bu tội phạm đã thanh toán trước. Vậy thì cái ma trận vận chuyển súng đạn đó đã qua mặt các chốt chặn như thế nào để đến từ tay hai tên sát thủ ngoại quốc này? Các bạn hãy nhìn lên bản đồ đi. Hàng ngàn cây số đường biên giới trên đất liền không phải là một bức tường thành bê tông cốt thép kiên cố. Đặc biệt là tuyến biên giới Tây Nam, Giáp Ranh,
+
+00:03:47
+Campuchia trải dài qua các tỉnh như Tây Ninh, Long An xuống từ An Giang, Kiên Giang. Địa hình ở đây là gì? Là những cảnh đồng lúa nối liền nhau không thấy bờ ranh. Là những vườn cao su bạc ngàn tối tâm. Là mặng lưới kênh rạch trằn trịch. những dòng sông chung mùa nước nổi. Khái niệm đường mòn lối mở không phải là một thuật ngữ báo chí cho vui. Đó là hàng ngàn con đường tiểu ngạch thực tế nơi mà các mạng lưới cửu vàng dân buông lậc bản địa nhắm mắt cũng có thể đi xuyên qua trong đêm tối. Đây mình
+
+00:04:23
+đưa cho các bạn một ví dụ thực tế nhất để các bạn dễ hình dung. Các bạn từng nghe nói tới xe này chở thuốc lá lầu Z Hero hay những chiếc xuồng ba lá chở đường Cát Thái từ bên kia biên giới tuồn về Việt Nam chưa? Hàng đêm hàng tấng hàng Hóa Lậu vẫn tìm cách xé rào luôn lách qua các chốt kiểm soát. Những chiếc xe máy độ chế xoáy nồng chở còng kền hàng trăm cây thuốc lá chạy bạc mạng trên các con đường đất đỏ tung bụi mù mịt. Những chiếc xuồng máy thì len lõi qua các kênh rạch An Giang trong mạng đêm đen đặc. Bây giờ nếu một đường dây
+
+00:05:01
+buôn lậu có thể trót lọt tuồng hàng chục bao tải đường cắt nặng cả trăm ký hay hàng ngàn cây thuốc lá cồng kền qua biên giới mỗi đêm thì việc giấu một vài khẩu súng quân dụng vào trong đó khó đến mức nào? Súng đạn không tự đi một mình qua biên giới, nó là hàng ký siêu lợi nhuận. Một cái súng K54 hay là súng Glock được cấu tạo từ thép và polymer. Chỉ cần tháo rời làm ba bốn mảnh, hộp tiếp đạn, nồng súng, bán súng là nó nằm gọn ơ trong lòng bàn tay. Tụi tội phạm chỉ cần việc bọc niilon chống nước nhét sâu vô đáy
+
+00:05:40
+của một bao tải đường Thái Lan hoặc giấu chính giữa một thùng thuốc lá lầu. Cán bộ biên phòng và hải quan họ làm việc rất là vất vả. Lực lượng chức năng liên tục bắt giữ các vụ buông lậu, báo đài thì đăng rầm rầm. Nhưng đây là một cuộc chiến bức đối xứng với địa hình quá rộng lớn và phức tạp. Cộng với khối lượng hàng hóa lưu thông khổng lồ, việc kiểm soát 100% là điều không tưởng về mặt vật lý đối với bất kỳ lực lượng an ninh nào trên thế giới. Luôn luôn có những vùng xám, những lỗ hỏng thời gian giữa các ca
+
+00:06:15
+trực hoặc những đường dây lậu đã được thiết lập tinh vi từ trước. Hai tên sát thủ Sao Ma cực kỳ khôn ngoan. Tụi nó bước xuống phi trường với bộ đồi du lịch rất sạch sẽ, hành lý không có một miếng kim loại cắm nào, thòng dòng đi qua cổng hải quang. Nhiệm vụ của tụi nó chỉ là tới Sài Gòn, vô khách sạn nghỉ ngơi, xài tiền và chờ đợi. Còn cái thứ vũ khí chết người kia, ông trùm ở nước ngoài đã bỏ tiền mua trọn gói dịch vụ vận chuyển thông qua thế giới ngậm. Súng đã đi bằng một lộ trình khác băng qua con đường
+
+00:06:51
+tiểu ngạch đầy bụi đỏ và kênh rạch âm thầm tiến vào nội đô. Đó chính là cách mà thị trường chợ đen logistic hoạt động. Không có kịch bản phim ảnh nào ở đây hết, chỉ có thực tế trừng chụi của dòng chảy hàng lậu. Nhưng vũ khí lậu vô tới bên trong lãnh thổ rồi thì làm sao? làm cách nào nó lọt qua được hệ thống camera, các chốt giao thông để giao tận tay sát thủ ngay tại một con đầu hiểm chính giữa quận Nhất. Khi hàng hóa lậu qua được biên giới, nó là một chuyện nhưng ở đời không ai làm không công cho
+
+00:07:27
+ai cái gì, nhất là trong thế giới ngầm. Các bạn thử nghĩ xem, để một đầu nậu bên Campuchia chịu sẻ nhỏ cây súng, để một tay xe này chịu rủi ro tù tội chở hàng xuyên qua đường mọn ban đêm thì cái gì phải đi trước là tiền. Nhưng làm sao ông trùm từ bên Úc hay bên Mỹ trả tiền cho đường dây buông lậu ở biên giới Việt Nam? Các bạn nghĩ ông trùm ra ngân hàng điền form chuyển tiền quốc tế Squip Code hay là quẹt thẻ Visa rụp rụp để mua súng chắc? Không bao giờ có chuyện đó. Toàn bộ hệ thống tài chánh chính thống đã bị khóa
+
+00:08:05
+chặt bởi các quy định chống rửa tiền toàn cầu. Chỗ này chúng ta phải cần áp dụng logic để phân tích các giới chóp bu tội phạm quản trị rủi ro tài chánh và đa dạng hóa danh mục hoạt động. Tụi nó xài hai công cụ đẳng cấp nhất để luân chuyển dòng tiền tàn hình. Hệ thống ngân hàng ngầm và tiền điện tử. Mình sẽ lấy luôn hai ví dụ thực tế. Thứ nhất là về hệ thống ngân hàng ngầm hay còn gọi là chuyển tiền tây ba. Giả sử ông trùm đang ngồi ở khuamatta bên Sydney tại Úc. Ông ta cần trả 50.000 đô la cho băng nhóm
+
+00:08:44
+bán súng và trung chuyển tại Xanú Campuchia. Ông ta chỉ việc xách một túi tiền mặt bước vô một tiệm vàng hoặc một dịch vụ chuyển tiền kiều hối ngầm quen mặt tại Úc. Người chủ tiệm nhận tiền không ghi biên la chính thức, chỉ đưa cho ông trùm một dãy số series của một tờ tiền đô la 1 đô. Ngay lập tức, chủ tiệm bên Úc nhất điện thoại gọi cho một tiệm vàng đối tác ở Nôm bên hoặc xa nốt view. Giao 50.000 đô la cho người đọc đúng b code này. Chỉ 5 phút sau, đầu nậu vũ khí bên Campuchia bước ra tiệm vàng
+
+00:09:23
+đầu phố, đọc đúng cái mật khẩu và cầm cục tiền mặt đi về. Không có một tờ tiền vật lý nào bay qua biên giới, cũng không có một lệnh chuyển khoản tiền nào được ghi nhận trên hệ thống ngân hàng quốc tế. Tiền dường như bốc hơi ở Úc và hiện hình ở Campuchia. Đó là cách mà thế giới ngầm xài tiền để thanh toán cho những chuyến hàng đẫm máu mà không để lại bất kỳ dấu vết pháp lý nào. Và ví dụ thứ hai là họ dùng chuyển tiền crypto ẩn danh qua tiền điện tử. Nếu các tiệm vàng vẫn còn rủi ro về con người thì bọn tội phạm
+
+00:09:59
+công nghệ cao chuyển sang chơi crypto, cụ thể là đồng USDT. Đồng tiền kỹ thuật số neo giá trực tiếp theo đô la Mỹ. Hai tên sát thủ Sau Việt Nam. Tụi nó đâu cần xách theo vali tiền mặt để dễ bị hải quang dòm ngó. Ông trùng ở nước ngoài chỉ cần dùng ví lạnh thực hiện một lệnh chuyển 100.000 USDT. Lệnh chuyển này chạy thẳng trên nền tảng Lock Chan ẩn danh. Chỉ mất đúng 10 giây. Số USDT đó báo Tiên Tiên vào ví điện tử của tay trùng buôn lậu vũ khí đang ngồi nhịp đùi ở một khu vực giáp ranh. Tay trùm buôn
+
+00:10:38
+lậu này liền lên các sàn giao dịch P2P bán số JDT đó cho các thương lái tiền ảo ở Việt Nam hoặc Campuchia để đổi lấy tiền mặt nội tệ chuyển thẳng vô các tài khoản ngân hàng ảo hoặc là tài khoản mua lại của người khác. Từ nguồn tiền đã được rửa sạch sẽ và cắt đứt mọi dấu vết này, tay trùm mới bắt đầu phân phát tiền công cho mạng lưới vận chuyển, trả cho kẻ tháo súng, trả cho tài xế xe tải lộn xanh, trả cho chân rết nằm vùng tại Sài Gòn. Khi dòng tiền tàn hình này đã chảy chót lọt thì cổ máy logistic ngầm bắt
+
+00:11:16
+đầu khởi động. Các mảnh ghép của cây súng quân dụng được ngụy trang hoàn hảo vượt qua hàng rào kiểm soát len lõi qua từng trạm gác. Để rồi cuối cùng tại một con hẻm tâm tối nào đó ở trung tâm Sài Gòn, vũ khí được ráp lại nguyên vẹn và giao tậng tay cho những kẻ thủ ác. Những luật lệ trên giấy tờ chỉ quản lý được người ngay chứ làm sao ngăn được ma trận của dòng tiền bẩn và công nghệ ẩn danh. Và khi vũ khí đã vô tới nội thành rồi, chúng nó lẫn trốn và ngụy trang dưới mắt lưới camera như thế nào?
+
+00:11:53
+Khi dòng tiền ẩn danh đã kích hoạt thành công, đầu nậu biên giới đã nhận đủ tiền rủng rỉnh. Bây giờ bài toán tử huyệt thứ hai xuất hiện. Làm sao để di chuyển cái vũ khí chết người đó qua được hàng chục trạm gác, hàng trăm con mắt của lực lượng chức năng để từ biên giới lọt thẳng vô ngay trung tâm Sài Gòn sầm uất. Tội Phạm không bao giờ dắt nguyên một cây súng cộm cộm trong lân quần rồi chạy xe máy ngông nghên qua các trạm kiểm soát giao thông. Tụi nó xài một cái ma trận logistic tinh vi hơn rất nhiều kết
+
+00:12:27
+hợp giữa công nghệ sẻ nhỏ và quy luật số đông. Bây giờ để mình phân tích cho các bạn thấy cái lỗ hỏng vật lý này qua hai ví dụ đời thực. Ví dụ thứ nhất, các bạn hãy hình dung một cẩu súng ngắn quân dụng như Clock hay là K54, bề ngoài nhìn nó rất nguy hiểm nhưng bản chất cấu tạo của nó cực kỳ đơn giản. Chỉ mất đúng 10 giây, một tay rành rọt có thể tháo rời nó ra thành bốn cụm chính: cụm nồng súng, bệ khóa nòng, lò xo và thân súng bằng nhựa polymer. Khi bị xẻ nhỏ ra, những bánh này chỉ bằng kích thước của
+
+00:13:08
+vài cái cờ lê, mỏ lết hay là một cục sạc máy tính xách tay. Bây giờ các bạn hãy nhìn ra xa lộ Hà Nội hay là quốc lộ 22 hướng từ Tây Ninh về Sài Gòn. Mỗi ngày có bao nhiêu chục ngàn chiếc xe tải hạng nặng, xe container 40 fit chở hàng hóa nườm nượp đổ về thành phố. Hàng hóa đó là gì? là hàng tấn nông sản, trái cây, là phế liệu, là linh kiện máy móc, đồ điện tử cũ nhập lậu. Bọn buôn vũ khí sẽ giấu bốn cái mảnh kim loại nhỏ xíu đó vô đâu. Tụi nó lấy một cái lốc máy lạnh cũ, tháo ruột ra, nhét các bộ phận súng vô
+
+00:13:48
+giữa, chen mút xốp thật chặt, hàng kính nó lại, hoặc là tụi nó nhét vô chính giữa một thùng sầu riêng, thùng thanh long nặng cả tạ. Sau đó những kiện hạng này được quăng lên những chiếc xe tải luồng xanh chạy hợp đồng kinh tế chính ngạch. Lực lượng chức năng lập chốt trên đường làm sao mà kiểm soát? Một tổ cảnh sát giao thông hay là quản lý thị trường khi chặn một chiếc xe container lại mở thùng xe ra đập vô mắt của họ là hàng ngàn thùng cách chức cao tới nóc nóng hầm họp. Họ có thể kiểm tra giấy tờ, có
+
+00:14:24
+thể rạch vài thùng hàng bên ngoài để coi xác suất. Nhưng về mặt vật lý, họ không thể nào dở từng thùng trái cây, tháo từng cái lốc máy lạnh của 10.000 chiếc xe mỗi ngày ra để tìm bốn mảnh kim loại nhỏ xíu đó được. Nếu làm như vậy thì toàn bộ chuỗi cung ứng kinh tế của đất nước sẽ bị tê liệt hoàn toàn. Chính quyền không thể đóng băng nền kinh tế chỉ để bắt một con kiến và tội phạm chính là lợi dụng cái quy luật số đông vĩ mô này để cho vũ khí lậu tàn hình đi qua trạm kiểm soát một cách êm ru. Ví dụ
+
+00:15:01
+thứ hai là kỹ thuật giao hàng khi một chiếc xe tải trót lọt về tới các kho bãi vùng ven như là Hóc Môn, Bình Chánh, Bình Tân. Các chân rết bản địa họ sẽ khui hàng ra lấy các mảnh kim loại ra và ráp lại thành một cây súng hoàn chỉnh gắn băng đạn vô rập rập. Nhưng hai tên sát thủ Soma thì đang ở tận quận Nhất. Tụi nó nhập cảnh qua đường phi trường. Thẻ lưu trú thì rất rõ ràng. Họ đang ung dung ngồi uống cà phê chờ hàng. Làm sao để cây súng từ vùng ven vô quận nhất cho hai tên này mà không bị lộ? Tụi tội phạm không bao giờ hẹn nhau ra
+
+00:15:42
+quán cà phê đưa tay trao súng như phim chưởng đâu các bạn. Tụi nó xài kỹ thuật giao hàng không tiếp xúc, mượn tay mạng lưới giao hàng công nghệ. Cây súng được bọc kính nhiều lớp nilon, bỏ vô một cái hộp giấy con dán băng keo trần trịt in lên. Đó là một cái mã vạch đơn hàng giả y chang như đồ mua ở trên Shopee. Ghi chú là linh kiện máy bơm nước không cho xem hàng. Sau đó chân rết vùng ven mở ứng dụng điện thoại đặt một cuốc xe ôm công nghệ và anh tài xế xe công nghệ chạy tới nhận hàng. thấy một gói đồ đóng
+
+00:16:20
+gói kỹ lưỡng, tiền cước thì trả trước đầy đủ thì họ vui vẻ xách xe chạy tút lút vô trung tâm thành phố. Anh tài xế hoàn toàn vô tội và mù tịch về thứ mình đang chở đằng sau. Tọa độ giao hàng không bao giờ là sảnh khách sạn lớn nơi có camera an ninh dày đặt. Tọa độ được chỉ định chính là một con đầu hẻm vắn vẻ nhiều ngốc ngách ngay tại trung tâm Sài Gòn. Tới đúng giờ hẹn, tên sát thủ ngoại quốc chỉ việc đi bộ tản mát ra con đầu hẻm đó. Những cái khói hàng từ tay anh tài xế, gật đầu cảm ơn rồi lẫn nhanh vô
+
+00:16:56
+bóng tối. Giao dịch kết thúc rất hoàn hảo, không có kẻ bán đối mặt với người mua, khâu vận chuyển bị chặt đứt hoàn toàn dấu vết. Bằng cái ma trật logistic điệu nghệ này sẽ nhỏ để vượt trạm và mượn tay người vô tội để giao hàng. Thứ vũ khí giết người đã nằm gọn trong tay những kẻ thủ ác ngay giữa lòng một thành phố được xem là có mức độ kiểm soát an ninh nghiêm ngặc nhất. Tới đây các bạn đã hiểu vì sao súng vẫn có thể nổ dù luật pháp có khắc khe đến đâu rồi phải không? Vậy thì trước một ma trận logistic và dòng tiền ngầm khủng khiếp
+
+00:17:36
+như vậy câu hỏi đặt ra là an ninh quốc gia phải làm gì để đối phó? Chời súng nổ rồi mới huy động lực lượng 1000 người đi dọn dẹp hay là phải có một tư duy quản trị rủi ro hoàn toàn khác. Thưa các bạn, sau khi những kiện hàng ve chai hay là nông sản chứa linh kiện súng vượt hàng rào xa lộ để chui tọt vô Sài Gòn, c máy logistic ngầm bước vào giai đoạn cuối cùng cũng là giai đoạn nguy hiểm nhất, lắp ráp và bàn dao. Khúc này tụi tội phạm không bao giờ tự tay làm. Chúng mướn các chân rết bản địa. Và lúc
+
+00:18:15
+này các bạn sẽ thấy họ đã che mắt che tay người dân bằng những thủ đoạn đời thực đến mức khó tin. Chân rết bản địa không bao giờ mướn chung cư cao cấp hay là biệt thự sang trọng để làm nơi tập kết vũ khí. Chỗ đó camera an ninh thì đầy rẫy, bảo vệ thì đi tuần liên tục. Người lạ mặt vác kiện hàng nặng xẹt qua xẹt lại là bị dòng ngó. Họ chọn mướn một căn nhà nát. hay là một cái kho kính cổng cao tường nằm tuốt luốt trong một con hẻm sâu trần chịt hoặc là ngụy trang thành một tiệm sửa xe máy bình dưng. Tại
+
+00:18:52
+sao? Vì trong một tiệm sửa xe, tiếng búa gõ, tiếng kim loại va đập len keng, tiếng máy hàng xì là âm thanh quá đổi bình thường. Tại những cái nhà an toàn nhớ nhát này, các linh kiện súng được lôi ra khỏi lóc máy lạnh cũ, chui sạch dầu mỡ ngụy trang, ráp lại rầm rập thành một cây súng quân dụng hoàn chỉnh và lắp đạn lên nồng. Và tiếp theo là nghệ thuật tàn hình âm thanh. Súng mua từ chợ đen ráp lại xong thì bắt buộc phải bắn thử để xem đạn có bị kẹt nồng hay không. Nhưng đây là Sài Gòn, nhà cửa thì sang
+
+00:19:32
+sát nhau, rút súng ra nổ cái đoàn thì 3 phút sau công an phường có mặt hốt trọn ổ liền. Vậy thì họ thử súng bằng cách nào? Lúc này họ sẽ xài nghệ thuật tàn hình âm thanh. Một là họ chế ống giảm thanh tự chế từ chai nhựa, nhồi bông gòn xịt nước, kê sát miệng nồng súng và những tấm nệm dày 20 phân dựng trong phòng kính để triệt tiêu hoàn toàn tiến nổ. Hai là họ mượn quy luật tự nhiên và xã hội những buổi chiều Sài Gòn mưa dong sấm sét đùng đùng hay là canh lúc nhà hàng xóm đang nhậu nhẹt kéo loa kẹo kéo
+
+00:20:12
+ra hẻm để hát karaoke. Mở bass thì đập tức ngực. Chính vào cái khoảng khắc sấm nổ hay là tiếng loa gầm lên cao trào họ sẽ bóp cò. Tiếng súng chìm nghiễm vô tiếng ồn của môi trường xung quanh không một ai hay biết. Và lúc này họ sẽ giao hàng trận cuối. Sau khi cây súng đã được thử lửa hoàn hảo, nó mới được đóng gói kỹ lưỡng và chuyển qua khâu giao hàng không tiếp xúc bằng xe ôm công nghệ mà mình đã nói ở phần trước. Hai tên sát thủ soama cực kỳ cáo già. Họ xuống phi trường thông vong đi du lịch, xài tiền
+
+00:20:52
+mua sắm, ăn nhậu như những khách tây bình thường. Họ tuyệt đối không giữ súng trong người qua đêm ở khách sạn để tránh bị rủi ro kiểm tra hành chính đột xuất. Chỉ cách giờ chi tức là giờ hành sự vài tiếng đồng hồ họ mới lội bộ ra con đầu hẻm được chỉ định sẵn những cái gói hàng linh kiện máy bơm đó. Xé nilon, dắt súng vô hông áo và tiến thẳng tới mục tiêu. Xong việc súng có thể bị vứt phi tan xuống kênh rạch ngay lập tức để cắt đứt mọi trùy vết. Bằng cái mạng lưới chân rết đầu hẻm lắp ráp ngụy trang và nghệ
+
+00:21:30
+thuật giao hàng phúc chót này. Vũ khí quân dụng đã đi trót lọt từ bên kia biên giới xuyên qua mạng lưới kiểm soát quốc gia và nằm gọn trong tay kẻ thủ ác để đoạt mạng mục tiêu. Các bạn thấy đó, thực tế tội phạm nó trần trụi và gay gốc như vậy. Đâu phải cứ có luật nghiêm là súng không nổ được. Các bạn thân mến, đến đây thì toàn bộ ma trận logistic ngầm và đường đi của những khẩu súng lậu đã được mình phân tích và bốc tách một cách trần trụ nhất. 50 tấn hàng hóa bự chà bá chất đầy máy thùng container mà còn lọt thỏm qua được các
+
+00:22:10
+rào trắng kiểm soát thì vài mảnh kim loại ráp súng tháo rời có là gì? Và để xài tiền mua đứt 50 tấn hàng này, đường dây ngân hàng ngầm của tay trưởng khoa này phải hoạt động tình vì tới mức nào? Đó chính là chủ đề cho video tiếp theo. Bóc trừng vỏ bọc của tội phạm cố cồn trắng và đường đi của dòng tiền buông lậu 50 tấn hàng y tế. Các bạn hãy nhớ bật chuông thông báo để không bỏ lỡ video tiếp theo. Đ
+
+    
+  
+  
+# Note 243: NUC 260604 Playbook Trung Quốc mượn đất Việt Nam né thuế xuất khẩu, Việt Nam không hưởng lợi gì từ vốn FDI.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/YoljSv9wy2M"
+author: "Nước Úc Channel"
+published: 2026-06-04
+created: 2026-06-04
+description: "# NGƯỜI TRUNG QUỐC ĐẦY Ở BẮC NINH: TIỀN LẠI CHẢY VỀ TRUNG QUỐC ?"
+
+00:00:01
+Xin chào tất cả các bạn. Một quốc gia trả thảm đỏ đón hàng tỷ đô la vốn FDI để làm gì? Là để người dân địa phương đổi đời, để kinh tế khu vực cất cánh và bước vào một kỷ nguyên hội nhật toàn cầu. Những bản tin kinh tế vĩ mô ngày nay vẫn rót vào tay những con số tăng trưởng đẹp đẽ, những báo cáo về số lượng việc làm khổng lồ được tạo ra từ các khu công nghiệp sầm uất. Nhưng sẽ thế nào nếu mình nói với các bạn rằng đang có một nơi mà dòng vốn khổng lồ đổ vào nhưng người dân bản xứ đang dần biến thành
+
+00:00:37
+những kẻ làm thuê ngoại ngữ ngay trên chính cái sân nhà của mình. Bây giờ các bạn thử bước ra khỏi cửa và đi đến Bắc Ninh ngay lúc này để tận mắt chứng kiến xem. Các bạn muốn mua một sâu cá viên chiên, một dĩa cơm tắm lề đường hay là một ly trà đá? Các bạn phải nói tiếng Trung Quốc. Người đứng bán trực tiếp cho các bạn cũng là người Trung Quốc. >> Vì ăn bên này người Trung Quốc họ nấu cảm giác nó chuẩn vị hơn. Nó đúng cái vị luôn. Cả cay cả tê cả mặn cả kiểu gì cũng có luôn. Nhưng mà hôm nay mình ghé
+
+00:01:09
+qua cái xe của chị này thôi. Bánh này mình có hỏi thì chị ấy bảo tên nó là Hải Tai. >> Những tâm bản hiệu rợp chữ Trung Quốc lấn ác hoàn toàn tiếng Việt và đỉnh điểm của sự nghịch lý là khách ăn xong không một tờ tiền Việt Nam nào được rút ra để thanh toán. Họ đưa điện thoại lên quét mã QChat bay, Ali Bay và thanh toán cho nhau bằng chính đồng nhân dân tệ ngay trên lãnh thổ Việt Nam. >> Bắt đầu từ ngày hôm nay, người Trung Quốc khi tới Việt Nam chỉ cần dùng ứng dụng Alipay của người bản địa là có thể
+
+00:01:43
+thanh toán trực tiếp tại các mã QA có ký hiệu QA Global mà không cần phải đổi ngoại tệ, không cần phải mang theo thẻ. Rất đơn giản và thuận tiện. Sẽ có rất nhiều người nói rằng có gì đâu mà lạ. Nha Trang Phan Thiết cũng đầy người Nga mà. Người nước ngoài mang tiền đến Việt Nam làm ăn thì phải đông đảo, phải nhộn nhịp. Họ có đông thì kinh tế địa phương mới phát triển. Đó là sự hội nhập tương đương đôi bên cùng có lợi. Nhưng khi nhìn vào thật kỹ bản chất của hai dòng tiền này thì chúng hoàn toàn khác nhau về mặt cốt lõi. Đầu tiên các
+
+00:02:33
+bạn hãy nhìn vào cộng đồng người Nga hay là người Châu Âu ở Nha Trang Phan Thiết. Khi họ đến Việt Nam, những người này mang theo tâm thế của những vị khách đi nghỉ dưỡng hoặc những người muốn tìm một nơi an bình để hưởng tuổi hưu. Họ mang theo khối tài sản tích lũy cả đời từ đất nước của họ đến Việt Nam để xài tiền. Chính vì họ định vị bản thân là khách, họ phải phụ thuộc vào các dịch vụ nhà hàng, khách sạn, vui chơi giải trí do người bản xứ làm chủ. Những người Nga đó dù hình thành một cộng đồng rất lớn ở đó
+
+00:03:07
+thì họ vẫn phải bập bẹ học tiếng Việt, vẫn phải tích nghi với văn hóa địa phương để có thể giao tiếp, để có thể mua một ổ bánh mì, mua một chai bia. Trong cái mô hình này, người Việt Nam hoàn toàn cầm trịch cuộc chơi cung cầu. Các bạn là chủ nhà và các bạn ép khách phải tuân thủ luật chơi của mình. Đó mới là sự hội nhập mang lại lợi thế cho người dân bản địa. Nhưng còn dòng vốn FDI ở Bắc Ninh thì không hề giống như vậy. Đây không phải là một làng sóng du lịch nghỉ dưỡng. Đây là một cuộc di dời chuỗi cung ứng về con người vô cùng khốc
+
+00:03:44
+liệt. Khi những tập đoàn lớn mang nhà máy s, họ không đến đây để tận hưởng. Họ mang theo một hệ sinh thái khổng lồ, một quyền lực kinh tế áp đảo tuyệt đối từ ông chủ, kỹ sư, chuyên gia cho đến lực lượng lao động phổ thông. Khi một cộng đồng Trung Quốc nắm trong tay quyền phân phát việc làm, quyết định sự sống còn của hàng chục ngàn công nhân và nắm giữ dòng thu nhập khổng lồ nhất trong toàn bộ khu vực thì quy luật kinh tế thông thường lập tức sẽ bị lật ngược. Họ không có nhu cầu hòa nhập, họ có đủ sức mạnh
+
+00:04:20
+về tài chính để tự tạo ra một thế giới riêng, một óc đảo kinh tế ngay trên đất của Việt Nam. Khách bây giờ đã đủ mạnh để áp đặt luật chơi lên người chủ. Và sự áp đặt này nó diễn ra một cách rất tự nhiên. Người dân bản địa muốn bán được một ly nước, muốn bán được một hộp cơm cho lực lượng lao động Trung Quốc này thì họ sẽ không còn quyền định đoạt nữa. Họ phải tự gọt dũa bản thân, phải cấp sách đi học tiếng Trung Quốc, phải thay đổi hoàn toàn thói quen nấu nướng cho hợp khẩu vị của người Trung Quốc. Họ
+
+00:04:56
+phải treo những tấm biển bản hiệu lấp lánh chữ Trung Quốc để họ đọc hiểu được. Nếu những người bản địa không làm thì sự đào thải sẽ diễn ra ngay trong chớp mắt. Lập tức những tiểu thương vô cùng nhạy bén từ bên Trung Quốc họ sẽ tràn sang. Họ sẽ thuê ngay cái mặt bằng xát vách nhà của bạn, bán đúng thứ mà đồng hương của họ cần, sử dụng đúng ngôn ngữ mẹ đẻ của họ và đá văng các người bản địa ra khỏi cuộc chơi ngay tại chính cái thị trường lề đường bé nhỏ của mình. Lúc này người dân địa phương tự dân trở thành
+
+00:05:32
+những kẻ thừa thải đứng nhìn dòng tiền chảy vòng quanh trước mắt mà không thể chạm tay vào nó. Nghịch lý tận cùng năm ở chỗ này. Trải thảm đỏ đón vốn ngoại với kỳ vọng là làm chủ vận mệnh kinh tế để người dân được hưởng lợi. Nhưng thực tế ở từng đáy của tháp kinh tế xã hội, người bản xứ lại đang tự đồng hóa chính mình chỉ để phục vụ cho một vòng tuần hoàng khép kính của người Trung Quốc. Người bản xứ phải cắn răng thay đổi bản thân không phải vì sự tiến bộ mà vì miếng cơm manh áo bị dồn ép. Họ gọi đó là hội nhập kinh tế toàn
+
+00:06:10
+cầu hay thực chất là sự đầu hàng vô điều kiện trước sức mạnh tuyệt đối của đồng tiền Trung Quốc. Cái rủi ro lớn nhất không phải là mất đi một vài khách hàng ngày hôm nay hay là ngày mai. Sự nguy hiểm nằm ở 5 năm đến 10 năm nữa. Khi thói quen tiêu xài, dùng ngôn ngữ giao tiếp và toàn bộ mặt trận kinh tế vỉa hè đều đã nằm gọn trong tay của người Trung Quốc thì nền kinh tế địa phương sẽ còn lại gì? Người dân đang vô tình đánh đổi sự tự chủ thương mại từ những cái nhỏ nhất để lấy sự hào nhoáng bề ngoài. Và nếu những người dân bản địa
+
+00:06:50
+nghĩ chuyện mất đi cái quán vĩ hè, mất đi chiếc xe cá viên chiên chỉ là chuyện nhỏ thì những người đó đã làm to. Bởi vì điều khủng khiếp nhất chưa dừng lại ở đó đằng sau những mã QA thanh toán bằng nhân dân tệ chớp nhoáng kia là một ma trận tài chính khổng lồ. Một lỗ hỏng đang âm thầm hút cạn giá trị thận dư mà không để lại một đồng thuế nào cho ngừng sách. Các bạn sẽ thấy một tài chính thế giới ngầm nó đang vận hành ra sao? Làm thế nào mà một cộng đồng Trung Quốc lại có thể thiết lập được một vòng tuần
+
+00:07:30
+hoàng khép kính hoàn hảo đến mức dòng tiền không hề rớt ra ngoài một cách nào? Hệ sinh thái nhu cầu từ A đến Z. >> Các bạn không nghe nhầm đâu. >> Ở Bắc Ninh các bạn có thể ăn được vị của Trung Quốc >> chỉ cần 480k >> nước lẩu miễn phí >> nước chấm miễn phí. >> 12 món cũng là miễn phí. Xin anh hãy đến tìm tôi. >> Khi một lượng lớn chuyên gia và công nhân được đưa sang từ bên Trung Quốc, ngay từ cái khoảng khắc họ kéo vali bước ra khỏi phi trường, họ đã được ném vào
+
+00:08:13
+một mạng lưới có sẵn. Lực lượng này không hề có nhu cầu xài tiền theo kiểu người Việt và những tiểu thương đồng hương của họ thì cực kỳ nhạy bén. Họ đi theo dòng vốn FDI để đánh bắt chính dòng tiền lương của những người công dân Trung Quốc này. Bây giờ các bạn hãy thử theo chân một người lao động Trung Quốc trong một ngày bình thường để xem họ xài tiền như thế nào. Sáng sớm họ bước ra khỏi khu nhà trọ, ghé vào một gánh hàng vỉa hè do người Trung Quốc đứng bán để mua một phần điểm tầm đúng hương vị quê
+
+00:08:50
+nhà. Buổi trưa họ ăn tại căn tin của nhà máy, nơi thường xuyên được thầu bởi các công ty cung cấp xuất ăn công nghiệp của nước Trung Quốc. Và chiều tối họ ghé vào các cửa hàng tiện lợi. Cái cửa hàng tiện lợi này chính là nút thắc quan trọng nhất. Tại sao? Vì nó cung cấp những món đồ thiết yếu tận cùng từ chai nước tương, gói gia vị, bịch nilon cho đến những món đồ dùng cá nhân rẻ tiền nhất. và tất cả đều được nhập trực tiếp từ Trung Quốc của họ sang. Cuối tuần, lực lượng này tổ chức ăn uống giải trí tại
+
+00:09:29
+các nhà hàng, quán karaoke rực rỡ bản hiệu tiếng Trung Quốc. Hell TV họ kiếm tiền lương từ xưởng FDI trên đất của Việt Nam nhưng họ lại xài tiền vào chính cái hệ sinh thái nhà hàng tạp hóa, dịch vụ do người Trung Quốc của họ mở ra. Tiền rời khỏi két sắt của ông chủ, chạy vào túi của người lao động rồi lập tức chạy tọt vào túi của bà chủ siêu thị tiện lợi đồng hương. Nó là một vòng tròn khép kính rất hoàn hảo. Nhưng điều đáng sợ và tin vi nhất, thứ thực sự bẻ gãy luật chơi của quốc gia sở tại chính
+
+00:10:22
+là công cụ thanh toán. Khi người công nhân đó trả tiền cho một dĩa cơm hay là trai nứt tương, họ không dùng tiền poler, họ rút điện thoại ra và quét mã Qaatbay hoặc Ali Bay. Về mặt vật lý, giao dịch đó nó diễn ra tại Bắc Ninh, Việt Nam. Hai người đứng đối diện nhau trên lề đường. Nhưng về mặt bản chất không gian mạng tài chính, chuyện gì vừa xảy ra? Tiền lập tức được trừ từ một tài khoản nhân dân tệ ở nước ngoài của người mua và nó cộng thẳng vào một tài khoản nhân dân tệ ở nước ngoài của người bán. Dòng
+
+00:11:03
+tiền đó hoàn toàn bay trên không gian mạng, chạy qua các máy chủ đặt tại Trung Quốc. Nó không hề chạm vào hệ thống ngân hàng của địa phương. Nó cũng không hề được quy đổi ra tiền Việt Nam. Một lượng khổng lồ các giao dịch mua bán diễn ra hàng ngày từ mớ rau, con cá đến những hóa đơn nhà hàng đắt đỏ, tất cả đều đang chạy ngầm trong một hệ thống tiền kỹ thuật số vô hình. Đến đây chắc chắn sẽ có những người nói rằng nói gì thì nói, người ta qua đây mở quán ăn, mở siêu thị thì người ta cũng đóng thuế cho nhà nước. Hơn nữa, họ đến đông
+
+00:11:44
+như vậy thì họ cũng phải ăn gạo Việt Nam, ăn rau, ăn thịt của nông dân Việt Nam. Rõ ràng là họ đang kích cầu làm cho nền kinh tế địa phương phát triển mà nghe thì có vẻ hợp lý nhưng mình sẽ phân tích cho các bạn xem. Thứ nhất, bàn về chuyện đóng thuế. Các bạn cứ tưởng tượng một ví dụ như thế này. Một nhóm người chuyên gia Trung Quốc đi ăn một bữa tiệc hải sản ở nhà hàng Trung Quốc của họ mở tại Bắc Ninh. Tờ hóa đơn tính ra tiền Việt là 10 triệu đồng. Theo lẽ thường, nếu giao dịch bằng tiền Việt, cơ quan
+
+00:12:21
+thuế địa phương sẽ thu được 10% thuế Vet, tức là 1 triệu đồng để góp vào ngân sách. Nhưng thực tế diễn ra như thế nào? Ông khách Trung Quốc bước ra vậy, rút điện thoại quét mã Q 10 triệu đồng đó tương đương với khoảng 3000 nhân dân tệ và bằng một cú chạm. 3000 nhân dân tệ đó bay thẳng từ ví điện tử của ông khách Trung Quốc sang ví điện tử của ông chủ nhà hàng Trung Quốc tận bên kia biên giới. Giao dịch ăn uống 10 triệu đó diễn ra ngay trên đất Việt Nam. Họ xả rác trên đất Việt Nam, sử dụng hạ tầng của
+
+00:13:00
+Việt Nam nhưng dòng tiền lại chạy trên không gian mạng ở Trung Quốc. Bữa ăn kết thúc và tiền thuế thu về cho ngân sách địa phương là một con số không tròn chỉnh. Các bạn thấy sự phồn vinh bề ngoài này nó vô nghĩa chưa? Sự sầm uất mà các bạn đang thấy thực chất là một cái bình phong để họ vận hành nền kinh tế ngầm của riêng họ. Thứ hai, nói về họ giúp nông dân Việt Nam bán được hàng. Bây giờ mình có một ví dụ như thế này. Đúng là những nhà hàng Trung Quốc có mua nguyên liệu từ địa phương, người nông
+
+00:13:36
+dân bán 1 kg rau muống ngoài chợ với giá 10.000đ. Và để có được 10.000 đó, người nông dân phải cuốt đứt bón phân, dầm mưa giải nắng và có khi chỉ lời được đúng 2000đ. Sau đó thì sao? Ông chủ nhà hàng Trung Quốc mua ký rau muốn đó về. Đầu bếp của họ xào nấu lên, rắt thêm chút tỏi, dọn ra dĩa và bán cho lực lượng kỹ sư Trung Quốc của họ với giá 100.000đ. Khúc xương sẩu vất vả nhất, bèo bọt nhất chỉ có 2000đ thì chính người bản xứ hưởng. Còn phần lợi béo bở nhất 90.000đ ngà đồng trên lệch của cái gọi là giá
+
+00:14:17
+trị gia tăng thì lại chạy thẳng vào túi hệ sinh thái khép kính của họ. Người Trung Quốc đến đây mượn nguyên liệu thô rẻ mạc của người địa phương, dùng chính cái mặt bằng của người địa phương để bào ra cái lợi nhuận khủng khiếp bán cho người đồng hương của họ. Cuối cùng người dân bản xứ được cái gì? Chẳng qua chỉ là đi nhặt nhạnh những đồng tiền cắt rơi vải ở tầng thấp nhất của chuỗi cung ứng. Trong khi đó, toàn bộ quyền lực thương mại và dòng lợi khổng lồ đều bị hệ sinh thái của họ nuốt chẩng. Sự phát triển
+
+00:14:52
+sầm uất này thực chất là một sự bốc lột tinh vi. Khi dòng vốn Trung Quốc ồ ạc kéo đến, họ không ban phát cơ hội làm giàu cho người bản xứ. Họ chỉ biến người lao động địa phương thành những cổ máy cung cấp tài nguyên thô và sức lực giá rẻ phục vụ cho một cổ máy kiếm tiền khép kính mà chính người bản xứ không bao giờ được phép chạm tay vào. Nhưng cũng có người lại nói, họ qua đây mở siêu thị, mở quán ăn thì kệ họ, tranh giành làm gì cho mệt. Người dân mình có đức cứ đập nhà đi xây phòng trọ xem mặt
+
+00:15:31
+bằng cho họ thuê. Tháng tháng ngồi rung đùi thu tiền mặt khỏe ra làm địa chủ Thu Tô chẳng sướng hơn là buôn bán cạnh tranh sao? Đây chính là cái bẫy chết người nhất là dấu chấm hết cho sự tự chủ kinh tế của một thế hệ người dân bản xứ. Các bạn thử nhìn vào một hộ gia đình ngay đầu hẻm gần khu công nghiệp xem. Hồi xưa nhà của họ mở một tiệm tạp hóa nhỏ bán từ mớ rau đến chay nước mắm. Tuy là cực nhưng đó là năng lực buôn bán tự chủ, tự làm, tự ăn. Rồi làng sóng FDI ập đến. Cửa hàng tiện lợi của người Trung
+
+00:16:08
+Quốc mọc lên sát vách của họ, to hơn bán đồ đúng của người công nhân Trung Quốc. Còn tiệm tạp hóa của người Việt thì ế ẩm không cạnh tranh lại. Thế là người chủ nhà quyết định dẹp luôn tiệm tạp hóa, vay mượn thêm tiền đập nhà đi xây thành 10 cái phòng trọ cho chính công nhân Trung Quốc thuê. Mỗi tháng gia đình đó thu về 20 triệu đồng tiền mặt và họ cảm thấy mình đang giàu lên. Họ mừng rỡ vì tự nhiên có tiền thụ động mà không phải thức khuya dậy sớm buôn bán. Nhưng cái rủi ro chí mạng nó nằm ở đâu? Các bạn
+
+00:16:48
+biết rằng bản chất của dòng vốn FDI dịch chuyển theo làng sóng Trung Quốc. Phần lớn các nhà máy này khi bơ nguyên si sang Việt Nam họ không hề có ý định cắm rễ lâu dài hay là chuyển giao công nghệ. Mục đích lớn nhất của họ là mượn cái mát sản xuất tại Việt Nam để né thuế quan từ cuộc chiến thương mại toàn cầu. Nói một cách trần trụi, họ chỉ đang mượn đất của người Việt để mua thời gian. Khi họ đang cần thời gian thì họ sẵn sàng trả giá cao để thuê nhà, thuê đất 5 năm hay 10 năm nữa. Khi hết các chu kỳ ưu đãi thuế
+
+00:17:27
+hoặc khi luật chơi thương mại quốc tế đã thay đổi thì họ sẵn sàng đóng cửa xưởng ở Bắc Ninh để dọn sang một quốc gia khác như là Ấn Độ hay Indonesia, nơi có nhân công rẻ hơn và ưu đãi tốt hơn. Lúc đó điều gì sẽ xảy ra? Những kỹ sư, công nhân Trung Quốc đó sẽ lập tức thu dọn hành lý, bước ra phi trường, bay về nước hoặc chuyển sang quốc gia mới. Cái hệ sinh thái khép kính của họ cũng sẽ tự bốc hơi và người dân địa phương sẽ bị bỏ lại với cái gì? Với những dãy phòng trọ trống hoát, cái mức mát lớn nhất, đau đớn nhất không phải là
+
+00:18:09
+tiền xây phòng trọ. Cái mất lớn nhất là người dân địa phương đã tự đánh mất đi phản xạ sinh tồn thương mại. Trong suốt 10 năm làm địa chủ Thu Tô, họ đã quên mất cách buôn bán, quên mất cách cạnh tranh và quên mất cách làm dịch vụ. Toàn bộ thị phần bán lẻ ăn uống đã bị hệ sinh thái Trung Quốc thâu tóm từ lâu đến mức người Việt không còn kỹ năng để vận hành lại nó nữa. Họ đã đánh đổi mặt trận kinh tế cốt lõi là từ bỏ quyền làm chủ thương mại để đổi lấy vài đồng tiền cho thuê mặt bằng. Đến khi đông vố ngoại rút đi,
+
+00:18:49
+họ nhận ra rằng kinh tế của gia đình họ hoàn toàn phụ thuộc vào việc xài tiền của một nhóm người Trung Quốc. Đến đây khi nhìn lại toàn bộ bức tranh từ cá viên chiền, những mã qua thanh toán nhân dân tệ lách thuế cho đến cái bẫy xây phòng trọ, các bạn đã thấy những người Trung Quốc họ đến đây không phải vì yêu mến Việt Nam. Sự rực rỡ dưới ánh đèn nơi ông chữ Trung Quốc kia là bức tranh huy hoàng của sự hội nhập hay là điềm báo tỉnh lặng cho một nền kinh tế địa phương bị đồng hóa và phụ thuộc hoàn
+
+00:19:26
+toàn. Có bao giờ các bạn thắc mắc bước tiếp theo của ma trận dòng tiền khổng lồ này là gì không? Khi lượng tiền tích lũy của các ông chủ Trung Quốc này quá lớn, họ sẽ vươn vòi bạch tuộc để thâu tóm các bất động sản. cốt lõi xung quanh khu công nghiệp bằng những thủ đoạn mượn danh nào. Câu trả lời sẽ cực kỳ khốc liệt và mình sẽ giải mã toàn bộ trong video tiếp theo. Đ
+
+
+    
+  
+  
+# Note 244: NUC 260606 Playbook cách người nước ngoài (Trung Quốc) thâu tóm đất tại Việt Nam (Bắc Ninh).md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/dFNcQ5PD6XI"
+author: "Nước Úc Channel"
+published: 2026-06-06
+created: 2026-06-06
+description: "NGƯỜI TRUNG QUỐC THÂU TÓM ĐẤT TẠI BẮC NINH NHƯ THẾ NÀO ?"
+
+00:00:02
+Xin chào tất cả các bạn. Trong video trước, nếu các bạn nghĩ rằng làng sống Trung Quốc đổ về Bắc Ninh chỉ dừng lại ở việc tranh dành nhau vài dĩa cơm tắm hay là vài xe cá viên chiên hoặc là vài bó rau ở đầu chợ thì đó chẳng qua chỉ là bề nổi của một tảng băng chìm. Đây chỉ là bước dò đường để gom tiền cắt của hệ sinh thái khép kính. Ma trận thực sự. Cuộc chiến sinh tử về mặt chủ quyền kinh tế của người bán xứ lại nằm ở một tài sản thiêng liêng và đắc giá hơn rất nhiều, đó chính là bất động sản lõi nằm
+
+00:00:37
+xung quanh các khu công nghiệp. Ngay lúc này, nếu có dịp chạy xe dọc theo các trục đường chính dẫn vào các khu công nghiệp lớn, các bạn sẽ thấy một hiện tượng kỳ lạ đập thẳng vào mắt. Những bánh đất mặt tiền đắc địa, những tòa nhà cao tầng vừa mới mọc lên, bề ngoài thì vẫn treo bản hiệu bằng tiếng Việt. Chủ quyền trên giấy tờ pháp lý vẫn là tên của một người Việt Nam. Nhưng từ cách bài trí, hệ thống camera giám sát dày đặc cho đến lực lượng bảo vệ nghiêm ngặc bên ngoài, tất cả đều toát lên một mùi vị hoàn toàn xa lạ.
+
+00:01:13
+Trong video này mình sẽ phân tích cho các bạn thấy con đường đi của dòng tiền ngầm khi nó từ chiếc phí điện tử sang đất đai. Cách mà những ông chủ ngầm sử dụng những chiếc bình phong mượn danh hoàn hảo để thâu tóm các vị trí chiến lược, biến người bản xứ thành những kẻ đi thuê trò ngay trên mảnh đất của tổ tiên mình. Toàn bộ dòng tiền tích lũy từ những giao dịch không qua ngân hàng này. Những mã Qá thuế bây giờ đang quay lại nốt chẩn mặt bằng cốt lõi ngay khi những người Trung Quốc vừa bước xuống phi
+
+00:01:49
+trường. Những gì xảy ra mình nghĩ rằng các bạn không thể nào tưởng tượng nổi. Để các bạn hiểu rõ cái ma trận thâu tóm này nó vận hành tinh vi như thế nào, mình sẽ kể cho các bạn nghe một câu chuyện người thật việc thực mà nó đang diễn ra ngay tại một làng quê ven khu công nghiệp, nơi mà tốc độ đô thị hóa đang tỉ lệ thuận với tốc độ mất quyền kiểm soát dòng tiền của người bản địa. Bây giờ các bạn hãy nhìn vào câu chuyện của anh Thành, một thanh niên xuất thân từ nông thôn. Trước đây anh ta làm tài
+
+00:02:39
+xế xe tải hoặc chạy sơ ôm công nghệ quanh khu công nghiệp để mưu sinh qua ngày. Cuộc sống của anh cứ bình lặn trôi qua với thu nhập bắc bên. Cho đến một ngày, thông qua một vài mối quan hệ mai mối, anh kết thân được với một ông chủ xưởng sản xuất FDI người Trung Quốc. Ông chủ này tỏ ra cực kỳ tử tế, tốt bụng, thường xuyên bao ăn uống, hỗ trợ tiền bạc lúc khó khăn. Và rồi sau này ông ta đưa ra một lời đề nghị mang tính chất đổi đời mà không một người lao động nghèo nào có thể từ chối. Ông ta nói,
+
+00:03:15
+"Tôi đang cần mua một mảnh đất mặt tiền diện tích khoảng 500 m²ông ngay sát trục đường chính dẫn vào khu công nghiệp để mở văn phòng đại diện và xây dựng chuỗi căn hộ dịch vụ. Luật pháp Việt Nam kiểm soát rất chặt chẽ và không cho phép cá nhân người nước ngoài trực tiếp đứng tên trên sổ đỏ đất nền đứng độc lập. Tôi cần anh đứng tên giúp tôi trên cuốn sổ đỏ đó và tôi sẽ chi trả toàn bộ 100% mua đất, tiền thuê kiến trúc sư, tiền vật liệu xây dựng để xây một tòa nhà năm tầng hiện đại. Anh không phải bỏ ra bất kỳ một cắt bạc nào.
+
+00:03:53
+Và để đáp lại điều đó, tôi gửi tặng anh 200 triệu đồng tiền mặt gọi là chi phí giúp đỡ và cũng là có sẵn một số vốn để cưới vợ sinh con. Đối với một người quanh năm bán mặt cho đất, bán lân cho trời hay một người chạy xe ngoài đường hứng trọn bụi bậm như anh Thành, 200 triệu đồng tiền mặt là một gia tài cực kỳ lớn bằng cả năm trời tích lũy không ăn không xài. Anh Thành suy nghĩ rất đơn giản và tự trấn an bản thân bằng cái tư duy an phận. Mình là người đứng tên trên sổ đỏ, tên của mình trễm trệ trên giấy tờ pháp lý
+
+00:04:31
+thì mảnh đất đó về mặt luật pháp nó là của mình. Cơ quan nhà nước bảo vệ quyền lợi của công dân thì mình sợ cái gì mà không dám làm. Thế là một hợp đồng chuyển nhượng quyền sử dụng Đức được ký kết. Anh Thành chính thức trở thành chủ sở hữu trên giấy tờ của một mảnh đất vàng trị giá cả chục tỷ đồng. Nhưng bây giờ mình sẽ phân tích cho các bạn thấy cái bẫy pháp lý ngầm được thiết kế tin vi đứng ngay sau đó mà những người lao động nhẹ dạ họ không bao giờ lường trước được. Ngay sau khi anh Thành đặt bút ký tên đứng dùng trên cuốn sổ
+
+00:05:08
+đỏ, đội ngũ luật sư và cố vấn tài chính của ông chủ người Trung Quốc sẽ lập tức yêu cầu anh Thành ký thêm một loạt các văn bản phụ bằng tiếng Việt được soạn thảo vô cùng chặt chẽ. Đầu tiên là một hợp đồng vay nợ cá nhân vô thời hạn, trong đó ghi rõ là anh Thành đang nợ ông chủ người nước ngoài một khoản tiền khổng lồ trị giá đúng bằng số tiền mua mảnh đất và chi phí xây dựng tòa nhà năm tầng. Đi kèm với đó là một hợp đồng ủy quyền toàn vần có công chứng cho phép ông chủ ngoại quốc hoặc một pháp nhân do chính ông ta chỉ định
+
+00:05:47
+được toàn quyền định đoạt sử dụng, cho thuê thế chấp hoặc bán mảnh đất đó cho bên thứ ba bất kỳ lúc nào mà không cần phải thông qua ý kiến hay là sự đồng ý của anh Thành. Về bề mặt, anh Thành là một ông chủ bất động sản có tiếng tâm ở địa phương, nhưng về mặt bản chất tài chính ngầm, anh Thành chỉ là một con rối, một chiếc bình phong không hơn không kém. Anh bị trói chặt hoàn toàn bởi một khoảng nợ khổng lồ trên giấy tờ mà cả cuộc đời của anh dù có chạy xe tải thêm ba kết nữa thì cũng không bao giờ trả nổi. Mảnh đất
+
+00:06:26
+đó, tòa nhà năm tầng đó đã chính thức biến thành một lãnh thổ kinh tế riêng của giới chủ ngậm, vận hành hoàn toàn theo luật chơi của họ. Với làn sóng dòng vốn FDI sản xuất khép kính, những người Trung Quốc này không đóng vai người khách vãng lai đến rồi đi. Họ dùng sức mạnh của tiền ngầm để tạo ra những ông chủ Việt Nam giả tạo, âm thầm thâu tóm các vị trí đất đai cốt lõi rồi từ đó ép ngược người dân bản xứ phải tự gọt dũa bản thân, tự thay đổi ngôn ngữ để phục vụ ngược lại cho hệ thống sinh thái của
+
+00:07:01
+họ. Chính anh Thành sau khi nhận 200 triệu đồng đứng tên dùm đó cũng dẹp luôn nghề chạy xe cũ. Anh quay sang làm nhân viên bảo vệ giữ xe hoặc làm tài xe riềng cho chính tòa nhà đang mang tên chính mình trên sổ đỏ. Những những đồng lương được ban phát mỗi tháng từ ông chủ thực sự của mảnh đức. Bản chất của câu chuyện này là gì? Đây là sự hội nhập kinh tế để cùng nhau phát triển hay là một quá trình tự đồng hóa ngược để sinh tồn ngay trên mảnh đất của tổ tiên? Khi các bạn đã hiểu rõ cái vỏ bọc mượn
+
+00:07:37
+danh tinh vi thông qua câu chuyện đổi đời đầy rủi ro pháp lý của anh Thành ở phần trước. Bây giờ chúng ta hãy cùng nhau bước vào cốt lõi nặng nhất, khóc liệt nhất của toàn bộ ma trận này. Làm thế nào để hàng chục hàng trăm tỷ đồng dùng để mua bất động sản lõi xây dựng những tòa nhà cao tầng xâm uất kia có thể chảy một cách mượt mà từ bên kia biên giới vào thẳng túi những người dân bán đất tại Việt Nam mà hệ thống ngân hàng nội địa và các cơ quan quản lý nhà nước họ không thể nào bắt được dấu vết
+
+00:08:11
+chính thức nào. Thông thường nếu đi theo con đường chính thống và minh bạch, một nhà đầu tư nước ngoài muốn mua hoặc thuê bất động sản thương mại tại Việt Nam bắt buộc phải thông qua tài khoản vốn đầu tư gián tiếp hoặc trực tiếp FDI. Họ phải trải qua các quy trình giải trình nguôn góc dòng tiền cực kỳ nghiêm ngặc. Họ phải chứng minh mục đích sử dụng đất rõ ràng và chịu sự giám sát chặt chẽ từ ngân hàng nhà nước cũng như các cơ quan thuế. Đó là luật chơi chính thức mà bất kỳ quốc gia nào cũng dùng để bảo vệ nền
+
+00:08:47
+kinh tế nội địa. Nhưng ma trận tiền ngầm của hệ sinh thái khép kính này, nó lại vận hành hoàn toàn trên một không gian mạng tài chính song song nằm ngoài mọi quy chuẩn quản lý thông thường. Để các bạn hình dung được sự tin vi này một cách thực tế nhất, mình sẽ kể cho các bạn nghe một ví dụ thứ hai. Câu chuyện về ông Lâm. Ông Lâm là một chủ đại lý trung gian chuyên cung cấp nguyên vật liệu phụ trợ và cũng là một đầu mối điều phối dòng tiền khép kính ngay tại khu công nghiệp Bắc Ninh. Ông Lâm sở hữu một
+
+00:09:20
+chuỗi các tiện tạp hóa, quán ăn cao cấp chuyên phục vụ cho giới kỹ sư Trung Quốc. Tại các cửa hàng của ông Lâm, không một người công nhân Việt Nam nào có thể vào mua hàng bằng tiền polem Việt Nam đồng. Vì ở đó người ta chỉ chấp nhận một phương thức thanh toán duy nhất đó là quét mã Qibay hoặc Qatbay hiển thị mệnh giá bằng nhân dân tệ. Khi các bạn nhìn vào dòng chảy của một giao dịch nhỏ thì sẽ thấy bể chứa tiền ngầm được hình thành ra sao. Một kỹ sư Trung Quốc vừa bước xuống phi trường di chuyển về Bắc
+
+00:09:57
+Ninh, quét mã năm nhân dân tệ để mua một chai nước. Dòng tiền kỹ thuật số đó lập tức bay thẳng từ tài khoản ngân hàng của người kỹ sư Trung Quốc này sang tài khoản Alibay hải ngoại của ông Lâm mở tại một ngân hàng Trung Quốc. Toàn bộ giao dịch này diễn ra trên không gian mạng của bên thứ ba, không hề chạm vào bất kỳ một định chế tài chính hay là một máy chủ ngân hàng nào tại Việt Nam. Khi hàng ngàn người Trung Quốc cùng sinh sống, cùng ăn uống, cùng xài tiền và mua sắm trong hệ sinh thái khép kính này mỗi
+
+00:10:33
+ngày thì dòng tiền nhân dân tệ tích lũy lại sẽ nhanh chóng phình to lên, biến thành một bể chứa tài chính ngầm khổng lồ lên đến hàng trăm triệu, hàng tỷ nhân dân tệ nằm êm liệm ở các tài khoản nước ngoài. Họ kiếm tiền trên Đức Việt, xài tiền trên hạ tầng Việt nhưng dòng máu kinh tế thì hoàn toàn luân chuyển ở Trung Quốc. Ma trận thực sự bắt đầu kích hoạt khi ông chủ ngầm quyết định nâng cấp cuộc chơi. Họ muốn dùng cái bể chứa tiền ngầm khổng lồ đó để thâu tóm mảnh đất 10 tỷ đồng của người dân bản xứ nhằm
+
+00:11:09
+xây dựng căn cứ điểm dài hàng và quy trình chuyển hóa tiền từ mạng hải ngoại thành đất đai thực tế tại Việt Nam. sẽ được ông Lâm điều phối thông qua một hệ thống thanh toán bù trừ vô hình cực kỳ tinh vi sẽ gồm ba bước dứt khoát. Bước thứ nhất, ông chủ ngầm thông qua đầu mối trung gian như ông Lâm để liên hệ với các đường dây cần chuyển tiền từ Việt Nam ra nước ngoài. Các bạn có biết những đường dây này là ai không? Đó chính là các đầu nậu chuyên nhập lậu hàng hóa, quần áo, linh kiện điện tử từ biên giới
+
+00:11:46
+về bán kiếm lời hoặc là giới nhà giàu nội địa đang tìm cách tẩu tán tài sản, chuyển tiền bất hợp pháp ra nước ngoài để mua nhà định cư. Những người này đang nắm giữ một lượng tiền mặt polyme Việt Nam khổng lồ tại Việt Nam nhưng lại cực kỳ khác như dân tệ hoặc là đồng đô la ở nước ngoài để thanh toán cho các đối tác của họ. Bước thứ hai, một giao dịch đối ứng bù trừ không biên giới sẽ diễn ra hoàn toàn trên không gian mạng mà không cần chuyển tiền qua biên giới vật lý. Ông chủ ngầm sẽ lệnh cho tài khoản hải ngoại của mình
+
+00:12:23
+chuyển thẳng số tiền nhân dân tệ tương đương 10 tỷ đồng vào tài khoản bên kia biên giới của các đầu nậu nhập lậu hàng hóa hoặc các đối tượng tẩu tán tài sản. Vậy là nhu cầu dòng vốn Trung Quốc của các đối tượng này đã được thỏa mãn 100% một cách an toàn và bí mật. Đến đây chắc chắn các bạn sẽ đặt ra một câu hỏi. Thời buổi bây giờ lừa đảo rất nhiều. Giao dịch ngầm không có pháp luật bảo vệ. Tự nhiên ông chủ ngầm chuyển hàng triệu nhân dân tệ vào tài khoản bên kia biên giới cho một người đầu nậu xa lạ. Lỡ ông
+
+00:13:00
+ta ôm tiền chạy mất lấy luôn thì sao? Ai làm trọng tài bảo kê cho niềm tin ở thế giới ngầm này? >> Mình muốn đổi tiền Việt qua tiền tệ để thanh toán cho chủ hàng bên Trung Quốc thì làm sao? Bạn chỉ cần nhắn tin cho mình xong đó hã cung cấp cái mã nhận tiền của bên Trung Quốc cho mình thôi và báo số tiền sau đó thì mình sẽ nhân cái tỉ giá mình sẽ tính tiền về Việt cho bạn. Bạn thanh toán cho mình sau đó mình sẽ chuyển tiền tệ cho người bên Trung Quốc là xong. Một nút bấm thôi rất là đơn giản.
+
+00:13:25
+>> Trong thế giới ngầm không vận hành bằng niềm tin ngay thơ. Họ vận hành bằng một cơ chế kiểm soát đỉnh cao. Hệ thống đại lý ủy thác có bảo chứng tài sản cứng. Những đầu mối điều phối như ông Lâm không bao giờ làm việc trực tiếp với các đầu nào nhỏ lẽ trên mạng. Họ giao dịch qua các nhà cái tài chính ngầm có tiềm lực khổng lồ hoạt động xuyên quốc gia. Để được tham gia và đường dây bù trừ tiền ngầm này, ông đầu nậu nhập lậu hàng hóa kia bắt buộc phải ký quỷ đặt cọc hoặc thế chấp một tài sản có giá trị
+
+00:14:01
+tương đương, có thể là bất động sản, một kho hàng hoặc một lượng tiền mặt lớn nằm ngay tại nước bản địa dưới quyền kiểm soát của nhà cái. Khi ông chủ ngầm thực hiện lệnh chuyển 10 tỷ đồng nhân dân tệ từ tài khoản AIBay ở Trung Quốc vào tài khoản của ông Đào Nộng. Giao dịch này thực chất được quét qua một hệ thống mã hóa nội bộ. Nếu ông Đào Nậu nhận được tiền nhân dân tệ ở nước ngoài mà dở trò rang lận, định ôm tiền chạy mất và từ chối nhã tiền Việt Nam đồng tại Việt Nam, [âm nhạc] ngay lập tức tài sản thế
+
+00:14:37
+chấp hoặc tiền ký quỷ của ông ta tại nước bản địa sẽ bị nhà cái ngầm tịch thu sạch sẽ không một chút thương tiếc. Đồng thời, mã định danh thương mại của ông ta cũng sẽ bị xóa sổ hoàn toàn khỏi toàn bộ chuỗi cung ứng hoàng hóa biên giới. Trong thế giới buông lậu, mất đi đường dây thanh toán đồng nghĩa với việc doanh nghiệp của ông ta cũng sẽ tự sát. Do đó, không một đầu nầu nào dám đánh đổi cả sự nghiệp, kho hàng và mạng sống kinh tế của mình để quỵt một giao dịch. Luật chơi ngầm nó còn tàn nhẫn và dứt khoát
+
+00:15:14
+hơn luật pháp chính thống gấp nhiều lần. Cho nên nhu cầu dòng vốn ngoại ban của các đối tượng này luôn được thỏa mãn một cách an toàn, chính xác đến từng giây và bảo mật tuyệt đối. Và đến bước thứ ba, sau khi giao dịch mạng ở bước hai hoàng tức và được nhà cái ngầm xác nhận, ông đầu nậu tại Việt Nam đã nhận được tiền nhân dân tệ và mua hàng bên kia biên giới. Trách nhiệm của ông ta là phải nhả ra số tiền đối ứng 10 tỷ đồng tại Việt Nam theo đúng tỷ giá thỏa thuận. Nếu như ông Lâm chuyển một cục tiền 10 tỷ đồng
+
+00:15:51
+từ một tài khoản doanh nghiệp, điều này chắc chắn sẽ làm giấy lên hồi chuông cảnh báo về rửa tiền tại hệ thống ngân hàng. Lúc này họ sẽ xé nhỏ dòng tiền này ra. Đường dây ngầm sẽ sử dụng hàng chục hàng trăm tài khoản rác. Từ những tài khoản ngân hàng được mua lại từ sinh viên người lao động nghèo với giá vài trăm ngàn. Họ thực hiện chuyển khoản liên ngân hàng mỗi lệnh chỉ từ 50 triệu đến 100 triệu đồng đổ liên tục như mưa về tài khoản ngân hàng Việt Nam của anh Thành là người đứng tên giùm hoặc chuyển
+
+00:16:27
+thẳng vào tài khoản của người dân địa phương đang bán đất. Cho nên về mặt hiện tượng vật lý bên ngoài, giao dịch mua bán bất động sản diễn ra hoàn toàn hợp pháp tại Việt Nam. Cơ quan quản lý, ngân hàng nội địa và văn phòng đăng ký đất đai chỉ nhìn thấy các cá nhân, người Việt đang thực hiện giao dịch chuyển tiền cho nhau bằng chính tiền Việt Nam đồng một cách vô cùng sạch sẽ và đúng quy trình pháp luật. Nhưng về mặt bản chất tài chính, hệ thống ngân hàng nội địa hoàn toàn không biết và không thu
+
+00:16:59
+được một cách ngoại tệ nào từ các quỹ dự trữ quốc gia và cũng không hề bắt được một nhịp đập nào của cuộc hoán đổi quyền lực này. Bằng cách bẻ cong hệ thống thanh toán và mượn bàn tay bảo chứng của thế giới ngậm, giới chủ Trung Quốc đã biến những đồng tiền tiêu dùng lách thuế hằng ngày của họ thành một thứ vũ khí tối thượng, quay ngược trở lại thâu tóm tài nguyên đất đai, thứ tài sản cứng không bao giờ tự đẻ ra được của người bản xứ. Họ nghiễm nhiên làm chủ các vị trí chiến lược, biến đất đai tổ tiên của
+
+00:17:33
+người bản xứ thành một mắt xích kiên cố trong chuỗi cung ứng khép kính toàn cầu của họ. Trong khi nền kinh tế địa phương chỉ nhận lại một võ bọc phồn vinh giả tạo. Đến đây chắc chắn sẽ có người nói những người Trung Quốc này họ mang tiền qua đây đầu tư, biến một mảnh đất ruộng hoang sơ thành một tòa nhà sầm uất. Bộ mặt đô thị đẹp lên trông thấy thì có gì là xấu. Người bán đứt ở địa phương thì họ cầm một cục tiền 10 tỷ đổi đời. Họ mua xe hơi, xây nhà lầu. người đứng tên giùm thì tự nhiên có vài trăm triệu bỏ
+
+00:18:08
+túi ngon ơ. Rõ ràng đây là một mối quan hệ đôi bên cùng có lợi. Tiền vẫn đổ vào thị trường Việt Nam chứ chạy đi đâu mà sợ mất chủ quyền kinh tế. Và họ đến đây họ làm ăn, họ đóng thuế, họ xây nhà xưởng mở văn phòng trên ình ra đó. Cơ quan thuế địa phương quản lý chặt chẽ từng cái hóa đơn, thu đủ thuế doanh nghiệp, thuế Vet chứ nhà nước đâu có để yên mà nói là thức thoát tài chính. Bây giờ trước khi mình phân tích những điều này, mình sẽ kể cho các bạn nghe một câu chuyện. Khi các bạn nghe xong câu chuyện này, các bạn sẽ thấy nó thấm
+
+00:18:46
+thía lọt vào xương tủy về cái gọi là sự phát triển đôi bên cùng có lợi. Bây giờ các bạn hãy nhìn vào câu chuyện của chú Sáu. Chú Sáu là một chủ xưởng cơ khí phụ trợ vừa và nhỏ nằm ngay rìa khu công nghiệp. Xưởng của chú Sáu chuyên gia công những chi tiết ba lệch thép và võ hộp kỹ thuật. Một hôm, thông qua một công ty bình phong do một người Việt đứng tên giùm cho một ông chủ người Trung Quốc, chú Sáu nhận được một đơn đặt hàng khổng lồ gia công 10.000 bộ kệ thép chuyên dụng để lắp đặt cho một hệ thống kho ngầm
+
+00:19:22
+khép kính. Tổng giá trị hợp đồng lên đến 2 tỷ đồng. Chú Sáu mừng đến rơi nước mắt, nghĩ rằng doanh nghiệp của mình đã gặp thời. Nhân luật chơi của ma trận bắt đầu kích hoạt khi bắt đầu ký hợp đồng và thanh toán. Phía công ty Bình Phong đưa ra một điều kiện, họ sẽ tạm ứng trước 30% tiền Việt Nam đồng và chuyển khoản qua ngân hàng chính thống để chú xấu có tiền mua sắt thép nguyên liệu và xuất hóa đơn VT đầy đủ cho phần này. Nhưng 70% giá trị còn lại tức là còn 1/4 tỷ đồng tiền công và lợi nhuận của chú sáu.
+
+00:20:03
+Họ yêu cầu được thanh toán bằng một phương thức đặc biệt. Họ dẫn chú Sáu tới gặp ông Lâm. Ông Lâm là đầu mối điều phối dòng tiền ngầm mà mình đã nói ở phần trước. Lúc này ông Lâm hỏi chú Sáu có con cái người thân ở nước ngoài không? Nếu có thì sẽ chuyển cho họ. Còn nếu chú Sáu muốn nhận tiền mặt tại Việt Nam để trả lương cho công nhân thì đường dây của ông Lâm sẽ cho người chở một bao tiền polyme Việt Nam đồng mệnh giá lớn giao tận tay cho chú xáu tại xưởng. hoàn toàn không qua tài khoản ngân hàng của
+
+00:20:40
+công ty chú sáu. Để hợp thức hóa sổ sách, công ty bình phong hướng dẫn chú sáu ký vào một biên bản nghiệm thu giảm giá, hạ thấp giá trị hợp đồng xuống chỉ còn đúng bằng số tiền tạm ứng 30% ban đầu. Chú Sáu tặt lưỡi đồng ý vì nghĩ rằng mình vừa nhận được tiền tươi thất thực lại vừa lách được một khoản thuế thu nhập doanh nghiệp kha khá cho cái phần 1,4 tỷ kia. Tội gì không làm. Bây giờ mình sẽ phân tích cái bẫy trốn thuế kép này để xem ai mới là người, kẻ đi săn và ai là con mồi. Về mặt bề nổi, chú
+
+00:21:21
+sáu tưởng mình khôn ngoan. Cơ quan thuế địa phương kiểm tra xưởng của chố sáu cũng chỉ thấy là một hợp đồng nhỏ thu được vài đồng thuế dựa trên 30% doanh thu khai báo. Nhưng ở chiều ngược lại, công ty bình phong của ông chủ ngầm đã thực hiện một cú lướt ván tài chính ngoạn mục. Họ dùng chính số tiền nhân dân tệ tích lũy lách thuế từ các tiệm tập hóa, quán ăn khép kính ở phần trên để trả tiền công cho chú Sáu. Dòng tiền đó bay hoàn toàn trên không gian mạng ở Trung Quốc, mất khúc mọi dấu vết. Hệ quả
+
+00:21:57
+lạ toàn bộ nền kinh tế nội địa và ngân sách nhà nước bị rút ruột kép một cách vô hình. Đáng lý ra một chuỗi giá trị sản xuất gia công trị giá 2 tỷ đồng thì bắt buộc phải nộp thuế về cho ngân sách 10% thuế VAT, tức là 200 triệu đồng để nhà nước tái đầu tư vào cầu đường. những thứ mà xe tải của xưởng chú sáu và xe container của họ đang cày nát mỗi ngày. Nhưng thông qua giao dịch ngầm, nhà nước mất trắng phần lớn số thuế này. Thứ hai, khi công ty Bình Phong bán lại toàn bộ hệ thống kho ngầm này cho một tập đoàn
+
+00:22:35
+FDI khác với giá 10 tỷ đồng. Về mặt lý thuyết, họ phát sinh một khoản thu khổng lồ tại Việt Nam. đang đi ra họ phải lấy 10 tỷ doanh thu này trừ đi 2 tỷ chi phí thực tế là mua kệ của chú sáu để ra khoảng lợi nhuận rồng là 8 tỷ và dựa trên mức thuế thu nhập doanh nghiệp thông thường là 20% họ phải nộp vào ngân sách nhà nước 1,6 tỷ đồng tiền thuế nhưng trên sổ sách chính thức nộp cho cơ quan quản lý thuế một ma trận lợi nhuận sẽ được kích hoạt được thiết lập khép kính từ trước Ông chủ ngầm lập ra ba
+
+00:23:14
+công ty con tại Việt Nam. Những công ty này là những công ty ma, hoàn toàn không có nhà xưởng hay là công nhân, chỉ có một bộ máy tính và một kế toán ngồi xuất hóa đơn. Họ cho các công ty ma này xuất hóa đơn khống cho công ty bình phong với các nội dung vô thưởng vô phạt như là chi phí tư vấn giải pháp kho vận 3 tỷ, chi phí khảo sát địa chức và tối ưu không gian 2 tỷ. Cho nên có rất nhiều người nghĩ nhà nước sẽ thu được tiền. Nhưng thực tế giới chủ ngầm đã dùng công nghệ để đi trước một bước quá xa. Họ cho
+
+00:23:50
+doanh nghiệp chú sáu ăn phần khúc xương sẩu là phần lao động tay chân độc hại, hàng xì khói bụi, tiêu tốn điện năng và tài nguyên tại địa phương. Còn phần tinh túy nhất tức là thằng dư tài chính khổng lồ và nguồn thu thuế đáng lẽ phải thuộc về quốc gia sở tại thì họ đã dùng hệ thống thanh toán bù trừ và thế giới ngầm để nuốt trọn. Trong cuộc chơi này, doanh nghiệp của chú Sáu chính là người chịu thiệt thòi lớn. Chú Sáu tưởng mình khôn ngoan khi bắt tay vào dòng tiền ngầm để lách thuế phần tiền công của mình. Nhưng
+
+00:24:23
+chính cái hành động khôn vặt đó đã biến chú thành một mắt xích đồng lõa để ép năng lực cạnh tranh của các doanh nghiệp chính quy. Khi một doanh nghiệp Việt Nam làm ăn chân chính đóng đủ 10% thuế Vet, đóng đủ 20% thuế thu nhập doanh nghiệp, họ sẽ không bao giờ có thể đưa ra một mức giá cạnh tranh lại với chuỗi khép kính trốn thuế của giới chủ ngầm. Đây không còn là câu chuyện trốn thuế của một cá nhân mà là một chiến lược bóp nghẹt không cho các doanh nghiệp nội địa có cơ hội lớn lên ngay trên sân nhà của
+
+00:24:57
+mình. Bây giờ mình sẽ kết hợp một thông tin vừa mới xảy ra tại Sài Gòn. Khi các bạn nghe xong câu chuyện thực tế này, các bạn sẽ thấy nó thấm thía về cái gọi là sự phát triển đôi bên cùng có lợi. Các bạn hãy nhìn vào một vụ án vừa được công an triệt phá. bắt quả tang một nhóm lên tới 85 người nước ngoài lập đại bán doanh ngay tại trung tâm. >> Phòng quản lý xuất nhập cảnh công an [âm nhạc] thành phố Hồ Chí Minh phát hiện 85 người mang quốc tịch Trung Quốc thuê khách sạn tại phường Thuận Giao để
+
+00:25:29
+lưu trú, lắp đặt nhiều thiết bị nghi phục vụ hoạt động lừa đảo công nghệ [âm nhạc] cao. Trong số này có 17 người nhập cảnh trái phép vào Việt Nam. Theo cơ quan chức năng, nhóm do vợ chồng HG và QM cầm đầu thuê khách sạn với giá 315 triệu đồng một tháng để làm nơi ở và tập kết máy móc. Lực lượng công an thu giữ khoảng 400 thiết bị gồm máy tính, điện thoại và máy tính bảng được đưa từ Campuchia sang Việt Nam. Hãy nhìn vào quy mô và luật chơi lạnh lùng của họ để thấy cái bẫy kinh tế khép kính nó vận
+
+00:25:57
+hành tàn nhẫn ra sao. Họ sẵn sàng chia ra số tiền bỗng tay lên tới 315 triệu đồng mỗi tháng chỉ để thuê trọn một cơ sở lưu trú làm tổng hành dinh. Ngay sau khi nhập cảnh bằng các con đường lén lúc qua lối mở biên giới, họ bị thu giữ hết hộ chiếu và đưa thẳng về đây. Bên trong những căn phòng đóng kính, họ lắp đặt một hệ thống trang thiết bị điện tử khổng lồ lên tới 400 bộ máy tính để bàn, máy tính [âm nhạc] bản và điện thoại di động nhằm thiết lập một trung tâm công nghệ cao. Nhìn vào vụ án 400 máy tính
+
+00:26:34
+này để giải phẫu cái gọi là tử huyệt thức thoát thuế. Một cơ sở thuê mặt bằng trị giá 315 triệu một tháng, vận hành 400 bộ máy tính, tiêu thụ một lượng điện năng khổng lồ. sử dụng hạ từng mạng Internet băng thông rộng của quốc gia sở tại. Về mặt bề ngoài, cơ quan thuế địa phương đến kiểm tra cùng lắm chỉ thu được vài đồng thuế môn bài thuế hộ kinh doanh hoặc thuế vị trí các tòa nhà đó dựa trên hợp đồng thuê mặt bằng bê nổi. Nhưng toàn bộ dòng tiền khổng lồ luân chuyển qua 400 bộ máy tính đó chạy đi
+
+00:27:11
+đâu không? Dòng tiền đó vận hành hoàn toàn trên không gian mạng tài chính ngầm thông qua hệ thống thanh toán bù trừ vô hình mà mình đã nói ở phần trên. Hàng ngàn tỷ thận dư kinh tế tạo ra từ hệ thống 400 máy tính này được thanh toán trực tiếp bằng các ví điện tử ngoại quốc bay thẳng về các tài khoản hải ngoại của giới chủ ngậm. Hệ quả là toàn bộ nền kinh tế nội địa và ngân sách quốc gia bị rút ruột kép một cách vô hình. Thứ nhất, đáng lý ra mọi giá trị dịch vụ thương mại phát sinh từ hệ thống 400 máy
+
+00:27:48
+tính này trên lãnh thổ Việt Nam thì họ phải nộp về cho ngân sách 10% thuế Vet để nhà nước tái đầu tư vào hạ tầng, an ninh những thứ đang phải gồng mình lên để quản lý và phục vụ cho họ. Nhưng thông qua ma trận tiền ngầm, nhà nước mức trắng 10% thuế VAT trên dòng tiền thực tế. Thứ hai là cái bẫy bóp nghẹt doanh nghiệp nội địa. Khi họ dùng tiền ngầm tích lũy từ các hệ thống khép kính này để quay lại thâu tóm bất động sản lõi thông qua những chiếc bình phong mượn danh như Anh Thành thì họ sẽ dùng các công ty ma để xé nhỏ và rửa dòng
+
+00:28:28
+tiền. Họ biến toàn bộ lợi nhuận thực tế thành chi phí ảo, trả cho các dịch vụ kỹ thuật ở nước ngoài, bóp nghẹt khoản lợi nhuận khai báo tại Việt Nam xuống mức tối thiểu để né thuế, thu nhập doanh nghiệp. Đây không còn là câu chuyện trốn thuế nhỏ lẽ nữa mà là một chiến lược bóp nghẹt năng lực cạnh tranh của doanh nghiệp nội ngay trên sân nhà. Kết thúc câu chuyện về đại bản danh 400 máy tính và bài toán về thuế này các bạn đã thấy nó như [âm nhạc] thế nào? Sau khi mình đã nhìn thấy ma trận trốn thuế tinh vi và những đường dây thanh
+
+00:29:04
+toán ngầm ở phần trước. Bây giờ chúng ta hãy cùng nhau nhìn vào một bản chất cốt lõi và dài hạn hơn. Đằng sau lần sóng thâu tóm bất động sản và lập đại bản doanh này, động thái chiến lược thực sự của giới chủ ngầm là gì? Và tương lai năng lực kinh tế của thế hệ trẻ bản địa sẽ đi về đâu khi làn sóng này đạt đỉnh? Để các bạn thấy một bức tranh hoàn toàn mới, mình sẽ kể cho các bạn nghe một câu chuyện. Câu chuyện về anh Tuấn, một kỹ sư công nghệ thông tin trẻ tuổi. Anh ta rất nhạy bén, sinh ra và lớn lên ngay
+
+00:29:41
+tại thủ phủ công nghiệp Bắc Ninh. Sau khi tốt nghiệp đại học, Tuấn không chọn con đường vào làm việc tại các tập đoàn công nghệ chính quy của Việt Nam, cũng không tự mình khởi nghiệp mở công ty phần mềm. Tuấn nhìn thấy một cơ hội kiếm tiền nhanh hơn, dễ dàng hơn rất nhiều từ chính hệ sinh thái khép kính của giới chủ ngậm. Nhờ có lợi thế về ngoại ngữ và hiểu biết công nghệ, Tuấn được ông Lâm là đầu mối điều phối dòng tiền ngầm ở phần trên, tuyển dụng vào là một mắt xích quản lý kỹ thuật trung gian. Nhiệm
+
+00:30:16
+vụ hàng ngày của Tuấn rất đơn giản nhưng [âm nhạc] mang lại thu nhập cực kỳ khủng. Tuấn đứng tên mở các công ty công nghệ bình phong nhập khẩu các linh kiện điện tử từ nước ngoài về theo dạng tạm nhập tái xuất hoặc đứng ra quản lý bảo trì hệ thống máy móc khép kính cho các văn phòng ngầm. Mỗi tháng chỉ cần ngồi máy lạnh điều phối các đơn hàng nội bộ trong hệ sinh thái và ăn phần trăm chên lệch. Tuấn đút túi hàng trăm triệu đồng. Tuấn tự hào mình là một giới tinh hoa công nghệ mới của địa phương. đại diện
+
+00:30:50
+cho tư duy làm giàu nhanh của một bộ phận giới trẻ hiện nay. Nhưng các bạn sẽ thấy cái viễn cảnh lạnh lùng đứng sau cái bẫy thu nhập trung gian này. Các bạn biết rằng bản chất của làn sóng dịch chuyển nhà máy theo công thức Trung Quốc cộng 1 hiện nay không phải là một cam kết đấu thầu bền vững kéo dài 100 năm hay là một thiện chí muốn chuyển giao công nghệ cốt lõi để giúp nâng tầm nền kinh tế Việt Nam. Không hề có. Đây là bản chất chỉ là một động thái mua thời gian mang tính chiến lược của giới tài
+
+00:31:23
+phiệt quốc tế. Khi quốc gia của họ đối mặt với các lệnh trừng phạt thuế khoan khóc liệt, các đầu cản thương mại bóp nghẹt từ các thị trường lớn như Mỹ, Châu Âu, họ bắt buộc phải tìm một vùng đệm, mượn đường dịch chuyển một phần xưởng lắp ráp cuối cùng sang Việt Nam để gắn cái mát m in Việt Nam nhằm né thuế. Họ vun tiền ngầm để thâu tóm bất động sản lõi, thiết lập các ma trận khép kính từ 400 máy tính cho đến các tiện tập hóa ở phần trước. Chỉ nhằm một mục đích duy nhất, tối ưu hóa lợi nhuận rồng tối đa
+
+00:31:59
+trong giai đoạn bảo táp địa chính trị. Dòng vốn này cực kỳ linh hoạt, nhạy bén và lạnh lùng. Bây giờ các bạn hãy tưởng tượng cho các kịch bản của 5 năm, 10 năm nữa khi các chính sách ưu đãi miễn giảm thuế của địa phương dành cho các dự án FDI này hết hạnng hoặc khi luật chơi thương mại quốc tế thay đổi, siết chặt quy định về tỷ lệ nội địa hóa khiến việc gắn mát sản xuất tại Việt Nam không còn tác dụng né thuế nữa thì chuyện gì xảy ra? Họ sẽ không một chút do dự, chỉ trong vòng một nốt nhạc, họ sẽ đóng cửa
+
+00:32:36
+nhà xưởng, thu dọn toàn bộ máy móc công nghệ cao, rút sạch dòng tiền trên không gian mạng và cuốn gói ra phi trường để dịch chuyển sang một quốc gia khác ở Nam Á, nơi đang chào mời họ bằng mức chi phí nhân công và giá thuê đứt rẻ mạc hơn. Trung Quốc phccom rời đi cả khu phố vắng tanh. Ngày càng nhiều dấu hiệu cho thấy bức tranh kinh tế ở nhiều vùng Trung Quốc đang ngày càng ảm đạm. [âm nhạc] Do việc chuyển dịch chuỗi công nghiệp của Apple, nhà máy phc tại Trịnh Châu đã cắt giảm mạnh nhân công khiến khu đô thị mới
+
+00:33:06
+dự khang vắng [âm nhạc] tanh. Vô số cửa hàng hai bên đường phải đóng cửa. Trong một video được đăng tải cho biết PhCcom rời đi đã lấy đi 312.000 việc làm và kéo theo tác động nặng nề đến phố đi bộ thương mại Tân Họa [âm nhạc] Tiêu. Người từng được ví là Tiểu Hồng Kông. Nhưng giờ đây dân cư thừa thớt, số hộ kinh doanh giảm mạnh, nhiều cửa hàng buộc phải đóng cửa. Nhân viên Phccom tiết lộ nhà máy hiện đang di chuyển thiết bị, nhiều công nhân đến từ Ấn Độ cũng đang hỗ trợ tháo dỡ. Công ty không còn tuyển
+
+00:33:33
+dụng công nhân [âm nhạc] nữa. Bởi vì hầu hết người lao động là giới trẻ có trình độ học vấn thấp nên những ngày này mất việc sẽ phải đối mặt với áp lực khó khăn hơn để tìm việc làm lại. >> Làng sóng tiền ngầm dịch chuyển đi nhanh và im lặng y như cách mà nó đã tràn vào. Lúc đó toàn bộ hệ sinh thái khép kính từ hàng ngàn kỹ sư quản lý cho đến các văn phòng công nghệ ngầm tự động bốc hơi theo và những người trẻ làm trung gian như Tuấn sẽ bị bỏ lại với cái bẫy gì. Công ty bình phong do Tuấn đứng tên bỗng
+
+00:34:04
+chóc trở thành một cái võ rỗng tuết, không còn đơn hàng, không còn dòng tiền trảy qua. Nhưng điều đáng sợ nhất là Tuấn đối mặt với một khoảng trống mênh mông về mặt năng lực. Trong suốt một tập kỷ làm trung gian ăn chên lệch, Tuấn chỉ học được cách vận hành phần mềm theo lệnh của họ, học cách làm hóa đơn rác để né thuế. Chư Tuấn chưa từng tự tay nghiên cứu ra một dòng code độc lập nào, chưa từng tự mình sản xuất ra một sản phẩm công nghệ có năng lực cạnh tranh trên thị trường quốc tế. Cái mức mát lớn
+
+00:34:38
+nhất, đau đớn nhất của một thế hệ trẻ bản xứ trong làng sống này không phải là những công ty bình phong bị phá sản. Cái mức lớn nhất chính là sự bốc hơi hoàn toàn của phản xạ thương mại và năng lực sáng tạo của cá nhân. Trong suốt những năm tháng thanh xuân đẹp nhất, vì mãi mê an phận với những đồng tiền chên lệch kiếm được quá dễ dàng từ hệ sinh thái của họ. Thế hệ trẻ đã hoàn toàn quên mất cách tự mình đứng ra làm chủ công nghệ, quên mất cách vận hành một doanh nghiệp độc lập và đánh mức phản xạ chiến đấu
+
+00:35:13
+trên thị trường toàn cầu. Tuấn và những người như Tuấn đã tự tức đi vũ khí cạnh tranh của chính mình, tự biến những bộ óc nhạy bén nhất của quốc gia thành những kẻ ký sinh và dòng vốn ngoại ban để đổi lấy sự an nhàn ngắn hạn. để rồi khi dòng vốn này rút đi, họ lại bàn hoàng nhận ra chén cơm của thế hệ mình đã hoàn toàn vỡ nát nền kinh tế địa phương rơi vào một cái bẫy thu nhập trung bình kéo dài. Vì bấy lâu này họ đã nhường toàn bộ quyền lực công nghệ và chất xám thực sự vào tay người khác. Khi nhìn lại toàn bộ ma trận, từ việc
+
+00:35:52
+mượn người đứng tên sổ đỏ, dòng tiền [âm nhạc] ngầm luân chuyển vô hình qua hệ thống bù trừ tài chính xuyên biên giới cho đến cái cách đắng ngắt của thế hệ trẻ mang tư tưởng trung gian ăn chên lệch, các bạn đã thấy rõ sự tàn nhẫn của dòng tiền ngầm. Đến đây mình xin hỏi một câu, đất đai và chất xám là tề nguyên tối thượng của quốc gia, nhưng khi nó biến thành công cụ xin lời khép kính cho dòng tiền ngoại thông qua những chiếc bình phong mượn danh thì ai mới thực sự là chủ nhân của tương lai kinh tế?
+
+
+    
+  
+  
+# Note 245: NUC 260606 Playbook di dời tài sản công chiếm đất, thay đổi dòng tiền.md  
+
+@tag #politicsVN
+@il [[260529 Đề xuất di dời ga Hà Nội ra Ngọc Hồi trong năm 2026]]
+source: "https://youtu.be/iy9vYCktB8M"
+author: "Nước Úc Channel"
+published: 2026-06-06
+created: 2026-06-06
+description: "DI DỜI GA HÀ NỘI: BẢN CHẤT CUỘC DỊCH CHUYỂN NÀY LÀ ?"
+
+
+00:00:01
+Xin chào tất cả các bạn. Nếu như ở hai tập trước chúng ta đã cùng nhau phân tích ma trận tiền lẻ lách thuế ngoài động hẻm hay những chiếc bình phong mượn danh để thâu tóm đứt lõi vùng vì hôm nay kênh sẽ đưa các bạn bước vào một trận chiến ở một cấp độ hoàn toàn khác. Đây không còn là cuộc chơi của những ông chủ ngầm ngoại ban đi gom nhặt tài sản thô mà là một cuộc chiến tối thượng của giới tài phiệt nội địa ngay tại lõi trung tâm thủ đô cùng một đề xuất táo bạo đang làm rúng động giới quy hoạch di dời toàn bộ
+
+00:00:33
+tuyến đường sắt quốc gia và ga Hà Nội ra khỏi trung tâm thành phố. Ngay lúc này, báo chí và truyền thông đang đổ dồn sự chú ý vào đại lộ mở rộng quốc lộ 1A trị giá 162.000 ngà tỷ đồng ca ngợi những chuyển biến hạ tầng thần tóc khi người dân vừa bước xuống phi trường. Nhưng mình sẽ phân tích cho các bạn thấy một kho báu thực sự đang ẩn giấu đằng sau. Tại sao một tập đoàn bất động sản tư nhân lại sẵn sàng bỏ ra hàng trăm ngàn tỷ đồng để làm đường xá? Một công việc vốn thuộc về ngân sách nhà nước. Họ đang
+
+00:01:09
+làm từ thiện hay là đang mua thời gian để tạo sóng hay đang dùng đòn bảy hạ tầng để hợp thức hóa một cuộc hoán đổi quỷ đất công thành tài sản tư nhân vĩ đại nhất lịch sử. Trong video này mình sẽ lột trừng toàn bộ cơ chế đổi đứ lấy hạ tầng bóc tách cuộc chiến ngầm thâu tóm những mét vuông đất vàng độc nhất vô nhị còn sót lại tại thủ đô vì trận chiến vĩ mô này sẽ định hình lại toàn bộ dòng chảy tài chính và chén cơm của người dân bản xứ trong [âm nhạc] vài thật kỹ tới. Để các bạn hiểu rõ cái ma trận siêu dự
+
+00:02:00
+án và đề xuất dịch chuyển ga Hà Nội này nó tác động trực tiếp đến túi tiền và tương lai của các bạn như thế nào. Mình sẽ kể cho các bạn nghe một câu chuyện. Câu chuyện về Bắc Hùng. Một cán bộ ngành đường sắt đã vệ hưu hiện đang sở hữu một căn nhà mặt tiền 30 m²ông nằm ngay trục đường dẫn vào khu vực ga Hà Nội hiện nay. Cả cuộc đời Bắc Hùng gắn liền với tiếng cọi tàu. Đối với Bác và hàng ngàn hộ dân sinh sống tại lõi trung tâm thủ đô này, cái ga Hà Nội không chỉ là một cái nhà ga đón trả khách thông thường mà
+
+00:02:34
+nó là một cổ máy in tiền nuôi sống cả gia đình bác từ đời này sang đời khác. Nhờ có lượng hành khách khổng lồ ổn định từ khắp các tỉnh thành đổ về nhà ga mỗi ngày. Căn nhà mặt tiền 30 m²ông của Bác Hùng dù nhỏ xíu nhưng trị giá lên đến cả chục tỷ đồng. Hàng tháng bác chỉ cần mở tiệc ăn sáng, quán cà phê cốc hoặc cửa hàng tạp hóa là có thể xài tiền rủng rỉnh an hưởng tuổi già mà không cần phải lo nghĩ đến chuyện cơm áo gạo tiền. Bác Hùng luôn tự hào rằng mảnh đất lõi trung tâm này chính là bảo hiểm trọn đời dành
+
+00:03:10
+cho con cháu của mình. Thế rồi một buổi sáng Bác Hùng lật tờ báo ra và bạn Hoàng đọc được một thông tin. Một tập đoàn bất động sản tư nhân lớn vừa đề xuất chi ra hàng trăm ngàn tỷ đồng để mở rộng các tuyến quốc lộ ngoại thành. Và đổi lại họ kiến nghị nhà nước di dời toàn bộ tuyến đường sắt quốc gia cùng ga Hà Nội ra khỏi trung tâm để đưa xuống khu vực Ngọc Hội cách đó mười mấy cây số. Lý do được đưa ra trên mặt báo nghe vô cùng lọt tai và mang tính chất vì cộng đồng. Di dời nhà ga để giảm ùn tắc giao thông nội đồ,
+
+00:03:48
+trả lại không gian yên tĩnh cho thành phố và hiện đại hóa bộ mặt thủ đô. Bác Hùng và các hội dân xung quanh nghe xong thì thở phào nhẹ nhõm, tặt lưỡi nói với nhau theo cái tư duy an phận thông thường. Ờ thì dịch chuyển nhà ga ra ngoại thành cho thành phố nó sạch đẹp rộng rãi hơn. Nhà mình nằm ở phố cổ trung tâm thì đất vẫn là đất vàng. Sổ đỏ thì mình vẫn giữ chính quyền vẫn bảo vệ quyền sở hữu của mình mất đi đâu mà sợ. Nhưng mình sẽ chỉ cho các bạn thấy một cú lượt kèo tài chính khốc liệt nằm ngay
+
+00:04:24
+phía sau câu chuyện của Bác Hùng. Một cái bẫy kinh tế tinh vi mà những người dân sở hữu Đức Vạnng không bao giờ nhìn thấy được nếu chỉ nhìn vào bề nổi của các dự án hạ tận. Các bạn khi nhìn vào quy luật vận hành của dòng tiền, cái gì đã tạo nên giá trị chục tỷ cho căn nhà của Bác Hùng? Có phải là do viên gạch mới xì măng xây nên căn nhà đó không? không hệ. Giá trị của bất động sản lõi được quyết định 100% bởi hạ tầng công cộng và dòng lưu lượng người di chuyển do nhà nước đầu tư ngân sách quốc gia
+
+00:05:00
+qua hàng trăm năm. Chính cái ga Hà Nội, nơi trung chuyển hàng vạn con người mỗi ngày đã bơm sinh khí tài chính, biến căn nhà của Bác Hùng thành một mỏ vàng thương mại. Bây giờ khi toàn bộ hệ thống đường sắt và nhà ga bị nhức bổng lên và di dời ra ngoại thành, cổ máy in tiền công cộng đó lập tức bị dập tắt ngay tại lõi trung tâm. Dòng lưu lượng khách hàng khổng lồ bỗng chóc biến mất sạch sẽ. Trục đường sầm uất ngày nào giờ đây trở thành một con phố nội đồ yên tĩnh vắng vẻ. Căn nhà mặt tiền của Bác Hùng tuy sổ đỏ là tên bác
+
+00:05:38
+nó vẫn còn nguyên. Không ai đến cướp của bác 1 m²uông nào. Nhưng về mặt bản chất thương mại nó đã bị thiến hoàn toàn. Các cửa hàng tập hóa, tiệm ăn đóng cửa vì không còn khách. Giá trị cho thuê sục giảm thê thảm từ vài chục triệu xuống còn vài triệu đồng. Chiếc áo bảo hiểm trọn đời của gia đình Bắc Hùng bỗng chốc biến thành một khối tài sản chết đứng. Và điều đáng sợ nhất nằm ở vế thứ hai của câu chuyện. Vậy khoảng đất trống mênh mông hàng chục hect đất vàng của khu vực ga Hà Nội sau khi di dợi sẽ biến
+
+00:06:13
+thành cái gì? Tập đoàn Tư Nhân sau khi bỏ ra hàng trăm ngàn tỷ để làm đường quốc lộ ở ngoại ô dưới hình thức đổi Đức lấy hạ tầng, họ sẽ được nhà nước hoàn vốn bằng quyền sử dụng chính khu đất lõi của ga Hà Nội vừa được dọn sạch sẽ. Tại đây, họ không xây công viên hay là quảng trường công cộng cho người dân dạo chơi. Họ xây dựng lên những siêu đô thị khép kính, những tòa tháp tài chính trọc trời, những khu trung tâm thương mại hào nhoáng bực nhất. Dòng lưu lượng hành khách ngày xưa thay vì đi ngang qua con phố của bác
+
+00:06:49
+Hùng để mua ổ bánh mì, ly cà phê của người bản xứ thì bây giờ toàn bộ dòng người đó sẽ bị nhốt hoàn toàn vào bên trong hệ sinh thái thương mại khép kính của tập đoàn tư nhân. Người dân bản xứ tưởng mình không mất đức, nhưng thực chất toàn bộ quyền lực khai thác thương mại, toàn bộ thặng dư kinh tế cốt lõi của thủ đồ đã bị dịch chuyển một cách ngoạn mục từ tay những tiểu thương nhỏ lẽ vào túi của một ông chủ tài phiệt duy nhất. Bác Hùng từ một người làm chủ dòng tiền thương mại trên chính mảnh đất của
+
+00:07:22
+mình bây giờ phải chứng kiến đứa con trai lớn của mình nộp đơn vào làm nhân viên bảo vệ giữ xe. Đứa con gái Úc làm nhân viên thu ngưng trong chính trung tâm thương mại nguy Nga mọc lên trên nền cái nhà ga cũ, nơi mà ngày xưa tổ tiên đã từng làm chủ cuộc chơi kinh doanh vẻ hè. Đây là câu chuyện về sự phát triển đô thị thần tóc hay là một cuộc đại thanh lọc kinh tế sòn phẳn tước đi năng lực tự chủ thương mại của người dân từng lớp trung lưu để tập trung tài sản vào tay giới tài phiệt. Kết thúc câu chuyện
+
+00:07:58
+của Bác Hùng. Các bạn suy ngẫm xem sự thật trần trụi này nó như thế nào trước khi chúng ta bước vào phân tích những ma trận tiếp theo. Khi các bạn đã hiểu được nỗi đau ngầm về mặt giá trị bất động sản thương mại thông qua câu chuyện của Bác Hùng ở phần trước, chúng ta hãy cùng nhau bước vào phần lõi phức tạp nhất của toàn bộ ma trận này. Làm thế nào để một tập đoàn tư nhân có thể hợp thức hóa việc di chuyển một hạ tầng quốc gia như tuyến đường sắt và ga Hà Nội để đổi lấy những khu đất vàng trị giá hàng tỷ đô la. Con số
+
+00:08:36
+162.000 tỷ đồng mở rộng quốc lộ 1A thực chất được luân chuyển bằng những thuật toán tài chính vĩ mô nào mà mắt thường của chúng ta không thể nhìn thấy được. Để giải mã ma trận kỹ thuật này, mình xin kể cho các bạn nghe một câu chuyện thực tế thứ hai. Câu chuyện về anh Nam. Anh Nam là giám đốc một công ty xây dựng và cung ứng vật liệu kỹ thuật tầm trung tại địa phương. Công ty của anh Nam có năng lực thực, có dàng máy móc hiện đại và đội ngũ kỹ sư lành nghề. Khi ngà tình siêu dự án hạ tần mở rộng quốc lộ trị
+
+00:09:12
+giá 162.000 tỷ đồng được khởi công. Anh Nam khắp khởi mận thầm, anh nghĩ bụng, một dự án quy mô khủng khiếp như thế này, kiểu gì cũng cần đến hàng triệu tấn xi măng, sắc thép và các nhà thầu phụ địa phương như mình. Đây là cơ hội để doanh nghiệp nội địa cùng lớn lên với tập đoàn lớn. Anh Nam lập tức dồn toàn bộ nguồn lực, tiền bạc để chuẩn bị hồ sơ năng lực, chạy vậy khắp nơi để tiếp cận các cổng đấu thầu của dự án. Nhưng khi bước chân vào ma trận đấu thậu khép kính của tập đoàn này, anh Nam lập tức nhận
+
+00:09:49
+được một gáo nước lạnh bẻ gãy hoàn toàn tư duy kinh doanh thông thường của anh. Phía tập đoàn không thực sự đấu thầu rộng rãi theo kiểu chia nhỏ gói thầu cho các doanh nghiệp bản địa như cách nhà nước quản lý đầu tư công truyền thống. Họ vận hành một cơ chế gọi là hệ sinh thái khép kính. Nghĩa là từ công ty thiết kế quy hoạch, công ty khai thác mỏ đá, nhà máy sản xuất bê tông cho đến các tổng thầu thi công cơ giới lớn, tất cả đều là các công ty còn. Công ty chân rết nằm trong hệ sinh thái của chính tập
+
+00:10:25
+đoàn đó hoặc thuộc sở hữu của những công ty bình phong do giới tinh hoa tài phiệt thiết lập chéo. Hợp đồng duy nhất mà công ty anh Nam có thể chạm đến sau nhiều tháng trực vực chỉ là một gói thầu phụ ở tầng đáy cùng. gia công rảnh thoát nước bê tông vỉa hè với biên độ lợi nhuận rất bèo bọt chưa đầy 3% kèm theo điều kiện thanh toán vô cùng ngặt nghèo là phải cam kết cho tập đoàn nợ gối đầu dòng tiền đó lên đến 6 tháng. Anh Nam tặt lưỡi ký hợp [âm nhạc] đồng vì nếu không làm thì dàng máy móc sẽ đắp chiếu,
+
+00:11:02
+công nhân sẽ thất nghiệp nhưng trong lòng anh Nam cũng hiểu ra một sự thật cay đắng. Chén cơm béo bở nhất của chiếc bánh 162.000 tỷ này không bao giờ rơi ra ngoài cho các doanh nghiệp nội địa tầm trung. Bây giờ mình sẽ dẫn các bạn đi sâu vào bên trong phòng họp tài chính của tập đoàn để giải phẫu cái ma trận đổi đất lấy vàng đứng sau bản hợp đồng lọt lưới của anh Nam. Quy trình dịch chuyển quỹ đức công trị giá hàng chục tỷ đô ở lõi thủ đô sẽ được vận hành tình vì qua ba bước dứt khoát. Bước thứ nhất,
+
+00:11:38
+tập đoàn chủ động đề xuất với chính quyền xin được tự bỏ vốn 162.000 tỷ đồng để làm các đại lộ, quốc lộ ở vùng ngoại ô hoặc liên tỉnh những nơi đang rất khác hạ tầng để phát triển. Việc vung ra một số tiền khổng lồ như vậy giúp tập đoàn ngay lập tức có được cái gật đầu của các cơ quan quản lý và sự ủng hộ tuyệt đối của dư luật bề nổi. Họ nghiễm nhiên đóng vai trò là người hùng cứu cánh cho ngân sách nhà nước vốn đang eo hẹp. Bước thứ hai, thay vì nhận lại tiền mặt từ ngân sách, điều mà nhà nước không hề có sẵn,
+
+00:12:17
+tập đoàn đề xuất phương án hoàn vốn bằng quỹ đức đối ứng gọi là cơ chế đổi đức lấy hạ tầng. Ma trận kỹ thuật nằm ở khâu định giá. Khi định giá mảnh đất 162.000 ngà tỷ ở ngoại ô nơi họ làm đường. Giá đất được tính theo giá hiện tại cực kỳ bèo bọt vì đó chỉ là đứt ruột hoặc đất trống. Nhưng tập đoàn lại kiến nghị nhà nước hoán đổi số giá trị đó, lấy quyền phát triển quỷ đức tại lõi trung tâm, chính là khu đất của ga Hà Nội sau khi di dời. Và bước thứ ba đến bước cuối cùng này, bài toán khó nhất của tập đoàn
+
+00:12:58
+là làm sao nhất bỏng được cái ga Hà Nội, một biểu tượng lịch sử và là nồi cơm của hàng vạn người dân Trung lưu ra ngoại thành mà không phải gặp làng sóng phản đối của dư luận. Nếu người dân và các chuyên gia gào lên rằng chi dời nhà ga ra Ngọc Hồi quá xa, bất tiện cho người dân đi lại tốn thêm tiền taxi, tiền xe ôm của người nghèo thì dự án sẽ bị treo ngay lập tức. Để giải quyết tử huyệt này, tập đoàn tung ra một đề xuất vô tiền khoáng hậu khiến tất cả ngỡ ngàng. Họ cam kết sẽ tài trợ 100% chi phí, vận hành một hệ thống xe
+
+00:13:39
+buý điện thông minh đưa đón người dân hoàn toàn miễn phí, chạy liên tục 24/7 từ khu vực ga Hà Nội cũ ra đến ga Ngọc Hồi mới và ngược lại. Khi thông tin này nổ ra, trên mạng xã hội lập tức tràn ngập những lời khen quá tuyệt vời. Tập đoàn lớn làm ăn có tâm lo cho người dân từ cái ăn cái mặt đến phương tiện đi lại miễn phí thế này thì còn gì bằng ủng hộ dịch chuyển ga Hà Nội ra Ngọc Hồi thôi. Nhưng mình sẽ bạch trừng cho các bạn thấy cái dụng ý sâu xa cái ma trận tâm lý đỉnh cao ẩn giấu đằng sau những
+
+00:14:17
+chuyến xe buý miễn phí này. Các bạn hãy nhìn vào bản chất tập đoàn đang dùng một khoảng chi phí vận hành nhỏ để đánh đổi lấy một tài sản cứng khổng lồ. Bằng việc cam kết tài trợ xe buý miễn phí, tập đoàn đã dập tắt hoàn toàn mọi phản biện về mặt bất tiện giao thông của các cơ quan quản lý và người dân. Họ tạo ra một vỏ bọc an sinh xã hội hoàn hảo để nhà nước yên tâm ký quyết định bàn giao toàn bộ hàng chục hectta đất vàng sạch bóng của ga Hà Nội cũ cho họ dưới hình thức hoang vốn hạ tầng. Nhưng cái ma trận thực sự nằm ở chỗ
+
+00:14:59
+những chuyến xe bít miễn phí đó không phải để phục vụ người dân mà là để điều hướng dòng tiền tiêu xài theo ý muốn của tập đoàn. Các bạn hãy tưởng tượng khi một người dân bước xuống chuyến tàu từ các tỉnh về đến ga ngọc hội mới, họ sẽ được hướng dẫn bước ngay lên chiếc xe buýt điện sang trọng mát mẻ của tập đoàn để trở thẳng về trung tâm thành phố. Và điểm dừng cuối cùng của tuyến xe buýt đó là ở đâu? Nó sẽ không thả khách xuống vỉa hè của các tiệm tập hóa nhỏ lẽ. Nó sẽ thả khách vào ngay cổng của đại đô
+
+00:15:36
+thị hoặc trung tâm thương mại khép kính sầm uất mọc lên trên chính nền ga Hà Nội cũ. Khi các bạn nhìn thẳng vào sự thật, tập đoàn bỏ tiền túi ra chở họ đi miễn phí nhưng thực chất là họ đang dùng phương tiện của họ để gom toàn bộ lượng khách hàng đó, nhốt họ vào bên trong hệ sinh thái thương mại khép kính của chính họ. Thay vì các bạn xuống ga và xài tiền vào các quán ăn, tiệm cà phê vỉa hè của người dân bản xứ như ngày xưa thì bây giờ từng đồng bạc cắt của các bạn xài cho dĩa cơm ly nước sẽ chạy thẳng vào
+
+00:16:12
+máy tính tiền của các chuỗi thương hiệu nằm trong trung tâm thương mại của tập đoàn. Kết cục của ma trận này là gì? Hệ thống quản lý chỉ nhìn thấy một tuyến quốc lộ ngoại thành được xây mới. Những chiếc xe buýt điện văn minh chạy miễn phí trên đường mà không tốn một đồng ngưng sách. Nhưng họ hoàn toàn không thấy trước một cuộc đại di cư của tài sản. Toàn bộ quyền lực khai thác thương mại cốt lõi tại thủ đô đã bị bốc hơi khỏi tay người dân từng lớp trung lưu, dịch chuyển gọn gàng vào két sắt của một ông chủ tài
+
+00:16:47
+phiệt duy nhất. Người dân tưởng mình được đi xe miễn phí. nhưng thực chất là đang tự nguyện bước vào cái phẻo lọc dòng tiền do họ thiết lập sẵn để tự biến mình và con cháu mình thành những người làm thuê trên chính mảnh đất vạn của tổ tiên. Đến đây chắc chắn sẽ có người nói rằng tập đoàn lớn người ta tự bỏ tiền ra 162.000 ngà tỷ đồng tiền túi để mở rộng đại lộ quốc lộ ngoại thành rồi còn tài trợ cả hệ thống xe điện thông minh chạy miễn phí cho người dân đi lại văn minh bộ mặt đất nước thì đẹp lên hạ tầng hiện
+
+00:17:23
+đại lên mà không tốn một đồng tiền thuế của người dân rõ ràng đây là một mối quan hệ đôi bên cùng có lợi người dân được hưởng quá lớn chứ mất đi đâu mà sợ và đặc biệt họ sẽ nói thêm như thế này những ông chủ đó họ xây đô thị lớn họ mua hàng triệu hiệu tính vật liệu của các doanh nghiệp trong nước. Cơ quan thuế địa phương quản lý rất chặt chẽ từng cái hóa đơn điện tử, thu đủ thuế Vet, thuế doanh nghiệp chứ nhà nước đâu có để yên mà thức thoát tài chính. Để trả lời cho những điều này, mình sẽ kể cho các bạn nghe một câu chuyện. Các bạn
+
+00:17:59
+sẽ thấy cái gọi là sự phát triển đôi bên cùng có lợi. Các bạn hãy nhìn thẳng vào luật chơi trong các bảng hợp đồng cung ứng vật tư giữa các siêu tập đoàn bất động sản và các nhà thầu phụ địa phương. Những người như anh Hải chủ một tổng kho phân phối gạch ốp lát để chạm được vào chiếc bánh 10 tỷ đồng cung ứng gạch men cho siêu thị lõi trên nền ga Hà Nội cũ. Anh Hải đã phải đặt bút ký vào một bảng hợp đồng với những điều khoản thanh toán vô cùng tàn nhẫn được gọi là cơ chế cứng trừ công nợ bằng sản phẩm. Trong hợp
+
+00:18:37
+đồng quy định rất rõ tập đoàn chỉ thanh toán bằng tiền mặt tối đa 50% giá trị vật tư theo tiến độ. Còn 50% giá trị hợp đồng còn lại tương đương khoảng 5 tỷ đồng thì bắt buộc phải được thanh toán bằng việc quy đổi thành bất động sản căn hộ hoặc vao trờ mua sắm nằm trong chính hệ sinh thái của tập đoàn khi dự án cứt nóc. Anh Hải thừa biết điều khoản này là một cái bẫy chiếm vụng 4 nhưng ở vào vị trí của anh Hải và rất nhiều doanh nghiệp nội địa hiện nay họ không có sự lựa chọn nào khác. Nếu anh Hải từ chối không ký, lập tức
+
+00:19:19
+một tổng kho khác sẽ nhảy vào ký ngay vì áp lực doanh số, áp lực phải nuôi bộ máy công nhân và trả lãi vay kho bãi hạng tháng. Anh Hải bắt buộc phải tự nguyện bước chân vào cuộc chơi trong thế bị ép buộc. Xuất hóa đơn VAT đầy đủ 100% cho tập đoàn. bỏ tiền túi ra nộp trước tiền thuế cho nhà nước rồi ngậm ngùi nhận về một nửa số tiền xương máu của mình dưới dạng những tờ giấy chứng nhận quyền mua căn hộ trên giấy. Bây giờ để giải phẫu cái ma trận này và xem dòng tiền mặt tươi rói chảy đi đâu. Để có tiền mặt trả lương cho công nhân
+
+00:20:01
+và thanh toán cho nhà máy sản xuất, anh Hải không thể ôm hai căn hộ trên giấy đó được. Anh bắt buộc phải đem hai suất nhà này ra thị trường bán cắt lỗ, chấp nhận chiết khấu 20 đến 30% để đổi lấy tiền mặt về cứu công ty. Khoảng lỗ thấu xương này cắn nát toàn bộ biên độ lợi nhuận kinh doanh của Anh Hải khiến sổ sách cuối năm của công ty nộp cho cơ quan thuế luôn nằm ở mức lỗ vốn hoặc hòa vốn. Nhà nước thức thu hoàn thuế thu nhập doanh nghiệp từ các nhà thầu như Anh Hải. Ở chiều ngược lại, tập đoàn lớn đã
+
+00:20:40
+dùng chín số gạch men 10 tỷ của Anh Hải để hoàn thiện xong tòa tháp nguy Nga tại lõi thủ đô. Họ dùng chính hệ thống xe buý điện miễn phí ở phần trên để chở hàng vạn người dân đến mua sắm, xài tiền và thuê mặt bằng trong tòa tháp đó. Dòng tiền mặt tươi rói thu về từ người tiêu dùng hàng ngày, tập đoàn ôm trọn 100%. Họ dùng khoảng tiền mặt khổng lồ này để tiếp tục đi làm đại lộ 162.000 ngà tỷ ngoài ngoại ô tiếp tục tạo sóng để đổi lấy các quỷ đất công tiếp theo. Cho nên doanh nghiệp tội địa họ tưởng được ăn
+
+00:21:19
+bánh chung với ông lớn nhưng thực chất chỉ là những con mồi bị bòn rút đến kiệt quệ dòng máu tài chính ngay trên sân nhà. Bây giờ chúng ta cùng nhau bước lên một nức thang cao nhất của tư duy vĩ mô để nhìn thấu cục diện tương lai. Đằng sau đại lộ 162.000 tỷ đồng. và những chuyến xe bít điện miễn phí vẽ ra một viễn cảnh hiện đại. Động thái chiến lược thực sự của giới tài phiệt là gì? Và tương lai năng lực kinh tế của từng lớp trung lưu bản địa sẽ đi về đâu khi cuộc đại dịch chuyển tài sản này nó hoàn tức.
+
+00:21:57
+Để các bạn nhìn thấy bức tranh một cách trần trụi nhất, mình xin kể cho các bạn nghe một câu chuyện đời thật thứ tư. Anh Hoàng là một giám đốc chi nhánh ngân hàng trẻ tuổi sở hữu bộ óc tài chính vô cùng nhạy bén tại Hà Nội. Khi tập đoàn lớn công bố siêu dự án hạ tầng quốc lộ trị giá 162.000 tỷ đồng, anh Hoàng đã nhìn thấy một cơ hội đổi đời thần tốc từ các cơn lóc bất động sản ăn theo hạ tầng. Anh Hoàng quyết định nộp đơn xin nghĩ việc tại ngân hàng, rút toàn bộ số tiền tích lũy của hai vợ chồng, thậm chí
+
+00:22:32
+dùng đoàn bảy tài chính cắm luôn căn nhà đang ở để gom sạch các lô đất nệnh, nằm dọc theo trục đường dự kiến mở rộng. Hoàng Tự Tin nói với bạn bè, Đại Lộ mở ra đến đâu, đứ nhân hai nhân ba đến đó. Tập đoàn lớn họ cam kết đổ hàng trăm tỷ vào đây lo gì dự án chết. Mình chỉ cần đi trước đón đầu. Ngồi im ôm đất chờ sống lên là trở thành triệu phú. Đi làm thuê ăn lương ngân hàng cày cuốt cả đời làm gì cho mệt xác. Các bạn hiểu rằng bản chất của việc vung tiền làm các đại lộ 162.000 tỷ ở ngoại ô của các tập đoàn
+
+00:23:11
+tư nhân không phải là một chiến dịch làm từ thiện hay là một thiện chí muốn chia sẻ lợi nhuận lâu dài cho những nhà đầu tư nhỏ lẽ như Hoàng. không hề có. Bản chất chỉ là một động thái mua thời gian mang tính chiến lược để phục vụ cho cuộc đại dịch chuyển dòng vốn của họ. Khi thị trường bất động sản gặp khó khăn, dòng tiền mặt bị thắt chặt, tập đoàn bắt buộc phải dùng các dự án hạ tầng giao thông quy mô lớn làm mồi nhữ để tạo sóng, thu hút dòng vốn nhàn rỗi của toàn xã hội, đổ vào các quỷ đất vùng ven của họ. Khi
+
+00:23:50
+những người như Hoàng hào hứng đem hàng tỷ đồng tiền tươi thốc thực đến nộp cho tập đoàn để nhận về những khu đất nền ngoại ô, tập đoàn đã gom sạch nguồn sinh khí tài chính đó đem về nuôi dưỡng xây dựng cho kho báu thực sự của họ, chính là siêu đô thị khép kính tại lõi trung tâm trên nền ga Hà Nội cũ. Và câu chuyện kết thúc của Hoàng sau 5 năm khi đại lộ Quốc lộ 1 ngoại thành đã xây xong. đẹp đẽ sầm uất thì chuyện gì xảy ra? Hoàng rất bàn hoàng nhận ra một kịch lý cây đắng. Con đường mở rộng rất đẹp, xe buý
+
+00:24:30
+chạy rầm rầm miễn phí mỗi ngày. Nhưng những chiếc xe buý đó không dừng lại ở khu đất nền của Hoàng để khách xuống mua đất hay là ăn cơm. Chúng chở thẳng dòng người này từ ngoài ô vào thẳng trung tâm thương mại khép kính của tập đoàn để xài tiền. Khu đất nền vùng ven cổ hoàng tuy giá trên giấy tờ là có tăng nhưng hoàn toàn mất thanh khoản không hề có ai mua lại. Dòng tiền bị chôn chặt một chỗ trong khi lãi vay ngân hàng thì lại đè nặng lên vai mỗi tháng. Hoàng từ một chuyên gia tài chính hàng đầu giờ đây
+
+00:25:05
+phải chấp nhận bán rẻ tài sản để trả nợ rồi quay lại nộp đơn xin làm nhân viên trong chính hệ thống tài chính của tập đoàn đó để kiếm sống qua ngày. Hoàng nhường quyền tài sản của mình để đổi lấy sự giàu sang ảo để rồi tự đẩy bản thân mình vào thế đứng dưới đáy của chuỗi giá trị. Khi nhìn lại toàn bộ chuỗi ma trần ví, từ những đồng tiền lẻ lách thuế ngoài đạo hẻm, [âm nhạc] những chiếc bình phong mượn danh thâu tóm đất lõi vùng ven Bắc Ninh cho đến cuộc đại di cư tài [âm nhạc] sản trị giá hàng chục tỷ đô la
+
+00:25:41
+thông qua chiêu bài xe buý miễn phí và hợp đồng cứng trừ [âm nhạc] nợ ngay tại lõi thủ đô. Các bạn đã nhìn ra bức tranh tổng thể rồi. Trong cuộc chơi hạ tầng vĩ mô này, giới tài phiệt không chỉ xây những con đường, họ đang thiết lập một cái phễu khổng lồ để lọc sạch dòng sinh khí tài chính của nền kinh tế. Để kết thúc video này, mình xin để lại một câu hỏi. Khi những khu đất công, những nhà ga lịch sử mang tính biểu tượng quốc gia biến thành những đại đô thị khép kính của tư nhân thì quyền lực định hình
+
+00:26:14
+tương lai đô thị thực chất đang nằm trong tay ai. Giới tinh hoa tài phiệt đã làm chủ đứt lõi và hạ tầng giao thông. Nhưng các bạn có biết trận chiến tối thượng nhằm phân chia lại toàn bộ cấu trúc tài sản của thủ đồ không nằm ở những tòa tháp trọc trời nội đô mà nó đang âm thầm diễn ra ngay tại dòng sông huyết mạch của Hà Nội siêu dự án quy hoạch trục đô thị sông Hồng khi hàng ngàn hata đất bãi bồi ven sông bấy lâu này vốn là đất nông nghiệp đất vô chủ bỗng chốc được gội rửa bằng một dự án quy hoạch thế kỷ
+
+00:26:53
+biến thành siêu đô thị sinh thái. Các tập đoàn lớn sẽ dùng những thuật toán tài chính khốc liệt nào để ép hàng vạn hội dân cư lâu đời. Ai sẽ là người sở hữu mặt nước và giải lội xanh đắc giá nhất quốc gia? Và những người dân bán đất vùng ven sẽ phải đối mặt với kịch bản trắng tay ra sao khi siêu tóc quy hoạch này đổ bộ xuống? Câu trả lời ở tập sau về ma trận quy hoạch sông Hồng sẽ còn khóc liệt, trần trụi và chạm thẳng vào túi tiền của các bạn hơn rất nhiều.
+
+    
+  
+  
+# Note 246: NUC 260723 Giải thích việc sở hữu Ải Nam Quan và Thác Bản Gốc.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/iZ4gM2gWLm8"
+author: "Nước Úc Channel"
+published: 2026-07-23
+created: 2026-07-23
+description: "BÁN ĐẤT CHO TÀU: ẢI NAM QUAN & THÁC BẢN GIỐC ?"
+
+00:00:01
+ Xin chào tất cả các bạn. Trong video trước mình có nhắc đến những bình luận như thế này. Ải Nam Quang đâu rồi? Thác bản dốc có còn không? Hay là trận ích tắc thời hiện đại? Thưa các bạn, khi đọc những bình luận này, mình nghĩ rằng ai là người Việt mà không sợ máu xương của cha ông bị con cháu đem bán. Đúng không các bạn? Nhưng hôm nay mình sẽ lôi những bản đồ gốc, những hiệp ước của pháp thanh từ thế kỷ bị chính ra để đối chiếu từng tọa độ, từng cột móc dưới ánh sáng pháp lý hiện đại. Bây giờ chúng ta sẽ
+
+00:00:35
+ cùng nhau đi tìm câu trả lời. Ranh giới thực sự của ải Nam Quang và thác bản dốc nằm ở đâu? Trên giấy tợ gốc. Các bóng ma Trần Ít tắc là một sự thực lịch sử hay chỉ là một đoạn tâm lý chiến nhằm khiến người Việt quay sang nghi ngờ nhau từ bên trong. [âm nhạc] Để hiểu tại sao trên mạng người ta cứ cãi nhau về chuyện mất đứ hay là còn đứ. Mình xin kể cho các bạn nghe một câu chuyện rất quen thuộc ở quê mình. Chuyện hai nhà hàng xóm làm bản cam kết phân chia ranh giới. Các bạn hãy tưởng tượng cách đây hơn 100 năm ông cố của mình đại
+
+00:01:27
+ diện cho phía Việt Nam lúc đó là thực dân Pháp làm chủ. và ông cố nhà hàng xóm phía nhà Thanh bên Trung Quốc ngồi lại với nhau. Hai ông lấy một tờ giấy học trò ra, vẽ một cái sơ đồ bằng tay nguệch ngoạt, ranh giới hai nhà tính từ góc cây xoài kéo thẳng qua cái bờ ao. Lúc đó đất rộng người thưa, hai bên ký tên cái rụp rồi cứt tờ giấy vô tủ, không hề xây hàng rào bê tông gì hết. Thế rồi 100 năm sau, con cháu hai bên đông đúc lên, đất đai trở nên tức đứt tức vàng. Lúc này con cháu hai nhà mới lôi tờ giấy của ông Cố
+
+00:02:05
+ ra để xây bất tường kiên cố. Nhưng ngặt một nỗi cái cây xoài ngày xưa đã chết từ tám đời dương nào rồi. Còn cái bờ ao thì qua bao nhiêu mùa mưa lũ nó đã bị lỡ loét dịch chuyển đi vài mét. Bây giờ làm sao? Nhà hàng xóm thì nói góc cây xoài ngày xưa nó nằm dịch qua bên đất nhà của mày 2 m nên tụi tao phải xây tường lứng qua đây. Còn nhà của tôi thì nói không đúng, bờ ao ngày xưa nó nằm ở phía bên kia kìa. Thế là hai nhà cãi cò chửi bới, thậm chí xách dao ra dọa nhau. Muốn giải quyết dứt điểm, hai bên không thể ngồi
+
+00:02:44
+ đó mà chửi đổng, cũng không thể nghe lời mấy ông đi ngang qua đường kích bát. Cách duy nhất là phải mướn thợ đo đạt về, lôi bản đồ địa chính gốc ra, dùng máy định vị vệ tinh thiện đại nhất để dò lại đúng cái tọa độ kinh tuyến vĩ tuyến mà ông cố hai bên đã thống nhất ký kết ngày xưa để đặt lại cái cột móc chính xác xuống. Chuyện biên giới đất liền giữa Việt Nam và Trung Quốc hiện nay nó y chang như vậy đó. Khi các bạn đã hiểu được cái ví dụ bức tường rào rồi, các bạn hãy cùng nhìn thẳng vào lịch sử.
+
+00:03:17
+ Toàn bộ đường biên giới đất liền dài hơn 1400 cây số giữa Việt Nam và Trung Quốc không phải do chính quyền thời nay tự ý vẽ ra mà nó dựa trên văn bản pháp lý tối cao công ức hoạch định biên giới năm 1887 được ký kết giữa chính phủ Pháp và triều đình Nhã Thanh. Bây giờ các bạn nhìn ba trang này xem. Đây không phải là những tờ giấy tuyên truyền. Đây là bảng gốc tiếng Pháp lưu trữ từ năm 1887. Tiêu đề ghi rõ ràng là Công ước hoạch định biên giới giữa Trung Quốc và Bắc Kỳ ký tại Bắc Kinh ngày 26 tháng 6 năm
+
+00:03:55
+ 1887. Bây giờ các bạn dòm kỹ chỗ điều khoản một này mình dịch sát nghĩa cho các bạn nghe. Các biên bản và bản đồ đính kèm do các ủy viên Pháp và Trung Quốc lập và ký kết. nay được phê duyệt và có giá trị thi hành. Nghĩa là sao? Nghĩa là toàn bộ tọa độ từng mét Đức ở ải Nam Quang hay là thác Bản Dốc đã được hai bên cắm móc thực địa từ trước năm 1887 này chính thức được khóa chặt bằng luật pháp quốc tế. Không ai được quyền cãi, không ai được quyền sửa. Và tiếp theo, văn bản này làm tại Bắc Kinh có chữ ký của ông Ernest Conston,
+
+00:04:42
+ đại diện nước Pháp. Từ cái giây phút bút x gà chết này, biên giới nước Nam đã được định hình bằng tọa độ khoa học chứ không còn là chuyện vẽ trên giấy. Nhưng cũng có người sẽ hỏi rằng hiệp ước ký bằng chữ thì dài dòng, lỡ dịch sai thì sao? Vậy thì các bạn nhìn lên ở đây mình lôi luôn bản đồ quân sự gốc của Pháp vẽ vào cuối thế kỷ 19 được lưu trữ cẩn thận tại Gica thư viện quốc gia của Pháp. Nó là đồ xịn của thế giới không ai có thể làm giả được. Các bạn nhìn chỉ chỗ khoanh đỏ nè. Tụi Tây nó vẽ rất rõ ràng
+
+00:05:23
+ chữ B the Tiner chính là ải Nam Quang. Còn cái đường đèo bên dưới tụi nó ghi rõ là Đông Đăng tức là khu vực đồng đăng của Việt Nam. Cái đường biên giới nó được người Pháp vạch rõ ràng nằm ranh giới giữa cái ải đó từ hàng trăm năm trước. Bản đồ do chính thực dân pháp vẽ và chốt hạ với nhà Thanh nó đã như vậy rồi thì làm sao có chuyện con cháu đời sau thục móc cắt đức dân ải Nam Quang. Lúc đó người Pháp xài công nghệ đo đạt của thế kỷ 19 tức là vẽ trên giấy chấm tọa độ bằng kính thiên văn và la bàn sai
+
+00:06:03
+ số rất lớn. Đến khi Việt Nam và Trung Quốc ngồi lại đàm phán để cắm móc biên giới hiện đại, hai bên phải đi bộ từng cây số thực địa dùng công nghệ định vị vệ tinh để ráp lại cái tờ giấy của ông Cố. Và đây là sự thực về hai cái tên nhức nhối nhất. Thứ nhất, sự thực về ải Nam Quang. Nhiều trang mạng nói rằng ải Nam Quang hay là Hữu Nghị Quang vốn nằm sau trong đất Việt Nam nhưng nay đã bị dịch móc về phía nam mất đứt cái cổng ải của cha ông. Sự thực pháp lý là trong công ước của Pháp Thanh năm 1887,
+
+00:06:43
+ người Pháp và nhà Thanh đã ghi rất rõ đường biên giới chạy qua con đường nằm ở phía nam của Trấn Nam Quang. Các bạn nghe kỹ nha. Nằm ở phía nam của cái ải, tức là từ năm 1887, cái cổng ải bằng gạch đó đã thuộc về phía Trung Quốc rồi chứ không phải nằm bên Đức Việt Nam. Trận chiến đàm phán hiện đại là gì? Là phân chia cái khoảng đất trống từ cái cổng ải đó kéo về phía Việt Nam. Phía Trung Quốc lúc đầu đòi lấn xát xuống phía Nam nhưng các nhà đàm phán của Việt Nam đã bám chặt vào từng chữ trong công ước của Pháp, giữ từng
+
+00:07:22
+ mét Đức để móc biên giới nằm đúng cái vị trí cách cổng ải chỉ vài chục mét. bản chất là giữ được đức chứ cái cổng ải đó lịch sử đã phân chia từ thời Pháp thuộc rồi. Tới lúc này mình nghĩ rằng các bạn sẽ rất thắc mắc nếu cổng ải Nam Quang đó thuộc về Trung Quốc từ thời Pháp. Vậy tại sao sách xử nhà Trừng, nhà Lê, nhà Nguyễn cứ ghi trình ình là quân phương Bắc muốn đánh nước Nam phải đi qua ải Nam Quang đúng không? Tại sao ông cha ta xem đó là yết hầu, là cửa ngõ biên cương của nước mình? Chẳng lẽ sử sách ghi sai?
+
+00:08:01
+ Thưa các bạn, sử sách ông bà mình ghi không hề sai một chữ nào. Cái sai là do con cháu đời sâu bị nhầm lẫn giữa hai khái niệm địa hình ải và cái cổng ải. Các bạn nghe kỹ cái chỗ này để thấy ông cha ta ngày xưa giữ nước rõ ràng xông phẳn cỡ nào. Cái chữ ải hay là quang vốn dĩ là một cái thun lủng hẹp nằm kẹp giữa hai dãy núi cao. Còn cái công trình bằng gạch đồ sộ có chữ Trứng Nam Quang hay là Hữu Nghị Quang bây giờ là do các triều đình phương Bắc như nhà Minh, nhà Thanh họ lấy gạch đá xây lên họ xây cái cổng
+
+00:08:42
+ đó để làm cái tràng kiểm soát cực nam của đất nước Trung Quốc. Nghĩa là sao? Nghĩa là mỗi khi quân đội phương Bắc muốn đem quân đi đánh nước Nam thì họ phải hành quân ra cái cổng gạch đó. Khi bước qua khỏi cái cổng đó là chính thức đạp chân lên đất đai của nước Nam. Đó là lý do vì sao sách xử ghi giặt qua ải Nam Quang là vào bờ cõi. Vậy thì ông cha ta phòng thủ ở đâu? Các bạn phải hiểu thực tế chiến trường. Quân đội nhà Trần hay nhà Nguyễn Đức Mình không hề trèo lên cái cổng gạch do người ta xây để đứng
+
+00:09:19
+ gác. Ông Tata lập đồn chốt, lập phòng tuyến ngay ở phía dưới cái con đường dốc nằm ở phía nam của cái cổng đó chính là khu vực đồng đăng pha lũy của tỉnh Lạng Sơn. Bây giờ mình đóng quân ở đó chặn cái yết hầu thung lũng đó để quân địch vừa bước ra cái cổng nhà nó là ăn ngay mũi tên của quân nhà của mình. Các bạn thấy sự thực là cha ông ta giữ cái thung lũng phía nam và hiệp ước của Pháp thành năm 1887 cũng ghi rõ ranh giới nằm ở phía nam của cái cổng ái. Mọi thứ từ lịch sử phong kiến tới văn bản pháp lý quốc tế nó khớp
+
+00:10:00
+ nhau từng cm. Cái cổng nhà của họ xây trên đất của họ còn cái đường đèo phía dưới là máu xương của ông cha mình giữ gìn không mất một tất. Vậy thì lấy đâu ra chuyện thời nay mình đem cắt đất dân ải Nam Quang cho người ta? Tới đây sẽ có rất nhiều người thắc mắc. Ông giải thích nghe vậy cũng lọt tay. Nhưng tại sao ông bà mình ngày xưa hay nói hay hát là nước Việt Nam kéo dài từ ải Nam Quang đến mũi Cà Mau? Tại sao sách giáo khoa hay là báo đài ngày nay không còn dùng đến câu đó nữa? Có phải vì mình lỡ làm mất cái
+
+00:10:38
+ ải rồi nên bây giờ phải giấu đi, phải đổi cách nói khác không? Thưa các bạn, đây chính là cái bảy cảm xúc và văn học. Các bạn hãy lấy cái bản đồ Việt Nam nhìn vô là thấy ngay sự thực mà. Thứ nhất, về mặt địa lý, ải Nam Quang nằm ở tỉnh nào? Nằm ở Lạng Sơn. Nhưng Lạng Sơn có phải là điểm cực bắc của nước Việt Nam không? Dạ thưa không. Các bạn nhìn lên bản đồ xem. Từ Lạng Sơn mà đi ngược lên phía Bắc, Việt Nam còn nguyên một vùng rộng lớn bao la, bao gồm Cao Bằng, Hà Giang. Điểm cực bắc thực sự của Việt Nam là cột
+
+00:11:18
+ cờ lũng cứu nằm ở tỉnh Hà Giang Kìa. Nó nằm tuốt ở trên cao, xa hơn ải Nam Quang rất nhiều. Nếu mình cứ khăn khăn dùng câu từ Ái Nam Quang đến mũi Cà Mau để định vị biên giới quốc gia thì hóa ra mình tự cắt bỏ luôn hai tỉnh Hạ Giang và Cao Bằng của tổ tiên hay sao? Thứ hai, vậy tại sao ngày xưa ông bà mình lại nói câu đó? Vì ngày xưa ông bà mình dùng văn học để nói về lộ trình giao thông. ải Nam Quang của Lng Sơn là cái cửa khẩu lớn nhất, là điểm khởi đầu của con đường thiên lý Bắc Nam, tức là quốc lộ 1A. Bây
+
+00:12:01
+ giờ các sứ thần thương nhân ngày xưa đi lại bằng ngựa, bằng kiệu. Họ xuất phát từ cái cửa khẩu lớn nhất đó để đi dọc xuống phía nam nên ông bà mình dùng ải Nam Quang như là một biểu tượng điểm đầu của con đường chứ không phải là tọa độ biên giới cực. bắt của Việt Nam. Nó mang tính thi ca tượng trưng giống như mình nói từ trà đá vỉa hè đến cà phê sang trọng vậy đó. Nó là biểu tượng thứ ba. Tại sao ngày nay không nói nữa? Bởi vì khi đất nước bước vào kỷ nguyên hiện đại được thế giới công nhận, biên giới lãnh
+
+00:12:40
+ thổ không thể nào đo bằng thơ ca hay là cảm xúc được nữa. Biên giới phải được định vị bằng khoa học, bằng kinh độ và vĩ độ tuyệt đối. Sách giáo khoa và nhà nước ngày nay phải dạy con cháu tính chính xác tuyệt đối. Nước Việt Nam trải dài từ điểm cực bắc ở Lũng Cú Hà Giang đến điểm cực nam ở đất mũi Cà Mau. Việt Nam thay đổi cách nói không phải vì mất đức mà thay đổi cách nói vì đã nâng cấp từ ước lệ văn học lên tòa độ khoa học pháp lý. Các bạn thấy không? Khi mình bình tâm lại lôi bản đồ thực tế ra xem
+
+00:13:19
+ thì mọi cái nỗi sợ mất đất bị thổi phòng trên mạng nó tự nhiên tan biến hết. Sự thật lịch sử nó minh bạch và đáng tự hào hơn chúng ta tưởng tượng rất nhiều. Thứ hai, sự thực về thác bản dốc. Thác Bản dốc xưa nay là của Việt Nam 100% nhưng nay lại bị chia đôi, mất một nửa thác cho Trung Quốc. Sự thực pháp lý là gì? Thác Bản dốc gồm hai phần, thác cao là thác phụ và thác thấp là thác chính. Ranh giới đoạn này được xác định đi theo trung tuyến của dòng chảy sông quay sơn. Theo luật pháp quốc tế về sông suối biên
+
+00:13:58
+ giới, nếu dòng sông có cù lao hay là thác nước, đường biên giới sẽ đi theo luồng chảy chính. Mà luồng chảy chính của sông Quay Sơn nó đi xuyên qua giữa thác chính của bản dốc. Nghĩa là từ thời Pháp một nửa thác chính đã thuộc về phía Bắc, nửa còn lại và toàn bộ phần thác cao thuộc về Việt Nam. Cuộc đàm phán hiện đại không phải là đem bán thác mà là hợp pháp hóa quốc tế để hai bên cùng khai thác du lịch chung. Các bạn thấy đó, sự thực trên bản đồ nó rành rành như thế. Cháy chắng mực đen từ hơn trăm năm
+
+00:14:33
+ trước. Vậy thì tại sao bao nhiêu năm nay? Cứ hở ra một chút là trên mạng có người lôi cái tên trừng ít tắch ra để mỉa mai chụp mũ chuyện bán đứt. Trước khi đi tìm câu trả lời, mình xin nhắc lại lịch sử cho các bạn chưa rành. [âm nhạc] Trần ích tắc là ai? Ông này vốn là một hoàng tử tài giỏi của triều đại nhà Trần Hào Hùng. Nhưng ngặt một nổi. Vào thế kỷ 13, khi quân Nguyên Mông với đội kỵ quân hùng hậu nhất thế giới bấy giờ tràn xuống đánh nước Nam, ổng lại đâm ra khiếp nhược. Thay vì đứng lên cầm gương bảo vệ bờ cõi cùng anh em dòng
+
+00:15:10
+ tộc thì ổng lại đem kẻ gia quyến ra đầu hàng giặt để cậu vinh, mong được nhà nguyên phong làm an nam quốc vương buồn nhìn. Kể từ đó, trong quyển từ điển lịch sử của người Việt, cái tên Trần Ích Tắc bị đóng đinh vĩnh viễn với hai chữ bán nước. Nắm được cái móc lịch sử này rồi. Các bạn cùng mình suy nghĩ về cục diện địa chính trị hiện nay xem. Gã khổng lồ phương Bắc dư sức biết rằng dùng vũ lực hay là ép buộc ngoại giao để khuất phục nước Nam là chuyện không hề dễ. Lịch sử mấy ngàn năm đã chứng minh điều đó. Vậy
+
+00:15:46
+ khi súng đạn không xong, kẻ dòm ngó biển Đông sẽ xài chiêu gì? Đó là chiêu đánh sập thành trì từ bên trong. Và vũ khí đáng sợ nhất không phải là xe tăng mà là sự nghi ngờ. Đến đây mình biết chắc chắn sẽ có nhiều bác lật ngược lại lịch sử và đặt ra một câu hỏi cực kỳ gai gấc. Bản đồ thời Pháp thì vẽ rõ ràng như vậy rồi, nhưng còn cuộc chiến đẫm máu năm 1979 thì sao? Khi quân đội Trung Quốc tràn qua biên giới đánh chiếm Lạng Sơn rồi sau đó tuyên bố rút quân. Liệu cái cổng ải Nam Quang và các cột móc lịch sử có
+
+00:16:24
+ bị dời về phía nam hay không? Để trả lời cho thắc mắc này, các bạn hãy cùng mình quay ngược lại thời gian dùng lăn kính địa chính trị vĩ mô để mổ sẻ cái bản chất thực sự của cuộc chiến vào tháng năm 1979. Lúc bấy giờ ai là người đưa ra quyết định phát động cuộc chiến? Chính là ông Đặng Tiểu Bình. Tại sao lại đánh? Có phải là phía Bắc Kinh huy động hàng chục vạn quân trang bị tận răng chỉ để đi giành giật một cái cổng gạch hoang vu hay là vài ngọn núi đá vôi ở Lạng Sơn không? Dạ thưa hoàn toàn không. Một nhà
+
+00:17:04
+ lãnh đạo lọc lỗi như Đặng Tiểu Bình không bao giờ làm bài toán lỗ vốn như vậy. Cuộc tấn công này mang những toan tính chiến lược khổng lồ trên bằng cờ quốc tế. Thứ nhất, đó là đoàn trả đũa địa chính trị. Cuối năm 1978, quân đội Việt Nam tiến vào Campuchia đánh sụp chế độ diệt chủng khơ me đỏ, vốn là một đồng minh cực kỳ thân cận của Bắc Kinh lúc bấy giờ. Phía Trung Quốc muốn dùng vũ lực ở biên giới phía Bắc để dạy một bài học và gây áp lực nhằm buộc quân đội Việt Nam phải rút vệ. Thứ hai, và đây
+
+00:17:39
+ mới là nguyên nhân sâu xa cốt lỗi nhất. Bắc Kinh muốn dùng cuộc chiến này như một phép thử địa chính trị, đồng thời gửi một thông điệp bằng máu đến nước Mỹ bằng cách phát động cuộc tấn công. Họ muốn chứng minh với phương Tây rằng họ đã dứt khoát chọn phe, qua đó mở toan cánh cửa để đón nhận các nguồn vốn FDI khổng lồ và công nghệ từ nước Mỹ, Châu Âu nhằm phục vụ cho công cuộc cãi cách mở cửa nền kinh tế. Để các bạn dễ hình dung cái toan tính này, hãy nhìn vào một sự kiện mang tính biểu tượng lịch sử.
+
+00:18:20
+ Chỉ chưa đầy một tháng trước khi nổ súng ở biên giới, ông Đằng Tiểu Bình đã có chuyến công du sang Mỹ tươi cười đội chiếc mũ cao bồi ở tiểu bang Texas để bình thường hóa quan hệ. Lúc bấy giờ phía Việt Nam vừa ký hiệp ước liên minh quân sự với Liên Xô. Do đó, việc Bắc Kinh xua quân tấn công phía Việt Nam thực chất chính là một tấm vé vào cửa đẫm máu. Nó là bằng chứng thực tế nhất để chứng minh cho giới tư bản ở Washington và Châu Âu thấy rằng Trung Quốc đã hoàn toàn cắt đứt với khối xô viết. Và chỉ khi phương Tây đã tin tưởng
+
+00:18:58
+ vào cái sự lựa chọn phe này thì dòng đô la của Mỹ và công nghệ lõi mới bắt đầu an tâm đổ ồ ạc vào các đặc khu kinh tế như Thẩm Quyến và Thượng Hải. Với những toan tính đó, rạng sáng ngày 17 tháng năm 1979, tiếng pháo gầm thét xé toạt bầu trời biên giới. Hàng chục vạn quân phía Trung Quốc dùng chiến thuật biển người tràn sang. Một trong những hướng tấn công khốc liệt nhất chính là dội thẳng qua khu vực cổng Hữu Nghị Quang để thật sâu vào Đồng Đăng và thị xã Làng Sơn của phía Việt Nam. Trận chiến đã
+
+00:19:37
+ diễn ra vô cùng đẫm máu. Lực lượng phòng thủ của phía Việt Nam từ bộ đội chủ lực đến quân dân tự vệ địa phương đã trống trả cực kỳ kiên cường, ghìm chân đối phương trên từng mép đất, từng ngọn đồi. Đến đầu tháng năm 1979, sau khi vắp phải thương vong quá lớn và nhận thấy đã đạt được các mục tiêu chính trị trên trường quốc tế, Bắc Kinh đơn phương tuyên bố rút quân. Tới đây sẽ có một câu hỏi tại sao lại có quyết định rút quân đột ngột chỉ sau chưa đầy một tháng? Bởi vì Bắc Kinh nhận ra nếu càng xa lạy thì cái giá
+
+00:20:15
+ họ phải trả sẽ càng thảm khóc. Quân đội Trung Quốc lúc đó dù đông nhưng lại sử dụng chiến thuật biển người lạc hậu. Trái lại, lực lượng dân quân và bộ đội địa phương của phía Việt Nam lại có kinh nghiệm thực chiến vô cùng dày dằn. Một ví dụ điển hình là các tuyến đường tiếp tế hậu cần xe tải chở đạn dược của quân Trung Quốc khi đi sâu vào vùng đồi núi thì liên tục bị lực lượng du kích phía Việt Nam cắt đứt và đánh úp khiến lính của họ rơi vào cảnh thiếu lương thực trầm trọng. Thêm vào đó, Bắc Kinh buộc
+
+00:20:50
+ phải rút thật nhanh để tránh một kịch bản tồi tệ, đó là e ngại bên phía Liên Xô sẽ huy động lực lượng mở một mặt trận tấn công trả đũa từ biên giới phía Bắc Trung Quốc, đánh nhanh rút gọn là lối thoát duy nhất để họ không bị vỡ trận. Tới đây có một điểm lịch sử cực kỳ thú vị. Một thắc mắc rất lớn kéo dài cho tới tận ngày nay. Đó là sau khi tiếng súng tạm ngưng. Tại sao cả hai bên đều cùng tuyên bố mình là người chiến thắng? Dưới lăng kính thực dụng của chính trị, phía Trung Quốc tuyên bố chiến thắng vì họ
+
+00:21:29
+ cho rằng đã đạt được các toan tính địa chính trị, phá hủy thành công cơ sở hạ tầng kinh tế của các tỉnh biên giới phía Bắc Việt Nam, phơi bày những điểm yếu trong quân đội của chính họ để viện cớ hiện đại hóa và quan trọng nhất là gây điểm thành công với Mỹ. và không lôi kéo Liên Xô vào vòng chiến. Ngược lại, bên phía Việt Nam tuyên bố một chiến thắng vang dội vì họ đã hoàn thành xuất sắc mục tiêu tối thượng là bảo vệ quốc gia. Chỉ bằng lực lượng bộ đội địa phương và quân dân tự vệ, phía Việt Nam đã chặn
+
+00:22:04
+ đứng đợt tấn công quy mô lớn của một đội quân đông hơn gấp nhiều lần, giữ vữn được thủ đô và các lực lượng chủ lực, đồng thời đánh bực kẻ thù ra khỏi bờ cõi chỉ trong vòng chưa đầy một tháng. Một bên tự nhận thắng vì đạt toan tính chính trị vĩ mô, còn một bên thắng vì bảo vệ thành công lãnh thổ. Sau khi quân đội Trung Quốc rút đi để lại một giải biên giới đổ nát vào tháng năm 1979, [âm nhạc] câu hỏi lớn nhất của lịch sử là số phần của các cuộc móc ranh giới cũ ra sao? Phía Bắc Kinh khi lùi quân có âm thầm
+
+00:22:43
+ nhổ các cột móc đá dời sâu xuống phía nam hay không? Sự thật là không hề có chuyện dịch chuyển cột móc bởi vì sau cuộc chiến năm 1979, toàn bộ tuyến biên giới này không hề có hòa bình ngay lập tức. Suốt cả thập niên năm 1980, nơi đây biến thành một vùng trắng quân sự khốc liệt. Hai bên liên tục pháo kích qua lại, giành giật các cao điểm như vị xuyên và gai mình dày đặt trên thực địa. Chính vì tình trạng nổ mình này, suốt rồng rã 20 năm, người dân bình thường không một ai được phép bén mãn đến vùng biên giới để
+
+00:23:21
+ làm ăn hay canh tác. Không ai được tiếp cận hay nhìn thấy các cột móc cũ của người Pháp để lại. Sự mất tích thông tin thực địa kéo dài hai thập kỷ này chính là mảnh đất màu mỡ sinh ra các tin đồ hoang đường trên mạng xã hội sau này. Cho rằng phía Việt Nam đã bị lấn mất đất sau chiến tranh. Cho đến khi hai nước bình thường hóa quan hệ và ký kết hiệp ước biên giới trên đất liền năm 1999, các chuyên gia đàm phán của bên Việt Nam họ dùng chính các tấm bản đồ quân sự gốc của Pháp vẽ cuối thế kỷ 19 để đối chiếu,
+
+00:23:59
+ ép phía Trung Quốc phải chấp nhận đóng các cọc định vị vệ tinh GBS đúng ngay tại ranh giới lịch sử cũ, không cho phép xê dịch dù chỉ 1 cm. Còn thác bản dốc, nhiều người rỉ tay nhau rằng sau chiến tranh phía Việt Nam bị mất một nửa thác bản dốc. Đây là một ngội nhận rất lớn về luật pháp quốc tế. Theo công ước của Pháp Thanh năm 1887, đối với đường biên giới đi qua sông suối, ranh giới sẽ nằm ở trung tuyến dòng sông chảy chính, tức là điểm rảnh sâu nhất của lòng sông. Thác bản dốc nằm trên sông Quay Sơn. Dù chiến tranh năm
+
+00:24:38
+ 1979 có đi qua khốc liệt như thế nào thì dòng sông nó vẫn chảy đúng theo quy luật tự nhiên của địa chức. Không ai dời được dòng sông hết. Do vậy, trên bàn đàm phán hiện đại, hai bên đã xác định rõ, dựa theo đúng luật pháp quốc tế, phần thác chính được chia đôi 50 và 50 theo lòng dòng sông, còn phần thác phụ hoàn toàn nằm trọn trong lãnh thổ phía Việt Nam. Vì ký kết năm 1999 là để hợp pháp hóa quốc tế bằng tọa độ GBS, tạo hành lang an toàn để hai bên cùng khai thác du lịch bền vững chứ tuyệt đối không có
+
+00:25:16
+ chuyện đất đai hay là thác nước bị chiếm đoạt sau chiến tranh. Thưa các bạn, thông qua việc mổ sẻ các hồ sơ lưu trữ quốc tế và phân tích những gốc khuất thực địa của giai đoạn hậu chiến năm 1979 có thể đi đến một kết luận từ một góc nhìn quan sát độc lập. Toàn bộ đường [âm nhạc] biên giới đất liền hiện nay đã được định đoạt và khóa chặt bằng những chứng lý khoa học pháp lý sầu phẳn nhất. Oh [âm nhạc]
+
+    
+  
+  
+# Note 247: NUC 260723 Playbook tăng cường quản lý bán vàng nhưng cá mập vẫn lọt lưới, cá con mắc kẹt hết.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/-2FzLniTHx0"
+author: "Nước Úc Channel"
+published: 2026-07-23
+created: 2026-07-23
+description: "BÁN VÀNG BỊ GIAM TIỀN 4 THÁNG: CÓ TIỀN CŨNG BỊ SOI ?"
+
+
+00:00:02
+ Xin chào tất cả các bạn. Mấy hôm nay là thấy rần rần cái cảnh người dân bán vàng tại BNG rồi ngã ngửa khi cầm về vỏn vẹn 10% tiền mặt. Chị bán luôn á thì em sẽ thái cho mình trong vòng 120 ngày á. Chị >> chị có bốn chỉ thôi mà. >> Sắp xếp dùng chị đi chứ có phải nhiều như người ta đâu. >> Dạ không thường chị the quy định của công [âm nhạc] ty là dậ >> quy định sao? Em nói chị nghe n. >> Ừ cái này bọn em nếu mà đáng luôn thì bọn em sẽ không tán cho mà 100 cha. Thanh tán nhà mình trong vòng 120 ngày.
+
+00:00:33
+ Ngày thứ nhất á thì nhận được là 10% 30 ngày sau thì chị nhận được là 20% 60 ngày sau thì chị m nhận được 25%. >> Tức là tức là 2 tháng 2 tháng thì chị mới >> 4 tháng >> em sẽ chia ra >> 4 tháng chị mới nhận được cái số tiền mà bán vàng có bao nhiêu? Bốn chỉ này của chị >> mua hả? Có có thiếu xu nào của em đâu. Bây giờ đến lúc mà á em thanh toán cho chị thì chị bán lại thì em lại bảo em thanh toán trong vòng cả 4 tháng. >> Vàng của công ty bán ra nay người ta kẹt
+
+00:01:03
+ tiền mới đem bán lại thì đột nhiên bị tước đi quyền thanh khoản ngay lập tức. Vậy thì tại sao khi cầm một khối tài sản hợp pháp sạch 100% đi giao dịch là bị đối xử y chang? Một đối tượng đang bị rà soát tài chính? Quyền lợi của người tiêu dùng nằm ở đâu? khi lỡ dở hợp đồng mua nhà hay là lỡ nhịp mổ cấp cứu cho người thân chỉ vì bị giam tiền tận 4 tháng trời. Chuyện gì đang thực sự vận hành đằng sau những quầy giao dịch kia khiến ngay cả những ông lớn ngành vàng cũng phải run sợ mà bẻ gãy quyền lợi của
+
+00:01:40
+ khách hàng. [âm nhạc] Khi nhìn rộng ra ngoài đời thực, đào sâu xuống cái túi tiền của người làm công ăn lương thì mới thấy có một sự tàn nhẫn hơn rất nhiều. Bây giờ hể các bạn cầm một cục tiền mặt lớn đi giao dịch mua bán tài sản giá trị cao là ngay lập tức vướng ngay một bức tường lửa. Luật chơi mới đã được thiết lập và ép buộc mọi giao dịch lớn đều phải đi qua hệ thống ngân hàng bằng hình thức chuyển khoản. Từng cắt từng đồng phải được minh bạch hóa trên hệ thống điện tử. Nghe qua thì có vẻ là cực kỳ hợp lý văn minh và đúng
+
+00:02:27
+ chuẩn quốc tế. Nhưng đem cái quy chuẩn văn minh đó đặt vô hoàn cảnh trần trụi của người lao động thì mới thấy họ đang bị dồn vô một cái thế kẹt đứt ruột đứt gan. Lấy ngay một ví dụ như thế này. Hai vợ chồng buôn bán nhỏ cày cốt từ sáng tới khuya suốt 10 năm trời, chắt bóp tầng đồng lẽ không dám ăn ngon mặt đẹp. Cuối cùng họ dư ra được 1 tỷ bạc tiền mặt, cầm cục tiền đó trên tay. Một cuộc chiến tâm lý khủng khiếp bắt đầu. Giữ 1 tỷ tiền mặt đó ở nhà thì nơm nớp lo sợ. Nào là sợ trộm cấp rình rập, sợ hỏa
+
+00:03:02
+ hoàng rủi ro và sợ nhất là cái cảnh lạm phát vô hình mỗi ngày gặm nhắm đi một ít giá trị của đồng tiền. Tiền để không là tiền chết. Vậy thì phải đem vô hệ thống ngân hàng. Nhưng khi bước chân tới cửa quầy giao dịch, nỗi ám ảnh kinh hoàng khác ập đến. đem 1 tỷ đó gửi tiết kiệm thông thường thì lãi suất ba cọc ba đồng. Nhưng [âm nhạc] cái ác mộng thực sự nó không nằm ở mức lãi suất thấp mà nó nằm ở những cạn bẫy tinh vi giăng sẵn ngay tại quậy. Người dân lao động cả đời chỉ biết cắm mặt làm ăn. Kiến thức tài chính vĩ mô gần như là
+
+00:03:40
+ con số không. Khi bước vô quầy lập tức trở thành miếng mồi ngon. Nhân miên ngân hàng tư vấn những gói tiết kiệm lãi suất cao, đầu tư linh hoạt xin lợi khủng. Kèm theo những lời hứa hẹn chắc nịch, đám đông thì nhẹ dạ cả tình, đeo bản tên ngân hàng lớn thì nhắm mắt ký vô hàng loạt giấy tờ toàn chữ nhỏ xíu mà không hiểu bản chất bên trong. Tới chừng ngã ngửa ra thì mới phát hiện ra mồ hôi nước mắt của mình không phải đi gửi tiết kiệm mà đã bị hô biến thành hợp đồng bảo hiểm nhân thọ ép buộc. hoặc cay đắng hơn nữa
+
+00:04:15
+ là bị lùa đi mua trái phiếu doanh nghiệp rác của những tập đoàn đang trên bờ vật vỡ nợ. Mất niềm tin vào việc giữ tiền mặt ở nhà lại càng không thể tin khi giao phó mồ hôi nước mắt cho hệ thống ngân hàng. Người dân kẹt cứng giữa hai gọng kìm. Xài tiền mặt số lượng lớn thì bị xem là bất thường, bị soi xét nguồn gốc, còn đem vô ngân hàng thì nơm nớp lo sợ bị lừa mất trắng cả chì lửng trại. Khi bị dồn vô cái thế chân tượng đó, thói quen ăn chắc mặt bền đã trổi dậy. Họ báu víu vào cái phao cứu sinh cuối
+
+00:04:51
+ cùng là thứ tài sản duy nhất mang lại cảm giác an toàn tuyệt đối là vàng miếng. Họ ngoan ngoãn tuân thủ luật chơi. Tiền kích cốc bao năm đem nộp vô tài khoản dùng chuyển khoản đàn hoàng để ra tiệm sắm vài lượng vàng cất kỹ dưới đáy tủ. Giao dịch diễn ra rất chơn chu. Họ đinh nên rằng vàng của mình mua bán rạch rồi chứng tự đầy đủ. Vậy là tài sản đã được bảo hộ an toàn. Nhưng cuộc đời không như là mơ. Đùng một cái gia đình có biến cố cấp bách, cần một số tiền lớn để lo chi phí phẫu thuật, xách đúng cái khối tài
+
+00:05:30
+ sản hợp pháp đó, kẹp chung với hóa đơn ra lại chính cái tiệm vàng ngày xưa để bán lấy tiền mặt. Và ngay tại cái giây phút này, hệ thống lực mặt nhanh hơn lực bánh tráng cũng là cục vàng đó, cũng là dòng tiền đã từng được luân chuyển minh bạch qua hệ thống ngân hàng. Nhưng khi muốn đổi ngược lại thành tiền mặt thì mọi thứ bỗng nhiên bị khựn lại. Tiền của mình, tài sản hợp pháp cũng là của mình. Nhưng khi muốn thanh khoản thì lại bị tra khảo nguồn gốc. Một giao dịch hoàn toàn sạch sẽ từ gốc tới ngọn thì bỗng
+
+00:06:05
+ nhiên biến người bán tài sản thành một đối tượng bị nghi ngờ, y chang như những kẻ đang cố tình rửa tiền phi pháp. Tại sao lúc mang tiền đi mua tài sản thì hệ thống chào đón rất nồng nhiệt? không một lời thắc mắc, nhưng lúc mang tài sản chính đáng đó đi bán ngược lại bị đẩy vô cái thế phải chứng minh mình trong sạch. Hệ thống ngân hàng và các tổ chức quản lý thực chất đang rà soát cái gì? Và đằng sau cái bức tường kiểm soát ngạch nghèo, lực mạch như bánh tráng này rốt cuộc là một luật chơi vĩ mô tàn khóc nào
+
+00:06:39
+ đang thực sự giật dây từ ở trên? Tại sao vàng do chính tay doanh nghiệp bán ra nay họ mua lại mà phải giam tiền tới tận 4 tháng? Hay là họ đang sợ hãi điều gì từ những cục vàng thực 100% đó? Và tại sao con số 120 ngày ác mộng đó nó lại sinh ra? Thực tế rành rành như thế này. Đó không phải là vì vàng giả. Vàng thì nguyên siêu, máy kiểm định quét một phát là ra thông số chuẩn xác tuyệt đối, không một gốc khuất. Doanh nghiệp họ thừa biết đó là vàng thực, là tài sản hợp pháp của chính hệ thống của họ phát
+
+00:07:18
+ hành. Nhưng cái làm cho ban lãnh đạo của các ông lớn ngành vàng run sợ không nằm ở chất lượng của cục vàng mà nằm ở nguồn gốc dòng tiền và những chiếc bẫy pháp lý từ trên cao. Khi các cơ quan quản lý nhà nước bắt đầu siết chặt kiểm tra dòng tiền ngầm, truy quét tận gốc các giao dịch bức minh theo áp lực chống rửa tiền toàn cầu từ lực lượng đặc nhiệt AFTF thì một chiếc lưới vô hình đã được giăng ra. Các tổ chức thu mua bỗng rơi vào tình trạng hoảng loạn pháp lý. Họ sợ rằng nếu mua vào ào ạc rồi giải ngân tiền mặt
+
+00:07:56
+ ngay tức khắc, lỡ không may vướng phải một vài giao dịch bị nghi ngờ từ hệ thống trung gian trước đó thì chính họ sẽ trở thành mục tiêu bị thanh tra chính sợ gáy. Trong cơn hoảng loạn tự vệ này, các doanh nghiệp vàng lớn họ chọn một giải pháp tàn nhẫn đối với khách hàng. Phòng thủ thái quá bằng cách câu giờ. Họ tự ý đặt ra cái móc 120 ngày không phải vì cần thời gian thẩm định cục vàng mà là để dùng khoảng thời gian ngâm vốn đó làm vùng đệp an toàn cho chính họ. Họ kéo dài thời gian để rà soát, để né
+
+00:08:36
+ tránh mọi rủi ro thành trà và quan trọng nhất là đẩy toàn bộ gánh nặng thiệt hại, sự kẹt cứng dòng tiền về phía người tiêu dùng. doanh nghiệp họ chọn cách làm mất lòng khách hàng của họ còn hơn là phải đối mặt nguy cơ bị hệ thống kiểm soát thổi cọi. Và thế là một vòng lẫn quẩn được thiết lập. Chính phủ thì siết chặt dòng tiền để chặn đứng nguy cơ đẩy nền kinh tế rơi vào vùng xám tài chính toàn cầu. Đó là một mục tiêu vĩ mô để bảo vệ an ninh quốc gia. Nhưng khi cái mẻ lưới vĩ mô đó áp dụng xuống thì những dòng
+
+00:09:12
+ tiền ngầm khổng lồ luôn biết cách luồng lách thoát nạn an toàn. Ngược lại, những người dân lao động chắt bóp từng đồng mua vàng chính hãng, đóng thuế đầy đủ lại trở thành những kẻ duy nhất bị lọt vào mắt lưới và gánh trọn tất cả. Họ mang tài sản sạch ra để bán nhưng lại bị giam tiền bốn tháng trời, bị biến thành nạn nhân gánh chịu hậu quả do sự run sợ và phòng thủ thái quá của doanh nghiệp trước các đoàn quét vĩ mô ở trên. Có nhiều người nghĩ rằng cay ngay không sợ chết đứng, làm ăn đàng hoàng thì sợ gì
+
+00:09:48
+ kiểm tra, tiền sạch thì cứ chứng minh đi, việc gì phải kêu ca. Nghe qua thì có vẻ rất đúng, nhưng thực chất sự tàn nhẫn nhất dán xuống đầu từng lớp lao động chân chính như thế nào? Bây giờ các bạn hãy nhìn vô câu chuyện của hai vợ chồng công chức xem. 20 năm trời, sáng vát xe đi, tối mịt mới về, mỗi tháng lãnh lương đều đặng và bị nhà nước khấu trừ thuế thu nhập cá nhân ngay tại góc không sót một cầng đồng tiền đó sạch 100%, minh bạch tới mức trong suốt. Họ chẳng dám đầu tư đất đai lướt sóng, cũng chẳng dám
+
+00:10:22
+ rớ vô tiền ảo hay là mấy kênh tài chính chớp nhoán. Họ sợ rủi ro, họ chọn cách an toàn và truyền thống nhất. chắc cóp từng đồng chuyển khoản qua ngân hàng để mua sắm vài lượt vàng cất kỹ dưới đáy tủ làm của để dành họ đinh ninh rằng mình sống hiền lành tuân thủ luật chơi đóng thuế sòng phẳn thì đời nào có chuyện phiền phức rơi trúng đầu đùng một cái người nhà phát bệnh hiểm nghèo cần tiền mổ gấp xách đúng những lượng vàng hợp pháp đó ra kẹp chung với tờ hóa đơn thì ngay tại quầy họ bị hệ thống dán một cứu
+
+00:10:58
+ tát nổ đom đm vàng bị giam lại, tiền mặt không được trả ngay mà quăng cho một tờ giới hạn 120 ngày bắt kê khai nguồn gốc tài sản y chang như một nghi phạm đang bị điều tra. Nhà nước đã thuế từ đồng lương của họ, nhà nước đã cấp phép cho cái tiệm vàng đó hoạt động. Nhà nước đã công nhận tờ hóa đơn kia. Vậy mà tới lúc họ thực thi cái quyền cơ bản nhất của họ là bán tài sản của chính mình để cứu mạng người thân thì hệ thống lại bắt họ phải nai lân ra tự chứng minh mình trong sạch, mặc định có tội cho tới khi tự
+
+00:11:35
+ chứng minh được mình vô tội. Vậy thì câu hỏi đặt ra là tại sao nhà nước phải nhắm mắt cho các ngân hàng và tiệm vàng siết chặt dòng tiền thà để cho người dân kêu ca chứ nhất quyết không chịu nới lỏng cơ chế? Câu trả lời nằm ở một sinh mạng lớn hơn rất nhiều, chính là áp lực tuân thủ các tiêu chuẩn luật chơi tài chính quốc tế để giữ cho nền kinh tế không bị sụp đổ, để đất nước có thể giao thương, xuất khẩu hàng hóa, thu hút dòng vốn đầu tư trực tiếp từ nước ngoài và duy trì hệ thống ngân hàng kết nối toàn cầu, chính
+
+00:12:11
+ phủ phải bắt buộc tuân thủ nghiêm ngặc các hiệp ước quốc tế về phòng chống rửa tiền. Nếu chính phủ cho phép các giao dịch tiền mặt trôi nổi tự do mà không có kiểm soát hoặc là để cho các tiệm vàng mua bán ẩn danh hàng ngàn tỷ đồng mỗi ngày mà không thèm truy vết nguồn gốc thì chuyện gì sẽ xảy ra? Ngay lập tức, quốc gia đó sẽ bị đặc nhiệm tài chính toàn cầu, dán nhãn là rủi ro cao tống thẳng vô danh sách xám hoặc là danh sách đen tài chính thế giới. Khi cái án phạt vĩ mô đó dán xuống thì thảm họa thực sự
+
+00:12:49
+ mới bắt đầu. Hệ thống ngân hàng trong nước bị cắt đứt kết nối quốc tế. Mọi giao dịch chuyển tiền xuyên biên giới bị đóng băng. Dòng vốn ngoại tệ tháo chạy sạch sẽ. Các doanh nghiệp xuất khẩu không thu được tiền về, cả một nền kinh tế sẽ tê liệt và đổ sập dây chuyền chỉ trong chớp mắt. Chính vì cái hiểm họa sống còn đó, chính phủ không còn cách nào khác bắt buộc phải ban hành những bộ khung pháp lý cực kỳ khắc khe và quăng ra những mẻ lưới khổng lồ để rà soát toàn bộ dòng chảy tiền mặt và tài sản ẩn
+
+00:13:25
+ danh. nơi mà những dòng tiền bửn, tiền tham nhũng, tiền tội phạm lên tới hàng chục ngàn tỷ đồng được che giấu, dung dưỡng và luân chuyển qua biên giới một cách tinh vi mà không để lại một dấu vết. Đó chính là cái thế giới ngầm mang tên vùng xám tài chính. Cái vùng xám đó nó vận hành tinh vi cỡ nào và tại sao những con cá mập tạo ra nó thì lại lọt lưới tẩu thoát an toàn, còn người dân hiền lành lại trở thành nạn nhân chết thay. Bây giờ các bạn hãy tưởng tượng có một ông quan chức vừa vơ vét được một khối
+
+00:14:04
+ tiền mặt khổng lồ lên tới 1000 tỷ đồng từ một dự án ma. 1000 tỷ tiền mặt đó. Nếu ôm một bao tải bước vô bất kỳ ngân hàng nào ở Việt Nam để xin chuyển khoản thì lập tức cảnh sát kinh tế sẽ ập tới còng tay ngay lập tức. Tiền không thể đi qua đường chính ngạch, tiền cũng không thể nhét vô vali xách qua cửa khẩu hải quang. Vậy thì làm sao khối tài sản khổng lồ đó bay ra được nước ngoài? Thứ nhất, để đưa tiền ra khỏi Việt Nam, những thế lực ngầm không bao giờ di chuyển tiền vật lý ra. Chúng sử dụng một
+
+00:14:40
+ ma trận giao dịch ngầm phi chính thức. Một chiếc xe tải chở đầy 1000 đồng tiền mặt của ông này sẽ chạy thẳng tới một điểm tập kết ngầm. Điểm tập kết này có thể núp bóng với dạng một tiệm vàng lớn hay là một công ty bình phong nằm ngay giữa trung tâm Sài Gòn hay là Hà Nội. Giao tiền mặt xong là chấm hết. Không có biên lai, không có hệ thống ngân hàng nào ghi nhận. Nhưng ma thuật nó nằm ở chỗ. Ngay khi đóng tiền mặt đó được nhận ở Việt Nam thì bùm một cái. Chỉ vài tiếng sau, một đường dây đối tác
+
+00:15:16
+ của tổ chức ngầm này ở nước ngoài sẽ tự động giải ngưng 40 triệu đô la Mỹ tiền sạch, bơm thẳng vô một tài khoản đã được chỉ định sẵn ở bên kia Đại Dương. Không một đồng tiền giấy nào thực sự vượt biên giới nhưng giá trị của 1000 tỷ đồng tiền bẩn này đã tàn hình trót lọt ra nước ngoài. Khi tiền ra tới nước ngoài thì hệ thống ngân hàng quốc tế đâu có bị mù. 40 triệu đô la đột nhiên dán xuống một tài khoản thì các tổ chức chống rửa tiền quốc tế sẽ soi ngay lập tức. Tới đây là lúc đội ngũ luật sư của cá mập ra tay.
+
+00:15:55
+ Ông trùng ở Việt Nam không bao giờ dạy dột đứng tên tài khoản đó. Tài khoản đó thuộc về một công ty võ sò, một doanh nghiệp ma được lập ra ở các thiên đường miễn thuế ẩn danh như quần đảo Khen hay là Panama. Công ty này có giám đốc thuê mướng, có hồ sơ pháp lý hoàn hảo nhưng hoàn toàn không sản xuất kinh doanh gì hết. 40 triệu đô la kia được hệ thống luật sư hợp thức hóa bằng những bộ hồ sơ giả mạo cực kỳ tinh vi, nào là phí tư vấn dự án quốc tế, nào là lợi nhuận thương mại từ quỹ đầu tư ủy thác. Đối
+
+00:16:33
+ với các ngân hàng quốc tế, dòng tiền này nhìn bề ngoài nó hoàn toàn hợp lệ, chảy từ một pháp nhân kinh doanh độc lập, cắt đứt hoàn toàn mọi dấu vết liên quan đến quan chức tham nhũng ở Việt Nam. Dòng tiền đã được giặt trắng bóc không tỳ vết. Khi tiền bửng đã biến thành ngoại tệ sạch nằm an toàn trong nhà băng quốc tế. Nhưng những ông trùm đâu có muốn để tiền chết ở nước ngoài. Mục đích cuối cùng là phải mang tiền về lại Việt Nam để thâu tóm đất vàng, xây biệt thự ngàn m²uông, sóng vương giả mà cơ quan điều
+
+00:17:11
+ tra không thể sờ gáy. Lúc này mớ tiền tham nhũng năm xưa sẽ khoác lên mình một chiếc áo vest cực kỳ sang trọng. Vốn đầu tư trực tiếp từ nước ngoài FDI. Công ty bình phong bên kia đại giường sẽ đàn hoàng ký hợp đồng rót vốn đầu tư ngược lại vào một doanh nghiệp bất động sản do chính vợ con hoặc là đàn em ông trùng đứng tên tại Việt Nam. Cọc tiền 1000 tỷ dơ bẩn chui lỗi ngày nào nay lại hiên ngang bước qua cửa chính của ngân hàng nhà nước được trải thẩm đỏ đón chào dưới danh nghĩa ngoại tệ sạch đổ về phát
+
+00:17:50
+ triển đất nước. Ông trùng thản nhiên dùng nguồn tiền đầu tư nước ngoài đó mua gom tài sản và hoàn thành một vòng tuần hoàng khép kính hoàn hảo. Và đây chính là đòn tàn nhẫn nhất lật ngửa toàn bộ ván bài. Những bộ luật khắc khe mà chính phủ đang ép xuống thị trường vàng, ép xuống hệ thống ngân hàng thực chất là một chiếc lưới giăng ra với hy vọng là bắt cho bằng được cái dòng chảy 1000 tỷ đồng ngầm này. Nhưng sự thật nó phủ phàn là chiếc lưới đó nó hoàn toàn vô dụng với cá mập, những tập đoàn tài chính
+
+00:18:27
+ ngầm, những kẻ rửa tiền với mạng lưới công ty bình phong và hệ thống luật sư lắc léo. Họ luôn biết cách xé lưới để tàn hình rất lọt. Cá mập thì vuột mất ngoài khơi xa. Cuối cùng nó chỉ chụp trúng, siết cổ và bốc nghẹt những con cá con ở tầng đấy. Người dân lao động lương thiện. Họ xách hai lượng vàng hợp pháp có hóa đơn đi bán để cứu mạng người thân thì bị lưới siết chặt, bị giam tiền 4 tháng, bị tra khảo nguồn gốc y chang như một tội phạm rửa tiền. Họ gánh trọn vẹn sự bất lực và hậu quả của cả một cổ máy
+
+00:19:06
+ kiểm soát ở trên. Khi nhìn lại toàn bộ bức tranh, chúng ta thấy gì? Một sự đối lập tàn nhẫn đến mức nghẹt thở đang diễn ra ngay trước mắt mỗi ngày ở một góc nào đó của những khu đô thị xa hoa. Những ông trùng thao túng dòng tiền ngầm đang ung dung ngồi nhâm nhi ly rượu vang trong căn biệt thự triệu đô. Tài sản của họ được bảo chứng bằng những lớp vỏ bọc vốn đầu tư nước ngoài rất hoàn hảo, sang trọng và sạch sẽ đến mức không một cơ quan nào có thể chạm đến. Họ là những kẻ đã tạo ra vùng xám rồi thản nhiên bước ra khỏi đó mà
+
+00:19:44
+ không rớt lại một giọt mồ hôi. Còn ở góc bên này, ngay tại quầy giao dịch là hình ảnh những con cá con, những người lao động cồng lưng đóng thuế không sót một cách. Họ đứng đó uất ức nhìn khối tài sản hợp pháp cứu mạng của cả một gia đình bị giam lỏng. Họ trở thành vật tế thần, gánh trọn vẹn sức nặng của một cổ máy quét vĩ mô. được giăng ra để bắt cá mập nhưng cuối cùng lại bắt được những người yếu thế nhất. Vậy thì khi một hệ thống sẵn sàng mặc định những công dân lương thiện nhất là nghi phạm chỉ để bảo
+
+00:20:22
+ vệ sự an toàn cho bức tranh vĩ mô thì rốt cuộc ai sẽ là người đứng ra bảo vệ quyền [âm nhạc] lợi và sinh mạng cho những công dân đó lúc hữu sự. Và thứ hai, khi bạn cầm tiền mặt giao dịch cũng bị soi, khi bạn cầm vàng cũng bị hẹn 120 ngày. Còn nếu để vô ngân hàng thì sợ lắc léo. Vậy thì tiền của bạn cất ở đâu để tin chắc rằng mình không phải là nạn nhân tiếp theo bị nuốt chẩng bởi chính cái mẻ lưới vô hình này?
+
+    
+  
+  
+# Note 248: NUC 260729 Playbook dùng nghề hoa hậu, đấu giá hàng giả để kiềm tiền.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/hS96ntur9l4"
+author: "Nước Úc Channel"
+published: 2026-07-29
+created: 2026-07-29
+description: "VƯƠNG MIỆN 3 TỶ: KHI "CÁI GIẢ" TRỞ THÀNH NGHỀ HÁI RA TIỀN ?"
+
+00:00:00
+ Xin chào tất cả các bạn. Một chiếc vân miệng đăng quang được truyền thông tung hô rồng rộ trị giá 3 tỷ đồng. Cô ta đên ninh mình đang sở hữu một gia tài khổng lồ. Thế nhưng chiếc vương miệng đó khi đi kiểm định thì sự thật nó phủ phạn. Toàn bộ chỉ là đá tổng hợp rẻ tiền. Ngọc trai thì tróc vỏ. Không kim loại thì không có một cách giá trị vật chất nào. Hột này là hột giả hết luôn. Hột này là giả hết hột giả 100% hột giả giả thường giả thường luôn chứ không phải nó là hột nhân tạo còn ngọc trai nữa em kiểm tra luôn
+
+00:00:37
+ >> ngọc trai này chị khỏi cần em kiểm tra thấy nó trầy nát hết rồi >> nhìn là biết đồ giả rồi >> bốn mươ mấy triệu một viên >> định giá cái vương miệng này là 3 tỷ tại vì nó đang có sự cố nên thành ra là chị mới đem đi kiểm tra chứ bình thường là chị sẽ không kiểm tra >> cái này cái này thì không biết người ta định giá thế nào nhưng mà nếu như cái này thì nó không có giá trị không có giá trị luôn. >> Khi sự thật vỡ lỡ, những kẻ bày ra cuộc chơi lại thản nhiên buông một câu giải
+
+00:01:02
+ thích rất trần trụ. 3 tỷ đồng đó không phải là tiền vàng, tiền kim cương mà là tiền chất xám, tiền ý tưởng, tiền công chế tác và giá trị nghệ thuật. Vậy thì tiền chất [âm nhạc] xám, tiền ý tưởng, tiền nghệ thuật rốt cuộc là cái tiền gì mà có thể tự ý thổi một món đồ vài triệu bạc lên thành 3 tỷ đồng? The thực chất nó chỉ là một cú lừa truyền thông đã được tính toán cực kỳ tinh vi từ trước. Khi câu chuyện về chiếc vương miệng đính đá tổng hợp vỡ lỡ trên truyền thông, những người trong cuộc đã nhanh chóng
+
+00:01:45
+ lên tiếng giải thích. Họ lập luận rằng con số 3 tỷ đồng đó không phải được đông đếm bằng trọng lượng của vạn hay là số cara của kim cương mà nó bao gồm chất xám của người thiết kế, công sức tỉ mỹ của nghệ nhân chế tác và trên hết là giá trị nghệ thuật vô giá mà tác phẩm mang lại. Nghe qua thì những lời giải thích mang đậm tính học thuật này có lẽ không ít người sẽ cảm thấy dường như nó cũng có phần hợp lý. Để các bạn có thể hình dung rõ ràng hơn về cái gọi là nghệ thuật định giá này, mình hãy tạm gác lại
+
+00:02:20
+ câu chuyện xí và cùng nhau nhìn vào một ví dụ như thế này. Một làn nghề truyền thống, có một người thợ mộc, anh ta để tạo ra một bức tượng nhỏ. Người thợ ấy phải lần lội đi tìm mua những khối gỗ tốt rồi dành ra rồng rã suốt một tháng trời cồng lân đục đẻo, trạm trổ từng chi tiết nhỏ nhất. Sau khi hoàn thiện, anh Thờ Mộc mang bức tượng đó ra chợ bán với mức giá 5 triệu đồng. Con số 5 triệu đồng đó là một sự tính toán vô cùng thực tế. Nó bao gồm tiền mua nguyên vật liệu, tiền công sức lao động thực tế và một
+
+00:02:55
+ chút lợi nhuận vừa đủ để trang trải bắt cơm manh áo cho cả gia đình, nơi mà mọi giá trị đều được bảo chứng bằng sức lao động và tài sản của mình. Thế nhưng câu chuyện sẽ rẽ sang một hướng hoàn toàn khác. Nếu cũng là chính bức tượng gỗ giá 5 triệu đồng đó vô tình lọt vào mắt xanh của một đơn vị tổ chức sự kiện chuyên nghiệp, họ sẽ mua lại nó nhưng không phải để trưng bày trong phòng cách mà để biến nó thành nhân vật chính trong một đêm tiệc đấu giá từ thiện xa hoa. >> Này em là hoa hậu danh nhân Hoàn Vũ 2024
+
+00:03:29
+ nhé. Hoa hậu nhân ái nh mọi người. Đấy, đây là ông thần tài mà đấu giá ở chỗ chương trình cuộc thi hoa hậu đấy. Mọi người giới thiệu là ban tổ chức là giới thiệu là ông thần tài này là gỗ trầm hương nguyên khối cao 1 m. Gỗ trầm hương nguyên khối đấy mọi người ạ. Cao 1 m bảo em là đấu giá để lấy tiền từ thiện. cho cuộc chương trình cuộc thi hoa hậu doanh nhân 2024 Hoàn Vũ 2024. Nhưng mà em cũng được khi em đặt giải hoa hậu này thì em được tặng cả thêm ông thần tài này nữa. Nhưng thật chất ông không phải
+
+00:04:17
+ là ông trầm hương mà là ông là gỗ thường nha. Đứng bên cạnh bất tượng không còn là người thợ mộc lắm lem mồ hôi mà là những người đẹp lọc lẫy đội trên đầu những chiếc vương miệng lấp lánh để bảo chứng cho sự danh giá. Đột nhiên qua lời giới thiệu đầy hoa mỹ của người dẫn chương trình, bất tượng gỗ mít gỗ xoài bình thường đó được khoác lên mình một cái tên hoàn toàn mới tuyệt tác trầm hương phong thủy ngàn năm tích tụ linh khí đất trời. Hơn thế nữa, nó còn được gắn thêm một sứ mệnh vô cùng cao cả là toàn bộ số tiền đấu giá sẽ
+
+00:04:55
+ được quyên góc vì mục đích nhân văn và khoảng khắc chiếc búa đấu giá gõ xuống. bất tượng trị giá 5 triệu đồng đã chính thức được chốt với mức giá lên tới 2 tỷ đồng. Đó là một sự chênh lệch không tưởng. Đứng trước sự kiện này, dư luận thường có xu hướng chỉ trích vị đại gia đã bỏ ra hai tỷ đồng kia là bốc động, là thiếu hiểu biết về đồ gỗ nên mới bị lừa mua một món hàng hớ. Nhưng thưa các bạn, những người có khả năng sở hữu trong tay khối tài sản khổng lồ để sẵn sàng vung tiền trong các buổi tiệc như vậy, họ
+
+00:05:33
+ hiếm khi là những người ngây thơ. Vị đại gia kia hoàn toàn ý thức được chất liệu thực sự của bức tượng này. Thứ mà ông ấy đang bỏ ra 2 tỷ đồng để mua không phải là khối gỗ kia. Ông ấy đang thanh toán cho một gói dịch vụ tài sản vô hình. Gói dịch vụ đó bao gồm một tấm vé truyền thông giúp hình ảnh doanh nghiệp của ông ta xuất hiện rầm rộ trên trang nhất của các tờ báo lớn vào sáng hôm sau. Gói dịch vụ đó mang lại cho ông một chiếc huy hiệu nhà hảo tâm lớn giúp gia tăng uy tín xã hội. Quan trọng hơn, thông qua
+
+00:06:10
+ đêm tiệc đó, ông có cơ hội tiếp cận, bắt tay và thiết lập những mối quan hệ làm ăn chiến lược với những nhân vật ở từng lớp thượng lưu đang có mặt hôm đó. Cuối cùng, khoảng tiền 2 tỷ mang danh nghĩa từ thiện đó bằng một số nghiệp vụ kế toán hợp lệ hoàn toàn có thể được tính vào chi phí hoạt động để tối ưu hóa bài toán thuế cho doanh nghiệp. Như vậy, người tổ chức sự kiện có được tiếng vang, còn người mua có được danh tiếng và các lợi ích tài chính đi kèm. Cả một hệ sinh thái được vận hành trơn tru dựa
+
+00:06:48
+ trên một sự thỏa thuật ngầm để cùng nhau bơm thổi giá trị của một món đồ lên gấp hàng trăm lần giá trị thực. Chiết vương miệng 3 tỷ đồng đính đá tổng hợp, bản chất đều là những công cụ, những quân cờ trong một bàn cờ lợi ích được thiết lập một cách hoàn hảo. Không ai bị lừa ở thường tần hết. Người ngơ ngác duy nhất có chăng chỉ là công chúng. Những người đứng ngoài quan sát và tin rằng những con số bề nổi kia đó là giá trị thực. Điểm mấu chốt chính là sự đối lập phủ phàn giữa hai thế giới, nơi một người
+
+00:07:26
+ dân lao động chắc chiêu dành dụng, mang một vài lượng vàng có hóa đơn đỏ hợp pháp đi bán. Họ bị giam tiền thanh toán, bị yêu cầu kê khai, bị hệ thống giám sát chặt chẽ mọi dòng chảy tài chính. Trong khi đó, ở một góc độ khác, những khối tài sản được định giá bằng miệng, những giao dịch lớn hàng tỷ đồng dựa trên giá trị vô hình thì lại được hợp thức hóa và luân chuyển một cách dễ [âm nhạc] dàng dưới lớp vỏ bọc mỹ miệu của nghệ thuật và lòng nhân ái. Tại sao một chiếc vương miệng đính đá nhân tạo lại có thể thản
+
+00:08:01
+ nhiên được định giá lên tới 3 tỷ đồng? Chắc hẳn khi nghe đến con số này, một câu hỏi lớn sẽ lập tức được đặt ra. về cơ sở pháp lý và thức đo giá trị thực sự. Hiện tượng định giá khống này thực chất là một mô hình thu nhỏ của một ma trận kỹ thuật phức tạp. Khi một thương hiệu doanh nghiệp muốn định vị tên tuổi của mình ở phân khúc cao cấp, chi phí dành cho các chiến dịch quảng cáo có thể tiêu tốn hàng chục tỷ đồng. Thay vì phải giải ngân dòng tiền khổng lồ đó, một thủ thuật tài chính khôn ngoan hơn đã được
+
+00:08:35
+ áp dụng. Họ tạo ra một tài sản truyền thông. chiếc vương miệng ra đời với chi phí nguyên liệu chỉ vỏn vẹn vài chục triệu đồng. Nhưng khi thông qua một thỏa thuận hợp tác dân sự giữa đơn vị tài trợ và ban tổ chức thì nó được khoác lên mình một định giá trên giấy là 3 tỷ đồng. Trong suốt quá trình cuộc thi diễn ra, không hề có bất kỳ một giao dịch 3 tỷ đồng tiền mặt nào được chuyển từ tài khoản của nhà tài trợ sang ban tổ chức. Con số 3 tỷ hoàn toàn chỉ tồn tại trên các thông cáo báo chí. Những bài viết ba
+
+00:09:12
+ và lời xướng tên của người dẫn chương trình. Ở ma trận này, nhà tài trợ nghiễm nhiên chiếm được vị trí trung tâm của truyền thông với danh xưng nhà tài trợ vật phẩm 3 tỷ đồng. Họ nghiễm nhiên nâng tầm giá trị thương hiệu mà không hề làm suy xyển ngân sách tiền mặt của công ty. Ngược lại, phía ban tổ chức sử dụng con số 3 tỷ đó để đánh bóng tên tuổi chương trình, từ đó dễ dàng thu hút thêm hàng loạt các nhà tài trợ phụ bằng tiền mặt thực và thuyết phục hàng trăm cá nhân tham gia nộp những khoản phí danh nghĩa
+
+00:09:48
+ không hề nhỏ. Một hệ sinh thái khép kính được thiết lập nơi các bên ở trên đều đạt được mục tiêu thương mại của mình mà không cần dùng đến dòng vốn thực tế. Sự nguy hiểm của ma trần này không chỉ dừng lại ở một vài sự kiện hào nhoáng. Khi cơ chế thỏa thuận định giá ảo này được chấp nhận và vận hành trơn tru thì nó sẽ nhanh chóng lan rộng và trở thành công thức chung cho nhiều lĩnh vực trọng yếu khác của nền kinh tế. Từ câu chuyện của chiếc vương miền đến đá giả, dư luận có thể dễ dàng nhìn thấy bóng dáng của
+
+00:10:25
+ những cơn sốt tài sản từng làm trao đảo thị trường trong những năm qua. Điển hình nhất là câu chuyện về những mầm cây lang đột biến. Một cành cây có giá trị sinh học hoàn toàn bình thường. Đột nhiên nó được hai cá nhân bắt tay nhau đưa lên không gian mạng và giao dịch công khai với mức giá 50 tỷ đến 100 tỷ đồng. Thủ thuật ở đây hoàn toàn trùng khớp với vụ việc chiết vương miệng. lấy một tài sản lõi không có giá trị đặc biệt, dùng thuật toán của mạng xã hội để thổi phòng truyền thông, mượn danh nghĩa
+
+00:10:59
+ của những đại gia trong giới để tự định giá với nhau. Khi con số hàng chục tỷ liên tục được lặp đi lặp lại trên mặt báo và livestream, nó tạo ra một hiệu ứng tâm lý cực kỳ mạnh mẽ khiến những nhà đầu tư nhỏ lẽ ở từng đáy lầm tưởng đó là giá trị thực. Kết quả là những dòng tiền tiết kiệm thực sự của người lao động lại bị hút trọn vào một mầm cây vô giá trị. Khi những người tạo ra ma trận này, họ rút lui, hệ sinh thái khép kính sẽ sụp đổ. Thứ còn lại chỉ là sự đổ vỡ tài chính của hàng ngàn cá nhân nhẹ
+
+00:11:36
+ dạ. Sâu hơn, cơ chế thổi phòng giá trị này chính là căn nguyên của khối u trong lĩnh vực bất động sản và thị trường chứng khoán. Một bãi đất trống cần cổi ở vùng ven giá trị sử dụng nông nghiệp vô cùng thấp nhưng ngay khi lọt vào tay một nhóm lợi ích nó lập tức được khoác lên mình tấm áo mỹ miều của siêu dự án thành phố thông minh trong tương lai. Những bản vẽ quy hoạch 3D, những ngôn từ hoa mỹ về giá trị sống đích thực tiềm năng sinh lời vô hạn chính là cách họ đang tính tiền chức xám, tiền nghệ thuật vào
+
+00:12:14
+ giá bán. Nó giống hệt như cách người ta định giá chiếc vương miệng giả. 1 m²uông đất từ vài trăm ngàn đồng lại bị thổi lên hàng chục triệu đồng. Hàng loạt mã cổ phiếu rác của những công ty không hề có hoạt động sản xuất kinh doanh thực tế bằng những thủ đoạn xào nấu, báo cáo tài chính và truyền thông. Họ vẫn thản nhiên tăng giá trần liên tiếp nhiều phiên, lùa dòng vốn khổng lồ của thị trường vào hư không. Bản chất của tất cả những hiện tượng này là sự bành trướng của một nền kinh tế bong bóng, nơi tài sản vô hình đang được
+
+00:12:50
+ dùng làm mồi nhữ để hút ruột nền kinh tế. Khi những con số hàng tỷ, hàng ngàn tỷ được sinh ra quá dễ dàng bằng vài nét vẽ trên giấy hay là vài dòng thông cáo báo chí thì nó làm vô hiệu hóa tước đo giá trị lao động cốt lõi của xã hội. Dòng tiền ngầm không chảy vào sản xuất. cũng không tạo ra việc trạm, không nâng cấp cơ sở hạ tầng mà chỉ luẩn quẩn trong một trò chơi truyền tay những tài sản ảo từ người này sang người khác. Còn những người dân lao động thì họ miệt mài tạo ra giá trị thực nhưng tài sản tích lũy
+
+00:13:28
+ thì luôn nằm trong tầm ngắm giám sát khắc khe của hệ thống. Sự tồn tại của chiếc vương miệng đá giả được định giá 3 tỷ không phải là một lỗi hệ thống ngẫu nhiên mà nó là minh chứng rõ nét nhất cho thấy khi các tiêu chuẩn về sự thực bị bẻ công để phục vụ cho mục đích làm màu của thượng tần thì toàn bộ cấu trúc định giá của cả xã hội sẽ đứng trước nguy cơ bị thao túng đến tận cùng. Từ chiếc vương miệng 3 tỷ, bất tượng gỗ 2 tỷ cho đến những bãi Đức Hoàng được sang [âm nhạc] tay hàng chục tỷ đồng, dư
+
+00:14:03
+ luận thường mang một tâm lý khá thờ ơ. Nhiều người mặc định rằng đó đơn thuần là sân chơi của giới nhà giàu, là chuyện của những người có tiền tự vẽ vời, tự chơi, tự chịu với nhau. Rất nhiều ý kiến cho rằng họ lùa gà hay làm màu thì kệ họ, đâu có lấy đi đồng nào trong túi của mình mà phải lo. Các bạn biết rằng một nền kinh tế bong bóng chưa bao giờ là vô hại và những khối tài sản ảo đó không hề đứng yên ở thượng tầng. Nó thực chất là một cổ máy hút máu khổng lồ và người đang phải bấm bụng trả cái hóa đơn cuối
+
+00:14:39
+ cùng cho những trò chơi làm màu đó lại chính là những người dân lao đập bình thường thông qua một cơ chế tàn khóc mang tên là lạm phát. Để thấy rõ sự tàn khóc của vòng xoáy này, không cần phải nhịn đâau xa xôi, chỉ cần nhìn vào nhịp sống hằng ngày của một người dân lao động, sáng ra ghé đầu hẻm ăn một tô phở. Nếu như cách đây vài năm chỉ tốn chừng 30.000đ thì nay vật giá đã nhích lên 50.000đ. Một ly cà phê đá lệ đường, một dĩa cơm tắm sườn bị trả đều âm thầm tăng giá mỗi năm. Người nội trợ đi chợ mỗi ngày đều
+
+00:15:18
+ cảm nhận rõ ràng khi tiền chợ dường như ngày càng teo lại trước những mớ râu con cá liên tục tăng giá. Tại sao lại có sự trượt giá như vậy? Góc rễ của vấn đề nó nằm ngay tại hệ quả của những chiếc vương miệng 3 tỷ đồng và những bãi đất phân lô bán nền ngàn tỷ ở trên. Quy luật kinh tế nó vận hành rất rõ ràng khi một nhóm lợi ích dùng đoàn bẫy truyền thông để thổi giá một mầm cây lang đột biến hay là một bãi đất trống từ vài trăm triệu lên hàng chục tỷ đồng và có những dòng tiền mạo hiểm lao vào mua lại nhóm
+
+00:15:54
+ bơi thổi đó sẽ chốt lợi họ rút ra khỏi thị trường hàng ngàn tỷ đồng tiền mặt thực số tiền đó nó vốn được sinh ra từ sự định giá ảo bắt đầu chảy ngược ra lưu thông ngoài xã hội. Những người cầm khối tiền chốt lời đó bắt đầu xài tiền, mua sắm siêu xe, tiêu thụ hàng hóa xa sỉ, gom mua các tài sản thật khác. Khi lượng tiền mặt lưu thông ngoài thị trường đột nhiên phình to ra, nhưng tổng sản lượng hàng hóa, giá trị sản xuất thực tế của toàn xã hội như gạo, rau, vật liệu xây dựng lại không tăng lên tương xứng thì quy luật tức yếu
+
+00:16:33
+ nó sẽ xảy ra, đồng tiền bị mất giá. Chính sự mất giá của đồng tiền đã đẩy chi phí sinh hoạt của toàn xã hội lên cao. Khối tiền khổng lồ được chốt lời từ các thương vụ up sọt đất đai hay là chứng khoán ảo. Nó đã pha loãng sức mua của những đồng lương chân chính. Nói một cách trần trùi, những kẻ làm màu ở trên không tự nhiên sinh ra tiền. Họ chỉ đang dùng thuật toán định giá khống để phân bổ lại sự giàu có. Họ hợp thức hóa việc lấy đi giá trị sức lao động của người dân ở dưới đáy, chuyển vào túi của mình
+
+00:17:09
+ một cách hoàn toàn êm thấm mà không vi phạm pháp luật. Đó chính là một thứ thuế vô hình mà tầng lớp lao động đang phải gánh chịu mỗi ngày. Người thợ say, chị công nhân, anh nhân viên văn phòng, họ không tham gia vào thị trường lang đột biến, không ôm bom đất bất động sản vụng ven, càng không quan tâm đến xí hay là vương miệng hoa hậu. Họ tạo ra giá trị thực cho xã hội bằng mồ hôi và chất [âm nhạc] xám thực. Nhưng cuối cùng họ là những người phải đứng ra thanh toán hóa đơn loạn phát do những cuộc chơi tài sản ảo gây
+
+00:17:46
+ ra. Tô phở thì đắt tiền lên, giá nhà thì xa tầm tay. Chính là hậu quả trực tiếp của việc xã hội đã quá dễ giải, dung túng cho việc tạo ra những con số ngàn tỷ tự hư không. Ở một thế giới, người ta có thể khoác cái mát từ thiện, nghệ thuật, quy hoạch để săn tay những khối tài sản ảo thu về dòng tiền khủng mà không có một cơ quan nào đòi chứng minh giá trị cốt lõi hay là giam giữ tiền thanh toán. Còn ở một thế giới khác, thế giới của những người cày quốc làm ăn chân chính thì lại bị giam tiền, bị đưa vào viện giám sát, bị
+
+00:18:26
+ đòi hỏi các loại giấy tờ chứng minh nguồn gốc minh bạch. Sự đối lập giữa việc thả nổi cho giá trị ảo bành trướng và siết chặt giá trị thật của người dân đã phê bày ra một lỗ hỏng cực kỳ lớn khi nền kinh tế cứ mãi mê chạy theo vòng xoáy lụa gà úsort bằng những thứ vô hình thay bị đầu tư vào công nghệ nhà máy sản xuất hoàn hóa thì cái giá phải trả trong tương lai không chỉ dừng lại ở một tô phở 5 60.000 Nó là một cái bẫy triệt tiêu hoàn toàn động lực làm giàu chân chính của cả một thế hệ. Từ câu chuyện của chức vương miệng khi
+
+00:19:04
+ lột bỏ lớp vỏ bọc hòa [âm nhạc] nhoán của trệt thông. Đó không đơn thuần là trò khoe khoan kệch cởm mà là những cổ máy dịch chuyển dòng vốn cực kỳ tinh vi. Trên thực tế thương trường giới tinh hoa tài chính không bao giờ ném tiền qua cửa sổ cho những món đồ vô giá trị để đổi lấy vài lời xưng tụng ảo huyện đằng sau những thương vụ đấu giá từ thiện rùm b hay là định giá tài sản khống là cả một nghệ thuật mượn đường để luân chuyển dòng tiền khi các bạn nhìn vào bài toán kế toán của một doanh nghiệp có lợi
+
+00:19:37
+ nhuận khổng lồ đến kỳ quyết toán thay vì phải trích nộp những khoản thuế thu nhập doanh nghiệp khổng lồ thì việc chi ra vài tỷ đồng để mua một bức tượng trầm hương dõm dưới danh nghĩa từ thiện hoặc là tài trợ một vật phẩm khống giá trị lại trở thành một nước cờ rất hoàn hảo. Khoảng tiền đó được hạch toán rất gọn gàng vào chi phí vận hành hoặc chi phí ba làm giảm lợi nhuận trước thuế một cách hợp lệ. Dòng tiền thực chất không hề bốc hơi, nó chỉ được mượn đường qua các sự kiện bề nổi để chảy từ tài khoản
+
+00:20:13
+ công ty sang những tài khoản cá nhân, dùng các sự kiện giải trí, dùng sự tung hô của dư luật và lớp áo nhân văn để tạo ra một bức bình phong mờ ảo đánh lập hướng sự chú ý. Qua đó, họ tranh thủ thời gian sắp xếp lại cấu trúc vốn ngậm và tổ tán lợi nhuận trước khi các cơ quan quản lý kịp thời phát hiện. Và khi dòng tiền đã được [âm nhạc] giặt sạch, luân chuyển thành công qua những chiếc vương miệng hay là những mảnh đất bánh vẽ, bến đổ cuối cùng hiếm khi là những dự án mang lại giá trị cốt lõi cho xã
+
+00:20:47
+ hội. Ngược lại, họ tìm đến những nơi trú ẩn mang tính đầu cơ cao như là thu gom bất động sản, hệ quả để lại cho nền kinh tế là một sự rỗng ruột. Khi một xã hội mà hằng [âm nhạc] ngày phải chứng kiến cảnh những nhóm lợi ích màu, thổi giá lang đột biến, phân lô bán nền để kiếm tiền tỷ quá đổi dễ dàng. Trong khi những người mở [âm nhạc] xưởng sản xuất kinh doanh buôn bán chân chính lại phải oằn mình gánh vác mọi rủi ro, thuế phí và lợi nhuận chỉ đông đếm từng đồng thì một tâm lý buông xuôi sẽ tức yếu xuất hiện.
+
+00:21:22
+ Họ sẽ dừng mất đi sự kiên nhẫn để trâu dồi tay nghệ hay là rèn luyện kỹ năng chuyên môn. sẽ không còn ai muốn bỏ ra 10 năm kỳ quốc để trở thành một kỹ sư giỏi khi mà chỉ cần một lời đồn thổi quy [âm nhạc] hoạch giả, một chút chiêu trò đánh bóng tên tuổi trên mạng xã hội là có thể đổi đời chỉ sau một đêm. Cả một thế hệ lao động sẽ dần rơi vào cái bẫy an phận. An phận chạy theo những giá trị bề nổi, thích lướt sóng, ăn sổi ở thị, thích đầu cơ úp sọt lẫn nhau lau giận. Hệ lụy tàn khóc nhất sẽ ập đến. Sự mất
+
+00:21:57
+ đi phản xạ tự chủ của nền kinh tế. Nền kinh tế sẽ bị bỏ lại trong trạng thái trơ trọ, [âm nhạc] không có công nghệ lõi để cạnh tranh, không có nguồn nhân lực chuyên môn cao. Xã hội sẽ lấy gì để chống đỡ với những biến độc thực sự của thời cù? Khi nhìn lại bức tranh tổng thể, chiếc vân miệng nhựa tróc vỏ nằm lạnh lẽo trên bàn hay là bất tượng gỗ 5 triệu được phù phép thành 2 tỷ trong đêm tiệc xa hoa thật ra chính là một tấm gương phản chiếu trần trụi. Chúng không còn là câu chuyện riêng của xí hay là giới thượng
+
+00:22:31
+ lưu. Sự bành trướng của nền kinh tế [âm nhạc] làm mộc nơi người ta dễ dàng dùng những con số ảo để che đậy cho sự rỗng ruột bên trong.
+
+    
+  
+  
+# Note 249: NUC 260729 Playbook dùng sự sợ hãi của người dân để họ tự giao nộp vàng.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/J4cU3jkEUgU"
+author: "Nước Úc Channel"
+published: 2026-07-29
+created: 2026-07-29
+description: "TẠI SAO CẠY KÉT SẮT 500 TẤN VÀNG: KHÔNG CẦN CHÌA KHÓA ?"
+
+00:00:01
+ Xin chào tất cả các bạn. Bây giờ các bạn muốn lấy vàng ra khỏi tay một người, các bạn phải làm như thế nào? Khi các bạn càng khuyên họ đem vàng ra để làm ăn thì họ càng mua thêm ổ khóa về khóa két sắt lại cho thật kỹ. Nhưng trong cuộc chơi có một chiêu khác bén hơn rất nhiều. Không cần ép, không cần ra lệnh, chỉ cần phả một luồng gió lạnh làm cho những người đang giữ vàng bắt đầu lợn gần trong đầu. Ngày mai số vàng này nếu đem ra tiệm bán chưa chắc có tiện nào thâu. Đúng cái khoảng khắc này, chẳng cần ai
+
+00:00:40
+ tới giật cái chìa khóa, chính tay người chủ sẽ lật đực tự vặn cái ổ khóa, mở cái két sắt ra. Cái chuyện mà lời kêu gọi rồng rã mười mấy năm trời làm không xong. Tại sao có rất nhiều thứ đổi vàng lấy nhà, đất đai không dụ nổi người ta nhả vàng mà nỗi sợ lại làm được trót lọt như vậy. Bán vàng để lấy tiền. Vậy thì cái dòng tiền đó sẽ trôi về túi của ai? Bây giờ để các bạn nhìn rõ cái bẫy tâm lý này, các bạn hãy nhìn vô một xóm lao động ngay tại chỗ cái sạp tạp hóa của thiếm bẫy. Thêm lận lưng được cỡ chục
+
+00:01:27
+ lượng vàng. Thếm Bẫy không có xem cái mớ vàng đó là khoảng đầu tư lướt sóng, cũng không tèm ngó lên bản điện tử xem bữa nay nó lên hay xuống giá mà thếm xem đó là cái phao. Lỡ cần tiền vô bệnh viện để mổ sẻ. Lỡ cần tiền cho con cái lúc ra riêng. Và điều quan trọng nhất nó là thứ để khi ngặt nghèo xách ra tiệm bán cái rẹt là có một mớ tiền tươi thốc thực ngay. Không cần phải quỳ lạy xin xỏ ai. Người ta bàn nhau vát vàng vô ngân hàng để gửi lấy lãi thì thiếm cũng lắc đầu. Người ta suối bán đi để mua đứt nền. Thếm cũng
+
+00:02:04
+ ngó lơ. Nghe cái vụ doanh nghiệp để ốc đổi vàng lấy nhà thì thiếm vẫn khóa chặt cái tủ. Nhưng đù một cái mấy bà đi chợ rủ tay nhau rằng vào này đem vàng đi bán thì phải bóc số chầu trực mỏi cả giọ. Ông sơ ôm thì rỉ tay. Mấy thằng tiệm vàng lớn ở ngoài hẻm đang làm mình làm mẫy siết lại cái vụ mua vàng. Ba bán thịt heo thì suối thôi. Đem vàng bán quách đi ôm sắp tiền mặt cho ăn chắc mặt bện. Sáng hôm sau bà thiếm bảy lực đực lôi mớ vàng ra đi bán thật. quay ngược lại bức tranh để xem cái nghịch lý như
+
+00:02:41
+ thế nào. Đã có một thời gian trên mậc báo ra rã về số lượng vàng rất khổng lồ nằm chết dí trong dân. Nền kinh tế thì đang khác vốn, dòng tiền ngầm thì cần được bơm vô các bạch máu để làm ăn. Nhưng người dân thì vẫn êm ru. Tại sao? Tại vì những cái lời kêu gọi đó họ đứng ở góc nhìn của kẻ đang cần gom vốn. Còn người giữ vàng thì họ đang đứng ở góc độ thủ thế. Những người ở trên thì dòng thấy một đống vàng khổng lồ đang đóng băng. Còn người dân đen thì dòng thấy con đường lui cuối cùng của họ. Cùng là
+
+00:03:18
+ một thỏi vàng, một bên nhìn thấy dòng tiền đang chết, còn một bên nhìn thấy mạng sống của cả gia đình. Họ tung ra đủ đòn nhưng chiếc két sắt nó vẫn trơ trơ. Chào mời đủ thứ kênh đầu tư nào là gửi ngân hàng. Nhưng với người dân, tiền lời đẻ ra mỗi tháng không phải là ưu tiên số một. Vấn đề là khi nhả ra cục vàng rồi có chuyện lấy lại có lẹ không? Người dân họ không ghét chuyện làm giàu, họ chỉ ớn cái cảnh lúc cần tiền lôi những cái tài sản bánh vẻ ra thì không ai thâu. Hoặc là gửi vàng trong ngân hàng thì nó lại
+
+00:03:55
+ bị giam cứng ngắc ở đó. Một người thủ sẵn 10 lần vàng, họ không rảnh bắt 10 lần vàng đó đẻ ra lãi suất. Họ chỉ cần cảm giác rằng nửa đêm mà có biến thì vát vàng ra tiệm cái rụp là tiền mặt có vệ. Bởi vậy ở trên có vận động rã cuốn họng thì người dân họ vẫn khóa chặt cái tủ. Rồi sau đó trên thị trường xì ra một chiêu đổi vàng lấy nhà, lấy tài sản nằm yên để đổi ngang một khối tài sản bự hơn. Nhà để ở để cho thuê rồi nhà đợi lên giá. Kèo thơm như vậy mà người dân vẫn không thèm. Tại vì nhà với vàng bản
+
+00:04:37
+ chất nó khác nhau. Một lượng vàng nếu kẹt quá lấy búa đập một phát rồi đem một phần bán cái rẹt. Còn một căn nhà đâu thể nào cưa bớt một cái phòng khách hay là một cái bếp xách ra đậu hẻm bán lấy tiền xài. Vàng bỏ trong túi quần đi đâu cũng trót lọt. Còn nhà là dính chết một chỗ với mới giấy tờ cò mồi thuế má. Lúc cần xài tiền thì bán nhà đâu phải là chuyện một sớm một chiều. Doanh nghiệp họ chìa ra món tài sản chà bá lửa nhưng người dân họ vẫn lắc đầu bởi vì cái họ khác không chỉ là giá trị quy ra tiền,
+
+00:05:15
+ cái họ cần là một cái cửa thoát hiểm trơn tru. Nhưng rồi thảm họa niềm tin bắt đầu nó được kích hoạt. Những cái lùm sùm làm người ta ớn lạnh, thông tin thanh tra dính tới thương hiệu vàng lớn. Chuyện đòi hỏi chứng minh nguồn gốc lằn nhằn lúc tiệm mua lại rồi chuyện giam tiền người bán. Từng cái vụ lắc nhắc đứng riêng lẻ thì chưa đủ sức làm sập cả thị trường. Nhưng mà nếu gom tất cả lại nó nền thẳng vô đúng cái tử huyệt duy nhất. Cục vàng người dân đang ôm ngày mai có còn bán dễ như bữa nay không? Đây
+
+00:05:53
+ chính là cú bẻ lái rất định mệt. Giữ vàng không thèm nhã vàng khi được róc vô tay. Lời đường mực không thèm đổi khi được dụ mua nhà lầu. Nhưng họ lực đực chạy đi bán khi sợ mình rớt lại làm người dọn rác cuối cùng ôm cục nợ vô thân. Người ta không vặn két sắc vì ngửi thấy mùi tiền lợi. Họ mở két chỉ vì họ ớn lạnh cái viễn cảnh. Cánh cửa bán ra sắp sửa bị đổ bê tông bít lại thọi vàng không hề sức mẻ một ly. Trọng lượng thì nó vẫn y nguyên. Thứ thay đổi duy nhất chính là cái cảm giác an toàn của những
+
+00:06:31
+ người đang giữ vàng. Và khi sự yên tâm bị lật ngược, một người từng giữ vàng với đế tủ 10 năm trời có thể tự động bưng ra đi bán sạch chỉ trong một buổi sáng. Vậy thì cái điểm gãy thực sự không nằm ở bảng điện tử hay là giá cả vàng, nó nằm trọn trong đầu của những người giữ vàng. Bây giờ để bóc trần cái ma trần này, các bạn hãy nhìn qua câu chuyện của chú ba. Chú ba tích có nửa đời sắm được miếng đất ở Củ Chi. Số đỏ thì cầm trên tay chính chủ đàn hoàng. Chú cất kỹ cuốn sổ dưới đế tủ và xem nó như là cái phao để
+
+00:07:12
+ phòng tư. Chú tính nát nước rồi, nếu kẹt tiền thì cứ vát sổ ra gửi máy sàn giao dịch hoặc là hú đám cò đất đầu hẻm thì là bán được biến đất và lấy tiền tươi thốc thực. Đùng một cái quy định mới ọc xuống phong tỏa giao dịch đất nông nghiệp chưa lên thổ cư cấm phân lô bán nền. Cuốn sổ đỏ của chú ba vẫn là độ thực, miếng đất vẫn nằm đó không sức mẻ một cục bùng nào. Nhưng hỏi ôi, khi đem ra ngân hàng vay thì Tín Dụng lắc đầu, kêu cọ đất tới thì tụi nó chê ổng chê ẻo, ép giá sát ván. Vì cái cớ miếng đất này giờ
+
+00:07:53
+ đem ra giấy tờ chua lắm chú ơi. Nếu mua vô thì chôn vốn tụi con. Chú Ba ớn lạnh sống lưng. Chú sợ tới lúc nhà có biến cần xài tiền mà ôm cục đất sét này thì bán cho ai? Thế là chú cắn răng lật đựt sang tay giá bèo cho một tay trùm gom đất khu đó chấp nhận lỗ để cầm chắt sắp tiền mặt đem về nhà cho nó yên lành. Tay trùm kia đâu có mướng giang hồ vát mã tấu tới kề cổ ép chú ba bán đứt. Hắn chỉ cần ngồi run đùi đợi cái van thanh khoản bị khóa lại. Chính cái nỗi sợ không xoay được tiền mặt đã tự động ép chú ba dâng
+
+00:08:33
+ tài sản tận tay. Bây giờ hãy bê nguyên cái cơ chế tâm lý trần trụi đó đặt lên bàn. Thay miếng đất cũ chi bằng hàng trăm tấn vàng đang ngủ đông trong két sắt của người dân và tay trùm gom đất là cánh cửa thanh khoản của nền kinh tế. Khi một người xách vàng đi bán vì sợ ngày mai không ai mua thì cục vàng đó không hề bốc hơi. Nó chỉ đang chuyển bước vào một ma trật dòng tiền ngầm được thiết kế cực kỳ tinh vi. Tài sản chỉ có giá trị khi nó có khả năng chuyển đổi thành tiền mạch. ngay lúc người ta cần
+
+00:09:11
+ tiền nhất. Vàng tồn tại trong dân lâu như vậy vì nó có ba đặc điểm: dễ hiểu, dễ nắm được và không cần ai đóng cái mọc xác nhận mỗi ngày. Những người ở trên hiểu rất rõ, không thể tước đoạt vàng bằng mệnh lệnh hành chính vì điều đó sẽ kích hoạt sự hoảng loạn mà thay vào đó họ dán đoàn trực diện vào thanh khoản, đưa ra các rào cản kiểm tra nguồn gốc, xuất hóa đơn chứng từ, thay đổi phương thức giao dịch. tạo ra tình trạng trầu trực, bốc số mỏi dò. Về mặt pháp lý, không ai cắm người dân ôm vàng, không ai cắm tiệm
+
+00:09:51
+ vàng thâu vào. Nhưng về mặt kỹ thuật, các hành vi bán vàng trở nên trầy trựt hơn thì chiếc cát sắt an toàn bỗng chóc trở thành một cái bẫy giam lỏng tài sản. Và khi đám đông nhận ra cái cửa thoát hiểm ngày càng hẹp lại [âm nhạc] thì bản năng sinh tồn của họ sẽ tự động ra lệnh cho họ mở cái két sắt. Thứ hai, khi thím bảy bán tạp hóa hay là hàng triệu người khác đồng loạt bán vàng, họ nhận về cái gì? Họ nhận về tiền mặt hoặc là con số nổi trong tài khoản ngân hàng. Đây chính là điểm chí mạng của ma trận. Cục vàng
+
+00:10:29
+ nồng trong các sách là dòng vốn tỉnh. không đẻ ra bất kỳ giá trị thằng dư nào cho nền kinh tế, nhưng một khi nó biến thành tiền, nó lập tức trở thành dòng tiền lưu động. Hàng triệu người cầm sắp tiền trong tay sau khi bán vàng sẽ không dạy gì nhét lại dưới nệm vì làm phát xe bào mòn nó tới tận xương. Dòng tiền này bắt buộc phải đi tìm chỗ trủng để trú ngụ và nó sẽ trôi về đông. Một nhánh lớn sẽ chảy thẳng vô hệ thống ngân hàng. Dưới dạng tiền gửi tiết kiệm, đột nhiên các ngân hàng đã huy động được một nguồn
+
+00:11:07
+ vốn khổng lồ với chi phí rẻ bèo mà không cần phải tung ra các chiêu trò đẩy lãi suất mồi chài cao ngất ngưỡng. Một nhánh khác sẽ trôi sang thị trường bất động sản. Những người vừa bán vàng sẽ mang cục tiền đó đi săn đất nền, tậu chung cư, gián tiếp quăng cái phao cứu sinh cho hàng loạt doanh nghiệp địa ốc. đang ngáp cá trên bờ vật không có dòng tiền. Và một nhánh nữa sẽ chảy cuồn cuộc vào vòng quay người tiêu dùng khi người ta mang tiền đi trả nợ, xài tiền cho các nhu cầu làm ăn, sinh hoạt. Thứ ba, một
+
+00:11:46
+ nền kinh tế đang khắt vốn trầm trọng. Họ lấy rau ra tiền để bơm máu cho doanh nghiệp, để xây dựng hạ tầng, [âm nhạc] để đảo nợ. Nếu họ chọn cách in thêm tiền làm phát sẽ bùng nổ, vật giá leo than. sức mua của đồng tiền sẽ nát bét. Còn nếu đi vay nợ nước ngoài thì nền kinh tế sẽ phải cổng thêm những khoản lãi rất khổng lồ bằng ngoại tệ đối mặt với rủi ro tỷ giá và tự tước đi sự tự chủ. Vậy thì con đường trơn tru nhất là gì? là vắt kiệt cái bầu sữa tài sản đang ngủ đông ngay trong nội địa. Dùng chính nỗi
+
+00:12:24
+ sợ hãi để đẩy hàng trăm tấn vàng ra khỏi két sắt và biến nó thành tiền Việt Nam đồng chảy ồ ạc vào nền kinh tế. Các tay chơi lớn không cần mất một đồng ngoại tệ nào để nhập khẩu thêm vàng từ quốc tế. Họ chỉ cần tạo ra một cái phễu tâm lý, lùa dòng tác tài sản của người dân chảy vào đúng cái hồ chứa mà họ đã đạo sẵn. Người giữ vàng vẫn đinh ninh rằng mình đang tự do lựa chọn, không có ai kề da vào cổ bắt họ ký giấy bán vàng. Về mặt hình thức đó là một giao dịch thuận mua vừa bán. Nhưng trên thực tế họ chỉ đang
+
+00:13:05
+ vùng vẫy lựa chọn trong một cái không gian trực hẹp đã được thiết kế sẵn nơi mà mọi ngã đường đều dẫn dòng tiền của họ chảy vào túi của hệ thống ngân hàng và các mạng lưới doanh nghiệp lớn. Sự đáng sợ của ma trận kỹ thuật này nó nằm ở chỗ nó không có bóng dáng của sự tước đoạt hay là ép uổng ai. Cục tài sản khổng lồ nó chuyển chủ chạy từ két sắt [âm nhạc] cá nhân. sang hệ thống tài chính phỉ mô một cách rất êm ái và trân tru. Những người dân lao động mang vàng đi bán cho xong, họ ôm sắp tiền mặt về
+
+00:13:42
+ nhà và thở phào nhẹ nhõm vì nghĩ mình vừa trúc được một cánh nặng, vừa bảo toàn được tài sản của mình mà họ không hề hay biết rằng chính cái tiếng thở vào đó là tiếng bánh răng của cổ máy vận hành vĩ mô vừa mới quay xong một vòng rất hoàn hảo. Thưa các bạn, bao giờ cũng vậy, khi thị trường rộ lên chuyện vàng bạc chao đảo thì trên mạng xã hội họ nói những câu như thế này. Người dân tự nguyện đem vàng ra tiệm bán chốt lời chứ có ai ép uổng gì đâu. Thuận mua vừa bán, giá cao thì bán vàng kiếm lợi. Đó là quy luật
+
+00:14:20
+ cung cầu bình thường của thị trường tự do chứ nhà nước có cầm dao kề cổ ép ai đâu. Nghe qua thì tưởng như nó vô cùng hợp lý và thuận theo tự nhiên. Nhưng các bạn hãy nhìn vô một ví dụ, có một bãi giữ xe mọc lên sát cạnh một khu chung cư. Ban đầu chủ bãi xe để giá gửi xe rất bệnh dân, ai ra vào cũng rất thoải mái. Nhưng rồi một ngày các cơ quan chức năng siết chặt quy định phòng cháy chữa cháy, kiểm tra giấy phép kinh doanh, yêu cầu lắp camera nhận diện khuôn mặt từng chiếc xe và bắt buộc phải có hợp đồng
+
+00:14:56
+ bảo hiểm cháy nổ đàn hoàng. Ông chủ bẫy xe thì vốn ít thì làm sao gánh nổi đóng chi phí tuân thủ thủ tục hành chính đó. Thế là ông ta đành cổ tăng giá gửi xe lên gấp ba lần, đồng thời dựng lên hàng rào quy định rất khó khăn. Khách gửi xe phải xếp hàng chờ giấy kiểm tra giấy tờ mất cả nửa tiếng đồng hồ. Kết quả là gì? Người dân trong chung cư bắt đầu chán cái cảnh chờ đợi, xót ruột vì phí gửi xe quá đắt đỏ, tự động lủi thủi, dắt xe đi tìm chỗ khác hoặc là bán đứt chiếc xe cũ đó đi để đi xe ôm công nghệ cho nó rảnh
+
+00:15:36
+ nợ. Nhìn bên ngoài không ai cầm roi đuổi người dân không gửi được xe ở bãi đó nữa. Khách hàng hoàn toàn tự nguyện dắt xe ra về, thuận mua vừa bán mà. Nhưng cái môi trường xung quanh đã bị bóc nghẹt, chi phí tuân thủ thì đẩy lên cao chót vót, làm cho cái hành động giữ xe trở thành một sự tra tấn. Người dân buộc phải tự nguyện chọn cách từ bỏ tài sản của mình trong bất đắc dĩ. Bây giờ hãy áp cái ví dụ bãi giữ xe đó vào trận chiến vàng miếng xem. Về mặt hình thức không ai cầm dao kề cổ hay là giật cục
+
+00:16:14
+ vàng khỏi tay của ai hết. Nhưng tại sao người ta không bán từ 10 năm trước mà lại đổ xô đi bán vào cái lúc thị trường xuất hiện những vụ lùm sùm? giấy tờ thì bị siết chặt, thủ tục mua đi bán lại, hành lên hành xuống phải bốc số chờ mấy ngày. Bởi vì cái gọi là tự nguyện đó thực chất là một sự tự nguyện trong một không gian đã bị bóc nghẹt. Khi chi phí giữ vàng là sự bất an, nỗi sợ làm bị khó dễ, nguy cơ không thanh toán được, đã vượt quá sức chịu đựng tâm lý của một người dân bình thường thì hành động mang
+
+00:16:53
+ vàng đi bán không còn là một lựa chọn vì ham lợi nhuận nữa mà nó là một cuộc tháo chạy để bảo toàn tánh mạng tài chính. Khi vàng từ trong két sắt của thím bẫy của chú ba ồ ạt chảy ra, biến thành tiền mặt và chui vào hệ thống tài chính, ai là kẻ thực sự gánh chịu hậu quả nặng nề nhất? Có nhiều người nghĩ rằng người bán vàng đã khôn ngoan chốt lời thành công, nhưng thực tế nó tàn khóc hơn nhiều. Khi lượng tiền mặt khổng lồ từ vàng tràn ngập ra thị trường mà không được kiểm soát đúng hướng thì nó sẽ tìm cách kích
+
+00:17:32
+ hoạt những cơn sóng ngầm về lạm phát. Những người lao động nghèo không có một chỉ vàng lận lưng, không có tài sản tích lũy, chỉ sống bằng đồng lương hàng tháng. Họ bỗng nhiên phải đối mặt với cơn bảo giá ở ngoài chờ, giá gạo, tiền nhà, chi phí sinh hoạt leo than từng ngày vì dòng tiền trôi nổi ngoài xã hội quá nhiều. Tài sản của từng lớp tinh hoa thì nằm ở đất đai, cổ phận, còn ngân hàng thì được bơm lên nhờ dòng vốn mới vừa được khơi thông từ vàng. Còn sức mua của người nghèo thì bị bào mòn đến tận
+
+00:18:11
+ xương tủy, ra khỏi két của người dân nghèo nhưng thành quả của dòng tiền đó lại chảy vào túi của những kẻ đang kiểm soát các hạ tầng tài chính và bất động sản lớn. Người đau động cứ ngỡ mình đang tự cứu mình khỏi một cứu sóc thị trường. Nhưng kỳ thật họ vừa tự tay tháo bỏ chiếc khiê bảo vệ cuối cùng của mình để rồi bước vào một trật tự kinh tế khắc nghiệt hơn rất nhiều. Nhưng nếu chỉ dừng lại ở chuyện người dân bán vàng hay là dòng tiền chảy đi đâu thì chỉ mới thấy phần nổi của một tảng băng trôi. Cốt lõi của vấn đề nằm ở
+
+00:18:51
+ chiến lược dài hơi hơn rất nhiều. Khi các bạn nhìn vào cách hệ thống vận hành khi đối mặt với lượng tài sản khổng lồ nằm ngoài tầm kiểm soát. Khi hàng trăm tấn vàng vẫn còn cố thủ trong két sắt của người dân. Nền kinh tế giống như một cơ thể bị sơ cứng mạch máu vậy. Các nhà điều hành không thể dùng mệnh lệnh để cướp đoạt nó. Bởi vì sự phản kháng trực diện sẽ làm sụp đổ lòng tin của toàn người dân. Họ cần thời gian. [âm nhạc] Thời gian để làm gì? Thời gian để kiên nhẫn dịch chuyển dòng vốn. thời gian để
+
+00:19:28
+ từng bước thiết lập những hành lang pháp lý mới nơi mà mọi giao dịch tài [âm nhạc] sản cá nhân đều phải đi qua các trạm kiểm soát chính thức và cách tốt nhất để mua được khoảng thời gian đó [âm nhạc] không phải là dùng súng ống mà là tạo ra một môi trường đầy rẫy sự bất an khiến cho việc giữ vàng giữ tài sản truyền thống [âm nhạc] trở nên quá tốn kém và rất mệt mỏi. Nó giống như câu chuyện của một chủ nhà cho thuê trọ ở khu công nghiệp. Thay vì đuổi của người thuê cũ vì họ ký hợp đồng dài hàng quá
+
+00:20:03
+ rẻ thì người chủ nhà họ không làm gì hết. Ông ta chỉ âm thầm tăng điện nước theo giá dịch vụ, siết lại quy định giờ dứt ra vào, yêu cầu đủ thứ giấy tờ tạm trú rường ra. Người trò ở đó họ cảm thấy bực bội, ngột ngạt, tự động cảm thấy chán nản và họ chủ động dọn đi. Người chủ nhà chẳng tốn một lời đôi co mà vẫn đạt được mục đích thu hội căn phòng. Đó chính là nghệ thuật mua thời gian bằng cách bò rút dần sự kiên nhẫn của người dân. Khi người dân mệt mỏi vì những thủ tục rường rà, vì những tin đồn về thanh
+
+00:20:42
+ tra, vì cảm giác bất an khi họ giữ vàng [âm nhạc] thì họ sẽ tự nguyện bước chừng ra khỏi vùng an toàn mà họ đã dày công xây dựng suốt mấy chục năm trời. Họ tự tay bán đi chiếc phao cứu sinh cuối cùng của mình để đổi lấy một sắp giấy tiền mặt. Họ đinh rằng mình vừa là một ván cờ rất khôn ngoan để bảo toàn tính mạng tài chính. Nhưng sau khi đã tước bỏ được lớp áo giáp cuối cùng chính là vàng thì hệ thống chuyển sang giai đoạn định hình lại trật tự mới. Những dòng tiền mặt vừa được giải phóng [âm nhạc] từ két sắt của
+
+00:21:19
+ bà Bảy của chú Bà không bao giờ thực sự thuộc về họ nữa. Tiền của họ đã được thu hút vào bộ máy lớn hơn, bơm thẳng vào các dự án hạ tầng, tái cấu trúc các tập đoàn bất động sản và làm dày thêm bản cân đối kế toán của các định chế tài chính. Còn người dân sau khi đã trúc bỏ được cục vàng, họ nhận lại điều gì? Họ nghĩ rằng mình đang nắm giữ tiền mặt an toàn trong tài khoản, sẵn sàng mua sắm, xài tiền hoặc là gửi tiết kiệm với mức lãi suất thấp. Họ không hề nhận ra rằng ngay cái khoảng khắc họ rời bỏ tài sản
+
+00:21:56
+ thực để bước vào thế giới của tiền pháp định thì họ đã hoàn toàn bị lọt sạch quyền tự chủ. Người ta không cần dùng bạo lực để biến một cộng đồng tự chủ thành những mắt xích phụ thuộc vào dòng tiền hệ thống. Người ta chỉ cần làm cho họ sợ hãi tài sản của chính mình rồi tự nguyện dâng nó lên để đổi lấy sự bình yên. [âm nhạc] Và khi dòng xoay này nó hoàn tức, những chi tiết cát sắt trong người dân bỗng nên trống rỗng. Mạch máu của nền kinh tế đã được bơm đầy bằng dòng máu mới. Những người mà từ nay về sau hoàn toàn mất đi
+
+00:22:33
+ khả năng chống [âm nhạc] chịu trước mọi cứ lạm phát hay là biến động của thời cuộc. Những lời kêu gọi xông hay là đòn bẫy đổi vàng lấy nhà đều không đủ sức lây chuyển chiếc két sắt. Nhưng chỉ cần một vài tin đồn bất an, một vài rào cản thanh khoảng siết nhẹ, người dân đã tự động lực đực mang vàng của mình đi bán tháo. Vàng biến thành dòng tiền mặt, chảy thẳng vào hệ thống ngân hàng và bất động sản. Không có ai phá két sắt, cũng không có ai giật chìa khóa. Nhưng chiếc két sắt nó vẫn tự mở toan. Khi hàng trăm
+
+00:23:10
+ tấn vàng rơi khỏi tay người dân, biến thành dòng tiền chảy vào hệ thống thì ai mới là kẻ hưởng lợi lớn nhất từ sự dịch chuyển âm thầm này?
+
+    
+  
+  
+# Note 250: NUC 260802 Nhân tài tại Việt Nam bị xâu xé mỗi lần xuất hiện.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/2hecph7DWn8"
+author: "Nước Úc Channel"
+published: 2026-08-02
+created: 2026-08-02
+description: "NUC 260803 BỨC TỬ FLAPPY BIRD MÀ ĐÒI STEVE JOBS VIỆT NAM ?"
+
+00:00:01
+ Xin chào tất cả các bạn. Trong video trước mình đã phân tích về đề thi 200 chữ nếu Stepen Jobs sinh ra ở Việt Nam. Mình đã vạch trần cái cách mà hệ thống giáo dục và tư duy lối mọt đang bóp nghẹt sự sáng tạo của người tài ngay từ trong chứng nước. Một lý lẽ rất bụi tai. >> Mong muốn là chúng ta sẽ có một cái nền giáo dục nhân văn, nhân bản đúng không? Rồi có những cái cơ chế làm sao hỗ trợ cho người tài. Đấy. Đấy. Vừa rồi đấy. Cơ chế ví dụ như là trẻ phải được tốt nghiệp đại học sớm hơn đúng không? Rồi
+
+00:00:35
+ những người tài người ta sẽ được cấp nhà đúng không? Được. Bây giờ những người tài phải cấp nhà cấp cửa cho người ta thì người ta mới cống hiến được chứ đúng không? Rồi những cái chế độ làm sao để những người tài người ta phát huy được hết cái tiềm năng. >> Nghe thì có vẻ tự hào rất đạo lý đúng không? Sự thật là hơn 10 năm trước, đất nước Việt Nam đã từng đẻ ra một Steven Chop bằng xương bằng thịt. Một thanh niên trẻ tuổi không quan hệ thân thế, không cần cầm sổ đỏ vay mượn ngân hàng, chỉ với một chiếc máy tính trong phòng
+
+00:01:07
+ ngủ đã tự tay viết ra một sản phẩm vươn lên vị trí top 1 toàn cộng. Một bộ óc thiên tài tự mình tạo ra một c máy in tiền hợp pháp mang về hơn 1 tỷ đồng ngoại tệ mỗi ngày từ tiền túi của nền kinh tế phương Tây. Đúng, mình đang nhắc đến Nguyễn Hạ Đông và hiện tượng Flash Pus từng gây chấn động toàn thế giới. Và rồi cái hệ thống ma trận bản địa này đã đối xử với Stepen Jobs Việt Nam như thế nào không? Họ không hề trải thảm đó, cũng không hề cấp vốn hay tôn vinh anh ta thành một tài sản quốc gia. Thay vào
+
+00:01:46
+ đó, họ dồn ép, bới móc và dùng một ma trựt tàn nhẫn nhất để ép chàng thanh niên ấy phải tự tay nhấn nút tự sát kết liễu chính đứa con tinh thần của mình ngay trên đỉnh vinh quang. Video hôm nay sẽ bóc tách từng lớp vỏ củ hạnh để nhìn thẳng vào sự thật. Khi thấy thói gan ăn tức ở của đám đông, sự rỗng tuết của lá trắng pháp lý và sự săn lùng tàn nhẫn của hệ thống dòng tiền đã hợp lực lại để bóp chết một thiên tài như thế nào. [âm nhạc] Thưa các bạn, trên tivi, trên mật báo hay là trong các bài phát biểu ở nhà
+
+00:02:38
+ trường, họ lúc nào cũng ra rã những khẩu hiệu rất là kêu. Nào là khuyến khích người trẻ vươn ra biển lớn, nào là tự hào trí tuệ bản địa, mang chuông đi đánh xứ người. Nghe thì đoàn kết và tự hào dân tộc lắm. Nhưng khi một cá nhân bằng xương bằng thịt vươn ra biển lớn, kiếm được tiền tỷ từ túi của tư bản mang về nước thì bất tường định kiến bắt đầu sập xuống. Thay vì tung hô, đám đông lập tức bộc lộ cái bản chất tàn nhẫn nhất của mình. Hội chứng con cua trong vỏ. Các bạn có biết hội chứng con cua trong vỏ
+
+00:03:14
+ là gì không? Khi các bạn bắt một con cua bỏ vào vỏ, các bạn đậy nắp lại vì nó sẽ bò ra. Nhưng nếu các bạn bỏ một bầy cua vào giỏ, các bạn không cần phải đậy nắp. Vì sao? Vì cứ con nào cố gắng bò lên miệng giỏ thì những con ở dưới sẽ dùng cái càng kẹp lấy chân của nó và kéo tuộc xuống lại dưới đóng bùng lầy. Không con nào chịu để con khác thoát ra khỏi cái vũng lầy tâm tối đó hết. Câu chuyện của Nguyễn Hạ Đông và trò chơi Vlad Pie là một ví dụ đẫm máu nhất cho cái vỏ cua đó. Khi báo chí quốc tế phanh phui ra sự
+
+00:03:51
+ thật rằng một thanh niên 29 tuổi ngày mặc quần đùi áo cọc ngồi trong căn phòng ngủ tội tạng lại có thể làm ra một trò chơi khiến cả thế giới phát cuồng và kiếm được 1 tỷ đồng mỗi ngày từ tiền quảng cáo. Cả cái ma trận mạng xã hội bản địa bỗng nhiên lên cơn tăng sông. Họ không chịu nổi cứu sóc đó. Họ nghĩ rằng kiếm tiền tỷ một ngày thì phải là ông chủ tập đoàn mặc vé đi xe sang hoặc là phải tay buôn bất động sản lọc lõi. Chứ một thằng lập trình viên quèn khố rách áo ôm thì làm sao có tư cách kiếm tiền
+
+00:04:27
+ dễ dàng hơn họ. Thế là thay vì chúc mừng một người Việt đã lấy được ngoại tệ của nước ngoài, họ bắt đầu bu vào trắn xé. Họ lập ra hàng chục hội nhóm để chửi bới đông. Chúng bới móc đời tư, chửi đông là ăn may. Đế tiện hơn, một bộ phận anh hùng bàn phím còn tự khoác tên mình cái áo đạo đất giả mang tên là bảo vệ bản quyền. Chúng soi mói cái ống nước màu xanh trong game và vu khống rằng đông ăn cắp chức xám của hãng Nintendo Nhật Bản. Dù sao đó, chính đại diện của Nintendo đã lên tiếng khẳng định Flash Fibus
+
+00:05:05
+ không hề vi phạm bản quyền của họ, nhưng bày cua trong võ vẫn không chịu buông tha. Để mình lấy một cái ví dụ ngay trong cuộc sống hàng ngày để các bạn thấy cái thói quen ghen ghét này nó ngắm vào máu như thế nào. Các bạn cứ nhìn vào một cái hẻm lao động bình thường xem. Mọi người sống với nhau rất vui vẻ. Tối nào cũng ra đầu hẻm uống trà đá, nói chuyện tối lửa tắt đèn có nhau. Nhưng đó là khi tất cả cùng nghèo như nhau. Bỗng nhiên một ngày cái thằng Tèo con bà bán bốn bò đậu hẻm, nó tự mày mò bán hàng
+
+00:05:41
+ online trên TikTok hay Facebook gì đó. Rồi nó phứt lên cả tháng kiếm trăm triệu, mua xe SH, sửa lại cái nhà khang trang cho mẹ nó. Các bạn nghĩ hàng xóm có ra chúc mừng nó không? Tuyệt đối là không. Ngày hôm sau nguyên cái xóm sẽ súng lại xì sầm. Ôi giào chắc thằng này bán ba cái kem trộn phá nát mặt người ta mới giàu như thế. hay là chắc thằng đó đi lừa đảo trên mạng chứ cái mặt nó học thành cái gì mà kiếm trăm triệu. Thậm chí là sẽ có người âm thầm gọi điện báo công an phường xuống kiểm tra giấy phép
+
+00:06:18
+ kinh doanh hoặc là báo quản lý thị trường xuống bắt bớ để đập nát cái nồi cơm của nhà thằng Tẹo. Chỉ vì họ không chịu nổi cái cảnh một thằng nghèo rất mồng tơi hôm qua thì hôm nay lại giàu hơn họ. Cái bi kịch của Nguyễn Hà Đông nó y chang như thằng Tèo. Chỉ khác là nó ở một cái quy mô vĩ mô và tàn nhẫn hơn gấp ngàn lần. Đông không hề lừa đảo ai. Đông không hề lùa gà bán khoa học cũng chẳng sọt cổ phiếu của đồng bào. Đông chơi một cuộc chơi sồng phẳn với thế giới, lấy tiền của những nhà quảng cáo tư bản
+
+00:06:55
+ phương tây. Nhưng cái thói gan ăn tức ở của dư luận đã tự động dựng lên một tòa án internet để đấu tố. Hàng ngàn bình luận, hàng trăm bài báo mổ sẻ đồng như một tội phạm kinh tế. Bất tường định kiến đó đã phóng đi những mũi dao đầu tiên đâm thủng lớp áo giáp tinh thần của một lập trình viên độc lập và dọn đường cho một thế lực thứ hai tan khóc và máu lạnh hơn rất nhiều chuẩn bị nhảy vào ăn chia thành quả của anh. Bây giờ mình sẽ lột trần một thế lực tàn nhẫn hơn rất nhiều. C ma trận thể chế và sự thèm khác của dòng tiền.
+
+00:07:37
+ Thưa các bạn, logic thông thường của một quốc gia phát triển là gì? Khi có một công dân dùng chức xám của mình không tốn một đồng vốn ngân sách, không phá hoại 1 m²uông tài nguyên môi trường nào mà lại mang về hàng triệu đô la ngoại tệ thì nhà nước phải xem người đó là một tài sản quốc gia vô giá. Lẽ ra phải có các quỹ đầu tư công nghệ của chính phủ đến gõ cửa trải thảm đỏ mời anh ta về làm nồng cốt. Lẽ ra phải có các cán bộ ban ngành đứng ra hỗ trợ anh ta lập một studio game tầm cỡ toàn cầu để tiếp tục
+
+00:08:13
+ hút tiền của tư bản. Nhưng không, ở cái ma trận bản địa này, thứ đầu tiên và duy nhất gõ cửa nhà Nguyễn Hạ Đông giữa Tâm Bảo không phải là thiên thần hộ mệnh nào cả mà đó là cơ quan thuế. Ngay khi báo chí giật tích, chàng trai Việt kiếm 1 tỷ đồng mỗi ngày, mắt của hệ thống sáng rực lên. Thay vì nhìn đông như một niềm tự hào cần được bảo bọc thì họ lại nhìn đông như một miếng mội béo bở, một cái mỏ thuế khổng lồ vừa lộ thiên. Cơ quan thuế lập tức nhảy vào cuộc ráo riết. Họ bắt đầu mổ sẻ xăm soi từng dòng tiền
+
+00:08:52
+ chảy từ nước ngoài về và lôi các nghị định thông tư ra để định nghĩa lại luật lệ, [âm nhạc] tạo ra một sức ép ngột ngạt buộc anh phải giải trình và nộp hàng tỷ đồng tiền truy thu. Đừng hiểu lầm ý tôi, kiếm tiền thì phải đóng thuế. Đó là nghĩa vụ công dân không có ai cãi. Nhưng cái cách mà hệ thống hành xử với người tài mới là thứ đáng nói. Khi anh ta trầy trựt cày cuốt code game rồng rã ngày đêm trong bóng tối thì chẳng có ai hỏi hang hỗ trợ anh ta nửa lời. Nhưng khi anh ta vừa đào trúng long mạch, tiền
+
+00:09:29
+ vừa rơi vào túi thì hệ thống lập tức ập tới với tư cách của một kẻ đi thu tô đòi chia phần ngon nhất với một thái độ lạnh lùng như đang tra khảo một kẻ phạm tội kinh tế. Các bạn thử nhìn về các bụng quê thì thấy cái cơ chế này nó rập khuôn đến mức thế nào? Các bạn có nhớ những câu chuyện về các ông chú nông dân thợ máy miệt vườn chỉ học hết lớp ba lớp bưng họ tự mày mò chế tạo ra chiếc xe bọc thép hay là chế tạo ra chiếc máy tuốt lúa. Máy bóc vỏ hạt điệu đa năng có năng suất gấp 10 lần sức người không.
+
+00:10:07
+ Đáng lý ra khi thấy người dân mình sáng tạo như vậy, Sở Khoa học Công nghệ cử chuyên gia xuống hướng dẫn chú ấy đăng ký bằng sáng chế và cấp vốn cho chú ấy mở xưởng sản xuất để bán cho bà con nông dân. Nhưng đời không như là mơ. Thứ mà chú ấy nhận được là gì? Là mấy ông quản lý thị trường, mấy ông cảnh sát giao thông và chính quyền địa phương ập xuống lập biên bản. Họ tịch thu cái máy phạt tiền chú nông dân vì cái tội chế tạo xe không giấy phép, lưu thông phương tiện không kiểm định an toàn. Thay vì nuôi
+
+00:10:43
+ dưỡng một nhà phát minh thì hệ thống đập nát cái máy chú ấy thành đóng sắc vụng vì nó không đúng với quy trình. Nguyễn Hà Đông cũng chính là người nông dân đó. Chỉ khác là cái máy tuốt lúa của Đông là một phần mềm công nghệ trên toàn cầu. Bây giờ các bạn hãy làm một phép so sánh để thấy sự bất công của ma trận này. Những ông trùm bất động sản khi đi xin dự án hàng ngàn hata đất vạn, cắm sổ đỏ ngân hàng, nợ thuế nhà nước hàng ngàn tỷ đồng, phát hành trái phiếu upsort đồng bào thì khi họ vỡ nợ, hệ thống lại hợp
+
+00:11:22
+ ngày đêm để tìm cách giải cứu, giảng nợ, khoanh nợ. Còn một chàng thanh niên tây không bắt giặt tự dùng chất xám làm ra tiền sạch từ nước ngoài, không nợ nừng ai một xu thì lại bị xăm soi, truy vết và bị áp lực thuế khóa bủa vay như một tội đồ. Cái cơ chế bóp nghẹt đó đã gửi đi một thông điệp vô hình cực kỳ tàn nhẫn cho toàn bộ giới trẻ. Ở đất nước này, anh có thể làm giàu bằng cách bô đồng bào, nhưng đừng có bao giờ dạy dột nổi bực bằng chất xám độc lập, vì hệ thống sẽ không để anh yên đâu. Thưa các bạn, điều đáng nói nhất của hệ
+
+00:12:06
+ thống không chỉ nằm ở việc họ đòi chia phần khi bạn thành công mà nó nằm ở chỗ khi bạn bị bày sói bổ vay, họ sẽ bỏ mặt bạn tự sinh tự diệt. Hãy quay lại thời điểm Flash Fus nằm trên tam bảo. Lúc đó dư luận trong nước hồi nhau chửi bới. Vu Khống Đông là kẻ ăn cách chất xám vì cái ống nước trong game nhìn giống cái ống nước của trọ Mario. Truyền thông quốc tế các trang tin công nghệ phương Tây cũng nhân cơ hội đó hùa vào mổ sẻ dồn ép một chàng trai vô danh đến từ một nước thế giới thứ ba. Trong cái khoảng khắc dầu
+
+00:12:45
+ sôi lửa bổng đó, Nguyễn Hà Đông hoàn toàn đơn độc. Thử hỏi lúc đó các vị lãnh đạo các ban ngành ở đâu? Cái gọi là Hiệp hội phần mềm, Cục Sở hữu trí tuệ hay là các cơ quan bảo vệ quyền lợi công dân ở đâu? Không có một ai, không có một tổ chức nhà nước nào đứng ra làm lá trắng pháp lý để bảo vệ cho anh ta. Đáng lý ra khi công dân của mình bị truyền thông nước ngoài dồn ép thì các hiệp hội nghề nghiệp phải đứng ra tổ chức họp báo quốc tế, mời luật sư bảo vệ bản quyền và tuyên bố trò chơi của công dân chúng tôi
+
+00:13:25
+ không vi phạm pháp luật. Nintendo đã xác nhận không kiện thì các người không có quyền vu khống. Nhưng tuyệt nhiên là một sự im lặng đáng sợ. Họ nhanh nhẫu rốt ráo gõ cửa nhà anh để hỏi về tiền thuế, nhưng họ lại lập tức bốc hơi tàn hình khi anh cần một điểm tựa pháp lý để chống lại sức ép từ bên ngoài. Anh bị vứt ra giữa bầy sói, một thân một mình đưa lưng ra chịu trần chức hàng triệu lời chửi rủa mặt xác. Để các bạn hình dung sự bạc bẻo này, hãy nhìn vào cái cảnh của những tiểu thương thân cô thế cô buôn bán ngoài chợ. Lúc
+
+00:14:06
+ chị tiểu thương bán đắc hàng, khách đông nườm nượp thì ban quản lý chợ trực tự phường lập tức xuất hiện. Họ súng lại thu tiền hoa hồng, tiền bến bãi, tiền rác, tiền an ninh không trượt một cách nào. Nhưng đến một ngày, chị tiểu thương đó bị mấy tên giang hồ đập phá tủ hàng. Các bạn đoán xem lúc đó ban quản lý chợ ở đâu? Bọn họ trốn sạch, không một ông bảo vệ nào ló cái mặt ra. ngăn cản hay là lấy lại công bằng cho chị ấy. Bỏ mặt chị Tiểu Thương vừa khóc vừa tự ôm lấy cái tủ hàng vỡ nát. Đến khi dọn dẹp xong
+
+00:14:46
+ xuôi thì tháng sau họ lại vát cái sổ đi thu tiền bến bãi tiếp. Sự cô độc của người tiểu thương đó cũng chính là sự cô độc của Nguyễn Hạ Đông trên sân chơi công nghệ toàn cầu. Thiên tài thì cũng là con người. Họ có thể có cái đầu lạnh để viết ra những đoạn cốt vĩ đại, nhưng họ không có một trái tim bằng thép để chống lại một ma trận bạo lực mạng khổng lồ. Trong khi sau lưng họ là một khoảng không trống hoát, không người bảo vệ. Chiếc khiên pháp lý chỉ là những tờ giấy lộn được vẽ ra để quản lý và tận thu chứ nó không hề
+
+00:15:25
+ được thiết kế để che chở cho những bộ ốc tinh hoa của đất nước. Và chính sự bỏ rơi lạnh lùng này đã đẩy người sáng tạo đến một quyết định cực đoan nhất, bi phận nhất. Khi Black VB đang ở trên đỉnh cao danh vọng mang về 1 tỷ đồng mỗi ngày thì rất nhiều người ngoài cuộc bắt đầu đưa ra những lời khuyên. Họ nói đông là trời ơi dạy thế cứ bơ đi mà sống. Kệ thiên hạ chửi mình cứ đút tiền vào túi là được. Hay là thuê một đội ba truyền thông đi, thuê vệ sĩ đi, lập công ty để hợp tức hóa. Nghe thì có vẻ lý trí. Nhưng thưa
+
+00:16:07
+ các bạn, đó là lời khuyên của những người đứng ngoài ánh sáng, không hiểu được cái lạnh lẽo của người đang ở dưới từng đáy áp lực. Khi bạn là một lập trình viên độc lập, thích cuộc sống đơn giản thì việc mỗi sáng thức dậy thấy mặt mình bị bêu rếu trên hàng trăm mặt báo, bước ra cửa là có người chỉa máy ảnh vào mặt. Về nhà thì cơ quan thuế gõ cửa đòi mổ sẻ tài khoản. Đó không phải là thành công, đó là một nhà tù tâm lý. Và trong cái nhà tù đó, Nguyễn Hà Đông đã đưa ra một quyết định làm chứng động toàn cầu.
+
+00:16:43
+ Ngày 10 tháng năm 2014, anh ta tự tay nhấn nút xóa sổ Flash Febus khỏi tất cả các cửa hàng ứng dụng. Anh tự tay giết chết cổ máy anh tiền của chính mình với một dòng trạng thái ngắn gọn. Tôi không thể chịu đựng thêm được nữa. Đâm Đồng lại nhao nhao chửi anh là gàn gỡ là ngu ngốc. Nhưng họ đâu biết rằng đó là sự phản kháng cuối cùng từ tay một cái ma trần khác máu. Bây giờ mình kể cho các bạn nghe một câu chuyện để các bạn thấy cái nỗi đau của Hạ Đông nó như thế nào. Các bạn trồng được một cây xoài cực kỳ quý hiếm và
+
+00:17:26
+ triểu trái ngay trước sân nhà. đang đi ra các bạn được ngồi hống mát ăn trái ngọt nhưng không trái xoài quá ngon khiến cả xóm bu lại. Trẻ con thì ném đá dấu tay làm vỡ cửa kính còn đám tham lam thì leo rào vào ăn trộm bẻ nát cả cạnh cây. Mấy người ghen ghét thì đi báo công an phường xuống lập biên bản phạt cái tội trồng cây lấn chiếm vỉa hè. Ban ngày thì ồn ào, ban đêm thì mất ngủ vì sợ trộm. Cả gia đình các bạn sống trong nơm nớp lo sợ. Cuối cùng không thể nào chịu nổi sự quấy phá và áp lực đó nữa. Các
+
+00:18:06
+ bạn lẳng lặng cầm cưa xách búa ra tự tay đốn ngã cây xoài tâm huyết của mình. Đốn đi để lấy lại giấc ngủ ngon. Đốn đi để đám đông ranh ma kia không còn cái gì để súng vào sâu xé nữa. Nhắc búa đốn ngã cây xoại đó chính là nút delete mà Nguyễn Hạ Đồng đã bấm xóa sổ Flash Vibus. Đó không phải là sự ngu ngốc đó là một bản án tố cáo trần trụ nhất. bằng việc tự tay đập nát chén cơm tỷ đồng của mình, Hà Đông đã tát thẳng vào mặt đám đông ghen ghét và cái hệ thống bóp nghẹt kia. một sự thật rằng tôi có thể làm ra
+
+00:18:47
+ tiền tỷ bằng trí tuệ của tôi. Nhưng tôi thà vứt bỏ nó đi, thà quay về làm một kẻ vô danh còn hơn là để cho các người biến cuộc sống của tôi thành một rạp siết, để cho các người súng vào ăn chia và chà đạp lên giá của tôi. Sự sụp đổ của Flash Vibus không phải là sự thất bại của một công nghệ bản địa. Nó là một vụ bất tử có tổ chức, nơi mà thói ghen ăn tức ở và sự lạnh lùng của thế chế đã hợp lực lại để siết cổ một thiên tài cho đến lúc anh ta phải tự sát đứa con của mình. Sau khi đã phân tích toàn bộ câu chuyện
+
+00:19:31
+ của Nguyễn Hạ Đông, các bạn đã nhìn thấy rõ ràng đó là một quy trình nghiền nát nhân tài vô cùng tạng khóc. Một cá nhân kiệt xuất tự nảy mầm vươn ra biển lớn mang tiền tỷ [âm nhạc] về thì đám đông ở nhà ghen ăn tức ở buo cắn xé vu khống. [âm nhạc] Cơ quan quản lý thì ngó lơ việc bảo vệ nhưng lại ráo riết ập đến để thu thuế. Người tài [âm nhạc] thì bị cô lập khủng hoảng tâm lý. Cuối cùng họ tự tay tiêu diệt thành quả của mình để đổi lấy sự bình yên. Và kết quả là gì? Cái vỏ cua lại trở về trạng thái ổn
+
+00:20:09
+ định. Những con cua lại tiếp tục bò lỗ ngỗn dưới đá vỏ. Hả hê vì kẻ dám trèo lên miệng vỏ cuối cùng cũng đã rớt xuống bụng. Cho nên sau ngày hôm nay đừng bao giờ đặt ra cái câu hỏi tại sao đất nước không có một vĩ nhân công nghệ như Steve Vent Chop hay Bill Gat. [âm nhạc] Đừng có hỏi nữa. Bởi vì nếu một Steven Chop vô tình được sinh ra ở cái đất nước này, ông ta cũng sẽ bị chính họ dồn ép đến mức phải tự tay đập nát cái máy tính Apple đầu tiên của mình ở trong gara xe mà thôi. Chừng nào sự thành công vượt
+
+00:20:50
+ trội bằng chất xám độc lập vẫn bị xem là cái gai trong mắt đám đông. Chừng nào hệ thống vẫn chỉ xem người tài là mỏ thuế để khai thác. chứ không phải là tài sản để bảo vệ. thì những thiên tài hiếm hoi của đất nước này nếu có nảy mầm thì họ cũng sẽ chọn cách ửng danh mãi mãi hoặc âm thầm đóng gói chất xám của mình để mang sang cống hiến cho tư bản nước ngoài. Đó là một bản án tử hình dành cho sự sáng tạo. Nhưng các bạn tưởng rằng việc bất tử một thiên tài công nghệ ép anh ta xóa sổ trò chơi tỷ đồng của mình đã là dưới đáy của
+
+00:21:32
+ sự tàn nhẫn trong cái ma trựt bản địa này sao? Không đâu các bạn, ngày hôm nay họ dùng thói ghen ghét để bóp chết một tài năng kinh tế. Nhưng ngày mai cái ma trận đám đông đó sẵn sàng lôi cả một bộ ốc tinh hoa hàng đầu về giáo dục. một cựu tổng giám đốc tập đoàn công nghệ lớn nhất cả nước ra để trà đạp, đấu tố và lăn nhục chỉ vì ông ta dám dùng trí tuệ của mình viết ra một cuốn sách lịch sử, nó đi ngược lại cái khuôn ấu trỉ của họ. Sự việc cựu sếp FBT bị bạo lực mạc đàn nhẫn những ngày vừa qua đã lột trừng bộ
+
+00:22:13
+ mặt thực của đám đông tự xưng là yêu nước. Chúng đã dùng cái mát ái quốc để tiêu diệt sự khai phóng tri thức của dân tộc như thế nào. bí mật tàn khóc đó sẽ được lột sạch lớp vỏ cử hạnh trong video tiếp theo.
+
+    
+  
+  
+# Note 251: NUC 260820 Playbook kinh doanh vé số.md  
+
+@tag #politicsVN
+@il
+source: "https://youtu.be/vJR_ABzUdqA"
+author: "Nước Úc Channel"
+published: 2026-08-20
+created: 2026-08-20
+description: "MIỀN NAM ĐANG BỊ LẤY MẤT CÁI GÌ MỖI NGÀY ?"
+
+00:00:00
+ Xin chào tất cả các bạn. Một buổi sáng khi các bạn đi ra uống cà phê, ly cà phê đá vừa mới bưng ra, cục đá chưa kịp tan thì lúc này có ông già bà lão hoặc là một đứa con nít vừa đi tới chìa ra sắp vé số. Các bạn chép miệng rồi móc ví ra để mua vài tờ. Ngay cái giây phút các bạn mua vài tờ đó, các bạn có nghĩ là chiều nay mình trúng được đất không? Chắc chắn là không. Các bạn thừa biết tờ giấy đó 10 phần thì hết 9 phần rưỡi là rác nhưng các bạn vẫn bấm một mua. Tại sao một ngành công nghiệp báo cáo doanh
+
+00:00:35
+ thu ngàn tỷ mỗi năm lại đang ung dung vận hành dựa trên sự cùng cực của người bán giào và sự thương hại của các bạn. Khi các bạn vừa ngồi xuống uống một ly cà phê, vừa lúc đó có một ông cụ già bước tới rồi đưa sắp vé số ra để mời các bạn. Các bạn thấy xót xa trong đầu các bạn lúc đó tính như thế này. Mua vé số để làm gì? Đằng nào cũng vất thùng rác thôi. Thôi lấy 50.000 để cho ông cụ. Cái tâm của các bạn lúc này nó rất đơn giản và tử tế. Nhìn sắp vá số dày cộm trên tay của ổng là đủ biết đường nào ổng cũng phải lết
+
+00:01:23
+ bộ đi bán cho bằng hết. Các bạn rút tiền cho chỉ với một điều duy nhất. Mong trưa nay ổng có một bữa cơm để dằn bùng, có ly nước mía để giải khác. Nhưng các bạn thử ngẫm nghĩ xem, ban đầu ổng cầm tờ 50.000, miệng nói lời cảm ơn. Nhưng khi các bạn vừa quay lưng đi, trong thâm tâm của người già, một nỗi trạnh lòng nó trào lên. ổng đi bán vé số tức là ổng đang đi lao động, ổng đang buôn bán, ổng dùng mồ hôi để đổi lấy tiền, ổng đâu có đi ăn xin nhưng chính cái hành động cho tiền đó vô tình xếp ổng và hằng ngủ của những người
+
+00:02:02
+ ngửa tay xin sự ban phát. Cuộc đời này ai biết được chữ ngờ. Ông cụ già đang lê bước ngoài kia. Biết đâu trước năm 75 ổng từng là một ông chủ cơ ngơi bệ thế hay là ổng từng là một người có chức có quyền, có địa vị của một thời đã qua. Thời cuộc đổi dời, bảo táp ập xuống, xa cơ lỡ vật. Ổng mất [âm nhạc] hết tất cả tay trắng về già mới phải đi bán giấy lộn. Nhưng cái có cách cái lòng tự trọng của một con người đã từng [âm nhạc] trải, nó vẫn còn nằm nguyên ở đó. Vậy mà bữa nay nó bị đánh gục bởi sự
+
+00:02:38
+ thương hại tột cùng của một người khách qua đường. Cái chạnh lòng, cái tự ái đó nó chỉ xảy ra ở người già hoặc là những người từng trải chứ nếu các bạn đưa tờ 50.000 đó cho một đứa con nít bán vào thì tụi nó lấy liền. bởi vì tụi nó chưa hiểu đời. Còn nếu đối diện các bạn là một người trung niên, đàn >> [âm nhạc] >> ông hay là một người phụ nữ lành lặng thì chắc chắn các bạn cũng chỉ bỏ tiền ra mua vé số sầm phẳn chứ không ai rút tiền ra cho không bao giờ. Cho nên cái đặc quyền nhận tiền bố thí nó lại chính
+
+00:03:13
+ là nhát giao đâm vào lòng tự trọng của những [âm nhạc] người già yếu nhất. Nhưng lại có một tình huống như thế này. Khi các bạn đứng giữa trời mưa nắng gắt, các bạn thấy bà cụ ức đẫm mồ hôi, các bạn tội nghiệp. Các bạn ngoắc lại rồi nói, "Bà ơi, sắp này bà còn bao nhiêu tờ?" Bà cụ trả lời, "Tôi còn 200 tờ cậu ơi." Các bạn quyết định chơi lớn, bỏ tiền ra mua đứt luôn 200 tờ. Các bạn mua thêm cho bà cụ ly nước mía mát lành rồi dặn dò ân cần. [âm nhạc] Bữa nay con mua mão hết cho bà. Bà uống ly nước rồi đi
+
+00:03:51
+ về phòng trọ nghỉ ngơi đi nha. Nắng quá rồi. Bà cụ thì mừng rơi nước mắt cầm tiền cầm nước cúi đầu cảm ơn các bạn. Khi các bạn lên xe đi thẳng trong lòng sẽ ngập tràng sự thỏa mãn vì hôm nay mình đã giải thoát được một người cực khổ khỏi cái nắng là đường. Nhưng thực tế sau cái bóng lưng đó là gì? Bà cụ đi khuất qua ngã tư, bà có đón xe ôm về nhà trọ ngã lân không? Không hề. Bà đi thẳng một mạch ra đại lý vé số và lấy thêm 100 tờ nữa. Bà lật đực ôm sắp vé số đó tiếp tục rảo bước dưới cái nắng đổ lửa từ giờ
+
+00:04:30
+ cho tới 4:00 chiều. Tại sao như vậy? Tại sao người ta lại phủ phàn với cái lòng tốt của các bạn như vậy? Bởi vì đó là tâm lý sinh tồn của người nghèo. Khi bà cụ thấy hôm nay mình quá may mắn gặp các bạn, gặp một người khách sộp mua mão từ sớm thì trong đầu của bà không nảy sinh ý nghĩ phải nghỉ ngơi. Trong bà chỉ nghĩ trời thương cho mình bán đắt hôm nay thì mình phải tranh thủ thời gian này đi bán thêm. Vì lỡ ngày mai trái gió trở trời, chân đau nhất đi không nổi hay là mình ngã bệnh nằm một chỗ thì lấy tiền đâu mà
+
+00:05:04
+ mua gạo? Lấy ai lo cho mình thuốc men. Cái nỗi sợ hãi ngày mai ốm đau không [khịt mũi] có ai bảo bọc, nó lớn hơn ngàn lần cái sự mệt mỏi của ngày hôm nay thì bà phải vắt kiệt cái may mắn của ngày hôm nay để mua sự an toàn cho ngày mai. Vậy thì cuối cùng mình muốn đặt ra một câu hỏi. Nếu như các bạn móc tiền ra mua đất 200 tờ vé số với suy nghĩ cho bà cụ về nhà nghỉ ngơi nhưng thực tế bà lại quay về lại đại lý tiếp tục lấy thêm vé và lên lết bán tiếp thì rốt cuộc các bạn đang thực sự giúp bà cụ vơi đi gánh nặng
+
+00:05:42
+ hay là các bạn đang vô tình dọn đường cho những người đại lý xổ số tiêu thụ thêm 100 tờ vé số nữa. Bây giờ các bạn nhìn ra miền Trùng rồi nhìn ra ngoài Bắc và quay ngược lại miền Nam xem. Các bạn sẽ thấy một bức tranh kỳ lạ nhất trên thế giới. Ở miền Trung, đất cầy lên sởi đá quanh năm bảo lũ triền miên. Người dân ở đó họ chắt bóc từng cắt từng đồng để tồn tại. Cơm không đủ ăn, nhà cửa xây lên thì thấp thỏm chờ bảo vô cuốn trôi. Trong cái hoàn cảnh ngặt nghèo đó, lấy đau ra dư giả để mua hy vọng đổi đời [âm nhạc] từ tờ vé số.
+
+00:06:20
+ Cho nên thị trường miền Trung nó luôn ảm đạm. Khi các bạn ra miền Bắc, người miền Bắc họ cực kỳ thực tế và tính toán rất kỹ lưỡng. Họ có tiền họ sẽ bỏ tiền ra mua vàng cứt dưới đáy tủ hoặc là mua đất đai để phòng thân. Vì họ thừa biết xác suất trúng số nó mỏng hơn lá lúa nên họ kiên quyết không mua. Ai muốn thử vận may thì tự vát xe chạy thẳng ra đại lý. Chính vì sự thực dụng đó, các bạn đốt đốt tìm khắp cái đất thủ đô này cũng không moi ra được một bóng dáng của những người đi bán vé số dạo ngoài ngã
+
+00:06:55
+ tư. Không có ai mua vì lòng thương hại thì lấy đâu ra người đi bán. Nhưng khi các bạn quay lại nhìn miền Nam xem, nó là một mỏ vàng lộ thiên. Người dân miền Nam có một cái tử huyệt tâm lý đó là sự bao dung và cái tính sởi lỗi. Có 10 đồng dám xài hết 12 đồng. [âm nhạc] Khi một người Sài Gòn hay là một người miền Tây Lục Tĩnh ngồi nhậu hễ dòm thấy một ông lão cục chân hay là một đám con nít rách rưới cầm sách vé số bước tới là tự nhiên họ móc bóp ra để mua. Họ mua không phải vì muốn trúng độc đắc để sắm xe hơi mà
+
+00:07:35
+ mua vì không chịu nổi cái cảnh khổ trước mắt. Và đây chính ngay tại cái điểm này, những nhà hoạch định chính sách đã nhìn thấu tất cả. Họ không cần phải áp đặt chỉ tiêu một cách miễn cưỡng như thời bao cấp. Họ dùng một thứ vũ khí quản lý hiện đại và tinh vi hơn rất nhiều, đó là hạng mức phát hành hay còn gọi là rung in vé số do chính Bộ Tài chính nóng quyền. Khi nhìn vô những bản báo cáo doanh thu, người ta thấy rõ miền Nam tiêu thụ vé số rất khủng khiếp, chiếm tới 80 đến 90% tổng doanh thu xổ số toàn
+
+00:08:14
+ quốc. Tỷ lệ vé bán sạch ở miền Nam lúc nào cũng đạt ngưỡng chạm nóc từ 95 đến 98%. In bao nhiêu người dân trong Việt Nam hốt sạch bấy nhiêu. Khi thấy thị trường này nó quá béo bở, các công ty xổ số miền Nam lao vào in vé tội vạ để đua doanh số. Từ cột bốc 2008, Trung ương bắt buộc phải can thiệp để nắm lại quyền kiểm soát. [âm nhạc] Bộ Tài chính tung ra áp đặt trừng hạn mức in vé số cho từng tỉnh. Miền Bắc bán ế thì hạn mức bị siết chặt ở mức thấp để tránh lãng phí tiền giấy mực. Nhưng với miền Nam khi thấy dân chúng bỏ tiền mua
+
+00:08:56
+ vé số vì tình thương nó quá nhiệt tình thì hạng mức này liên tục được giám sát. Có những thời điểm hạng mức tối đa cho mỗi kỳ quay số của một đài miền Nam được chốt ở mức 120 tỷ đồng. Rồi khi thấy thị trường nó vẫn nuốt trôi một cách dễ dàng thì con số đó tiếp tục nâng lên cho phép tối đa 160 tỷ đồng cho mỗi kỳ quay tương đương với 16 triệu tờ giấy lộn được tung ra thị trường chỉ trong một ngày của một đài. Vậy thì mình đặt câu hỏi ngay chỗ này. Cái hạng mức 160 tỷ đồng đó nó phản ánh cái gì? Nó không phản ánh sự giàu có
+
+00:09:39
+ của người dân. Nó chính là thức đo bằng con số tuyệt đối về giới hạn chịu [âm nhạc] đựng và lòng thương hại của người miền Nam. Cơ quan quản lý họ ngồi trên cao, họ dòn vô số liệu và biết chắc rằng [âm nhạc] ngày hôm nay tung ra 16 triệu tờ vé số thì chắc chắn ngày mai bằng mọi giá hàng trăm ngàn người già yếu, người khuyết tực ngoài kia sẽ đổ mồ hôi sôi nước mắt để bán sạch sành xanh cái đống giấy đó. của mấy ngàn tỷ này nó vận hành quá trân tru, không tốn tiền để xây cửa hàng, cũng không cần đóng bảo hiểm y tế cho
+
+00:10:17
+ nhân viên. Nếu nhìn bình thường thì họ không hề ép buộc người miền Nam phải mua vé số nhưng lại sử dụng chính những thân xác khắc khổ nhất của những người già, những trẻ nhỏ làm lực lượng phân phối độc quyền và họ đã giăng ra một cái ma trận. Tình thương của người đi đường đã được hệ thống hóa. 16 triệu tờ vé số tung ra mỗi ngày. Đó chính là 16 triệu lần lòng bao dung của các bạn đem ra để phục vụ cho những bản báo cáo doanh thu cao ngất ngưỡng. Tuy nhiên sẽ có người nói rằng nhờ xổ số kiến thiết thì những người nghèo, người
+
+00:10:54
+ già người tàn tực mới có công ăn việc làm. Nhà nước đang tạo điều kiện mưu sinh cho từng lớp yếu thế kêu ca [âm nhạc] cái gì? Hôm nay mình sẽ phân tích tạo công ăn việc làm này. Rốt cuộc đằng sau cái danh nghĩa nhân đạo này ai đang cu mang ai và ai đang bị vắt kiệt tới động xu cuối cùng. Khi các bạn thấy một ông cụ bán vé số, nhiều người đinh ninh là ổng bán vé số thì ổng được hưởng 10% hoa hồng. Tức là 1000đ cho mỗi tờ vé 10.000đ. Làm nhiều ăn nhiều sông phẳn có gì đâu mà bốc lột. Nhưng có một điều như thế này,
+
+00:11:33
+ Bộ Tài chính hoàn toàn không có bất kỳ một văn bản nào bắt buộc người bán dạo phải được hưởng mức 10%. Đó. Sự thật lạnh lùng nó nằm ở thông tư 138 của Bộ Tài chính. Nhà nước chỉ quy định trừng hoa hồng cho các công ty xổ số chi trả cho đại lý cấp 1 là không vượt quá 15% doanh thu. Tức là đối với một tờ vé số mà giá 10.000đ, [âm nhạc] công ty xổ số cắt lại tối đa 100 cho đại lý cấp 1 hết trách nhiệm. Vậy từ cái trần 100 đồng đó nó chảy đi đâu trước khi rớt xuống cái lon nhựa của người nghèo? Nó bị bào mòn qua các tầng nất trung gian
+
+00:12:19
+ tàn nhẫn của thị trường. Đại lý cấp 1 ôm vé trừ chi phí kho bãi, trừ chi phí vận chuyển, trừ rủi ro vé ế rồi giao xuống cho đại lý cấp hai tới đại lý cấp ba. Qua mỗi tuần, hoa hồng bị cấu xé đi một khúc. Đến khi cái sắp giấy luận đó nó rớt xuống tay đại lý dưới cùng để giao cho những người lết bộ ngoài ngã tư thì mất hoa hồng thực tế chỉ còn dao động từ 7% đến 10%. Có nghĩa là người bán dạo vắt kiệt mồ hôi lạy lục mời mọc gãy lưỡi thì mới kiếm được từ 700 đồng đến 1000 đồng cho mỗi tờ vé số. Thậm chí trong những cái
+
+00:13:02
+ thời kỳ sốt vé, tức là lượng vé khan hiếm mà người đi bán thì đông thì những đại lý này họ nắm đằng chui. Họ bóc nghẹt hoa hồng của người già người khuyết tật xát xuống đáy. [âm nhạc] Họ nói thẳng như thế này. Bữa nay hoa hồng chỉ còn 600 đến 700 đồng một tờ. Có lấy thì lấy, không lấy thì đi chỗ khác. Có hàng ngàn người khác đang xếp hàng chờ bán kìa. Khi họ đã bị dồn tới chân tường, không bán thì lấy tiền đâu mà ăn. Buộc lòng họ phải cắn răng chấp nhận luật chơi. Vậy thì mình hỏi các bạn, một cái hệ thống đẩy 100% rủi ro sinh mạng
+
+00:13:42
+ cho những người nghèo, người già, người tàn tực và trẻ nhỏ để đổi lấy 700 đồng bạc lẻ thì gọi là công ăn việc làm chỗ nào? Khi các bạn đi làm thì phải có bảo hiểm. Còn ở đây người bán vé dạo tự bỏ tiền ra mua đứt sắt vé số đó đi lại ngoài đường nắng nôi bệnh tực họ tự chịu. Lỡ xui rủi đi ngang ngã tư bị chiếc xe hơi quẹt trúng, gãy tay chân thì phải vô nhà thương cấp cứu thì tự lấy tiền ra mà trả viện phí. Tuyệt nhiên không có một công ty xổ số nào bồi thường. Nhưng đó chưa phải là cứ chí mạng nhất. Cái đoàn hiểm
+
+00:14:20
+ nhất nó nằm ở bốn chữ luật, ngầm, đại lý. Trên giấy tờ văn bản pháp luật cho phép các đại lý được phép trả lại vé số dừ, vé số bán ế cho các công ty sổ số trước giờ quay từ 30 phút đến 60 phút, tức là khoảng 15:15 chiều đại lý có quyền chốt sổ trả vé. Nhưng thực tế thì sao? Có bao nhiêu người bán vé dạo được quyền trả lại vé ế không? Câu trả lời gần như không tồn tại. Các đại lý áp đặt một cái luật ngầm mua đứt bán đoạn ép không cho trả vé. Các bạn nghĩ xem, trời đổ mưa bảo từ sáng sớm ngập đường ngập
+
+00:15:03
+ xá, khách không ai dừng lại để mua vé số. Một ông cụ già làm lủi đội áo mưa đi rã cái cặp giò. Tới 3:00 chiều trên tay của ông cũng còn ôm 50 tờ vé số bán không được. [âm nhạc] Ông cụ chạy về đại lý xin trả lại để gỡ gạt tiền vốn nhưng đại lý lắc đầu đóng sầm cửa lại. Ông tự ôm 50 tờ đó mà chịu nợ 500.000 đi, còn không ông nằn nặt đòi trả vé thì ngày mai tôi cắt mối, vĩnh viễn không giao vé cho ông bán nữa." Trong cái giây phút 3:00 chiều đó, cái rủi ro tài chánh khổng lồ bị đại lý đẩy ngược xuống bờ vai gầy gò của ông cụ. Số
+
+00:15:47
+ tiền kích cóc cả một tuần lượng bạc cắt thì nay lại bay sạch sẽ trong một buổi chiều mưa. Khi không được trả vé, ông cụ nghèo khổ đó bị hệ thống ép buộc trở thành một con bạc bất đắc dĩ. Mở đài lên nghe sổ số lúc 4:15 chiều và vái trời khứng phựt cho chính những tờ vé số ế này trúng giải để bù lại số nợ 500.000 kia. Một đời nghèo khổ, cuối cùng lại biến thành nạn nhân vớt vát lại những tờ vé số ế của mình đi bán giào. Đó, cái khẩu hiệu ít nước lợi nhà nó hoạt động như vậy đó. Công ty sổ số nằm trên đỉnh
+
+00:16:28
+ rô đùi hưởng lợi nhuận ngàn tỷ an toàn tuyệt đối. Đại lý cấp trung gian thì ăn trên lệch ép doanh số bằng luật ngầm. Còn tận cùng dưới đấy những con người yếu thế nhất mang cái vốn liến còm cõi của mình ra hứng triệu trọn vẹn mọi rủi ro của thị trường. Vậy thì những người đang ngày đêm bỏ tiền ra mua vé số vì lòng thương hại thực chất họ đang nuôi ai? nuôi bà cụ bán giàu hay là đang vỗ béo cho những đại lý đang núp bóng ở đằng sau lưng những người nghèo khổ [âm nhạc] này. Các bạn nhớ lại đầu thập niên năm 80
+
+00:17:06
+ xem. Đó là giai đoạn lịch sử có những biến động cực lớn về cấu trúc xã hội ở miền Nam. Rất nhiều gia đình rơi vào cảnh xa cơ lỡ vựng. Những người tàn tực sâu chiến tranh. Những người lớn tuổi bỗng chốc mất đi phương tiện sinh kế truyền thống. Một bộ phận khổng lồ, những phần đời bơ vơ, không có công ăn việc làm. Lúc bấy giờ cái gì là con đường mưu sinh duy nhất trước mắt của họ? Có phải chính là đi bán vào giá số không? Nhưng nếu nhìn sâu hơn vào thói quen tiêu dùng và văn hóa tích lũy của từng vùng miền thì các bạn sẽ thấy một
+
+00:17:43
+ bài toán được giải quyết vô cùng tài tình bằng chính điểm yếu của người miền Nam. Trong nhân gian từ xưa tới nay, người ta hay truyền tay nhau một câu nói đùa nhưng cực kỳ thấm thía về cách xài tiền của ba miền. Ngoài Bắc người ta có 10 đồng thì chỉ dám xài 5 đồng, còn 5 đồng gom lại mua vàng cứt dưới đáy tủ để phòng thân. Miền Trung đứt cầy lên sỏi đá có 10 đồng thì xài 2 đồng, cắn răng nhịn ăn nhịn mặc cứ dấu 8 đồng cho chắc dạ. [âm nhạc] Còn miền Nam thì sao? Bản tính phóng khoáng sởi lỗi thương người.
+
+00:18:20
+ Đời sống bao năm quen nhịp dung dị. Có 10 đồng [âm nhạc] người ta xài trọn 10 đồng thậm chí có khi xài luôn 12 đồng. Thà chịu âm hai đồng mai có tiền mai tính. Người miền Nam không có thói quen giữ tiền cứt giữ tài sản quá khắc khe. Tiền mặt trong dân lúc nào cũng có sự luân chuyển liên tục. Những đồng bạc lẻ, bạc cắt nó nằm rải rác trong từng hộ gia đình, từng quán cốc lệ đường, từng túi áo của người lao động. Và thế là một bài toán vĩ mô được đặt ra. Làm thế nào hút sạch toàn bộ cái dòng tiền mặt nhỏ lẻ
+
+00:18:58
+ đang nằm rải rác trong dân gian nó dịch chuyển về một mối? Nếu đem vàng ra bán để hút dòng tiền thì người dân không chịu vì vàng là tài sản giữ mạng. Nhưng nếu dùng một tờ giấy có mệnh giá rất nhỏ được phân phối từng tay bởi chính những con người nghèo khổ nhất, bất hạnh nhất của xã hội thì câu chuyện nó lại hoàn toàn khác. Không cần những chiến dịch quảng cáo rầm rộ cho tốn kém, chỉ cần một mạng lưới hàng trăm ngàn người bán dạo đi gõ cửa từng quán cà phê, từng bàn nhậu, bấm trúng cái tử huyệt, thấy người nghèo là mũi lòng, có
+
+00:19:36
+ bao nhiêu xài tiền bấy nhiêu của người miền Nam. Từng tờ vé số được chìa ra. Người ta không tiếc vì số tiền nó quá nhỏ. Nhưng khi gom lại của hàng triệu con người, mỗi ngày hàng chục triệu tờ trên khắp các tỉnh thành miền Nam thì nó tạo ra một dòng lũ tiền mặt khổng lồ chảy ngược về trung tâm. Đó là một đoàn bẫy tài chánh vô cùng hoàn hảo. Người ta dùng lòng trắc ẩn của người dân để kích hoạt một cổ máy hút tiền tự động vận hành không ngừng nghỉ suốt mấy chục năm qua. Hàng năm các công ty xổ số kiến thiết
+
+00:20:15
+ đều trích hàng chục [âm nhạc] tỷ đồng từ quỹ Phúc Lợi để xây nhà tình thương nha tên Nghĩa. Khi tới Tết họ phát gạo, phát dầu ăn ly xì tiền mặt thậm chí còn cấp thẻ bảo hiểm y tế miễn phí. tổ chức khám bệnh rồi trao cả tiền học bổng tiếp xức đến trường cho những đứa con nít con em của người bán dạo kia. Những chương trình đó đã giúp đỡ rất nhiều người. Nhưng bây giờ mình sẽ phân tích một tâm lý nữa để xem sự thực rành rọi hai khái niệm hoạt động từ thiện và quyền lợi an sinh cốt lõi. Khi một người đi làm công
+
+00:20:49
+ nhân trong nhà máy hay là làm nhân viên văn phòng, cái thẻ bảo hiểm y tế, các chế độ thai sản, ốm đau, tai nạn lao động, đó là quyền lợi hợp pháp. Tức là pháp luật bắt buộc doanh nghiệp phải đóng cho người lao động. làm sai là bị phạt. Người lao động nhận những thứ đó trong tâm thế của sự sồng phẳn. Nhưng đối với hàng trăm ngàn người bán vé số ở ngoài lệ đường thì cái thẻ bảo hiểm y tế miễn phí này hay là bịch gạo ngày Tết nó lại mang tính chất của sự ban [âm nhạc] phát từ thiện. Nó được trích ra từ quỷ
+
+00:21:23
+ phúc lợi, tức là công ty năm nay làm ăn có lợi. Nếu có lòng hảo tâm thì công ty xét duyệt cho những hoàn cảnh khó khăn nhất. Khúc [âm nhạc] này cái bẫy tâm lý nó bắt đầu xuất hiện. Một công ty ngàn tỷ trao tặng vài ngàn cái thẻ bảo [âm nhạc] hiểm y tế hay là vài trăm căn nhà tình thương. Đó là một nghĩa cử cao đẹp. Nhưng nó có bù đắp được cái rủi ro tay chánh khổng lồ mà toàn bộ lực lượng bán dạo đang phải cổ gánh chịu mỗi ngày với luật ngầm của đại lý hay không. Cả năm trời người bán dạo phải cắn răng ôm
+
+00:22:01
+ vé ế. tự bỏ tiền túi ra triệu trừng những ngày mưa bảo ngập đường. Hôm nào đau lết không nổi không đi lấy vé thì đại lý sẽ không cho bán nữa. Họ bưng trải ngoài đường hít khói bụi. Lỡ bị xe hơi quẹt phải vô nhà thương thì những cái thẻ y tế bảo hiểm từ thiện này có thể trả một phần tiền thuốc. Nhưng những chuỗi ngày nằm viện không đi bán được, ai sẽ trả lương cơ bản để cho họ sống tiếp đây? Không có ai hết. Bởi vì trên giấy tờ họ vẫn chỉ là lao động tự do, mua đứt bán đoạn. Chính những hoạt động
+
+00:22:38
+ hỗ trợ nhân đạo này đã tạo ra một bức màn nhung vô cùng hoàn hảo. Nó làm cho những người đi đường cảm thấy [âm nhạc] yên tâm bó tiền ra vì nghĩ rằng những người yếu thế đang được cu mang rất tốt. Nhờ cái bức màn này thì hệ thống xổ số họ tiếp tục duy trì được một lực lượng nhân công để phân phối sản phẩm rẻ mạc nhất. đông đảo nhất mà không cần phải đối mặt với bài toán hợp đồng lao động hay là mức lương cơ bản. Người nghèo nhận được một chút quạt cuối năm, nhận được cuốn tập cho con đi học, họ cảm
+
+00:23:13
+ thấy an ủi, thấy biết ơn và thế là ngày mai họ lại tiếp tục làm lỗi ôm sách vé số lết ra ngã tư. Họ tiếp tục làm cái công việc đi gom tần đồng bạc cắt, tầng đồng tiền lẻ từ thói quen bao dung của người dân miền Nam gom thành một dòng thác tiền mặt khổng lồ chảy [âm nhạc] ngược về trung tâm. Cuối cùng số tiền hoa hồng 10% bọt bèo giam lỏng họ trong sự nghèo khó. Những món quà từ thiện giúp họ không chết gục giữa đường. Nhưng vĩnh viễn không bao giờ là một chiếc cần câu đủ chắc chắn để họ kéo cả cuộc đời
+
+00:23:51
+ của mình thoát ra khỏi cái kiếp bán dạo mưu sinh vé số này. Vậy thì nếu ngày mai tất cả những người bán dạo được cấp một mức lương cơ bản, nếu họ được hưởng quyền lợi lao động sòng phẳn, được quyền từ chối mất hoa hồng 10% bọt [âm nhạc] bèo và gạt bỏ cái luật ngầm ép ôm vế ế của đại lý, liệu của máy xổ số đó có còn vận hành trơn tru với những hạt mức khổng lồ như hiện tại hay không? Câu trả lời chắc chắn là không. [âm nhạc] của mấy đó không có tay chân để tự lết ra đường gom từng đồng cắt bạc. [âm nhạc] Hệ thống này không
+
+00:24:28
+ giải quyết cái nghèo, nó mượn sự bế tắc của cái nghèo và lòng thương hại của mọi người để cu mang chính nó. Khi kết thúc video này, mình xin để lại một câu hỏi cuối cùng. Vậy rốt cuộc những người bán vé số nghèo khổ ngoài kia họ có hưởng được an sinh xã hội hay không? Câu trả lời sòng phẳn là có. Nhưng cái lưới an sinh xã hội của họ không nằm trong những bộ luật lao động, cũng không nằm ở quỷ hưu trí hay là những con số [âm nhạc] báo cáo kia. An sinh xã hội của những người đi bán vé số chính [âm nhạc] là
+
+00:25:05
+ tình thương của những người miền Nam. Sự sở lỗi, bao dung, sẵn sàng bỏ tiền ra để cu mang những người yếu thế của người [âm nhạc] dân miền Nam. Họ đã vô tình gồng gánh và trở thành tấm khiêng duy nhất che chở suốt mấy chục năm qua. Ah [âm nhạc] [âm nhạc] >> [âm nhạc] [âm nhạc] >> H [âm nhạc] >> [âm nhạc]
+
+    
+  
+  
+# Note 252: Nợ công Việt Nam 35–36% GDP, Chính phủ định vay 969.796 tỷ năm 2026.md  
 @tag #politicsVN 
 @il
 source: "https://kevesko.vn/20251020/no-cong-viet-nam-3536-gdp-chinh-phu-dinh-vay-969796-ty-nam-2026-39044372.html"
@@ -24100,7 +26227,7 @@ Sang năm 2026, Chính phủ phấn đấu tăng trưởng GDP phấn đấu đ�
     
   
   
-# Note 237: Phái đoàn Phạm Minh Chính tấn công tình dục ở New Zealand.md  
+# Note 253: Phái đoàn Phạm Minh Chính tấn công tình dục ở New Zealand.md  
 @tag #politicsVN 
 @il
 
@@ -24138,7 +26265,7 @@ TOP
 ![](https://www.images-home.com/86975.gif?from=www.nzherald.co.nz)    
   
   
-# Note 238: Playbook- Cái cũ không đi, cái mới làm sao tới.md  
+# Note 254: Playbook- Cái cũ không đi, cái mới làm sao tới.md  
 @tag
 @il [[Sáp nhập tỉnh, thành Việt Nam 2025]]
 
@@ -24146,7 +26273,7 @@ Sau khi ông Nguyễn Phú Trọng chết, Tô Lâm kế thừa với nhiều kh
 Các thế hệ sau cũng khó tra cứu kết nối với lịch sử xưa cũ hơn.    
   
   
-# Note 239: Playbook- Làm đại, hư thì sửa theo ý Việt cộng.md  
+# Note 255: Playbook- Làm đại, hư thì sửa theo ý Việt cộng.md  
 @tag
 @il [[Chỉnh trang chợ Bến Thành, hồ Con Rùa Cần nhìn trong tổng thể và chờ công trình hoàn chỉnh]]
 
@@ -24154,14 +26281,14 @@ Các thế hệ sau cũng khó tra cứu kết nối với lịch sử xưa cũ 
 2. Khi dân chúng thực sự phản ảnh dữ dội, họ có thể sẽ dùng tiền ngân sách sửa lại, khi sửa lại sẽ không giống hiện trạng ban đầu, lần sửa lại này mới là bản thiết kế lãnh đạo cộng sản thực sự muốn, họ muốn hóa bỏ văn hóa có từ thời chế độ Việt Nam Cộng Hòa.    
   
   
-# Note 240: Playbook- Thúc đẩy xe điện Vinfast, pin từ Trung Quốc.md  
+# Note 256: Playbook- Thúc đẩy xe điện Vinfast, pin từ Trung Quốc.md  
 @tag
 @il
 
 Thúc đẩy xe điện Vinfast    
   
   
-# Note 241: Rò rỉ thông tin Tô Lâm có 194 tỷ gửi ngân hàng BIDV.md  
+# Note 257: Rò rỉ thông tin Tô Lâm có 194 tỷ gửi ngân hàng BIDV.md  
 @tag #politicsVN 
 source: "https://www.reddit.com/r/TroChuyenLinhTinh/comments/1ptjhzg/r%C3%B2_r%E1%BB%89_th%C3%B4ng_tin_t%C3%B4_l%C3%A2m_c%C3%B3_194_t%E1%BB%B7_g%E1%BB%ADi_ng%C3%A2n_h%C3%A0ng/"
 published: 2025-12-22
@@ -24284,7 +26411,7 @@ Lương 30 triệu tháng đó nha!
 > Chỉ bằng tiền lẻ của thằng Khôi cháu nội của thằng lồn Phúc    
   
   
-# Note 242: Sáp nhập tỉnh, thành Việt Nam 2025.md  
+# Note 258: Sáp nhập tỉnh, thành Việt Nam 2025.md  
 ---
 title: Sáp nhập tỉnh, thành Việt Nam 2025 – Wikipedia tiếng Việt
 source: https://vi.wikipedia.org/wiki/S%C3%A1p_nh%E1%BA%ADp_t%E1%BB%89nh,_th%C3%A0nh_Vi%E1%BB%87t_Nam_2025
@@ -24562,7 +26689,7 @@ Theo [Đài Á Châu Tự Do](https://vi.wikipedia.org/wiki/%C4%90%C3%A0i_%C3%81
 [^38]: **[^](https://vi.wikipedia.org/wiki/#cite_ref-38)** Dư Lan. ["Sáp nhập tỉnh giúp Tô Lâm thâu tóm Ban chấp hành Trung ương thế nào?"](https://www.rfa.org/vietnamese/thoi-su/2025/03/07/to-lam-sap-nhap-tinh-ban-chap-hanh-trung-uong/). *Đài Á Châu Tự Do*. [Lưu trữ](https://web.archive.org/web/20250307135006/https://www.rfa.org/vietnamese/thoi-su/2025/03/07/to-lam-sap-nhap-tinh-ban-chap-hanh-trung-uong/) bản gốc ngày 7 tháng 3 năm 2025. Truy cập ngày 13 tháng 3 năm 2025.    
   
   
-# Note 243: Tem in cờ Trung Quốc.md  
+# Note 259: Tem in cờ Trung Quốc.md  
 @tag #politicsVN 
 
 ---
@@ -24586,7 +26713,7 @@ Ai là kẻ tay sai?
     
   
   
-# Note 244: Triển khai Nghị quyết số 79-NQTW về phát triển kinh tế nhà nước Lấy hiệu quả làm thước đo.md  
+# Note 260: Triển khai Nghị quyết số 79-NQTW về phát triển kinh tế nhà nước Lấy hiệu quả làm thước đo.md  
 @tag #politicsVN 
 
 ---
@@ -24644,7 +26771,7 @@ Nghị quyết đặt mục tiêu xây dựng một số tập đoàn kinh tế,
     
   
   
-# Note 245: Tương lai của IoT Chip không cần dùng pin, lấy năng lượng điện từ sóng radio xung quanh.md  
+# Note 261: Tương lai của IoT Chip không cần dùng pin, lấy năng lượng điện từ sóng radio xung quanh.md  
 @tag
 @il [[Căn cước công dân gắn chíp và tài khoản định danh điện tử Những điều cần biết…]]
 source: "https://tinhte.vn/thread/tuong-lai-cua-iot-chip-khong-can-dung-pin-lay-nang-luong-dien-tu-song-radio-xung-quanh.3245896"
@@ -24693,7 +26820,7 @@ Quảng cáo
     
   
   
-# Note 246: Vụ Nổ Quân Khu 7 Tệ Nạn Trộm Cắp Chất Nổ Trong Quân Đội.md  
+# Note 262: Vụ Nổ Quân Khu 7 Tệ Nạn Trộm Cắp Chất Nổ Trong Quân Đội.md  
 @tag #politicsVN 
 @il
 source: "https://x.com/tuanbanme369/status/1864900953113268314?s=12"
@@ -24708,7 +26835,7 @@ Theo một chủ mỏ khai thác đá lâu năm ở Đồng Nai, vụ nổ khi�
     
   
   
-# Note 247: Xác minh vụ 3 công an “bắn nhầm” dê của người dân ở Hà Nội.md  
+# Note 263: Xác minh vụ 3 công an “bắn nhầm” dê của người dân ở Hà Nội.md  
 @tag #politicsVN 
 @il
 source: "https://kienthuc.net.vn/xac-minh-vu-3-cong-an-ban-nham-de-cua-nguoi-dan-o-ha-noi-post917852.html"
@@ -24736,7 +26863,7 @@ Liên quan đến vụ việc trên, một lãnh đạo UBND huyện Mỹ Đức
 *Nguồn: Lý Thùy.*    
   
   
-# Note 248: a1 MobiFone - Chuyển giao Tổng công ty Viễn thông MobiFone về Bộ Công an Bước tiến chiến lược mở ra kỷ nguyên mới.md  
+# Note 264: a1 MobiFone - Chuyển giao Tổng công ty Viễn thông MobiFone về Bộ Công an Bước tiến chiến lược mở ra kỷ nguyên mới.md  
 @tag #politicsVN  #Mobifone
 @il
 source: "https://www.mobifone.vn/tin-tuc/chi-tiet/chuyen-giao-tong-cong-ty-vien-thong-mobifone-ve-bo-cong-an-buoc-tien-chien-luoc-mo-ra-ky-nguyen-moi-15341"
@@ -24768,7 +26895,7 @@ Trong suốt hành trình hơn 30 năm, MobiFone luôn cam kết mang đến gi�
     
   
   
-# Note 249: a2 8 lãnh đạo chủ chốt của MobiFone được phong cấp bậc hàm.md  
+# Note 265: a2 8 lãnh đạo chủ chốt của MobiFone được phong cấp bậc hàm.md  
 @tag
 @il [[a1 MobiFone - Chuyển giao Tổng công ty Viễn thông MobiFone về Bộ Công an Bước tiến chiến lược mở ra kỷ nguyên mới]]
 source: "https://cafef.vn/8-lanh-dao-chu-chot-cua-mobifone-duoc-phong-cap-bac-ham-18825102014254531.chn"
@@ -24830,7 +26957,7 @@ Link bài gốc https://markettimes.vn/8-lanh-dao-chu-chot-cua-mobifone-vao-bien
     
   
   
-# Note 250: a3 Bộ trưởng Nguyễn Mạnh Hùng Bây giờ thay vì cạnh tranh hạ tầng, đã đến lúc phải chia sẻ, VNPT, Viettel phải chia sẻ hạ tầng cho MobiFone.md  
+# Note 266: a3 Bộ trưởng Nguyễn Mạnh Hùng Bây giờ thay vì cạnh tranh hạ tầng, đã đến lúc phải chia sẻ, VNPT, Viettel phải chia sẻ hạ tầng cho MobiFone.md  
 @tag
 @il [[a2 8 lãnh đạo chủ chốt của MobiFone được phong cấp bậc hàm]]
 source: "https://cafef.vn/bo-truong-nguyen-manh-hung-bay-gio-thay-vi-canh-tranh-ha-tang-da-den-luc-phai-chia-se-vnpt-viettel-phai-chia-se-ha-tang-cho-mobifone-188250728103305917.chn"
@@ -24948,7 +27075,7 @@ Link bài gốc https://markettimes.vn/bo-truong-nguyen-manh-hung-bay-gio-thay-v
 8 giờ trước    
   
   
-# Note 251: lt1 Sân bay Long Thành và những câu hỏi của Tổng Bí thư.md  
+# Note 267: lt1 Sân bay Long Thành và những câu hỏi của Tổng Bí thư.md  
 @tag #politicsVN 
 @il
 source: "https://vietnamnet.vn/san-bay-long-thanh-va-nhung-cau-hoi-cua-tong-bi-thu-2492789.html"
@@ -25030,7 +27157,7 @@ Tổng Bí thư Tô Lâm cho biết, ở đâu cán bộ gương mẫu, ở đó
     
   
   
-# Note 252: lt2 Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật ngay sau quyết định của Bộ Tài chính.md  
+# Note 268: lt2 Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật ngay sau quyết định của Bộ Tài chính.md  
 @tag
 @il [[lt1 Sân bay Long Thành và những câu hỏi của Tổng Bí thư]]
 source: "https://cafef.vn/chu-dau-tu-san-bay-long-thanh-doi-nguoi-dai-dien-phap-luat-ngay-sau-quyet-dinh-cua-bo-tai-chinh-188260226122922813.chn"
@@ -25074,7 +27201,7 @@ Link bài gốc https://markettimes.vn/chu-dau-tu-san-bay-long-thanh-doi-nguoi-d
     
   
   
-# Note 253: lt3 VKSND tối cao phê chuẩn khởi tố, bắt tạm giam Chủ tịch ACV.md  
+# Note 269: lt3 VKSND tối cao phê chuẩn khởi tố, bắt tạm giam Chủ tịch ACV.md  
 @tag #ACV 
 @il [[lt2 Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật ngay sau quyết định của Bộ Tài chính]]
 
@@ -25108,7 +27235,7 @@ Tổng công ty Cảng hàng không Việt Nam ACV cũng mới công bố thông
       
   
   
-# Note 254: t1 húc đẩy thanh toán không tiền mặt sáng tạo, an toàn.md  
+# Note 270: t1 húc đẩy thanh toán không tiền mặt sáng tạo, an toàn.md  
 @tag #politicsVN 
 @il
 source: "https://tuoitre.vn/pho-thu-tuong-tiep-tuc-thuc-day-thanh-toan-khong-tien-mat-sang-tao-an-toan-20250614081251966.htm"
@@ -25345,7 +27472,7 @@ Trong khuôn khổ chương trình còn có hội thảo “Thanh toán không t
     
   
   
-# Note 255: t2 Cơ quan thuế hướng dẫn hộ kinh doanh quy định mới về chính sách thuế để không bị phạt.md  
+# Note 271: t2 Cơ quan thuế hướng dẫn hộ kinh doanh quy định mới về chính sách thuế để không bị phạt.md  
 @tag
 @il [[t1 húc đẩy thanh toán không tiền mặt sáng tạo, an toàn]]
 source: "https://laodong.vn/kinh-doanh/co-quan-thue-huong-dan-ho-kinh-doanh-quy-dinh-moi-ve-chinh-sach-thue-de-khong-bi-phat-1650047.ldo"
@@ -25450,7 +27577,7 @@ Hộ kinh doanh được miễn đăng ký kinh doanh trong 5 trường hợp
     
   
   
-# Note 256: v1 Đánh thức nguồn lực vàng trong dân.md  
+# Note 272: v1 Đánh thức nguồn lực vàng trong dân.md  
 @tag #politicsVN 
 source: "https://vneconomy.vn/danh-thuc-nguon-luc-vang-trong-dan.htm"
 
@@ -25496,7 +27623,7 @@ Có bốn điều kiện để phát hành thành công Chứng chỉ vàng.
     
   
   
-# Note 257: v2 Mua bán vàng trái phép sẽ bị phạt 400 triệu đồng và tịch thu.md  
+# Note 273: v2 Mua bán vàng trái phép sẽ bị phạt 400 triệu đồng và tịch thu.md  
 @tag
 [[v1 Đánh thức nguồn lực vàng trong dân]]
 source: "https://dantri.com.vn/kinh-doanh/mua-ban-vang-trai-phep-se-bi-phat-400-trieu-dong-va-tich-thu-20260114095311861.htm"
@@ -25535,7 +27662,7 @@ Việc Nghị định 340 có hiệu lực ngay trong quý I/2026 - thời đi�
     
   
   
-# Note 258: v3 Thủ tướng Nghiên cứu giải pháp huy động nguồn ngoại tệ, vàng miếng trong dân.md  
+# Note 274: v3 Thủ tướng Nghiên cứu giải pháp huy động nguồn ngoại tệ, vàng miếng trong dân.md  
 @tag
 @il [[Nợ công Việt Nam 35–36% GDP, Chính phủ định vay 969.796 tỷ năm 2026]]
 @ill [[v2 Mua bán vàng trái phép sẽ bị phạt 400 triệu đồng và tịch thu]]
@@ -25584,7 +27711,7 @@ Tiền Phong
     
   
   
-# Note 259: x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero.md  
+# Note 275: x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero.md  
 @tag #politicsVN 
 source: "https://tapchicongthuong.vn/thuc-day-chuyen-doi-nang-luong-xanh-huong-toi-net-zero-141062.htm"
 
@@ -25632,7 +27759,7 @@ Hội thảo bao gồm 2 phiên: (1) Khó khăn của Việt Nam trong chuyển 
     
   
   
-# Note 260: x2 Xe xăng sắp bị hạn chế tại Hà Nội Đây là những mẫu ô tô điện đô thị giá chỉ từ 200 triệu, đi xa lên tới 400kmlần sạc.md  
+# Note 276: x2 Xe xăng sắp bị hạn chế tại Hà Nội Đây là những mẫu ô tô điện đô thị giá chỉ từ 200 triệu, đi xa lên tới 400kmlần sạc.md  
 @tag #Vingroup
 [[x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero]]
 source: "https://kinhtechungkhoan.vn/xe-xang-sap-bi-han-che-tai-ha-noi-day-la-nhung-mau-o-to-dien-do-thi-gia-chi-tu-200-trieu-di-xa-len-toi-400km-lan-sac-1426042.html"
@@ -25687,7 +27814,7 @@ Với tốc độ ra mắt sản phẩm mới như hiện nay, rất có thể c
     
   
   
-# Note 261: x3 Quy định mới về đăng kiểm ô tô từ 1.3.2026, chủ xe cần biết.md  
+# Note 277: x3 Quy định mới về đăng kiểm ô tô từ 1.3.2026, chủ xe cần biết.md  
 @tag
 @il [[x1 Thúc đẩy chuyển đổi năng lượng xanh hướng tới Net Zero]]
 [[Playbook- Thúc đẩy xe điện Vinfast, pin từ Trung Quốc]]
@@ -25740,7 +27867,7 @@ Giấy chứng nhận kiểm định điện tử sẽ được cấp cho phươ
     
   
   
-# Note 262: Đăng facebook xuyên tạc Công lý ở Việt Nam chỉ là nghệ sĩ hài.md  
+# Note 278: Đăng facebook xuyên tạc Công lý ở Việt Nam chỉ là nghệ sĩ hài.md  
 @tag #politicsVN 
 @il
 source: "https://www.saostar.vn/sac-mau-cuoc-song/dang-facebook-xuyen-tac-cong-ly-o-viet-nam-chi-la-nghe-si-hai-202104131907439163.html"
@@ -25774,7 +27901,7 @@ Ngày 12/4, Công an tỉnh Bắc Giang ra quyết định xử phạt vi phạm
 Tin mới nhất    
   
   
-# Note 263: 260103 Venezuela- President Trump releases first image of Nicolás Maduro in U.S. custody after capture in Venezuela..md  
+# Note 279: 260103 Venezuela- President Trump releases first image of Nicolás Maduro in U.S. custody after capture in Venezuela..md  
 @tag #politicsUS
 @il 
 source: "https://x.com/america/status/2007489657806958928"
@@ -25788,7 +27915,7 @@ BREAKING: President Trump releases first image of Nicolás Maduro in U.S. custod
     
   
   
-# Note 264: 260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran.md  
+# Note 280: 260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran.md  
 @tag #politicsUS
 @il
 source: "https://x.com/WhiteHouse/status/2027654336138924410?s=20"
@@ -25800,7 +27927,7 @@ description: "Bài phát biểu chính thức"
     
   
   
-# Note 265: 260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ.md  
+# Note 281: 260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ.md  
 @tag #politicsUS
 @il
 source: "https://www.youtube.com/watch?v=cNVjVZwlXSo"
@@ -25812,7 +27939,7 @@ description: "Bài phát biểu chính thức"
     
   
   
-# Note 266: 260314 Cuba- TMP- chính thức đàm phán với Mỹ, hay chính thức nhượng bộ Tổng thống Trump.md  
+# Note 282: 260314 Cuba- TMP- chính thức đàm phán với Mỹ, hay chính thức nhượng bộ Tổng thống Trump.md  
 @tag
 @il  [[260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ]]
 source: ""
@@ -25972,7 +28099,7 @@ khắp nơi trong những chương trình kế tiếp của TNP Channel. Xin qu�
     
   
   
-# Note 267: 260314 Iran- Trump đặt bẫy khi mời các nước cùng bảo vệ eo biển, đặc biệt là Trung Quốc.md  
+# Note 283: 260314 Iran- Trump đặt bẫy khi mời các nước cùng bảo vệ eo biển, đặc biệt là Trung Quốc.md  
 @tag
 @il [[260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran]]
 
@@ -26023,7 +28150,7 @@ https://open.substack.com/pub/shanakaanslemperera/p/actuarial-warfare-how-seven-
 ![Image](https://pbs.twimg.com/media/HDYbfsEXgAAOIQF?format=jpg&name=large)    
   
   
-# Note 268: 260315 Iran- Israel hack camera giao thông Iran để theo dõi Khamenei.md  
+# Note 284: 260315 Iran- Israel hack camera giao thông Iran để theo dõi Khamenei.md  
 @tag
 @il [[260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran]]
 source: https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/
@@ -26078,7 +28205,7 @@ Are you relying on The Times of Israel for accurate and timely coverage of the I
     
   
   
-# Note 269: Hình chụp Trump bị bắn bởi @evanvucci.md  
+# Note 285: Hình chụp Trump bị bắn bởi @evanvucci.md  
 @tag #politicsUS #DonalTrump 
 @il
 source: https://x.com/evanvucci/status/1812330828371763638
@@ -26093,7 +28220,7 @@ Republican presidential candidate former President Donald Trump raises his fist 
     
   
   
-# Note 270: Israeli spyware company Paragon posted their surveillance software's control panel by mistake.md  
+# Note 286: Israeli spyware company Paragon posted their surveillance software's control panel by mistake.md  
 @tag #politicsUS 
 @il
 source: "https://x.com/IntCyberDigest/status/2021664771633033707?s=20"
@@ -26116,7 +28243,7 @@ Available apps on the device: WhatsApp, Telegram, Signal, Line, Snapchat, TikTok
     
   
   
-# Note 271: President Trump releases a letter from legendary New York Yankees owner George Steinbrenner calling on Trump to run for President dated 1989.md  
+# Note 287: President Trump releases a letter from legendary New York Yankees owner George Steinbrenner calling on Trump to run for President dated 1989.md  
 @tag #politicsUS #DonalTrump
 @il
 title: "Thread by @Breaking911"
@@ -26133,7 +28260,7 @@ President Trump releases a letter from legendary New York Yankees owner George S
     
   
   
-# Note 272: m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide.md  
+# Note 288: m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide.md  
 @tag #politicsUS 
 @il
 source: "https://www.theguardian.com/world/2026/feb/23/violence-erupts-mexico-military-kills-drug-cartel-boss-el-mencho-visual-guide"
@@ -26229,7 +28356,7 @@ This unique model also means we depend on readers like you from Singapore to hel
     
   
   
-# Note 273: m2 THEY DIDN’T JUST KILL A DRUG LORD. THEY KILLED A DEEP STATE GENERAL.md  
+# Note 289: m2 THEY DIDN’T JUST KILL A DRUG LORD. THEY KILLED A DEEP STATE GENERAL.md  
 @tag
 @il [[m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide]]
 source: https://x.com/MrPool_QQ/status/2025850198077870248
@@ -26279,7 +28406,7 @@ This is not politics. This is war. And the snakes are losing their heads.
     
   
   
-# Note 274: m3 Cuộc chiến chống băng đảng đẩm máu ở Mexico, lại phá vỡ hệ thống ở Mỹ.md  
+# Note 290: m3 Cuộc chiến chống băng đảng đẩm máu ở Mexico, lại phá vỡ hệ thống ở Mỹ.md  
 @tag
 @il [[m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide]]
 
@@ -26459,7 +28586,7 @@ sẽ trở lại cùng tất cả khá thính giả ở khắp nơi trong nhữn
     
   
   
-# Note 275: m4 El Mencho laptop.md  
+# Note 291: m4 El Mencho laptop.md  
 @tag #Epstein 
 @il [[m1 Violence in Mexico after military kills notorious drug cartel boss – a visual guide]]
 
@@ -26509,7 +28636,7 @@ And the snakes can’t hide anymore.
     
   
   
-# Note 276: Bill Gates Ex-Wife Turns Against Him After Confirmation Of International Pedophile Ring.md  
+# Note 292: Bill Gates Ex-Wife Turns Against Him After Confirmation Of International Pedophile Ring.md  
 @tag #Epstein 
 source: "https://x.com/RealAlexJones/status/2018848205161603352"
 published: 2026-02-03
@@ -26567,7 +28694,7 @@ Who cares amirite
 ![Image](https://pbs.twimg.com/media/HARk42iXAAAlzjj?format=jpg&name=large)    
   
   
-# Note 277: Bill Gates was revealed in the recent Epstein file.md  
+# Note 293: Bill Gates was revealed in the recent Epstein file.md  
 @tag #Epstein 
 source: "https://x.com/TheEagleyeNews/status/2017323269607534883"
 published: 2026-01-30
@@ -26611,7 +28738,7 @@ Trump is in those same files same source yet you’re still MAGA
 🤔    
   
   
-# Note 278: Epstein had a trapdoor in his house.md  
+# Note 294: Epstein had a trapdoor in his house.md  
 @tag #Epstein 
 source: "https://x.com/josephMuztich/status/2019000714429862153"
 published: 2026-02-04
@@ -26695,7 +28822,7 @@ Even if he used the sea, bodies usually wash up somewhere or get caught by fishe
 Hello Epstein    
   
   
-# Note 279: Epstein trained as a spy under Israeli Prime Minister.md  
+# Note 295: Epstein trained as a spy under Israeli Prime Minister.md  
 @tag #Epstein 
 source: "https://x.com/xIsraelExposedx/status/2019032121168584973"
 published: 2026-02-04
@@ -26731,7 +28858,7 @@ Where do all new FBI recruits train again?
 What a coincidence    
   
   
-# Note 280: Mexican Model Who Run From Epstein Party in 2009.md  
+# Note 296: Mexican Model Who Run From Epstein Party in 2009.md  
 @tag #Epstein 
 source: https://x.com/putinnewssource/status/2018691098890105316
 author:
@@ -26864,7 +28991,7 @@ it was NOT A EPSTEIN Party! It was a spirit cooking with John Podesta
 ![Image](https://pbs.twimg.com/media/HATnt22bQAAXZn4?format=png&name=large)    
   
   
-# Note 281: Prison Officer Who Witnessed Epstein Extraction Identified THEY SWITCHED HIM OUT.md  
+# Note 297: Prison Officer Who Witnessed Epstein Extraction Identified THEY SWITCHED HIM OUT.md  
 @tag #Epstein 
 source: https://x.com/GreereMedeea/status/2018784337827643670
 published: 2026-02-03
@@ -26987,7 +29114,7 @@ I've said from the get-go that he ain't \*ead! Time will tell but a good time to
 If our politicians weren't Israeli stooges we might actually be trying to extradite him from Israel.    
   
   
-# Note 282: Thread by @serdaremsc.md  
+# Note 298: Thread by @serdaremsc.md  
 @tag #Epstein 
 source: "https://x.com/serdaremsc/status/2018759615178301631"
 published: 2026-02-03
@@ -27005,7 +29132,7 @@ adrenochrome,
 EpsteinFiles ifşalarında adrenochrome içtikleri belgelendi    
   
   
-# Note 283: WMDs…in Epstein’s hands.md  
+# Note 299: WMDs…in Epstein’s hands.md  
 @tag #Epstein 
 source: "https://x.com/JesseMatchey/status/2019086130940203048"
 published: 2019-04-20
@@ -27047,7 +29174,7 @@ People don’t understand the significance of this…Epstein was intimately invo
 > ![Image](https://pbs.twimg.com/media/HABr_eJboAA_5jV?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HABr_eObYAAHOPV?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HABr_eIaAAAC1Uc?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HABr_ebbEAADdAR?format=jpg&name=large)    
   
   
-# Note 284: Wayfair receipt for an $8K item is included in the Epstein files.md  
+# Note 300: Wayfair receipt for an $8K item is included in the Epstein files.md  
 @tag #Epstein 
 source: "https://x.com/Heatherc_77/status/2018806884875342039"
 published: 2026-02-03
@@ -27067,7 +29194,7 @@ Flashback to years ago when we learned several pieces of furniture for sale on W
 > ![Image](https://pbs.twimg.com/media/HAQ-KY6aUAAaCti?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HAQqESdb0AAtzJU?format=jpg&name=large)    
   
   
-# Note 285: N10tv-180602 Đại Hoạ Nếu Việt Nam Cho Trung Quôc Thuê Đất 99 Năm - Trương Quôc Huy.md  
+# Note 301: N10tv-180602 Đại Hoạ Nếu Việt Nam Cho Trung Quôc Thuê Đất 99 Năm - Trương Quôc Huy.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -27311,7 +29438,7 @@ chuyện mà nó chống phá thì cái chuyện đó luôn luôn nó còn xảy
     
   
   
-# Note 286: N10tv-180904 Quốc Hội Việt Nam Tiết lộ, Quan Tham cấp cao đã chuẩn bị trốn đi tỵ Nạn từ hơn chục năm trước.md  
+# Note 302: N10tv-180904 Quốc Hội Việt Nam Tiết lộ, Quan Tham cấp cao đã chuẩn bị trốn đi tỵ Nạn từ hơn chục năm trước.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -27584,7 +29711,7 @@ created: 2026-02-06
     
   
   
-# Note 287: N10tv-180921 Bình Luận Đặc Biệt, Trần Đại Quang Cái Chết Đầy Bí Ẩn Phía Sau.md  
+# Note 303: N10tv-180921 Bình Luận Đặc Biệt, Trần Đại Quang Cái Chết Đầy Bí Ẩn Phía Sau.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -27745,7 +29872,7 @@ created: 2026-02-06
     
   
   
-# Note 288: N10tv-181027 Phong Trào Bỏ Đảng Đang Lan Nhanh. Quản Lý Đất Nước Kiểu Tự Sướng Của Cộng Sản.md  
+# Note 304: N10tv-181027 Phong Trào Bỏ Đảng Đang Lan Nhanh. Quản Lý Đất Nước Kiểu Tự Sướng Của Cộng Sản.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -27984,7 +30111,7 @@ created: 2026-02-06
     
   
   
-# Note 289: N10tv-181201  Đàm Vình Hưng Nói Việt Nam Sướng Hơn Nước Ngoài Nhiều, Sự Thật Hay Cố Tình Nịnh Chính Quyền.md  
+# Note 305: N10tv-181201  Đàm Vình Hưng Nói Việt Nam Sướng Hơn Nước Ngoài Nhiều, Sự Thật Hay Cố Tình Nịnh Chính Quyền.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28191,7 +30318,7 @@ created: 2026-02-06
     
   
   
-# Note 290: N10tv-190114 Bí Thư Nguyễn Thiện Nhân Vừa Ăn Cướp Vừa La Làng Khi Cướp Đất Lộc Hưng TpHCm.md  
+# Note 306: N10tv-190114 Bí Thư Nguyễn Thiện Nhân Vừa Ăn Cướp Vừa La Làng Khi Cướp Đất Lộc Hưng TpHCm.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28282,7 +30409,7 @@ created: 2026-02-06
     
   
   
-# Note 291: N10tv-190203 Ở Việt Nam Ban Tuyên Giáo Là Ai Và Làm Gì Tại Sao Làm Tuyên Giáo Phải Biết Nói Xuôi Nói Ngược.md  
+# Note 307: N10tv-190203 Ở Việt Nam Ban Tuyên Giáo Là Ai Và Làm Gì Tại Sao Làm Tuyên Giáo Phải Biết Nói Xuôi Nói Ngược.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28435,7 +30562,7 @@ created: 2026-02-06
     
   
   
-# Note 292: N10tv-190214 Kiểm Duyệt Ngăn Cấm Âm Nhạc Trước 1975 Sự Thất Bại Của Tuyên Giáo Cộng Sản.md  
+# Note 308: N10tv-190214 Kiểm Duyệt Ngăn Cấm Âm Nhạc Trước 1975 Sự Thất Bại Của Tuyên Giáo Cộng Sản.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28568,7 +30695,7 @@ created: 2026-02-06
     
   
   
-# Note 293: N10tv-190215  Tháo Rõ mõm Nói Về Chiến Tranh Biên Giới Việt Trung 79 Tuyên Giáo VC Và Ngành Kinh Doanh Mê Tín.md  
+# Note 309: N10tv-190215  Tháo Rõ mõm Nói Về Chiến Tranh Biên Giới Việt Trung 79 Tuyên Giáo VC Và Ngành Kinh Doanh Mê Tín.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28710,7 +30837,7 @@ created: 2026-02-06
     
   
   
-# Note 294: N10tv-190219 Quận 1 Bứng Lư Hương Trần Hưng Đạo Và Cái Lư Hương Hồ Chí Minh, Tại Sao là Ngày 17-02.md  
+# Note 310: N10tv-190219 Quận 1 Bứng Lư Hương Trần Hưng Đạo Và Cái Lư Hương Hồ Chí Minh, Tại Sao là Ngày 17-02.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28821,7 +30948,7 @@ created: 2026-02-06
     
   
   
-# Note 295: N10tv-190228  Tìm hiểu Sao Hãng Máy Bay VietJet và Bambo air Mua Hơn 100 máy bay của Mỹ, Thật Hư.md  
+# Note 311: N10tv-190228  Tìm hiểu Sao Hãng Máy Bay VietJet và Bambo air Mua Hơn 100 máy bay của Mỹ, Thật Hư.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -28933,7 +31060,7 @@ created: 2026-02-06
     
   
   
-# Note 296: N10tv-190305  Gọi Hồn KuHo Ghê Gớm Hơn KumaThong, Việt Nam Kinh Doanh KuHo Siêu Lợi Nhuận Của Cán Bộ.md  
+# Note 312: N10tv-190305  Gọi Hồn KuHo Ghê Gớm Hơn KumaThong, Việt Nam Kinh Doanh KuHo Siêu Lợi Nhuận Của Cán Bộ.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -29124,7 +31251,7 @@ created: 2026-02-06
     
   
   
-# Note 297: N10tv-190306 Tuyên Truyền Chụp Mũ Người Phản Đối Bất Công Trong Xã Hội Của Cơ Quang Đảng CSVN Như Thế Nào.md  
+# Note 313: N10tv-190306 Tuyên Truyền Chụp Mũ Người Phản Đối Bất Công Trong Xã Hội Của Cơ Quang Đảng CSVN Như Thế Nào.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -29315,7 +31442,7 @@ created: 2026-02-06
     
   
   
-# Note 298: N10tv-190308 Xã Hội Chủ Nghĩa Ở Việt Nam Chỉ Là Hình Thức , Thất bại Tuyên Truyền Của Nhà cầm Quyền.md  
+# Note 314: N10tv-190308 Xã Hội Chủ Nghĩa Ở Việt Nam Chỉ Là Hình Thức , Thất bại Tuyên Truyền Của Nhà cầm Quyền.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -29414,7 +31541,7 @@ created: 2026-02-06
     
   
   
-# Note 299: N10tv-190313 Tại Sao Nhiều Người Ở Mỹ Vẫn Than Khổ, Giàu Ở Việt Nam Thiệt Hay Giả.md  
+# Note 315: N10tv-190313 Tại Sao Nhiều Người Ở Mỹ Vẫn Than Khổ, Giàu Ở Việt Nam Thiệt Hay Giả.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -29961,7 +32088,7 @@ mọi người theo dõi chương trình ha là hy vọng là gặp quý vị l�
     
   
   
-# Note 300: N10tv-190315  Việt Nam Cấm Xe Máy & Văn Hóa Các Cứ Xứ Quân, Các Cơ Quan Ngày Cán bộ Càng Nhiều.md  
+# Note 316: N10tv-190315  Việt Nam Cấm Xe Máy & Văn Hóa Các Cứ Xứ Quân, Các Cơ Quan Ngày Cán bộ Càng Nhiều.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -30120,7 +32247,7 @@ created: 2026-02-06
     
   
   
-# Note 301: N10tv-190316 Khổng, Cộng, Nho Là Thứ Văn Hóa Hại Người Việt Nam Không Cất Đầu lên Nổi.md  
+# Note 317: N10tv-190316 Khổng, Cộng, Nho Là Thứ Văn Hóa Hại Người Việt Nam Không Cất Đầu lên Nổi.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -30469,7 +32596,7 @@ bye Cảm ơn quý vị đã theo dõi chương trình Hãy bấm đăng ký và
     
   
   
-# Note 302: N10tv-190318 PVN Làm Mất Hơn 500 Triệu Đô La Ở Venezuela như thế nào, Tiền Lại Quả hay Thua Lỗ.md  
+# Note 318: N10tv-190318 PVN Làm Mất Hơn 500 Triệu Đô La Ở Venezuela như thế nào, Tiền Lại Quả hay Thua Lỗ.md  
 @tag #N10tv #Petrovietnam 
 @il
 author: "NoteGPT"
@@ -30608,7 +32735,7 @@ created: 2026-02-06
     
   
   
-# Note 303: N10tv-190319  Đếm Lại Những Dự Án Thua Lỗ Hàng Chục Tỷ Đô Tại Việt Nam, Yếu kém Hay Cố Tình, Chia Chác.md  
+# Note 319: N10tv-190319  Đếm Lại Những Dự Án Thua Lỗ Hàng Chục Tỷ Đô Tại Việt Nam, Yếu kém Hay Cố Tình, Chia Chác.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -30716,7 +32843,7 @@ created: 2026-02-06
     
   
   
-# Note 304: N10tv-190322 Giải Nghiệp Chùa Ba Vàng, Hệ Thống Tôn Giáo Quốc Doanh Đánh Nhau Dành Phần.md  
+# Note 320: N10tv-190322 Giải Nghiệp Chùa Ba Vàng, Hệ Thống Tôn Giáo Quốc Doanh Đánh Nhau Dành Phần.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -30957,7 +33084,7 @@ mình về cái chuyện đó thôi qua cái cách nhìn của Hy thôi xin cả
     
   
   
-# Note 305: N10tv-190429 Ngày 30 Tháng 04 Nghĩ Về Cộng Sản Đã Lừa Đảo Và Tàn Ác Với Dân Việt Nam Ra Sao.md  
+# Note 321: N10tv-190429 Ngày 30 Tháng 04 Nghĩ Về Cộng Sản Đã Lừa Đảo Và Tàn Ác Với Dân Việt Nam Ra Sao.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31026,7 +33153,7 @@ created: 2026-02-06
     
   
   
-# Note 306: N10tv-190507 TBT Nguyễn Phú Trọng Vắng Mặt. TT Trump Đánh Trung Cộng Và Con Bài Việt Nam.md  
+# Note 322: N10tv-190507 TBT Nguyễn Phú Trọng Vắng Mặt. TT Trump Đánh Trung Cộng Và Con Bài Việt Nam.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31195,7 +33322,7 @@ created: 2026-02-06
     
   
   
-# Note 307: N10tv-190709 Chuyện Tù Chính Trị, CS Việt Nam Đàn Áp Tra Tấn Bằng Nhiều Thủ Đoạn.md  
+# Note 323: N10tv-190709 Chuyện Tù Chính Trị, CS Việt Nam Đàn Áp Tra Tấn Bằng Nhiều Thủ Đoạn.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31333,7 +33460,7 @@ created: 2026-02-06
     
   
   
-# Note 308: N10tv-200928 Trương Quốc Huy Kể Chuyện bác Hồ Có Đạo Đức Và Giản Dị Như Đảng Nói Hay Không.md  
+# Note 324: N10tv-200928 Trương Quốc Huy Kể Chuyện bác Hồ Có Đạo Đức Và Giản Dị Như Đảng Nói Hay Không.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31431,7 +33558,7 @@ created: 2026-02-06
     
   
   
-# Note 309: N10tv-210525 Chuyện Việt Nam Nhìn Qua Chuyện 13 Tỷ Của Hoài Linh Và Bà Phưong Hằng Live Stream.md  
+# Note 325: N10tv-210525 Chuyện Việt Nam Nhìn Qua Chuyện 13 Tỷ Của Hoài Linh Và Bà Phưong Hằng Live Stream.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31608,7 +33735,7 @@ created: 2026-02-06
     
   
   
-# Note 310: N10tv-210531 Bà Phương Hằng Khóc Trên Live Stream Đòi Bỏ Đi Nước Ngoài - Chúng Ta Thấy Gì Ở Việt Nam.md  
+# Note 326: N10tv-210531 Bà Phương Hằng Khóc Trên Live Stream Đòi Bỏ Đi Nước Ngoài - Chúng Ta Thấy Gì Ở Việt Nam.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31697,7 +33824,7 @@ created: 2026-02-06
     
   
   
-# Note 311: N10tv-210531 Hoài Linh Vì Sao Đảng Giải Cứu Hoài Linh Khi Bị Bà Nguyễn Phương Hằng Đấu Tố.md  
+# Note 327: N10tv-210531 Hoài Linh Vì Sao Đảng Giải Cứu Hoài Linh Khi Bị Bà Nguyễn Phương Hằng Đấu Tố.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -31880,7 +34007,7 @@ created: 2026-02-06
     
   
   
-# Note 312: N10tv-210716 Dân Nghèo Sài Gòn Kiệt Quệ, Miền Nam Thiếu Đói Lương Thực Là Do Dịch Hay Do Chính Sách Ngu.md  
+# Note 328: N10tv-210716 Dân Nghèo Sài Gòn Kiệt Quệ, Miền Nam Thiếu Đói Lương Thực Là Do Dịch Hay Do Chính Sách Ngu.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32027,7 +34154,7 @@ created: 2026-02-06
     
   
   
-# Note 313: N10tv-210726 Đảng CS Có Mượn Chị Phương Hằng Để Dập tắt Tiếng Nói Phản Biện Sự Thật.md  
+# Note 329: N10tv-210726 Đảng CS Có Mượn Chị Phương Hằng Để Dập tắt Tiếng Nói Phản Biện Sự Thật.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32272,7 +34399,7 @@ created: 2026-02-06
     
   
   
-# Note 314: N10tv-210728 Sài Gòn Cho VinGroup Mượn Vaccine Mỹ, Sẽ Trả Lại bằng Vaccine Gì.md  
+# Note 330: N10tv-210728 Sài Gòn Cho VinGroup Mượn Vaccine Mỹ, Sẽ Trả Lại bằng Vaccine Gì.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32415,7 +34542,7 @@ created: 2026-02-06
     
   
   
-# Note 315: N10tv-210813 Trương Quốc Huy Là Ai, Tại Sao Phản Động Chống Cộng mà Hãnh Diện Còn Khoe Khi Đến Mỹ.md  
+# Note 331: N10tv-210813 Trương Quốc Huy Là Ai, Tại Sao Phản Động Chống Cộng mà Hãnh Diện Còn Khoe Khi Đến Mỹ.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32589,7 +34716,7 @@ created: 2026-02-06
     
   
   
-# Note 316: N10tv-210825 PTT Mỹ Kêu Gọi Chủ Tịch Nguyễn Xuân Phúc Chống Trung Quốc Bắt Nạt.md  
+# Note 332: N10tv-210825 PTT Mỹ Kêu Gọi Chủ Tịch Nguyễn Xuân Phúc Chống Trung Quốc Bắt Nạt.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32698,7 +34825,7 @@ created: 2026-02-06
     
   
   
-# Note 317: N10tv-211006 File Ghi Âm Đại Tá Đinh Văn Nơi, Ai Là Người Ghi Âm, Chấn Động Đến Lạ Kì.md  
+# Note 333: N10tv-211006 File Ghi Âm Đại Tá Đinh Văn Nơi, Ai Là Người Ghi Âm, Chấn Động Đến Lạ Kì.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32831,7 +34958,7 @@ created: 2026-02-06
     
   
   
-# Note 318: N10tv-211117 Bà Nguyễn Phương Hằng Xứng Đáng Làm Đại Biểu Quốc Hội Và Thẩm Phán Ở VN.md  
+# Note 334: N10tv-211117 Bà Nguyễn Phương Hằng Xứng Đáng Làm Đại Biểu Quốc Hội Và Thẩm Phán Ở VN.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -32984,7 +35111,7 @@ created: 2026-02-06
     
   
   
-# Note 319: N10tv-211203 Nhà Cầm Quyền CS Việt Nam Đã Đánh Sập Facebook Của Những Người Họ Cho Là Phản Động Như Thế Nào.md  
+# Note 335: N10tv-211203 Nhà Cầm Quyền CS Việt Nam Đã Đánh Sập Facebook Của Những Người Họ Cho Là Phản Động Như Thế Nào.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -33020,7 +35147,7 @@ created: 2026-02-06
     
   
   
-# Note 320: N10tv-221012 Vụ Vạn Thịnh Phát 2 Nhân Sự SCB Có Phải Bị Diệt Khẩu, Ông Trọng Đi Nước Cờ Gì Với Lê Thanh Hải.md  
+# Note 336: N10tv-221012 Vụ Vạn Thịnh Phát 2 Nhân Sự SCB Có Phải Bị Diệt Khẩu, Ông Trọng Đi Nước Cờ Gì Với Lê Thanh Hải.md  
 @tag #N10tv #SCB 
 @il
 author: "NoteGPT"
@@ -33167,7 +35294,7 @@ created: 2026-02-06
     
   
   
-# Note 321: N10tv-230117 Ông 7 Phúc Vì Sao Đảng Cho Về Vườn Sớm Trước Tết - Cuộc Thanh Trừng Chưa Hồi Kết.md  
+# Note 337: N10tv-230117 Ông 7 Phúc Vì Sao Đảng Cho Về Vườn Sớm Trước Tết - Cuộc Thanh Trừng Chưa Hồi Kết.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -33308,7 +35435,7 @@ created: 2026-02-06
     
   
   
-# Note 322: N10tv-230928 Trương Quốc Huy Người Việt Học Lại Tiếng Việt , Dấu Hỏi Dấu Ngã Viết Sao Cho Đúng Đây.md  
+# Note 338: N10tv-230928 Trương Quốc Huy Người Việt Học Lại Tiếng Việt , Dấu Hỏi Dấu Ngã Viết Sao Cho Đúng Đây.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -33750,7 +35877,7 @@ suốt hai ngày thứ 7 ngày 7 tháng 10 từ 3:00 chiều đến 10:00 tối 
     
   
   
-# Note 323: N10tv-241117 Giấc Mơ Mỹ Ca, Nghệ Sĩ Đi Mỹ Vì Sao Hay Than, Cách nào Để Đi Mỹ Mà Con Cán Bộ Đi Quá Trời.md  
+# Note 339: N10tv-241117 Giấc Mơ Mỹ Ca, Nghệ Sĩ Đi Mỹ Vì Sao Hay Than, Cách nào Để Đi Mỹ Mà Con Cán Bộ Đi Quá Trời.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -34201,7 +36328,7 @@ cho quý vị máu huyết lưu thông Ngăn ngừa đột quỷ tối đa giúp
     
   
   
-# Note 324: N10tv-241208 Cảnh báo Mr Pips Tiktok Đại Gia Bịp Lừa Đảo Bị Bắt Với 5000 Tỷ Bạn Đã Bị Lừa Như Thế nào.md  
+# Note 340: N10tv-241208 Cảnh báo Mr Pips Tiktok Đại Gia Bịp Lừa Đảo Bị Bắt Với 5000 Tỷ Bạn Đã Bị Lừa Như Thế nào.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -34652,7 +36779,7 @@ cho quý vị máu huyết lưu thông Ngăn ngừa đột quỷ tối đa giúp
     
   
   
-# Note 325: N10tv-241212 Cán Bộ Nhà Nước Người Nhà Có Dẹp Được Không Việt Nam hết Đường Lập Lờ Thương Mại Với Mỹ.md  
+# Note 341: N10tv-241212 Cán Bộ Nhà Nước Người Nhà Có Dẹp Được Không Việt Nam hết Đường Lập Lờ Thương Mại Với Mỹ.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -34962,7 +37089,7 @@ biệt còn cung cấp chất siêu nhờn cho xương khớp hết bị đau nh
     
   
   
-# Note 326: N10tv-250117 Việt Nam Có Học Và Làm Được Như Singapore Hay Lãnh Đạo Nói Cho Vui Mồm Dùng Nghệ Thuật Mị Dân.md  
+# Note 342: N10tv-250117 Việt Nam Có Học Và Làm Được Như Singapore Hay Lãnh Đạo Nói Cho Vui Mồm Dùng Nghệ Thuật Mị Dân.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -35590,7 +37717,7 @@ trường mỗi ngày kết quả mang lại bất ngờ
     
   
   
-# Note 327: N10tv-250914 Trương Quốc Huy Chiêu Thức Kiểm Soát Tư Tưởng Và Tẩy Não Dân Chúng Của Cộng Sản Việt Nam.md  
+# Note 343: N10tv-250914 Trương Quốc Huy Chiêu Thức Kiểm Soát Tư Tưởng Và Tẩy Não Dân Chúng Của Cộng Sản Việt Nam.md  
 @tag #N10tv 
 @il
 author: "NoteGPT"
@@ -36356,7 +38483,7 @@ hương giớ đến tham dự 2 ngày nhạc hội miễn phí mừng sinh nh�
     
   
   
-# Note 328: N10tv-260205 Cảnh Báo Sàn Giao Dịch Vàng Coi Chừng Vỡ Mộng Việt Nam, Nghị Định 46 Thiệt Hại Phá Sản Ai Đền.md  
+# Note 344: N10tv-260205 Cảnh Báo Sàn Giao Dịch Vàng Coi Chừng Vỡ Mộng Việt Nam, Nghị Định 46 Thiệt Hại Phá Sản Ai Đền.md  
 @tag #N10tv #DOJI #BaoTinMinhChau
 @il
 author: "NoteGPT"
@@ -36788,7 +38915,7 @@ nghiệp lắm tội vàà nghiệp đó đừng có trợn u mẹ nó coi giố
     
   
   
-# Note 329: N10tv-260208 Sốc Phu Nhân Cựu Chủ Tịch Nước Nguyễn Xuân Phúc Ngoại Tình, Đ.M Công An Giảm Án CB Dấu Dân.md  
+# Note 345: N10tv-260208 Sốc Phu Nhân Cựu Chủ Tịch Nước Nguyễn Xuân Phúc Ngoại Tình, Đ.M Công An Giảm Án CB Dấu Dân.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -37437,7 +39564,7 @@ khoái đặc biệt là gieo lắm. Hiểu không? Ủng hộ cho cái chuyện
     
   
   
-# Note 330: N10tv-260209 Hiểu Cho Rõ Về Ô Trump Cấm Gửi Tiền Về Việt Nam Hay Sẽ Bị Tịch Thu, Cồng Đồng Cần biết.md  
+# Note 346: N10tv-260209 Hiểu Cho Rõ Về Ô Trump Cấm Gửi Tiền Về Việt Nam Hay Sẽ Bị Tịch Thu, Cồng Đồng Cần biết.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -37954,7 +40081,7 @@ lại quý vị.
     
   
   
-# Note 331: N10tv-260214 Tết Tô Lâm Xuất Hành Đi Mỹ, Cứu Cuba 250 tấn gạo, Xây Cái Mã Mẹ Hố Chí Minh, VN Xui Lớn.md  
+# Note 347: N10tv-260214 Tết Tô Lâm Xuất Hành Đi Mỹ, Cứu Cuba 250 tấn gạo, Xây Cái Mã Mẹ Hố Chí Minh, VN Xui Lớn.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -38582,7 +40709,7 @@ lớn là phước lớn, cúng nhỏ phước nhỏ mà cúng ít ít á là ph
     
   
   
-# Note 332: N10tv-260222 Tô Lâm Công Du Mỹ, Việt Nam Lợi Gì, Mất Gì, Tốt Cho Đảng Viên Cán Bộ Hay Cho Việt Nam.md  
+# Note 348: N10tv-260222 Tô Lâm Công Du Mỹ, Việt Nam Lợi Gì, Mất Gì, Tốt Cho Đảng Viên Cán Bộ Hay Cho Việt Nam.md  
 @tag #N10tv
 @il [[N10tv-260214 Tết Tô Lâm Xuất Hành Đi Mỹ, Cứu Cuba 250 tấn gạo, Xây Cái Mã Mẹ Hố Chí Minh, VN Xui Lớn]]
 author: "NoteGPT"
@@ -39846,7 +41973,7 @@ Tại nó lãnh đạo mày phải chịu thôi. Đúng rồi. Bye bye. Chịu t
     
   
   
-# Note 333: N10tv-260226 Tô Lâm Hé Lộ Điềm Không Lành Họa Tai , Pháp Sư KuMaHuy Gia Cát Dự Quẻ Đầu Năm, Việt Nam Nghèo.md  
+# Note 349: N10tv-260226 Tô Lâm Hé Lộ Điềm Không Lành Họa Tai , Pháp Sư KuMaHuy Gia Cát Dự Quẻ Đầu Năm, Việt Nam Nghèo.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -42703,7 +44830,7 @@ created: 2026-02-27
     
   
   
-# Note 334: N10tv-260227 Tại Sao Người Việt Nam Học Lại Tiếng Việt, Cách Bỏ Dấu Hỏi Ngã Không Bao Giờ Sai Chính Tả.md  
+# Note 350: N10tv-260227 Tại Sao Người Việt Nam Học Lại Tiếng Việt, Cách Bỏ Dấu Hỏi Ngã Không Bao Giờ Sai Chính Tả.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -43400,7 +45527,7 @@ cái thằng nào phát minh ra cái đó cũng hay lắm Tụi nó biết v kh�
     
   
   
-# Note 335: N10tv-260228 Mỹ và Isreal Tấn Công Iran, tổng thống Trump Ra Lệnh Đánh Là Chắc, Iran Đáp Trả Khắp Trung Đông.md  
+# Note 351: N10tv-260228 Mỹ và Isreal Tấn Công Iran, tổng thống Trump Ra Lệnh Đánh Là Chắc, Iran Đáp Trả Khắp Trung Đông.md  
 @tag #N10tv
 @il [[260228 Iran- Hoa Kỳ mở chiến dịch Epic Fury, cùng Israel tấn công Iran]]
 author: "NoteGPT"
@@ -44205,7 +46332,7 @@ không giỡn hoài ai biết cái đó đô Việt Nam lên á tùy thuộc vô
     
   
   
-# Note 336: N10tv-260301 Israel Tấn Công - Lebanon, Pháp, Đức, Anh Tham Chiến. Việt Nam Ảnh Hưởng Gì.md  
+# Note 352: N10tv-260301 Israel Tấn Công - Lebanon, Pháp, Đức, Anh Tham Chiến. Việt Nam Ảnh Hưởng Gì.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -45307,7 +47434,7 @@ có tây chứ không có gì hết. Rồi cảm ơn hết tất cả quý vị.
     
   
   
-# Note 337: N10tv-260303 Tổng thống Trump, Hải Quân Mỹ Sẽ Hộ Tống Tàu Dầu Qua Biển Hormuz, cơ sở Hạt Nhân Iran Bị Diệt.md  
+# Note 353: N10tv-260303 Tổng thống Trump, Hải Quân Mỹ Sẽ Hộ Tống Tàu Dầu Qua Biển Hormuz, cơ sở Hạt Nhân Iran Bị Diệt.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -46886,7 +49013,7 @@ Trời >> không tụi bay á trừ những á người Việt kiều lương th
     
   
   
-# Note 338: N10tv-260305 Iran Bị Nga Và Trung Quốc Bỏ Rơi, Israel Tấn Công hỗ Trợ Cho Quần Chúng Nổi Dậy.md  
+# Note 354: N10tv-260305 Iran Bị Nga Và Trung Quốc Bỏ Rơi, Israel Tấn Công hỗ Trợ Cho Quần Chúng Nổi Dậy.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -47838,7 +49965,7 @@ luôn chiến xe luôn. Mẹ mày bỏ bỏ 5 triệu mẹ 5 triệu Mỹ mới 
     
   
   
-# Note 339: N10tv-260305 Tổng thống Trump nói Sau Iran Là Cuba Kế Tiếp, Mỹ tấn Công Cấn Cứ Ngầm Hạt Nhân Damavand.md  
+# Note 355: N10tv-260305 Tổng thống Trump nói Sau Iran Là Cuba Kế Tiếp, Mỹ tấn Công Cấn Cứ Ngầm Hạt Nhân Damavand.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -48991,7 +51118,7 @@ Chánh Hưng phú nhận đây rồi. Thị nghè tấn định nhiều nơi cò
     
   
   
-# Note 340: N10tv-260306 Tổng thống Trump Đánh Tới Khi Iran Phải Đầu Hàng Vô Điều Kiện, Tăng Khí Tài Lên Gấp 4 Lần.md  
+# Note 356: N10tv-260306 Tổng thống Trump Đánh Tới Khi Iran Phải Đầu Hàng Vô Điều Kiện, Tăng Khí Tài Lên Gấp 4 Lần.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -50393,7 +52520,7 @@ bye quý vị. Yeah.
     
   
   
-# Note 341: N10tv-260308 Tổng thống Trump Xóa Sổ Niềm Kiêu hãnh Của Iran Hôm nay, Giá Dầu Sẽ Giảm Nhanh.md  
+# Note 357: N10tv-260308 Tổng thống Trump Xóa Sổ Niềm Kiêu hãnh Của Iran Hôm nay, Giá Dầu Sẽ Giảm Nhanh.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -51545,7 +53672,7 @@ săn dầu kinh ngạch 7,8 tỷ trong đó nhập từ Hàn Quốc Singapore M�
     
   
   
-# Note 342: N10tv-260313 Cuba Chịu Đàm Phán Với Mỹ, Thưởng 10 Triệu Đô la Thông Tin Lãnh Đạo IRGC Iran.md  
+# Note 358: N10tv-260313 Cuba Chịu Đàm Phán Với Mỹ, Thưởng 10 Triệu Đô la Thông Tin Lãnh Đạo IRGC Iran.md  
 @tag #N10tv
 @il [[260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ]]
 author: "NoteGPT"
@@ -52596,7 +54723,7 @@ tôi thấy tôi tính nói đâu rồi. Rồi bye bye quý vị, hẹn gặp l�
     
   
   
-# Note 343: N10tv-260314 Cuba Dân Chúng Xuống Đường Đốt Trụ Sở Đảng Cộng Sản, Iran Còn Trụ Bao Lâu.md  
+# Note 359: N10tv-260314 Cuba Dân Chúng Xuống Đường Đốt Trụ Sở Đảng Cộng Sản, Iran Còn Trụ Bao Lâu.md  
 @tag #N10tv
 @il [[260313 Cuba- Cuba thông báo bắt đầu đàm phán với Hoa Kỳ]]
 author: "NoteGPT"
@@ -53324,7 +55451,7 @@ phải không? Rồi được không? Được. Bye bye quý vị. Rồi chúc q
     
   
   
-# Note 344: N10tv-260327 Họp Kín trung ương, TÔ LÂM KIÊM CHỦ TỊCH NƯỚC, CSVN Lấy Luôn VTV, VOV, Dân Bị Tam Tai Khổ.md  
+# Note 360: N10tv-260327 Họp Kín trung ương, TÔ LÂM KIÊM CHỦ TỊCH NƯỚC, CSVN Lấy Luôn VTV, VOV, Dân Bị Tam Tai Khổ.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -54339,7 +56466,7 @@ rồi bye quý vị Bye quý vị.
     
   
   
-# Note 345: N10tv-260407 Tô Lâm Chủ Tịch Nước Việt Nam Công An Trị, Dân Cần Biết Gì Thời Gạo Châu Củi Quế.md  
+# Note 361: N10tv-260407 Tô Lâm Chủ Tịch Nước Việt Nam Công An Trị, Dân Cần Biết Gì Thời Gạo Châu Củi Quế.md  
 @tag #N10tv
 @il
 author: "NoteGPT"
@@ -55165,11 +57292,184 @@ hẹn gặp lại quý vị video sau. C
     
   
   
-# Note 346: 2026-03-15.md  
+# Note 362: 2026-03-15.md  
     
   
   
-# Note 347: lSân bay Long Thành và những câu hỏi của Tổng Bí thư.md  
+# Note 363: NUC 260223 Playbook Bản chất cuộc dịch chuyển Ga Hà Nội.md  
+
+@tag
+@il [[260529 Đề xuất di dời ga Hà Nội ra Ngọc Hồi trong năm 2026]]
+source: "https://youtu.be/iy9vYCktB8M?si=Ap6Kr7GPsDOrwU5q"
+author: "Nước Úc Channel"
+published: 2026-02-23
+created: 2026-02-24
+description: "DI DỜI GA HÀ NỘI: BẢN CHẤT CUỘC DỊCH CHUYỂN NÀY LÀ ?"
+
+00:00:01
+Xin chào tất cả các bạn. Nếu như ở hai tập trước chúng ta đã cùng nhau phân tích ma trận tiền lẻ lách thuế ngoài động hẻm hay những chiếc bình phong mượn danh để thâu tóm đứt lõi vùng vì hôm nay kênh sẽ đưa các bạn bước vào một trận chiến ở một cấp độ hoàn toàn khác. Đây không còn là cuộc chơi của những ông chủ ngầm ngoại ban đi gom nhặt tài sản thô mà là một cuộc chiến tối thượng của giới tài phiệt nội địa ngay tại lõi trung tâm thủ đô cùng một đề xuất táo bạo đang làm rúng động giới quy hoạch di dời toàn bộ
+
+00:00:33
+tuyến đường sắt quốc gia và ga Hà Nội ra khỏi trung tâm thành phố. Ngay lúc này, báo chí và truyền thông đang đổ dồn sự chú ý vào đại lộ mở rộng quốc lộ 1A trị giá 162.000 ngà tỷ đồng ca ngợi những chuyển biến hạ tầng thần tóc khi người dân vừa bước xuống phi trường. Nhưng mình sẽ phân tích cho các bạn thấy một kho báu thực sự đang ẩn giấu đằng sau. Tại sao một tập đoàn bất động sản tư nhân lại sẵn sàng bỏ ra hàng trăm ngàn tỷ đồng để làm đường xá? Một công việc vốn thuộc về ngân sách nhà nước. Họ đang
+
+00:01:09
+làm từ thiện hay là đang mua thời gian để tạo sóng hay đang dùng đòn bảy hạ tầng để hợp thức hóa một cuộc hoán đổi quỷ đất công thành tài sản tư nhân vĩ đại nhất lịch sử. Trong video này mình sẽ lột trừng toàn bộ cơ chế đổi đứ lấy hạ tầng bóc tách cuộc chiến ngầm thâu tóm những mét vuông đất vàng độc nhất vô nhị còn sót lại tại thủ đô vì trận chiến vĩ mô này sẽ định hình lại toàn bộ dòng chảy tài chính và chén cơm của người dân bản xứ trong [âm nhạc] vài thật kỹ tới. Để các bạn hiểu rõ cái ma trận siêu dự
+
+00:02:00
+án và đề xuất dịch chuyển ga Hà Nội này nó tác động trực tiếp đến túi tiền và tương lai của các bạn như thế nào. Mình sẽ kể cho các bạn nghe một câu chuyện. Câu chuyện về Bắc Hùng. Một cán bộ ngành đường sắt đã vệ hưu hiện đang sở hữu một căn nhà mặt tiền 30 m²ông nằm ngay trục đường dẫn vào khu vực ga Hà Nội hiện nay. Cả cuộc đời Bắc Hùng gắn liền với tiếng cọi tàu. Đối với Bác và hàng ngàn hộ dân sinh sống tại lõi trung tâm thủ đô này, cái ga Hà Nội không chỉ là một cái nhà ga đón trả khách thông thường mà
+
+00:02:34
+nó là một cổ máy in tiền nuôi sống cả gia đình bác từ đời này sang đời khác. Nhờ có lượng hành khách khổng lồ ổn định từ khắp các tỉnh thành đổ về nhà ga mỗi ngày. Căn nhà mặt tiền 30 m²ông của Bác Hùng dù nhỏ xíu nhưng trị giá lên đến cả chục tỷ đồng. Hàng tháng bác chỉ cần mở tiệc ăn sáng, quán cà phê cốc hoặc cửa hàng tạp hóa là có thể xài tiền rủng rỉnh an hưởng tuổi già mà không cần phải lo nghĩ đến chuyện cơm áo gạo tiền. Bác Hùng luôn tự hào rằng mảnh đất lõi trung tâm này chính là bảo hiểm trọn đời dành
+
+00:03:10
+cho con cháu của mình. Thế rồi một buổi sáng Bác Hùng lật tờ báo ra và bạn Hoàng đọc được một thông tin. Một tập đoàn bất động sản tư nhân lớn vừa đề xuất chi ra hàng trăm ngàn tỷ đồng để mở rộng các tuyến quốc lộ ngoại thành. Và đổi lại họ kiến nghị nhà nước di dời toàn bộ tuyến đường sắt quốc gia cùng ga Hà Nội ra khỏi trung tâm để đưa xuống khu vực Ngọc Hội cách đó mười mấy cây số. Lý do được đưa ra trên mặt báo nghe vô cùng lọt tai và mang tính chất vì cộng đồng. Di dời nhà ga để giảm ùn tắc giao thông nội đồ,
+
+00:03:48
+trả lại không gian yên tĩnh cho thành phố và hiện đại hóa bộ mặt thủ đô. Bác Hùng và các hội dân xung quanh nghe xong thì thở phào nhẹ nhõm, tặt lưỡi nói với nhau theo cái tư duy an phận thông thường. Ờ thì dịch chuyển nhà ga ra ngoại thành cho thành phố nó sạch đẹp rộng rãi hơn. Nhà mình nằm ở phố cổ trung tâm thì đất vẫn là đất vàng. Sổ đỏ thì mình vẫn giữ chính quyền vẫn bảo vệ quyền sở hữu của mình mất đi đâu mà sợ. Nhưng mình sẽ chỉ cho các bạn thấy một cú lượt kèo tài chính khốc liệt nằm ngay
+
+00:04:24
+phía sau câu chuyện của Bác Hùng. Một cái bẫy kinh tế tinh vi mà những người dân sở hữu Đức Vạnng không bao giờ nhìn thấy được nếu chỉ nhìn vào bề nổi của các dự án hạ tận. Các bạn khi nhìn vào quy luật vận hành của dòng tiền, cái gì đã tạo nên giá trị chục tỷ cho căn nhà của Bác Hùng? Có phải là do viên gạch mới xì măng xây nên căn nhà đó không? không hệ. Giá trị của bất động sản lõi được quyết định 100% bởi hạ tầng công cộng và dòng lưu lượng người di chuyển do nhà nước đầu tư ngân sách quốc gia
+
+00:05:00
+qua hàng trăm năm. Chính cái ga Hà Nội, nơi trung chuyển hàng vạn con người mỗi ngày đã bơm sinh khí tài chính, biến căn nhà của Bác Hùng thành một mỏ vàng thương mại. Bây giờ khi toàn bộ hệ thống đường sắt và nhà ga bị nhức bổng lên và di dời ra ngoại thành, cổ máy in tiền công cộng đó lập tức bị dập tắt ngay tại lõi trung tâm. Dòng lưu lượng khách hàng khổng lồ bỗng chóc biến mất sạch sẽ. Trục đường sầm uất ngày nào giờ đây trở thành một con phố nội đồ yên tĩnh vắng vẻ. Căn nhà mặt tiền của Bác Hùng tuy sổ đỏ là tên bác
+
+00:05:38
+nó vẫn còn nguyên. Không ai đến cướp của bác 1 m²uông nào. Nhưng về mặt bản chất thương mại nó đã bị thiến hoàn toàn. Các cửa hàng tập hóa, tiệm ăn đóng cửa vì không còn khách. Giá trị cho thuê sục giảm thê thảm từ vài chục triệu xuống còn vài triệu đồng. Chiếc áo bảo hiểm trọn đời của gia đình Bắc Hùng bỗng chốc biến thành một khối tài sản chết đứng. Và điều đáng sợ nhất nằm ở vế thứ hai của câu chuyện. Vậy khoảng đất trống mênh mông hàng chục hect đất vàng của khu vực ga Hà Nội sau khi di dợi sẽ biến
+
+00:06:13
+thành cái gì? Tập đoàn Tư Nhân sau khi bỏ ra hàng trăm ngàn tỷ để làm đường quốc lộ ở ngoại ô dưới hình thức đổi Đức lấy hạ tầng, họ sẽ được nhà nước hoàn vốn bằng quyền sử dụng chính khu đất lõi của ga Hà Nội vừa được dọn sạch sẽ. Tại đây, họ không xây công viên hay là quảng trường công cộng cho người dân dạo chơi. Họ xây dựng lên những siêu đô thị khép kính, những tòa tháp tài chính trọc trời, những khu trung tâm thương mại hào nhoáng bực nhất. Dòng lưu lượng hành khách ngày xưa thay vì đi ngang qua con phố của bác
+
+00:06:49
+Hùng để mua ổ bánh mì, ly cà phê của người bản xứ thì bây giờ toàn bộ dòng người đó sẽ bị nhốt hoàn toàn vào bên trong hệ sinh thái thương mại khép kính của tập đoàn tư nhân. Người dân bản xứ tưởng mình không mất đức, nhưng thực chất toàn bộ quyền lực khai thác thương mại, toàn bộ thặng dư kinh tế cốt lõi của thủ đồ đã bị dịch chuyển một cách ngoạn mục từ tay những tiểu thương nhỏ lẽ vào túi của một ông chủ tài phiệt duy nhất. Bác Hùng từ một người làm chủ dòng tiền thương mại trên chính mảnh đất của
+
+00:07:22
+mình bây giờ phải chứng kiến đứa con trai lớn của mình nộp đơn vào làm nhân viên bảo vệ giữ xe. Đứa con gái Úc làm nhân viên thu ngưng trong chính trung tâm thương mại nguy Nga mọc lên trên nền cái nhà ga cũ, nơi mà ngày xưa tổ tiên đã từng làm chủ cuộc chơi kinh doanh vẻ hè. Đây là câu chuyện về sự phát triển đô thị thần tóc hay là một cuộc đại thanh lọc kinh tế sòn phẳn tước đi năng lực tự chủ thương mại của người dân từng lớp trung lưu để tập trung tài sản vào tay giới tài phiệt. Kết thúc câu chuyện
+
+00:07:58
+của Bác Hùng. Các bạn suy ngẫm xem sự thật trần trụi này nó như thế nào trước khi chúng ta bước vào phân tích những ma trận tiếp theo. Khi các bạn đã hiểu được nỗi đau ngầm về mặt giá trị bất động sản thương mại thông qua câu chuyện của Bác Hùng ở phần trước, chúng ta hãy cùng nhau bước vào phần lõi phức tạp nhất của toàn bộ ma trận này. Làm thế nào để một tập đoàn tư nhân có thể hợp thức hóa việc di chuyển một hạ tầng quốc gia như tuyến đường sắt và ga Hà Nội để đổi lấy những khu đất vàng trị giá hàng tỷ đô la. Con số
+
+00:08:36
+162.000 tỷ đồng mở rộng quốc lộ 1A thực chất được luân chuyển bằng những thuật toán tài chính vĩ mô nào mà mắt thường của chúng ta không thể nhìn thấy được. Để giải mã ma trận kỹ thuật này, mình xin kể cho các bạn nghe một câu chuyện thực tế thứ hai. Câu chuyện về anh Nam. Anh Nam là giám đốc một công ty xây dựng và cung ứng vật liệu kỹ thuật tầm trung tại địa phương. Công ty của anh Nam có năng lực thực, có dàng máy móc hiện đại và đội ngũ kỹ sư lành nghề. Khi ngà tình siêu dự án hạ tần mở rộng quốc lộ trị
+
+00:09:12
+giá 162.000 tỷ đồng được khởi công. Anh Nam khắp khởi mận thầm, anh nghĩ bụng, một dự án quy mô khủng khiếp như thế này, kiểu gì cũng cần đến hàng triệu tấn xi măng, sắc thép và các nhà thầu phụ địa phương như mình. Đây là cơ hội để doanh nghiệp nội địa cùng lớn lên với tập đoàn lớn. Anh Nam lập tức dồn toàn bộ nguồn lực, tiền bạc để chuẩn bị hồ sơ năng lực, chạy vậy khắp nơi để tiếp cận các cổng đấu thầu của dự án. Nhưng khi bước chân vào ma trận đấu thậu khép kính của tập đoàn này, anh Nam lập tức nhận
+
+00:09:49
+được một gáo nước lạnh bẻ gãy hoàn toàn tư duy kinh doanh thông thường của anh. Phía tập đoàn không thực sự đấu thầu rộng rãi theo kiểu chia nhỏ gói thầu cho các doanh nghiệp bản địa như cách nhà nước quản lý đầu tư công truyền thống. Họ vận hành một cơ chế gọi là hệ sinh thái khép kính. Nghĩa là từ công ty thiết kế quy hoạch, công ty khai thác mỏ đá, nhà máy sản xuất bê tông cho đến các tổng thầu thi công cơ giới lớn, tất cả đều là các công ty còn. Công ty chân rết nằm trong hệ sinh thái của chính tập
+
+00:10:25
+đoàn đó hoặc thuộc sở hữu của những công ty bình phong do giới tinh hoa tài phiệt thiết lập chéo. Hợp đồng duy nhất mà công ty anh Nam có thể chạm đến sau nhiều tháng trực vực chỉ là một gói thầu phụ ở tầng đáy cùng. gia công rảnh thoát nước bê tông vỉa hè với biên độ lợi nhuận rất bèo bọt chưa đầy 3% kèm theo điều kiện thanh toán vô cùng ngặt nghèo là phải cam kết cho tập đoàn nợ gối đầu dòng tiền đó lên đến 6 tháng. Anh Nam tặt lưỡi ký hợp [âm nhạc] đồng vì nếu không làm thì dàng máy móc sẽ đắp chiếu,
+
+00:11:02
+công nhân sẽ thất nghiệp nhưng trong lòng anh Nam cũng hiểu ra một sự thật cay đắng. Chén cơm béo bở nhất của chiếc bánh 162.000 tỷ này không bao giờ rơi ra ngoài cho các doanh nghiệp nội địa tầm trung. Bây giờ mình sẽ dẫn các bạn đi sâu vào bên trong phòng họp tài chính của tập đoàn để giải phẫu cái ma trận đổi đất lấy vàng đứng sau bản hợp đồng lọt lưới của anh Nam. Quy trình dịch chuyển quỹ đức công trị giá hàng chục tỷ đô ở lõi thủ đô sẽ được vận hành tình vì qua ba bước dứt khoát. Bước thứ nhất,
+
+00:11:38
+tập đoàn chủ động đề xuất với chính quyền xin được tự bỏ vốn 162.000 tỷ đồng để làm các đại lộ, quốc lộ ở vùng ngoại ô hoặc liên tỉnh những nơi đang rất khác hạ tầng để phát triển. Việc vung ra một số tiền khổng lồ như vậy giúp tập đoàn ngay lập tức có được cái gật đầu của các cơ quan quản lý và sự ủng hộ tuyệt đối của dư luật bề nổi. Họ nghiễm nhiên đóng vai trò là người hùng cứu cánh cho ngân sách nhà nước vốn đang eo hẹp. Bước thứ hai, thay vì nhận lại tiền mặt từ ngân sách, điều mà nhà nước không hề có sẵn,
+
+00:12:17
+tập đoàn đề xuất phương án hoàn vốn bằng quỹ đức đối ứng gọi là cơ chế đổi đức lấy hạ tầng. Ma trận kỹ thuật nằm ở khâu định giá. Khi định giá mảnh đất 162.000 ngà tỷ ở ngoại ô nơi họ làm đường. Giá đất được tính theo giá hiện tại cực kỳ bèo bọt vì đó chỉ là đứt ruột hoặc đất trống. Nhưng tập đoàn lại kiến nghị nhà nước hoán đổi số giá trị đó, lấy quyền phát triển quỷ đức tại lõi trung tâm, chính là khu đất của ga Hà Nội sau khi di dời. Và bước thứ ba đến bước cuối cùng này, bài toán khó nhất của tập đoàn
+
+00:12:58
+là làm sao nhất bỏng được cái ga Hà Nội, một biểu tượng lịch sử và là nồi cơm của hàng vạn người dân Trung lưu ra ngoại thành mà không phải gặp làng sóng phản đối của dư luận. Nếu người dân và các chuyên gia gào lên rằng chi dời nhà ga ra Ngọc Hồi quá xa, bất tiện cho người dân đi lại tốn thêm tiền taxi, tiền xe ôm của người nghèo thì dự án sẽ bị treo ngay lập tức. Để giải quyết tử huyệt này, tập đoàn tung ra một đề xuất vô tiền khoáng hậu khiến tất cả ngỡ ngàng. Họ cam kết sẽ tài trợ 100% chi phí, vận hành một hệ thống xe
+
+00:13:39
+buý điện thông minh đưa đón người dân hoàn toàn miễn phí, chạy liên tục 24/7 từ khu vực ga Hà Nội cũ ra đến ga Ngọc Hồi mới và ngược lại. Khi thông tin này nổ ra, trên mạng xã hội lập tức tràn ngập những lời khen quá tuyệt vời. Tập đoàn lớn làm ăn có tâm lo cho người dân từ cái ăn cái mặt đến phương tiện đi lại miễn phí thế này thì còn gì bằng ủng hộ dịch chuyển ga Hà Nội ra Ngọc Hồi thôi. Nhưng mình sẽ bạch trừng cho các bạn thấy cái dụng ý sâu xa cái ma trận tâm lý đỉnh cao ẩn giấu đằng sau những
+
+00:14:17
+chuyến xe buý miễn phí này. Các bạn hãy nhìn vào bản chất tập đoàn đang dùng một khoảng chi phí vận hành nhỏ để đánh đổi lấy một tài sản cứng khổng lồ. Bằng việc cam kết tài trợ xe buý miễn phí, tập đoàn đã dập tắt hoàn toàn mọi phản biện về mặt bất tiện giao thông của các cơ quan quản lý và người dân. Họ tạo ra một vỏ bọc an sinh xã hội hoàn hảo để nhà nước yên tâm ký quyết định bàn giao toàn bộ hàng chục hectta đất vàng sạch bóng của ga Hà Nội cũ cho họ dưới hình thức hoang vốn hạ tầng. Nhưng cái ma trận thực sự nằm ở chỗ
+
+00:14:59
+những chuyến xe bít miễn phí đó không phải để phục vụ người dân mà là để điều hướng dòng tiền tiêu xài theo ý muốn của tập đoàn. Các bạn hãy tưởng tượng khi một người dân bước xuống chuyến tàu từ các tỉnh về đến ga ngọc hội mới, họ sẽ được hướng dẫn bước ngay lên chiếc xe buýt điện sang trọng mát mẻ của tập đoàn để trở thẳng về trung tâm thành phố. Và điểm dừng cuối cùng của tuyến xe buýt đó là ở đâu? Nó sẽ không thả khách xuống vỉa hè của các tiệm tập hóa nhỏ lẽ. Nó sẽ thả khách vào ngay cổng của đại đô
+
+00:15:36
+thị hoặc trung tâm thương mại khép kính sầm uất mọc lên trên chính nền ga Hà Nội cũ. Khi các bạn nhìn thẳng vào sự thật, tập đoàn bỏ tiền túi ra chở họ đi miễn phí nhưng thực chất là họ đang dùng phương tiện của họ để gom toàn bộ lượng khách hàng đó, nhốt họ vào bên trong hệ sinh thái thương mại khép kính của chính họ. Thay vì các bạn xuống ga và xài tiền vào các quán ăn, tiệm cà phê vỉa hè của người dân bản xứ như ngày xưa thì bây giờ từng đồng bạc cắt của các bạn xài cho dĩa cơm ly nước sẽ chạy thẳng vào
+
+00:16:12
+máy tính tiền của các chuỗi thương hiệu nằm trong trung tâm thương mại của tập đoàn. Kết cục của ma trận này là gì? Hệ thống quản lý chỉ nhìn thấy một tuyến quốc lộ ngoại thành được xây mới. Những chiếc xe buýt điện văn minh chạy miễn phí trên đường mà không tốn một đồng ngưng sách. Nhưng họ hoàn toàn không thấy trước một cuộc đại di cư của tài sản. Toàn bộ quyền lực khai thác thương mại cốt lõi tại thủ đô đã bị bốc hơi khỏi tay người dân từng lớp trung lưu, dịch chuyển gọn gàng vào két sắt của một ông chủ tài
+
+00:16:47
+phiệt duy nhất. Người dân tưởng mình được đi xe miễn phí. nhưng thực chất là đang tự nguyện bước vào cái phẻo lọc dòng tiền do họ thiết lập sẵn để tự biến mình và con cháu mình thành những người làm thuê trên chính mảnh đất vạn của tổ tiên. Đến đây chắc chắn sẽ có người nói rằng tập đoàn lớn người ta tự bỏ tiền ra 162.000 ngà tỷ đồng tiền túi để mở rộng đại lộ quốc lộ ngoại thành rồi còn tài trợ cả hệ thống xe điện thông minh chạy miễn phí cho người dân đi lại văn minh bộ mặt đất nước thì đẹp lên hạ tầng hiện
+
+00:17:23
+đại lên mà không tốn một đồng tiền thuế của người dân rõ ràng đây là một mối quan hệ đôi bên cùng có lợi người dân được hưởng quá lớn chứ mất đi đâu mà sợ và đặc biệt họ sẽ nói thêm như thế này những ông chủ đó họ xây đô thị lớn họ mua hàng triệu hiệu tính vật liệu của các doanh nghiệp trong nước. Cơ quan thuế địa phương quản lý rất chặt chẽ từng cái hóa đơn điện tử, thu đủ thuế Vet, thuế doanh nghiệp chứ nhà nước đâu có để yên mà thức thoát tài chính. Để trả lời cho những điều này, mình sẽ kể cho các bạn nghe một câu chuyện. Các bạn
+
+00:17:59
+sẽ thấy cái gọi là sự phát triển đôi bên cùng có lợi. Các bạn hãy nhìn thẳng vào luật chơi trong các bảng hợp đồng cung ứng vật tư giữa các siêu tập đoàn bất động sản và các nhà thầu phụ địa phương. Những người như anh Hải chủ một tổng kho phân phối gạch ốp lát để chạm được vào chiếc bánh 10 tỷ đồng cung ứng gạch men cho siêu thị lõi trên nền ga Hà Nội cũ. Anh Hải đã phải đặt bút ký vào một bảng hợp đồng với những điều khoản thanh toán vô cùng tàn nhẫn được gọi là cơ chế cứng trừ công nợ bằng sản phẩm. Trong hợp
+
+00:18:37
+đồng quy định rất rõ tập đoàn chỉ thanh toán bằng tiền mặt tối đa 50% giá trị vật tư theo tiến độ. Còn 50% giá trị hợp đồng còn lại tương đương khoảng 5 tỷ đồng thì bắt buộc phải được thanh toán bằng việc quy đổi thành bất động sản căn hộ hoặc vao trờ mua sắm nằm trong chính hệ sinh thái của tập đoàn khi dự án cứt nóc. Anh Hải thừa biết điều khoản này là một cái bẫy chiếm vụng 4 nhưng ở vào vị trí của anh Hải và rất nhiều doanh nghiệp nội địa hiện nay họ không có sự lựa chọn nào khác. Nếu anh Hải từ chối không ký, lập tức
+
+00:19:19
+một tổng kho khác sẽ nhảy vào ký ngay vì áp lực doanh số, áp lực phải nuôi bộ máy công nhân và trả lãi vay kho bãi hạng tháng. Anh Hải bắt buộc phải tự nguyện bước chân vào cuộc chơi trong thế bị ép buộc. Xuất hóa đơn VAT đầy đủ 100% cho tập đoàn. bỏ tiền túi ra nộp trước tiền thuế cho nhà nước rồi ngậm ngùi nhận về một nửa số tiền xương máu của mình dưới dạng những tờ giấy chứng nhận quyền mua căn hộ trên giấy. Bây giờ để giải phẫu cái ma trận này và xem dòng tiền mặt tươi rói chảy đi đâu. Để có tiền mặt trả lương cho công nhân
+
+00:20:01
+và thanh toán cho nhà máy sản xuất, anh Hải không thể ôm hai căn hộ trên giấy đó được. Anh bắt buộc phải đem hai suất nhà này ra thị trường bán cắt lỗ, chấp nhận chiết khấu 20 đến 30% để đổi lấy tiền mặt về cứu công ty. Khoảng lỗ thấu xương này cắn nát toàn bộ biên độ lợi nhuận kinh doanh của Anh Hải khiến sổ sách cuối năm của công ty nộp cho cơ quan thuế luôn nằm ở mức lỗ vốn hoặc hòa vốn. Nhà nước thức thu hoàn thuế thu nhập doanh nghiệp từ các nhà thầu như Anh Hải. Ở chiều ngược lại, tập đoàn lớn đã
+
+00:20:40
+dùng chín số gạch men 10 tỷ của Anh Hải để hoàn thiện xong tòa tháp nguy Nga tại lõi thủ đô. Họ dùng chính hệ thống xe buý điện miễn phí ở phần trên để chở hàng vạn người dân đến mua sắm, xài tiền và thuê mặt bằng trong tòa tháp đó. Dòng tiền mặt tươi rói thu về từ người tiêu dùng hàng ngày, tập đoàn ôm trọn 100%. Họ dùng khoảng tiền mặt khổng lồ này để tiếp tục đi làm đại lộ 162.000 ngà tỷ ngoài ngoại ô tiếp tục tạo sóng để đổi lấy các quỷ đất công tiếp theo. Cho nên doanh nghiệp tội địa họ tưởng được ăn
+
+00:21:19
+bánh chung với ông lớn nhưng thực chất chỉ là những con mồi bị bòn rút đến kiệt quệ dòng máu tài chính ngay trên sân nhà. Bây giờ chúng ta cùng nhau bước lên một nức thang cao nhất của tư duy vĩ mô để nhìn thấu cục diện tương lai. Đằng sau đại lộ 162.000 tỷ đồng. và những chuyến xe bít điện miễn phí vẽ ra một viễn cảnh hiện đại. Động thái chiến lược thực sự của giới tài phiệt là gì? Và tương lai năng lực kinh tế của từng lớp trung lưu bản địa sẽ đi về đâu khi cuộc đại dịch chuyển tài sản này nó hoàn tức.
+
+00:21:57
+Để các bạn nhìn thấy bức tranh một cách trần trụi nhất, mình xin kể cho các bạn nghe một câu chuyện đời thật thứ tư. Anh Hoàng là một giám đốc chi nhánh ngân hàng trẻ tuổi sở hữu bộ óc tài chính vô cùng nhạy bén tại Hà Nội. Khi tập đoàn lớn công bố siêu dự án hạ tầng quốc lộ trị giá 162.000 tỷ đồng, anh Hoàng đã nhìn thấy một cơ hội đổi đời thần tốc từ các cơn lóc bất động sản ăn theo hạ tầng. Anh Hoàng quyết định nộp đơn xin nghĩ việc tại ngân hàng, rút toàn bộ số tiền tích lũy của hai vợ chồng, thậm chí
+
+00:22:32
+dùng đoàn bảy tài chính cắm luôn căn nhà đang ở để gom sạch các lô đất nệnh, nằm dọc theo trục đường dự kiến mở rộng. Hoàng Tự Tin nói với bạn bè, Đại Lộ mở ra đến đâu, đứ nhân hai nhân ba đến đó. Tập đoàn lớn họ cam kết đổ hàng trăm tỷ vào đây lo gì dự án chết. Mình chỉ cần đi trước đón đầu. Ngồi im ôm đất chờ sống lên là trở thành triệu phú. Đi làm thuê ăn lương ngân hàng cày cuốt cả đời làm gì cho mệt xác. Các bạn hiểu rằng bản chất của việc vung tiền làm các đại lộ 162.000 tỷ ở ngoại ô của các tập đoàn
+
+00:23:11
+tư nhân không phải là một chiến dịch làm từ thiện hay là một thiện chí muốn chia sẻ lợi nhuận lâu dài cho những nhà đầu tư nhỏ lẽ như Hoàng. không hề có. Bản chất chỉ là một động thái mua thời gian mang tính chiến lược để phục vụ cho cuộc đại dịch chuyển dòng vốn của họ. Khi thị trường bất động sản gặp khó khăn, dòng tiền mặt bị thắt chặt, tập đoàn bắt buộc phải dùng các dự án hạ tầng giao thông quy mô lớn làm mồi nhữ để tạo sóng, thu hút dòng vốn nhàn rỗi của toàn xã hội, đổ vào các quỷ đất vùng ven của họ. Khi
+
+00:23:50
+những người như Hoàng hào hứng đem hàng tỷ đồng tiền tươi thốc thực đến nộp cho tập đoàn để nhận về những khu đất nền ngoại ô, tập đoàn đã gom sạch nguồn sinh khí tài chính đó đem về nuôi dưỡng xây dựng cho kho báu thực sự của họ, chính là siêu đô thị khép kính tại lõi trung tâm trên nền ga Hà Nội cũ. Và câu chuyện kết thúc của Hoàng sau 5 năm khi đại lộ Quốc lộ 1 ngoại thành đã xây xong. đẹp đẽ sầm uất thì chuyện gì xảy ra? Hoàng rất bàn hoàng nhận ra một kịch lý cây đắng. Con đường mở rộng rất đẹp, xe buý
+
+00:24:30
+chạy rầm rầm miễn phí mỗi ngày. Nhưng những chiếc xe buý đó không dừng lại ở khu đất nền của Hoàng để khách xuống mua đất hay là ăn cơm. Chúng chở thẳng dòng người này từ ngoài ô vào thẳng trung tâm thương mại khép kính của tập đoàn để xài tiền. Khu đất nền vùng ven cổ hoàng tuy giá trên giấy tờ là có tăng nhưng hoàn toàn mất thanh khoản không hề có ai mua lại. Dòng tiền bị chôn chặt một chỗ trong khi lãi vay ngân hàng thì lại đè nặng lên vai mỗi tháng. Hoàng từ một chuyên gia tài chính hàng đầu giờ đây
+
+00:25:05
+phải chấp nhận bán rẻ tài sản để trả nợ rồi quay lại nộp đơn xin làm nhân viên trong chính hệ thống tài chính của tập đoàn đó để kiếm sống qua ngày. Hoàng nhường quyền tài sản của mình để đổi lấy sự giàu sang ảo để rồi tự đẩy bản thân mình vào thế đứng dưới đáy của chuỗi giá trị. Khi nhìn lại toàn bộ chuỗi ma trần ví, từ những đồng tiền lẻ lách thuế ngoài đạo hẻm, [âm nhạc] những chiếc bình phong mượn danh thâu tóm đất lõi vùng ven Bắc Ninh cho đến cuộc đại di cư tài [âm nhạc] sản trị giá hàng chục tỷ đô la
+
+00:25:41
+thông qua chiêu bài xe buý miễn phí và hợp đồng cứng trừ [âm nhạc] nợ ngay tại lõi thủ đô. Các bạn đã nhìn ra bức tranh tổng thể rồi. Trong cuộc chơi hạ tầng vĩ mô này, giới tài phiệt không chỉ xây những con đường, họ đang thiết lập một cái phễu khổng lồ để lọc sạch dòng sinh khí tài chính của nền kinh tế. Để kết thúc video này, mình xin để lại một câu hỏi. Khi những khu đất công, những nhà ga lịch sử mang tính biểu tượng quốc gia biến thành những đại đô thị khép kính của tư nhân thì quyền lực định hình
+
+00:26:14
+tương lai đô thị thực chất đang nằm trong tay ai. Giới tinh hoa tài phiệt đã làm chủ đứt lõi và hạ tầng giao thông. Nhưng các bạn có biết trận chiến tối thượng nhằm phân chia lại toàn bộ cấu trúc tài sản của thủ đồ không nằm ở những tòa tháp trọc trời nội đô mà nó đang âm thầm diễn ra ngay tại dòng sông huyết mạch của Hà Nội siêu dự án quy hoạch trục đô thị sông Hồng khi hàng ngàn hata đất bãi bồi ven sông bấy lâu này vốn là đất nông nghiệp đất vô chủ bỗng chốc được gội rửa bằng một dự án quy hoạch thế kỷ
+
+00:26:53
+biến thành siêu đô thị sinh thái. Các tập đoàn lớn sẽ dùng những thuật toán tài chính khốc liệt nào để ép hàng vạn hội dân cư lâu đời. Ai sẽ là người sở hữu mặt nước và giải lội xanh đắc giá nhất quốc gia? Và những người dân bán đất vùng ven sẽ phải đối mặt với kịch bản trắng tay ra sao khi siêu tóc quy hoạch này đổ bộ xuống? Câu trả lời ở tập sau về ma trận quy hoạch sông Hồng sẽ còn khóc liệt, trần trụi và chạm thẳng vào túi tiền của các bạn hơn rất nhiều.
+
+**tóm tắt các ý chính**
+
+1. **Bối cảnh đề xuất**: Tập đoàn bất động sản tư nhân lớn đề xuất chi hàng trăm ngàn tỷ (ví dụ 162.000 tỷ đồng) để mở rộng Quốc lộ 1A và hạ tầng ngoại ô, đổi lại xin di dời toàn bộ ga Hà Nội + tuyến đường sắt quốc gia ra Ngọc Hồi (cách khoảng 10+ km). Lý do bề ngoài là giảm ùn tắc, hiện đại hóa thủ đô.
+
+2. **Tác động đến dân địa phương (câu chuyện Bác Hùng)**: 
+   - Dân sống quanh ga mất nguồn khách hàng khổng lồ từ hành khách tàu hỏa.
+   - Đất mặt tiền vẫn giữ sổ đỏ nhưng giá trị thương mại sụt giảm mạnh (cửa hàng, quán ăn vắng khách, thu nhập giảm thê thảm).
+   - Đây là "cỗ máy in tiền" công cộng bị dập tắt, chuyển lợi ích sang tay tư nhân.
+
+3. **Cơ chế "đổi đất lấy hạ tầng"**:
+   - Tập đoàn bỏ vốn làm đường ngoại ô → đề nghị hoàn vốn bằng quyền phát triển đất vàng lõi trung tâm (khu ga cũ sau khi dời).
+   - Định giá đất ngoại ô thấp, hoán đổi lấy đất trung tâm giá trị cao.
+
+4. **Hệ sinh thái khép kín & thầu phụ (câu chuyện anh Nam, anh Hải)**:
+   - Dự án không đấu thầu rộng rãi, ưu tiên công ty con/chân rết trong hệ sinh thái tập đoàn.
+   - Thầu phụ địa phương chỉ được gói nhỏ, lợi nhuận thấp, thanh toán chậm hoặc trả bằng căn hộ/voucher (bán cắt lỗ để có tiền mặt, nộp thuế nhưng lỗ vốn).
+   - Dòng tiền mặt thực tế chảy về tập đoàn.
+
+5. **Xe buýt điện miễn phí – chiêu tâm lý & lọc dòng tiền**:
+   - Cam kết tài trợ xe buýt miễn phí 24/7 để dập tắt phản đối về bất tiện giao thông.
+   - Thực chất dùng để gom khách từ ga mới thẳng vào trung tâm thương mại, siêu đô thị khép kín của tập đoàn (khách không đổ tiền cho tiểu thương địa phương nữa).
+
+6. **Bức tranh vĩ mô**:
+   - Đây là cuộc "đại dịch chuyển tài sản": từ tay tiểu thương, trung lưu bản xứ sang tay tài phiệt tư nhân.
+   - Tạo sóng hạ tầng để hút vốn dân (như anh Hoàng đầu tư đất ven), rồi chôn vốn, trong khi lợi nhuận thực về trung tâm do tập đoàn kiểm soát.
+   - Dẫn đến mất năng lực tự chủ kinh tế của dân địa phương, tập trung tài sản vào vài ông lớn.
+
+Tổng thể video lập luận đây không phải phát triển đô thị thông thường mà là ma trận tài chính tinh vi, dùng hạ tầng công cộng làm đòn bẩy để thâu tóm đất vàng và kiểm soát dòng tiền thương mại tại lõi thủ đô. Phần kết mở ra chủ đề sông Hồng ở tập sau.
+    
+  
+  
+# Note 364: lSân bay Long Thành và những câu hỏi của Tổng Bí thư.md  
 ---
 title: "Sân bay Long Thành và những câu hỏi của Tổng Bí thư"
 source: "https://vietnamnet.vn/san-bay-long-thanh-va-nhung-cau-hoi-cua-tong-bi-thu-2492789.html"
